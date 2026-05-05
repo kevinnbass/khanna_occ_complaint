@@ -17,8 +17,8 @@
 | OCC_M076c | Count 5 (LDA penalties) | statute_cite_resolve | 2 U.S.C. § 1606 LDA civil + criminal penalties ($200K cap / 5-yr) | resolved federal_usc title=2 sec=1606 flen=789 effective=2007-09-14 | 0 | **OK** |
 | OCC_M077 | Count 5 (post-employment) | statute_cite_resolve | 18 U.S.C. § 207 post-employment restrictions | resolved federal_usc title=18 sec=207 flen=80152 effective=None | 0 | **OK** |
 | OCC_M078 | Counts 1, 2, 4, 5 (House Rules) | statute_cite_resolve | House Rule XXIII Code of Official Conduct | resolved house_rules title=- sec=XXIII flen=30384 effective=2025-01-03 | 0 | **OK** |
-| OCC_M079 | Exhibit list | manifest_self_reference | OCC_EXHIBIT_LIST.md catalogs the lettered exhibit set | OCC_EXHIBIT_LIST.md (12394 B); all 3 required tokens present | 0 | **OK** |
-| OCC_M080 | §METHODOLOGY footer | methodology_text | OCC_COMPLAINT_KHANNA.md §METHODOLOGY enumerates substrates + dedup rules + chamb | OCC_COMPLAINT_KHANNA.md (138844 B); all 4 required tokens present | 0 | **OK** |
+| OCC_M079 | Exhibit list | manifest_self_reference | OCC_EXHIBIT_LIST.md catalogs the lettered exhibit set | OCC_EXHIBIT_LIST.md (12443 B); all 3 required tokens present | 0 | **OK** |
+| OCC_M080 | §METHODOLOGY footer | methodology_text | OCC_COMPLAINT_KHANNA.md §METHODOLOGY enumerates substrates + dedup rules + chamb | OCC_COMPLAINT_KHANNA.md (139513 B); all 4 required tokens present | 0 | **OK** |
 | OCC_M007 | Count 1 | ptr_audit_aggregate | Late-filing count 624 of 35,954 (1.74%); 22 distinct PFD docs | late 624/35954 = 1.74% across 22 of 114 PTRs | 0 | **OK** |
 | OCC_M008 | Count 1 | ptr_audit_worst_humana | Worst single-tx delay 358 d (HUMANA INC. CMN, DC owner, tx 2023-10-02 -> filed 2 | HUMANA INC. CMN / DC / tx 2023-10-02 -> filed 2024-11-08 = 358 d late (S) | 0 | **OK** |
 | OCC_M010 | Count 1 chamber baseline | chamber_audit_p50 | Chamber rate baseline P50 10.06% across 210 Members (n_tx_total >= 20 percentile | n=210 P50_rate=10.055% P50_worst=344.0 d; Khanna severity rank 108/210 | 0 | **OK** |
