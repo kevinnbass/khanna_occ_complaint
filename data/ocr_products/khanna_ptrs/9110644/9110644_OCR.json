@@ -1,0 +1,48 @@
+{
+  "doc_id": "9110644",
+  "errors": [],
+  "file_key": "9110644",
+  "pages": {
+    "0": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 94,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 1675
+    },
+    "1": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 182,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 2720
+    },
+    "2": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 193,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 3430
+    }
+  },
+  "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110644.pdf",
+  "stats": {
+    "elapsed_s": 15.61,
+    "n_failed": 0,
+    "n_ok": 3,
+    "pages_submitted": 3,
+    "tokens_in": 7464,
+    "tokens_out": 7825
+  },
+  "total_pages": 3,
+  "year": 2017
+}

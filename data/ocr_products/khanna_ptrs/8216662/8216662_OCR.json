@@ -1,0 +1,98 @@
+{
+  "doc_id": "8216662",
+  "errors": [],
+  "file_key": "8216662",
+  "pages": {
+    "0": {
+      "detected_rotation": 0,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 92,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 1244,
+      "tokens_out": 845
+    },
+    "1": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 63,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 1295
+    },
+    "2": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 391,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 6193
+    },
+    "3": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 340,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 5382
+    },
+    "4": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 378,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 5874
+    },
+    "5": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 416,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 6560
+    },
+    "6": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 74,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 1245
+    },
+    "7": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 63,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 1099
+    }
+  },
+  "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/8216662.pdf",
+  "stats": {
+    "elapsed_s": 24.83,
+    "n_failed": 0,
+    "n_ok": 8,
+    "pages_submitted": 8,
+    "tokens_in": 18660,
+    "tokens_out": 28493
+  },
+  "total_pages": 8,
+  "year": 2019
+}

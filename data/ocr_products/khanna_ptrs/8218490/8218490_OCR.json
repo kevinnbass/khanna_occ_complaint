@@ -1,0 +1,128 @@
+{
+  "doc_id": "8218490",
+  "errors": [],
+  "file_key": "8218490",
+  "pages": {
+    "0": {
+      "detected_rotation": 0,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 93,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 1245,
+      "tokens_out": 858
+    },
+    "1": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 95,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 1642
+    },
+    "10": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 129,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2492,
+      "tokens_out": 1990
+    },
+    "2": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 439,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 7401
+    },
+    "3": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 96,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 5012
+    },
+    "4": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 484,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 7734
+    },
+    "5": {
+      "detected_rotation": 0,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 67,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 1245,
+      "tokens_out": 2243
+    },
+    "6": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 466,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 7803
+    },
+    "7": {
+      "detected_rotation": 270,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 461,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected270_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 7699
+    },
+    "8": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 414,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 5791
+    },
+    "9": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 348,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2492,
+      "tokens_out": 5526
+    }
+  },
+  "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218490.pdf",
+  "stats": {
+    "elapsed_s": 32.89,
+    "n_failed": 0,
+    "n_ok": 11,
+    "pages_submitted": 11,
+    "tokens_in": 24904,
+    "tokens_out": 53699
+  },
+  "total_pages": 11,
+  "year": 2021
+}

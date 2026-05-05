@@ -1,0 +1,667 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8217740
+#   year          : 2020
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217740.pdf
+#   total_pages   : 5
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:49:53 UTC
+#   tokens_in     : 13,626
+#   tokens_out    : 10,892
+
+--- PAGE 01 ---
+HAND DELIVERED
+Name: Rohit Khanna Page 1 of 5
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+LEGISLATIVE RESOURCE CENTER
+2020 NOV 20 AM 10: 14
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+U.S. HOUSE OF REPRESENTATIVES
+OFFICE OF THE CLERK
+X Member of the U.S. House of Representatives
+Officer or Employee
+State: CA District: 17
+Employing Office:
+File an original and 2 copies
+File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an initial
+Public Offering?
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+Yes X No
+X Initial Report Amendment
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Date of Report Being Amended:
+(For Official Use Only)
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+A B C D E F G H I J K
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY) (MM/DD/YY)
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/15 03/07/15
+X
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 5
+Full Asset Name
+SP/DC/JT
+Type of Transaction
+Capital Gains Exceed $200
+Partial Transaction
+Date of Transaction MM/DD/YY
+Date Notified of Transaction MM/DD/YY
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+M&B Trust Partnership
+SP
+DANAHER CORPORATION
+X
+10/19/20
+11/04/20
+X
+SP
+ECOLAB INC.
+X
+10/19/20
+11/04/20
+X
+SP
+CHIPOTLE MEXICAN GRILL INC.
+X
+10/26/20
+11/04/20
+X
+SP
+ALPHABET INC. CL A
+X
+10/26/20
+11/04/20
+X
+SP
+SNAP INC. CL A
+X
+10/28/20
+11/04/20
+X
+SP
+MICROSOFT CORP
+X
+10/28/20
+11/04/20
+X
+SP
+S&P GLOBAL INC.
+X
+10/29/20
+11/04/20
+X
+SP
+DANAHER CORPORATION
+X
+10/29/20
+11/04/20
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 5
+Full Asset Name
+SP/DC/JT
+Type of Transaction
+Capital Gains Exceed $200
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP DANAHER CORPORATION
+X
+10/19/20
+11/04/20
+X
+DC DANAHER CORPORATION
+X
+10/19/20
+11/04/20
+X
+DC ECOLAB INC.
+X
+10/19/20
+11/04/20
+X
+SP ECOLAB INC.
+X
+10/19/20
+11/04/20
+X
+SP CHIPOTLE MEXICAN GRILL INC.
+X
+10/26/20
+11/04/20
+X
+DC CHIPOTLE MEXICAN GRILL INC.
+X
+10/26/20
+11/04/20
+X
+DC ALPHABET INC. CL A
+X
+10/26/20
+11/04/20
+X
+SP ALPHABET INC. CL A
+X
+10/26/20
+11/04/20
+X
+SP SNAP INC. CL A
+X
+10/28/20
+11/04/20
+X
+DC SNAP INC. CL A
+X
+10/28/20
+11/04/20
+X
+SP MICROSOFT CORP
+X
+10/29/20
+11/04/20
+X
+SP S&P GLOBAL INC.
+X
+10/29/20
+11/04/20
+X
+SP DANAHER CORPORATION
+X
+10/29/20
+11/04/20
+X
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gain over $200
+Partial Sale
+MM/DD/YY
+MM/DD/YY
+$1,001-$15,000
+$15,001-$50,000
+$50,001-$100,000
+$100,001-$250,000
+$250,001-$500,000
+$500,001-$1,000,000
+$1,000,001-$5,000,000
+$5,000,001-$25,000,000
+$25,000,001-$50,000,000
+Over $50,000,000
+Meats and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+DC
+GS FINANCE CORP. LINKED TO S&P 500 INDEX
+x
+10/20/20
+11/02/20
+x
+DC
+GRAPHIC PACKAGING HLDGCO CMN
+x
+10/20/20
+11/02/20
+x
+Ritu Ahuja Descendants Trust
+SP
+ERIE CHTY N Y GO 1.0730% 04/01/25-CA AO
+x
+10/06/20
+11/02/20
+x
+Ritu Ahuja 1994 Trust
+SP
+WESTINGHOUSE AIR BRAKE TECHNOL CMN
+x
+10/29/20
+11/02/20
+x
+SP
+GRAPHIC PACKAGING HLDGCO CMN
+x
+10/20/20
+11/02/20
+x
+SP
+LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+10/21/20
+11/02/20
+x
+SP
+LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+10/14/20
+11/02/20
+x
+SP
+WPX ENERGY, INC. CMN
+x
+10/01/20
+11/02/20
+x
+SP
+FIREEYE, INC. CMN
+x
+10/01/20
+11/02/20
+x
+SP
+WPX ENERGY, INC. CMN
+x
+10/07/20
+11/02/20
+x
+SP
+WPX ENERGY, INC. CMN
+x
+10/20/20
+11/02/20
+x
+SP
+WPX ENERGY, INC. CMN
+x
+10/19/20
+11/02/20
+x
+SP
+WPX ENERGY, INC. CMN
+x
+10/08/20
+11/02/20
+x
+SP
+WPX ENERGY, INC. CMN
+x
+10/02/20
+11/02/20
+x
+SP
+WPX ENERGY, INC. CMN
+x
+10/09/20
+11/02/20
+x
+SP
+SOUTH-WESTERN CTY SCH DIST GO 4.0000% 12/01/20 JD
+x
+x
+10/06/20
+11/02/20
+x
+SP
+DEVON ENERGY CORPORATION (NEW) CMN
+x
+x
+10/07/20
+11/02/20
+x
+SP
+DEVON ENERGY CORPORATION (NEW) CMN
+x
+x
+10/07/20
+11/02/20
+x
+SP
+DEVON ENERGY CORPORATION (NEW) CMN
+x
+x
+10/01/20
+11/02/20
+x
+Ritu Ahuja 1995 Trust
+SP
+NORTH TEX TWY AUTH REV 5% 01/01/21 JI
+x
+10/02/20
+11/02/20
+x
+SP
+CAPE CORAL FLA SPL OBLIG REV 5.0000% 10/01/21 AO
+x
+10/06/20
+11/02/20
+x
+SP
+MARICOPA COUNTY GO 4.0000% 07/01/21 JI
+x
+10/26/20
+11/02/20
+x
+SP
+NEW MEXICO ST SEVERANCE TAX REV 5% 07/01/21 JI
+x
+10/22/20
+11/02/20
+x
+SP
+TRINITY RIVER AUTH TEX REGL REV 5% 08/01/21 FA
+x
+10/05/20
+11/02/20
+x
+SP
+SCOTTSDALE ARIZ GO 5% 07/01/21 JI
+x
+10/26/20
+11/02/20
+x
+SP
+PINELLAS COUNTY SCHOOL BOARD COPS 5.0000% 07/01/21 JI
+x
+10/08/20
+11/02/20
+x
+SP
+VALLEY CHTY IDAHO SCH DIST NO GO 3% 09/15/21 MS
+x
+10/21/20
+11/02/20
+x
+SP
+SOUTH DAKOTA ST BLDG AUTH REV 5% 06/01/21 JO
+x
+10/08/20
+11/02/20
+x
+SP
+MIAMI-DADE CHTY FLA SCH BRD COPS 5% 05/01/21-CA MN
+x
+10/15/20
+11/02/20
+x
+SP
+WASHINGTON ST GO 5% 07/01/21 JI
+x
+10/29/20
+11/02/20
+x
+SP
+FARGO N D GO 5% 07/01/21 JI
+x
+10/14/20
+11/02/20
+x
+SP
+OLATHE KANS DB 3% 08/01/21 FA
+x
+10/06/20
+11/02/20
+x
+SP
+CHARLESTON W VA SWR REV 2% 07/01/21 JI
+x
+10/19/20
+11/02/20
+x
+SP
+OLATHE KANS WTR & SWR SYS REV 3% 07/01/21 JI
+x
+10/13/20
+11/02/20
+x
+SP
+TEXAS ST UNIV SYS FING REV 5% 03/15/21 MS
+x
+10/09/20
+11/02/20
+x
+SP
+ENTERPRISE PRODUCTS PART LP CMN
+x
+10/13/20
+11/02/20
+x
+SP
+MPLX LP CMN
+x
+10/13/20
+11/02/20
+x
+SP
+MAGELLAN MIDSTREAM PARTNERS, L CMN
+x
+10/13/20
+11/02/20
+x
+SP
+ENERGY TRANSFER LP CMN
+x
+10/13/20
+11/02/20
+x
+SP
+PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS
+x
+10/13/20
+11/02/20
+x
+SP
+TARGA RESOURCES CORP. CMN
+x
+10/13/20
+11/02/20
+x
+SP
+THE WILLIAMS COMPANIES, INC. CMN
+x
+x
+10/13/20
+11/02/20
+x
+SP
+ONEOK INC CMN
+x
+x
+10/13/20
+11/02/20
+x
+SP
+TC ENERGY CORP CMN
+x
+10/13/20
+11/02/20
+x
+SP
+CHENIERE ENERGY, INC. CMN
+x
+x
+10/13/20
+11/02/20
+x
+SP
+PHILLIPS 66 PARTNERS LP CMN
+x
+10/13/20
+11/02/20
+x
+SP
+TC PIPELINES, L.P. CMN
+x
+10/13/20
+11/02/20
+x
+SP
+ENBRIDGE INC. CMN
+x
+10/13/20
+11/02/20
+x
+SP
+PEMBINA PIPELINE CORPORATION CMN
+x
+10/13/20
+11/02/20
+x
+SP
+NEXTERA ENERGY PARTNERS, LP CMN
+x
+x
+10/13/20
+11/02/20
+x
+SP
+BROOKFIELD RENEWABLE CORP CMN
+x
+x
+10/13/20
+11/02/20
+x
+SP
+SUNOCO LP CMN
+x
+10/13/20
+11/02/20
+x
+SP
+ATLANTICA SUSTAINABLE INFRASTR CMN
+x
+10/13/20
+11/02/20
+x
+SP
+SHELL MIDSTREAM PARTNERS, L.P. CMN
+x
+10/13/20
+11/02/20
+x
+M & R TP Primary
+SP
+GS FINANCE CORP. LINKED TO S&P 500 INDEX
+x
+10/20/20
+11/02/20
+x
+
+--- PAGE 05 ---
+NAME: Rohit Khanna Page 5 of 5
+Full Asset Name Type of Transaction Date of Transaction Date Notified of Transaction Amount of Transaction
+A B C D E F G H I J K
+$1,001- $15,001- $50,001- $100,001- $250,001- $500,001- $1,000,001- $5,000,001- $25,000,001- Over Transaction in
+a Spouse or
+Dependent
+Child Asset
+SP/DC/JT Provide full name, not ticker symbol. Purchase Sale Exchange MM/DD/YY MM/DD/YY $15,000 $50,000 $100,000 $250,000 $500,000 $1,000,000 $5,000,000 $25,000,000 $50,000,000 $50,000,000 over
+$1,000,000
+Grandchildren's Trust [ASK Partners, LLC]
+DC Transtar/Speedstar Holding Company Class A Common x 10/19/20 10/22/20 x

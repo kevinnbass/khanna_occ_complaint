@@ -1,0 +1,32 @@
+{
+  "file_key": "20026382",
+  "total_pages": 1,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Western Alliance Bancorporation Common Stock (WAL)",
+            "asset_ticker": "WAL",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "11/15/2024",
+            "notification_date": "11/20/2024",
+            "amount_range": "$50,001 - $100,000",
+            "capital_gains_over_200": true
+          }
+        ]
+      },
+      "tokens_in": 1566,
+      "tokens_out": 141
+    }
+  },
+  "stats": {
+    "tokens_in": 1566,
+    "tokens_out": 141,
+    "n_ok": 1,
+    "n_failed": 0,
+    "elapsed_s": 3.09,
+    "pages_submitted": 1
+  }
+}

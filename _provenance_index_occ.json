@@ -1,0 +1,1737 @@
+{
+  "version": "v0",
+  "filing": "OCC_COMPLAINT_KHANNA",
+  "filing_path": "outputs/leads/exhibit_packets/ro_khanna_political_dossier/OCC_FILING_PACKAGE_V2/OCC_COMPLAINT_KHANNA.md",
+  "case": "ro_khanna",
+  "generated_at": "2026-05-04T00:00:00+00:00",
+  "generated_by_session": "K_ro_khanna_occ_complaint_s04_2026-05-04",
+  "n_entries": 64,
+  "entries": [
+    {
+      "claim_id": "OCC_M001",
+      "claim_summary": "Subject: Rep. Rohit 'Ro' Khanna (D-CA-17), sworn in January 3, 2017, currently fifth-term Member of the 119th Congress.",
+      "fact_ids": [
+        745
+      ],
+      "verification_ids": [],
+      "substrate": "lake.congress_members WHERE bioguide_id='K000389'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%k000389%' OR predicate ILIKE '%h4ca12055%' OR predicate ILIKE '%khanna%bioguide%' OR predicate ILIKE '%khanna%cand_id%' OR predicate ILIKE '%khanna%sworn_in%' OR predicate ILIKE '%khanna%ca17%tenure%'",
+      "element_id": null,
+      "theory_id": null,
+      "what_means": "Identifies the Member-respondent and the operative tenure window (2017-01-03 onward) bounding every Count's STOCK Act / EIGA scope.",
+      "what_shows": "Anchors standing + tenure-pre-tenure transaction filter applied throughout the audit substrate (per .claude/rules/stock-act-audit.md §Pre-tenure filter MANDATORY).",
+      "first_seen_section": "I"
+    },
+    {
+      "claim_id": "OCC_M002",
+      "claim_summary": "Committee assignments confer MNPI access: HASC (NDAA / DoD primes), HOGR/HSGO (HHS/CMS/FDA), House Budget.",
+      "fact_ids": [
+        41,
+        58,
+        284,
+        653,
+        654,
+        728,
+        1033
+      ],
+      "verification_ids": [
+        261,
+        283,
+        296,
+        331,
+        431,
+        659
+      ],
+      "substrate": "lake.congress_committee_assignments WHERE bioguide_id='K000389'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%committee_assignment%' OR predicate ILIKE '%khanna%hasc%' OR predicate ILIKE '%khanna%oversight%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Establishes committee-jurisdiction nexus to defense-prime, pharma, and MNPI surfaces across the operative window.",
+      "what_shows": "Anchors the §208 conflict-of-interest predicate + the §§3-4 MNPI convergence-by-jurisdiction framing carried into Counts 1, 2, 3.",
+      "first_seen_section": "I"
+    },
+    {
+      "claim_id": "OCC_M003",
+      "claim_summary": "Household composition: respondent + spouse Ritu Ahuja Khanna (SP) + one dependent child (DC); spouse named trustee + substantial contributor of Ahuja Charitable Foundation (EIN 34-1685088).",
+      "fact_ids": [
+        339,
+        382,
+        384,
+        414,
+        415,
+        751,
+        996
+      ],
+      "verification_ids": [
+        155,
+        576,
+        585,
+        587,
+        612
+      ],
+      "substrate": "lake.irs_990_officers WHERE ein='341685088'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%ritu_ahuja_khanna%trustee%' OR predicate ILIKE '%ahuja_foundation%spouse_trustee%' OR predicate ILIKE '%ahuja%341685088%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Identifies the operative household composition and the spouse-Foundation linkage that anchors Count 6 § 13104(d)(1)(A) scope question.",
+      "what_shows": "Establishes the spouse-trustee predicate operatively load-bearing for the spouse-asset disclosure scope inquiry under EIGA.",
+      "first_seen_section": "I"
+    },
+    {
+      "claim_id": "OCC_M004",
+      "claim_summary": "Aggregate household economic gain bounded $14.6M low / $61.0M mid / $107.5M high; alpha over SPY ~$28.2M midpoint.",
+      "fact_ids": [
+        225
+      ],
+      "verification_ids": [
+        327,
+        351
+      ],
+      "substrate": "ro_khanna.trade_pnl + ro_khanna.damages_summary",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%household_terminal%' OR predicate ILIKE '%terminal_pnl%' OR predicate ILIKE '%alpha_spy%' OR predicate ILIKE '%khanna%damages%' OR predicate ILIKE '%63_7%' OR predicate ILIKE '%29_3%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Aggregate damages quantification across Counts 1-3 trade-attributable P&L.",
+      "what_shows": "Anchors §IV Damages disgorgement target ($25.2M-$28.2M Treasury-allocable).",
+      "first_seen_section": "I"
+    },
+    {
+      "claim_id": "OCC_M005",
+      "claim_summary": "Direct Tesseract OCR of 2024 Annual PFD (House Clerk doc 8221318): no SMA / no QBT / no third-party discretionary custodian disclosed; PTR-side cross-confirmation across all 114 PTRs.",
+      "fact_ids": [
+        38,
+        80,
+        209,
+        474,
+        807
+      ],
+      "verification_ids": [
+        295,
+        418,
+        442,
+        445
+      ],
+      "substrate": "ro_khanna.pfd_schedule_a_assets WHERE doc_id='8221318'; Tesseract OCR text at data/ocr_products/khanna_pfd_8221318_OCR.txt",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna_pfd%no_sma%' OR predicate ILIKE '%khanna%no_qbt%' OR predicate ILIKE '%khanna%tesseract%' OR predicate ILIKE '%khanna%8221318%' OR predicate ILIKE '%2024_pfd%sma%' OR predicate ILIKE '%family_trust%' OR predicate ILIKE '%no_sma_disclosed%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Forecloses the SMA / QBT / EIF passive-structure affirmative defense on both PFD and PTR record.",
+      "what_shows": "Load-bearing rebuttal of Response #1 'spouse separately managed account' across Counts 1, 2, 3, 7.",
+      "first_seen_section": "II.D"
+    },
+    {
+      "claim_id": "OCC_M006",
+      "claim_summary": "Household PTR corpus auditable rows: 35,954 transactions across 114 PTRs filed under 5 U.S.C. § 13105(l) during 2017-2026 tenure.",
+      "fact_ids": [
+        437
+      ],
+      "verification_ids": [],
+      "substrate": "lake.house_ptr_transactions_canonical c JOIN lake.house_ptr_index ON c.earliest_filing_uuid = i.filing_uuid WHERE i.member_last_name='Khanna' AND i.state_district='CA-17'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%ptr_corpus%' OR predicate ILIKE '%khanna%37238%' OR predicate ILIKE '%khanna%35954%' OR predicate ILIKE '%khanna%35959%' OR predicate ILIKE '%khanna%35971%' OR predicate ILIKE '%household_ptr%' OR predicate ILIKE '%lifetime_ptr%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Operative PTR universe denominator for every rate / share / composite metric in Count 1 (volume × scale × delay).",
+      "what_shows": "Anchors the chamber rank-on-volume top-1% framing that drives the composite-axis above-P90 finding.",
+      "first_seen_section": "II.B"
+    },
+    {
+      "claim_id": "OCC_M007",
+      "claim_summary": "Late-filing count: 624 of 35,954 transactions (1.74%); 22 distinct PTR documents with ≥1 late transaction.",
+      "fact_ids": [
+        232
+      ],
+      "verification_ids": [],
+      "substrate": "ro_khanna.ptr_filing_audit WHERE days_past_45 > 0 AND audit_flag='auditable'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%624%' OR predicate ILIKE '%khanna%1_74_pct%' OR predicate ILIKE '%khanna%22_doc%' OR predicate ILIKE '%khanna%late_filing%' OR predicate ILIKE '%khanna%ptr_filing_audit%' OR predicate ILIKE '%khanna%late_tx%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Per-tx late-filing count post-canonical-view amendment-dedup + pre-tenure filter, per .claude/rules/stock-act-audit.md.",
+      "what_shows": "Anchors the documentary-pattern non-compliance finding driving §6 civil-penalty exposure (22 docs × $200 minimum less waivers).",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M008",
+      "claim_summary": "Worst single-transaction delay: 358 days (HUMANA INC common stock, DC owner, traded 2023-10-02, filed 2024-11-08).",
+      "fact_ids": [
+        486,
+        610,
+        669
+      ],
+      "verification_ids": [],
+      "substrate": "ro_khanna.ptr_filing_audit WHERE asset_name ILIKE '%HUMANA%' AND owner='DC' ORDER BY days_past_45 DESC LIMIT 1",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%post_lake_remediation_true_chamber_baseline%' OR predicate ILIKE '%khanna%worst_late%' OR predicate ILIKE '%khanna%358%' OR predicate ILIKE '%humana%' OR predicate ILIKE '%senate_ptr_chamber_baseline_worst_days_late%khanna%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Canonical post-cascade per-tx severity (replaces vacated F229/F239 3,635d / 2,158d severity-outlier framing).",
+      "what_shows": "Anchors the severity-vacated below-median candor disclosure required by .claude/rules/occ-complaint.md §Chamber-baseline disclosure template; F610 canonical.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M009",
+      "claim_summary": "Dollar-weighted composite score: ~$41.3M (late-midpoint dollars × worst-days/365 × ln(1+n_late_tx)).",
+      "fact_ids": [
+        231,
+        232,
+        612,
+        628,
+        840
+      ],
+      "verification_ids": [
+        233
+      ],
+      "substrate": "public.house_ptr_chamber_audit_dollar_weighted WHERE member_last_name='Khanna' AND state_district='CA-17'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%composite_score%' OR predicate ILIKE '%dollar_weighted%' OR predicate ILIKE '%composite%chamber%' OR predicate ILIKE '%composite%peer%' OR predicate ILIKE '%khanna%composite%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Operative Count 1 metric integrating volume × scale × aggregate delay; supersedes per-tx severity as the load-bearing axis post-cascade.",
+      "what_shows": "Drives chamber rank 15/210 P93 + peer-46 rank 5/43 P91 — the above-P90 dual-universe finding the Count is built on.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M010",
+      "claim_summary": "Chamber rate baseline: 10.06% chamber-wide STOCK Act § 6 late-filing rate across 210 Members with ≥20 auditable transactions.",
+      "fact_ids": [
+        231,
+        234,
+        242,
+        243,
+        244,
+        277,
+        520,
+        610,
+        669
+      ],
+      "verification_ids": [
+        448,
+        454,
+        457,
+        458,
+        468,
+        469
+      ],
+      "substrate": "public.house_ptr_chamber_audit_by_member WHERE n_tx_total >= 20 /* P50 of late_rate_pct */",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%chamber_baseline%' OR predicate ILIKE '%chamber%late%baseline%' OR predicate ILIKE '%stock_act_chamber%' OR predicate ILIKE '%chamber%10_06%' OR predicate ILIKE '%chamber%10_51%' OR predicate ILIKE '%chamber%p50%late%' OR predicate ILIKE '%senate_ptr_chamber_baseline%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Chamber-wide rate baseline against which Khanna's 1.74% rate is below-median (P24 chamber). Canonical F226 post-tx-canonical-dedup.",
+      "what_shows": "Two-universe rule (peer-baseline.md MANDATORY) — chamber side. Defeats opposing-counsel selective-sampling rebuttal at the rate axis.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M011",
+      "claim_summary": "Khanna chamber rank 52/210 P24.4 on late-filing rate — exculpatory below chamber median.",
+      "fact_ids": [
+        227
+      ],
+      "verification_ids": [
+        596
+      ],
+      "substrate": "public.house_ptr_chamber_audit_by_member WHERE n_tx_total >= 20 ORDER BY late_rate_pct",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna_stock_act_rate%below_chamber_p50%' OR predicate ILIKE '%khanna%rank_52_of_210%' OR predicate ILIKE '%khanna%p24%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Khanna-vs-chamber rate position; canonical F227 (post-canonical-dedup rate of 1.74% vs original 2.84%).",
+      "what_shows": "Mandatory candor disclosure under chamber-baseline-disclosure template; rebuts non-compliance framing on rate axis.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M012",
+      "claim_summary": "Active-trader peer-46 cohort rate baseline P50=5.96%; Khanna rank 12/43 peer-cohort P26.2.",
+      "fact_ids": [
+        238
+      ],
+      "verification_ids": [
+        456
+      ],
+      "substrate": "ro_khanna.peer_baseline_percentiles WHERE metric_name='late_rate_pct'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%peer_comparison_late_filing_rate_khanna%' OR predicate ILIKE '%peer_46%late_rate%' OR predicate ILIKE '%khanna%peer_p26%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Peer-46 universe rate position (canonical F238). Two-universe rule satisfied — both chamber and peer-46 confirm below-median on rate.",
+      "what_shows": "Two-universe candor; defeats 'selective sampling' rebuttal across both universes.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M013",
+      "claim_summary": "Severity vacation: 10 of 13 prior-cited SEVERE PTR docs re-extract to 0 days late under independent Tesseract OCR; F229/F239/F217 framing VACATED.",
+      "fact_ids": [
+        486
+      ],
+      "verification_ids": [],
+      "substrate": "ro_khanna.v3_facts WHERE fact_id IN (486, 610) AND status='active'; see .claude/rules/peer-baseline.md §canonical post-cascade",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%f217_replacement%' OR predicate ILIKE '%severity_vacated%' OR predicate ILIKE '%tesseract%re_extract%' OR predicate ILIKE '%khanna%re_extract%' OR predicate ILIKE '%khanna%severe_docs%zero%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Exculpatory-candor disclosure: prior-cited 3,635d / 2,158d severity claims were Gemini year-digit parse-error artifacts; corrected via P0-1 Tesseract re-extraction. Canonical F486.",
+      "what_shows": "Anti-adversarial candor — pre-emptively discloses the correction trail to defeat 'complainant's prior inconsistent position' opposition; honest discipline per CLAUDE.md §Factual integrity in outward-facing filings.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M014",
+      "claim_summary": "Same-day SEC Form 8-K intersection: 186 distinct household trades executed on the same calendar day as the issuer's 8-K; chamber rank 1 of 96 (4.3× second-place Member).",
+      "fact_ids": [
+        310,
+        313,
+        335,
+        346,
+        355,
+        446,
+        505,
+        606,
+        758
+      ],
+      "verification_ids": [
+        193,
+        337,
+        366
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical c JOIN lake.sec_8k_filing_index s ON c.asset_ticker = s.ticker AND c.transaction_date = s.filing_date WHERE Khanna household filter",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%same_day_8k%' OR predicate ILIKE '%khanna%8k%' OR predicate ILIKE '%khanna%383%' OR predicate ILIKE '%khanna%186%' OR predicate ILIKE '%khanna%505_tx%' OR predicate ILIKE '%peer_comparison%8k%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Absolute-count regulatory-axis #1 of 3 — SEC issuer-disclosure axis.",
+      "what_shows": "First leg of the three-axis convergence finding driving §§ 3-4 MNPI referral. Probative force is absolute count + ticker-specificity + composite parallelism, NOT rate uniqueness (rate disclosed P62 chamber + P89 peer = candor).",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M015",
+      "claim_summary": "Aligned-direction named-officer Form 3/4/5 same-day: 86 household trades same calendar day as same-direction officer filing at the same issuer; chamber rank 3 of 156 (P98).",
+      "fact_ids": [
+        345
+      ],
+      "verification_ids": [
+        365
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical c JOIN lake.sec_form345_full f ON c.asset_ticker = f.issuer_ticker AND c.transaction_date = f.filing_date AND sign(c.amount) = sign(f.shares_traded)",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%86_aligned%' OR predicate ILIKE '%khanna%form_345%same_day%' OR predicate ILIKE '%aligned_direction_named_officer%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Absolute-count regulatory-axis #2 — named-officer insider proxy.",
+      "what_shows": "Second leg of three-axis convergence; Gottheimer NJ-05 + Cisneros CA-39 only Members ranked higher; rate P70 disclosed for candor.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M016",
+      "claim_summary": "Pharma × FDA Advisory Committee: 4,595 household pharma trades within ±14d / 1,070 within ±3d; chamber rank 1 of 66 on both windows (6.1× and 6.4× second-place).",
+      "fact_ids": [
+        361
+      ],
+      "verification_ids": [
+        222
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical JOIN lake.v_fda_adcom_meetings_all ON tx within ±N days of meeting; pharma sector filter via ro_khanna.ticker_map",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%pharma%fda_adcom%' OR predicate ILIKE '%khanna%4595%' OR predicate ILIKE '%khanna%1070%fda%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Absolute-count regulatory-axis #3a — FDA AdCom meeting calendar proxy.",
+      "what_shows": "Third axis (a) — convergence with HOGR/HSGO oversight jurisdiction over FDA. 97% of Khanna's 839 pharma tx fall within ±14d of some AdCom event.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M017",
+      "claim_summary": "Pharma × CMS rulemaking: 1,244 household pharma trades within ±14d of discrete CMS rulemaking events; chamber rank 1 of 66 P100, 14× chamber P95.",
+      "fact_ids": [
+        343
+      ],
+      "verification_ids": [
+        220
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical JOIN lake.federal_register_healthcare_rules_v2 ON tx within ±14 days; pharma sector filter",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%pharma%cms_rulemaking%' OR predicate ILIKE '%khanna%1244%' OR predicate ILIKE '%cms_rulemaking%pharma%14d%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Absolute-count regulatory-axis #3b — CMS rulemaking proxy.",
+      "what_shows": "Third axis (b) — convergence with HOGR/HSGO oversight jurisdiction over CMS/HHS. 14× chamber P95 (89). Canonical Count 1 + 3 anchor.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M018",
+      "claim_summary": "PAC dependency: 0.019% of 2024-cycle receipts ($2,000 of $10.57M); chamber rank 4 of 219 Democratic incumbents (P0.5); lifetime 0.011% across $41.74M.",
+      "fact_ids": [
+        328
+      ],
+      "verification_ids": [
+        432
+      ],
+      "substrate": "lake.fec_house_candidate_summary_2024 WHERE cand_id='H4CA12055'; lake.fec_individual_contributions PAC-share computation",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%pac_dependency%0_019%' OR predicate ILIKE '%khanna%no_corporate_pac%' OR predicate ILIKE '%khanna%2024_cycle_receipts%'",
+      "element_id": null,
+      "theory_id": 401,
+      "what_means": "Anti-PAC chamber-baseline disclosure mandatory per occ-complaint.md §Chamber-baseline disclosure template.",
+      "what_shows": "Defeats donor-capture rebuttal at PAC-channel grain. Reframes Counts 4-6 as IE-side / individual-donor-side / revolving-door-side rather than PAC-capture (channel structurally absent).",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M019",
+      "claim_summary": "14 defense-prime common-stock trades concentrated on 4 distinct NDAA enactment dates 2017-12-12 / 2021-01-01 / 2021-12-27 / 2023-12-22.",
+      "fact_ids": [
+        69,
+        79,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        213,
+        292,
+        293,
+        381
+      ],
+      "verification_ids": [
+        145,
+        200,
+        201,
+        208,
+        209,
+        210,
+        211,
+        217,
+        218,
+        226,
+        227,
+        228,
+        229,
+        230,
+        297,
+        307,
+        308,
+        309,
+        310,
+        313,
+        530
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical JOIN lake.congress_bill_actions ON tx within ±14 days of NDAA enactment; defense-prime ticker filter (BA, GD, LMT, NOC, RTX, HON, PLTR)",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%ndaa_window_trade%' OR predicate ILIKE '%ndaa_enactment%' OR predicate ILIKE '%defense_prime%ndaa%' OR predicate ILIKE '%ndaa_fy%' OR predicate ILIKE '%khanna%ndaa%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Operative Count 2 anchor — NDAA-window defense-prime trade cluster.",
+      "what_shows": "Concrete per-event count establishing temporal-clustering finding (absolute count, not rate).",
+      "first_seen_section": "III.2"
+    },
+    {
+      "claim_id": "OCC_M020",
+      "claim_summary": "Khanna voted NAY on 12 of 13 NDAA passage votes 2017-2024 while household accumulated defense-prime stock around enactment dates (public-NAY / private-BUY divergence).",
+      "fact_ids": [
+        69,
+        79,
+        321
+      ],
+      "verification_ids": [
+        200,
+        201,
+        208,
+        210,
+        533
+      ],
+      "substrate": "lake.congress_member_votes WHERE member_bioguide_id='K000389' AND bill_number IN (NDAA universe per congress_bills) AND vote_position='Nay'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%ndaa%nay%' OR predicate ILIKE '%nay_but_buy%' OR predicate ILIKE '%khanna%102_ndaa%' OR predicate ILIKE '%public_nay%' OR predicate ILIKE '%khanna%nay%buy%' OR predicate ILIKE '%458_trades%62_nays%'",
+      "element_id": null,
+      "theory_id": 201,
+      "what_means": "Materiality fact for §208 conflict-of-interest framing — Member publicly opposes legislation while household acquires beneficiaries.",
+      "what_shows": "Operative § 78u-1(g) MNPI-driven-conduct inference under Count 2; rebuttal of Response #8 'votes publicly against defense' (the divergence IS the violation).",
+      "first_seen_section": "III.2"
+    },
+    {
+      "claim_id": "OCC_M021",
+      "claim_summary": "Defense-prime sector (356 transactions) midpoint terminal P&L $10.17M vs SPY benchmark $4.68M; defense-prime alpha $5.49M.",
+      "fact_ids": [],
+      "verification_ids": [],
+      "substrate": "ro_khanna.trade_pnl WHERE sector='defense_prime'; ro_khanna.damages_summary",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%defense_prime%pnl%' OR predicate ILIKE '%defense_prime%alpha%' OR predicate ILIKE '%defense_prime%terminal%' OR predicate ILIKE '%sector%defense_prime%' OR predicate ILIKE '%khanna%5_49%' OR predicate ILIKE '%khanna%defense%356%' OR predicate ILIKE '%alpha_attribution%defense%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Disgorgement quantum for Count 2 NDAA-window defense-prime trading.",
+      "what_shows": "Operative §IV Damages anchor for Count 2 disgorgement target ($5.49M alpha attributable to defense sector alone).",
+      "first_seen_section": "III.2"
+    },
+    {
+      "claim_id": "OCC_M022",
+      "claim_summary": "Palantir same-day federal-contract × household-trade pairing: 9 calendar days; 2022-05-10 USAF $18.9M action paired with 6 intra-day DC PLTR trades; 2025-09-19 three-agency $24.2M cluster (DHS ICE / IRS / HHS) paired with DC PLTR BUY.",
+      "fact_ids": [
+        54,
+        63,
+        67,
+        92,
+        314,
+        315,
+        348,
+        653,
+        727,
+        735,
+        849,
+        1137
+      ],
+      "verification_ids": [
+        206,
+        281,
+        292,
+        293,
+        298,
+        300,
+        308,
+        357,
+        466,
+        546
+      ],
+      "substrate": "lake.usaspending_contracts_2022 + lake.usaspending_contracts_2025 WHERE recipient_name ILIKE '%PALANTIR%'; lake.house_ptr_transactions_canonical WHERE asset_ticker='PLTR'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%palantir%' OR predicate ILIKE '%pltr%' OR predicate ILIKE '%khanna%pltr%' OR predicate ILIKE '%pltr%air_force%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Independent corroboration of Count 2 NDAA-window pattern via contract-action × trade-day coincidence.",
+      "what_shows": "Same-day pairing surface drives Count 2 scope-extension to Palantir × HASC-jurisdiction conflict triangle ($4.88B lifetime federal exposure).",
+      "first_seen_section": "III.2"
+    },
+    {
+      "claim_id": "OCC_M023",
+      "claim_summary": "108 household pharma trades clustering ±14d of 14 discrete CMS/HHS/FTC rulemaking events 2017-2024; per-page re-extraction surfaces 185 trades across 14 of 14 catalogued events (no empty windows).",
+      "fact_ids": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        200,
+        652,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697
+      ],
+      "verification_ids": [
+        73,
+        504,
+        505,
+        506,
+        507,
+        508,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical JOIN lake.federal_register_healthcare_rules_v2 WHERE pharma sector filter AND tx_date within ±14d of rulemaking event_date",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%cms_rulemaking_window_pharma%' OR predicate ILIKE '%khanna%cms_rulemaking%' OR predicate ILIKE '%khanna%pharma%14_event%' OR predicate ILIKE '%khanna%185_trades%' OR predicate ILIKE '%khanna%108%pharma%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Operative Count 3 anchor — pharmaceutical-sector × CMS/HHS/FTC rulemaking convergence pattern across full tenure.",
+      "what_shows": "Establishes the 14-event pattern that drives Count 3 framing; ¶31 table enumerates the 14 events from Drug Pricing Blueprint 2017 through CMS IRA Final Drugs List 2024-08-15.",
+      "first_seen_section": "III.3"
+    },
+    {
+      "claim_id": "OCC_M024",
+      "claim_summary": "August 2024 CMS IRA cluster: single-day 286-tx household rebalance 2024-08-02 (13d before 2024-08-15 publication); 4 of 9 unique IRA manufacturers hit (ABBV, AMGN, JNJ, MRK) + 7 additional pharma names.",
+      "fact_ids": [
+        128,
+        129,
+        130,
+        131,
+        132,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        200,
+        343,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        832
+      ],
+      "verification_ids": [
+        94,
+        107,
+        220
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical WHERE filer Khanna AND transaction_date='2024-08-02' AND asset_ticker IN (ABBV,AMGN,JNJ,MRK,...)",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%2024_08_02%' OR predicate ILIKE '%4_of_9%' OR predicate ILIKE '%cms_ira%' OR predicate ILIKE '%ira_first_10_drugs%' OR predicate ILIKE '%khanna%286%' OR predicate ILIKE '%ira_pl_117_169%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Sharpest single-event pre-publication trade cluster in Count 3 substrate; 13-day lead on confidential CMS IRA list publication.",
+      "what_shows": "Anchors the §VI Response #1 'spouse SMA' rebuttal: the rebalance is active portfolio management on a confidential pre-publication window, not passive custodial drift. Three-way corroboration via Exhibit FF (11/12 cited 2024-08-02 trades agree across lake + Capitol Trades + QuiverQuant).",
+      "first_seen_section": "III.3"
+    },
+    {
+      "claim_id": "OCC_M025",
+      "claim_summary": "FDA Advisory Committee alignment: 1,070 household pharma-ticker trades within ±3d of FDA AdCom meeting; 4,595 within ±14d; 204 same-day. Khanna chamber rank 1 of 66 on both windows (6.1× and 6.4× second-place); 97% of 839 pharma tx fall within ±14d of some AdCom event.",
+      "fact_ids": [
+        361,
+        379,
+        679,
+        853
+      ],
+      "verification_ids": [
+        222,
+        398,
+        399
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical JOIN lake.v_fda_adcom_meetings_all (847 meetings; 565 within 2017-2026 audit window) WHERE pharma sector",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%fda_adcom%' OR predicate ILIKE '%fda_advisory%' OR predicate ILIKE '%khanna%pharma%fda%' OR predicate ILIKE '%peer_comparison%fda%pharma%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Independent corroboration of Count 3 pharma-trading pattern via FDA regulator substrate (third axis joining CMS rulemaking + SEC Form 4).",
+      "what_shows": "Three-axis convergence finding: same Member ranks 1-3 across CMS, FDA, and SEC same-day proxies. Common driver = 839 pharma tx (chamber max, 20× chamber P95) + HOGR/HEC oversight jurisdiction over FDA + CMS + HHS.",
+      "first_seen_section": "III.3"
+    },
+    {
+      "claim_id": "OCC_M026",
+      "claim_summary": "Pharma sector P&L (12-ticker strict universe): $3.2M midpoint terminal profit / 1,088 priced tx; broader 20-ticker universe $4.3M / 1,835 priced tx. Sector-matched alpha (XLV/IBB/VHT) +$1.8M to +$2.1M positive; SPY-relative alpha modestly negative (−$0.25M strict; −$1.4M broad).",
+      "fact_ids": [
+        820,
+        833
+      ],
+      "verification_ids": [],
+      "substrate": "ro_khanna.trade_pnl WHERE sector LIKE 'pharma%'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%pharma%alpha%' OR predicate ILIKE '%pharma_sector_matched%' OR predicate ILIKE '%khanna%pharma%pnl%' OR predicate ILIKE '%exhibit_f%pharma%' OR predicate ILIKE '%pharma%dual_benchmark%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Dual-benchmark candor disclosure required by Daubert event-study methodology (MacKinlay 1997; Campbell/Lo/MacKinlay 1997).",
+      "what_shows": "Defeats opposing-counsel 'sector drift, not selection' rebuttal by showing positive sector-matched alpha; concedes the SPY-relative drag as ambient sector return. Regulatory-timing signal independent of directional accuracy.",
+      "first_seen_section": "III.3"
+    },
+    {
+      "claim_id": "OCC_M027",
+      "claim_summary": "Conflict triangle — Nvidia × Select-Committee jurisdiction: TY2024 10,076 NVDA shares (2,821 Ritu + 7,255 Monte/Usha Ahuja Family Trust) donated to Ahuja Charitable Foundation EIN 34-1685088; donation-time FMV $1,667,345 per IRS 990-PF Schedule B; subsequent post-donation share-price appreciation amplifies wealth flow.",
+      "fact_ids": [
+        203,
+        209,
+        316,
+        317,
+        427,
+        429,
+        475,
+        734
+      ],
+      "verification_ids": [
+        311,
+        442,
+        445,
+        467,
+        531,
+        617,
+        619
+      ],
+      "substrate": "lake.irs_990_pf_noncash_donations WHERE ein='341685088' AND tax_year=2024 AND ticker='NVDA'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%nvidia%' OR predicate ILIKE '%nvda%' OR predicate ILIKE '%ahuja%nvidia%' OR predicate ILIKE '%ritu_ahuja_khanna%nvda%' OR predicate ILIKE '%monte_usha%nvidia%' OR predicate ILIKE '%chips_act%household%nvidia%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Canonical post-cascade NVDA donation framing (corrects pre-cascade 11,976-share / $6M-$16M-peak figures vacated per AF #231 cascade).",
+      "what_shows": "Conflict-triangle leg pairing household NVDA position against respondent's Select Committee chairmanship over US-China strategic competition + AI-accelerator export-control regime; spouse-trustee disclosure-scope question carries forward to Count 6.",
+      "first_seen_section": "III.3"
+    },
+    {
+      "claim_id": "OCC_M028",
+      "claim_summary": "Goldman Sachs margin scaffold TY2017-TY2019: continuous spouse-owned facility with two concurrent Margin lines per year (TY2017 ~$750K-$1.5M; TY2018 $600K-$1.25M; TY2019 $515K-$1.05M); paired-trust label structure (Ritu Ahuja 1994 Trust + 1995 Trust labels above each Margin line); discontinuous after TY2019 (TY2020 only Nelnet student loan).",
+      "fact_ids": [
+        504,
+        505,
+        605,
+        642,
+        1142,
+        1158
+      ],
+      "verification_ids": [
+        273,
+        660
+      ],
+      "substrate": "ro_khanna.pfd_schedule_d_liabilities WHERE filer Khanna AND creditor ILIKE '%Goldman%' AND tax_year IN (2017,2018,2019,2020)",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%goldman%margin%' OR predicate ILIKE '%khanna%margin%' OR predicate ILIKE '%ritu_ahuja_1994_trust%' OR predicate ILIKE '%margin_scaffold%' OR predicate ILIKE '%schedule_d%margin%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Documents the household financing scaffold that is mechanically incompatible with passive-SMA / QBT / EIF affirmative defense under 5 U.S.C. § 13104(f)(3).",
+      "what_shows": "Anchors Count 3 ¶34d conflict triangle + Count 6 ¶64b § 13104(f)(3) scope question; Goldman simultaneously is margin creditor + options counterparty + ~$48K individual-contribution donor cluster.",
+      "first_seen_section": "III.3"
+    },
+    {
+      "claim_id": "OCC_M029",
+      "claim_summary": "Spouse-owned XSP (S&P 500 mini-index) PUT-option program: 282 separate transactions across tenure, each amount-banded $1,001-$15,000 (premium receipt footprint, not notional); strikes systematically OTM; expiries rolling continuously; cash-secured short-volatility / premium-harvest pattern.",
+      "fact_ids": [
+        442,
+        443,
+        469,
+        504
+      ],
+      "verification_ids": [],
+      "substrate": "lake.house_ptr_transactions_canonical WHERE filer Khanna AND asset_name ILIKE '%XSP%' AND transaction_type ILIKE '%PUT%' AND owner='SP'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%xsp%' OR predicate ILIKE '%short_volatility%' OR predicate ILIKE '%put_option%' OR predicate ILIKE '%ritu%xsp%' OR predicate ILIKE '%option_ladder%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Reg T + FINRA Rule 4210 options-level authorization predicate forecloses passive-broker-discretion characterization of household trading.",
+      "what_shows": "Anchors Count 3 ¶34e + Count 6 ¶64b § 13104(f)(3) defense foreclosure: short-PUT writing on margined account requires customer authorization executed by Member's spouse, not by trustee.",
+      "first_seen_section": "III.3"
+    },
+    {
+      "claim_id": "OCC_M041",
+      "claim_summary": "Aggregate LD-203 registrant-originated giving 2011-10 through 2025-12: $299,198 across 147 line items filed by 53 unique LDA registrants under penalty of perjury. Top: AFT $36K / PG&E $35K / Teamsters DRIVE $34K / CWA $19,500 / NY Life $15K / Trimpa $13K / NEA $13K / SHRM $10K / PhRMA $8K.",
+      "fact_ids": [
+        500,
+        899,
+        1135
+      ],
+      "verification_ids": [
+        303,
+        359
+      ],
+      "substrate": "lake.lda_contributions WHERE recipient_committee_id='C00503185' AND filing_period_start >= '2011-10-01'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%lda_203%' OR predicate ILIKE '%ld_203%' OR predicate ILIKE '%lda_203_lobbyist_contributions%' OR predicate ILIKE '%lda_203_bundlers%' OR predicate ILIKE '%registrant%giving%'",
+      "element_id": null,
+      "theory_id": 501,
+      "what_means": "Operative Count 5 LD-203 §203 aggregate quantum across full tenure.",
+      "what_shows": "Establishes per-registrant disclosure-quality predicate that 2-of-5 revolving-door cohort omitted (¶56 Israel + Taylor).",
+      "first_seen_section": "DOJ §3"
+    },
+    {
+      "claim_id": "OCC_M046",
+      "claim_summary": "5 named inbound revolving-door donor-lobbyists: Israel (Commerce → ACG Advocacy / $1K to Khanna of which $500 refunded); Siddiqui (Pelosi/Becerra → Akin Gump partner / $2K); Sanchez (Commerce Under Secretary → Holland & Knight / $1.25K); Batteh (CFTC → Delta Strategy / $1K); Taylor (DASD Senate Affairs → RPT Legal + Defense Consulting / $1K not refunded; HASC-jurisdiction client book Boeing/BAE/Aerojet/Textron).",
+      "fact_ids": [
+        68,
+        264,
+        265,
+        266,
+        267,
+        270,
+        273,
+        409,
+        704
+      ],
+      "verification_ids": [
+        9,
+        24,
+        294,
+        301,
+        350,
+        353,
+        354,
+        360,
+        369,
+        412,
+        446,
+        463,
+        515,
+        559
+      ],
+      "substrate": "lake.lda_registrants JOIN lake.fec_individual_contributions WHERE recipient_committee_id='C00503185' AND contributor matches 5 lobbyist name patterns; cross-validated against federal-employment history",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%revolving_door%' OR predicate ILIKE '%chris_israel%' OR predicate ILIKE '%robert_taylor%' OR predicate ILIKE '%siddiqui%' OR predicate ILIKE '%sanchez%commerce%' OR predicate ILIKE '%batteh%cftc%' OR predicate ILIKE '%khanna_office%revolving%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Operative Count 5 § 207 + House Rule XXIII cl. 9 anchor; 5 individuals with documented federal-agency prior service + LDA registration + Khanna principal committee donation.",
+      "what_shows": "Robert Taylor entry independently devastating: prior role = DASD Senate Affairs; current book = HASC-jurisdiction DoD primes; channel donation to HASC Member.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M047",
+      "claim_summary": "Client-employee individual contribution clusters: Israel portfolio $166,575 across 127 contributions from 10 client firms (Oracle $65,885 / Microsoft $52,350 / Qualcomm $19K / News Corp $10.5K / Viacom $8K / VLSI $5.6K / Comcast $2.72K / Genentech $1.5K / Aptiv $469 / US Chamber $250). Siddiqui portfolio $198,565 across 137 contributions from 12 client firms (Intuit $47,945 / Salesforce $42.9K / Accenture $29.5K / DoorDash $24.9K / Micron $24,050 / eBay/Amex/KKR/Qualcomm/Comcast/Siemens/Amazon).",
+      "fact_ids": [
+        268,
+        270,
+        273
+      ],
+      "verification_ids": [
+        353,
+        360,
+        404,
+        412
+      ],
+      "substrate": "lake.fec_individual_contributions WHERE recipient_committee_id='C00503185' AND contributor_employer ILIKE patterns matching Israel + Siddiqui client-firm rosters from lake.lda_registrants",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%client_portfolio_employee_donor%' OR predicate ILIKE '%client_employee_cluster%' OR predicate ILIKE '%israel%client%' OR predicate ILIKE '%siddiqui%client%' OR predicate ILIKE '%oracle%khanna%' OR predicate ILIKE '%salesforce%khanna%' OR predicate ILIKE '%intuit%khanna%' OR predicate ILIKE '%revolving_door%donor_pattern%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Operative Count 5 ¶54 client-employee channel quantum: $365,140 combined across 264 contributions spanning 20 distinct client firms.",
+      "what_shows": "Establishes that revolving-door capture operates through individual-donor channel (not PAC) — exactly the channel 18 U.S.C. § 207 + House Rule XXIII cl. 9 target.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M048",
+      "claim_summary": "Corporate-PAC control test: zero PAC contributions to Khanna across every identifier checked from 13 principal donor-universe firms (Oracle PAC / Microsoft MSVPAC / Qualcomm QPAC / News Corp PAC / Viacom-Paramount PAC / Comcast PAC / GENENPAC / Aptiv PAC / US Chamber PAC / Nike PAC / Toyota PAC / AbbVie PAC / PhRMA).",
+      "fact_ids": [
+        329,
+        783
+      ],
+      "verification_ids": [
+        460
+      ],
+      "substrate": "lake.fec_committee_contributions WHERE recipient_committee_id='C00503185' AND contributing_committee_id IN (13 corporate PAC IDs)",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%no_corporate_pac%' OR predicate ILIKE '%corporate_pac%khanna%' OR predicate ILIKE '%pac_dependency%khanna%' OR predicate ILIKE '%pac_zero%' OR predicate ILIKE '%khanna%pac_share%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Confirms Khanna's no-corporate-PAC policy is intact at the principal donor-universe-firm grain (control test for §207 / House Rule XXIII cl. 9 framing).",
+      "what_shows": "Establishes that the 18 U.S.C. § 207 + House Rule XXIII cl. 9 channel — individual donors plus client-firm employees — is the operative revolving-door pathway, not corporate PACs.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M049",
+      "claim_summary": "LD-203 compliance failure 2-of-5: Israel filed 2023 Mid-Year LD-203 with no_contributions=False listing 3 other contributions but OMITTING the Khanna $500 contribution within the Jan-Jun reporting window; all 38 Israel LD-203 filings 2008-2025 zero Khanna mentions. Taylor filed 2023 Mid-Year LD-203 affirmatively certifying no_contributions=True while $1,000 Khanna contribution 2023-04-19 sat within period; all 58 Taylor LD-203 filings 2009-2025 zero Khanna mentions. Other 3 (Siddiqui / Sanchez / Batteh) disclosed Khanna and complied.",
+      "fact_ids": [
+        307,
+        308
+      ],
+      "verification_ids": [
+        219,
+        356
+      ],
+      "substrate": "lake.lda_contributions JOIN lake.lda_registrants WHERE registrant_name matches Israel (ACG Advocacy) OR Taylor (RPT Legal Strategies)",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%taylor%ld203%' OR predicate ILIKE '%taylor%hloga%' OR predicate ILIKE '%israel%omission%' OR predicate ILIKE '%no_contribs_false%' OR predicate ILIKE '%no_contributions_true%' OR predicate ILIKE '%ld_203%omission%' OR predicate ILIKE '%ld203%false%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Operative Count 5 ¶56 disclosure-failure anchor; Taylor affirmative certification posture is materially stronger knowing-and-willful vehicle under 2 U.S.C. § 1606(a)(2) civil + § 1606(b) criminal than selective-omission posture.",
+      "what_shows": "Defeats 'isolated administrative oversight' rebuttal: Taylor made the undisclosed contribution to a HASC Member while actively lobbying HASC-jurisdiction DoD primes.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M050",
+      "claim_summary": "Asymmetric refund: Ro For Congress refunded the Israel $500 contribution 24 hours after receipt 2023-06-28 consistent with committee-side compliance safeguard firing; same safeguard did NOT fire on Taylor $1,000 contribution 2023-04-19 despite Taylor presenting materially stronger HASC-jurisdiction conflict.",
+      "fact_ids": [
+        309
+      ],
+      "verification_ids": [
+        465
+      ],
+      "substrate": "lake.fec_individual_contributions WHERE recipient_committee_id='C00503185' AND (contributor_name ILIKE '%Israel%' OR ILIKE '%Taylor%') AND memo_text ILIKE '%refund%'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%refund%' OR predicate ILIKE '%24h%safeguard%' OR predicate ILIKE '%committee_refund%' OR predicate ILIKE '%israel%24h%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Documents differential treatment unexplained on public record; warrants Committee inquiry into committee's written refund policy.",
+      "what_shows": "Anchors Count 5 ¶57 + relief-sought paragraph asking why committee-side safeguard fired for Israel but not Taylor; substantively-stronger Taylor case escaped intercept.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M051",
+      "claim_summary": "Two-universe baseline on inbound network scope: 60 distinct donor name-keys in Khanna's 2024 cycle individual-contribution universe match ≥1 LDA-registered revolving-door lobbyist; chamber-active rank P84.5 (denominator 1,456 active House principal committees with ≥20 individual-contribution rows); peer-46 rank P65.9 (42 peers).",
+      "fact_ids": [
+        704
+      ],
+      "verification_ids": [],
+      "substrate": "lake.fec_individual_contributions WHERE recipient_committee_id='C00503185' AND contributor matches lake.lda_registrants lobbyist names; computed across both universes",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%revolving_door%donor_count%' OR predicate ILIKE '%revolving_door%chamber%' OR predicate ILIKE '%khanna%inbound_lobbyist%' OR predicate ILIKE '%peer_comparison%revolving%' OR predicate ILIKE '%revolving_door%peer46%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Both universes agree above-median but not extreme outlier; peer-46 tighter because already filters for high-volume active filers.",
+      "what_shows": "Two-universe candor (peer-baseline.md MANDATORY); confirms scope of inbound revolving-door network at 102 distinct lobbyist identifiers / 5,198 distinct LDA filings / 41 distinct registrants / 459 distinct client entities.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M052",
+      "claim_summary": "Outbound-pipeline null finding: only ex-Khanna-office staffer in full LDA corpus is Nandini Narayan (joined TC Energy 2024-12-01 as Senior Adviser Federal Government Relations); scan of Khanna's bill-action corpus for 16 months following Narayan's move = zero bill actions on any pipeline / LNG / Keystone / Line 5 / Dakota Access / TransCanada matter. Pattern is donor-inbound, not staff-outbound.",
+      "fact_ids": [
+        411,
+        706,
+        707
+      ],
+      "verification_ids": [
+        574
+      ],
+      "substrate": "lake.lda_registrants WHERE prior_employer ILIKE '%Khanna%' OR '%Office of Congressman Khanna%'; cross-checked against lake.congress_bill_actions for Khanna 2024-12 to 2026-04 window",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%narayan%' OR predicate ILIKE '%transcanada%' OR predicate ILIKE '%tc_energy%' OR predicate ILIKE '%tcenergy%' OR predicate ILIKE '%lda_rev_door_covered_position%' OR predicate ILIKE '%post_narayan%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Pre-emptive disclosure that any post-departure-regulatory-favor theory on outbound axis fails; channel is structurally inbound.",
+      "what_shows": "Defeats Response #13a 'forward-arrangement allegation is speculative' by disclosing the null AND showing the Schedule F zero-finding is preemptively candid.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M053",
+      "claim_summary": "Tier-2 PFD-derived income-pattern (Count 5): 5 distinct continuing private-sector income streams 2013-2024 (Wilson Sonsini Goodrich & Rosati legal fees / Stanford lecturer / speaking honoraria / book-royalty stream Levine Greenberg Rostan / 2016-2020 board honorarium); peer-46 rank 42 of 46 (above-peer-P90 outlier; 35 of 46 peers at 0 or 1 streams). Schedule F forward-arrangement count = 0 across all years (peer median 0; ties).",
+      "fact_ids": [
+        460,
+        483,
+        484,
+        510,
+        512,
+        513
+      ],
+      "verification_ids": [],
+      "substrate": "ro_khanna.peer_baseline_percentiles WHERE metric_name='continuing_consulting_speaking_board_royalty_count'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%schedule_c%' OR predicate ILIKE '%wilson_sonsini%' OR predicate ILIKE '%levine_greenberg%' OR predicate ILIKE '%continuing_consulting%' OR predicate ILIKE '%speaking_fees%' OR predicate ILIKE '%peer_comparison%continuing_income%' OR predicate ILIKE '%pfd_schedule_c%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Materially corroborates and materially narrows revolving-door narrative.",
+      "what_shows": "Continuing-income cluster distinguishes Khanna from peer norm and reinforces continuing-nexus dimension; zero forward-arrangement preempts forward-arrangement-theory rebuttal.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M054",
+      "claim_summary": "Ahuja Charitable Foundation EIN 34-1685088 spouse-dual-role: Ritu Ahuja Khanna named trustee continuously TY2018-TY2024 per Foundation's own Form 990-PF officer schedules — 7 consecutive tax years (full e-file 990-PF window in IRS corpus); title + hours/week (5) + compensation ($0) constant. Schedule B substantial contributor TY2022 + TY2023 + TY2024 reporting Khanna's DC residence (4432 Chestnut Lane NW) as contributor address.",
+      "fact_ids": [
+        47,
+        70,
+        76,
+        203,
+        207,
+        208,
+        215,
+        316,
+        319,
+        339,
+        340,
+        350,
+        360,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        389,
+        393,
+        397,
+        414,
+        415,
+        422,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        434,
+        436,
+        442,
+        454,
+        457,
+        464,
+        471,
+        472,
+        492,
+        514,
+        566,
+        600,
+        638,
+        663,
+        683,
+        684,
+        698,
+        751,
+        786,
+        996
+      ],
+      "verification_ids": [
+        72,
+        155,
+        164,
+        171,
+        213,
+        311,
+        315,
+        344,
+        349,
+        358,
+        475,
+        486,
+        497,
+        498,
+        502,
+        503,
+        512,
+        513,
+        516,
+        529,
+        531,
+        544,
+        548,
+        551,
+        552,
+        576,
+        585,
+        586,
+        587,
+        588,
+        593,
+        594,
+        612,
+        614,
+        615,
+        617,
+        619,
+        621,
+        625,
+        626
+      ],
+      "substrate": "lake.irs_990_officers WHERE ein='341685088' AND officer_name ILIKE '%Ritu%Ahuja%Khanna%'; lake.irs_990_contributors WHERE ein='341685088'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%ahuja_foundation%' OR predicate ILIKE '%ahuja%trustee%' OR predicate ILIKE '%ritu_ahuja_khanna%' OR predicate ILIKE '%341685088%' OR predicate ILIKE '%ahuja_foundation_second_degree%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Operative Count 6 § 13104(d)(1)(A) spouse-asset-disclosure-scope anchor (canonical F215 — Ahuja Foundation second-degree concealment chain; Count 6 framing across spouse-trustee × Schedule B × non-disclosure × Foundation corpus).",
+      "what_shows": "Establishes the spouse-trustee predicate operatively load-bearing for the spouse-scope question; respondent-himself question answered in negative on primary-source record (not named Part VIII any year).",
+      "first_seen_section": "III.6"
+    },
+    {
+      "claim_id": "OCC_M055",
+      "claim_summary": "Foundation TY2024 EoY FMV $45,102,055 across 9 distinct managed investment accounts (primary Goldman Sachs / Fidelity + 8 Fidelity sub-accounts including dedicated covered-calls account + Diamond Hill sleeve). Schedule B non-cash contribution record TY2022-TY2024 includes defense-prime share donations: Honeywell + L3Harris Technologies + TransDigm Group + Boeing + GE Vernova (all HASC-jurisdiction tickers).",
+      "fact_ids": [
+        47,
+        70,
+        207,
+        683
+      ],
+      "verification_ids": [
+        486,
+        502,
+        516,
+        529
+      ],
+      "substrate": "lake.irs_990_returns WHERE ein='341685088' AND tax_year=2024; lake.irs_990_pf_noncash_donations WHERE ein='341685088' AND tax_year IN (2022,2023,2024)",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%ahuja_foundation%corp_stock%' OR predicate ILIKE '%ahuja_foundation%goldman%' OR predicate ILIKE '%ahuja_foundation%fidelity%' OR predicate ILIKE '%ahuja_foundation%9_corp%' OR predicate ILIKE '%ahuja%honeywell%' OR predicate ILIKE '%ahuja%l3harris%' OR predicate ILIKE '%ahuja%defense%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Canonical post-cascade Foundation corpus framing (corrects pre-cascade double-count $90,204,110 vacated per AF #231; actual $45.1M EoY FMV).",
+      "what_shows": "$45M corporate-stock corpus overlapping HASC + HOGR jurisdictions; Schedule B defense-prime donations independently overlap committees Khanna sits on. Sectors managed through Ahuja-family Goldman + Fidelity custodial infrastructure.",
+      "first_seen_section": "III.6"
+    },
+    {
+      "claim_id": "OCC_M056",
+      "claim_summary": "District-proximate grantmaking from Foundation's Schedule of Grants TY2020-TY2024: Cleveland (University Hospitals Health System ~$3.9M across 10 grants incl. single $1.7M TY2021); Naples (NCH and allied philanthropies >$1.4M); Washington DC (Ford's Theatre Society + Georgetown). None of grantees sit within Khanna's CA-17 district; 6 of 11 top grantees lobby Congress at high volume on issue codes within Khanna's Oversight + Budget jurisdictions.",
+      "fact_ids": [
+        319,
+        382,
+        414,
+        415,
+        436,
+        457,
+        698
+      ],
+      "verification_ids": [
+        475,
+        576,
+        585,
+        612
+      ],
+      "substrate": "lake.irs_990_grants WHERE ein='341685088' AND tax_year BETWEEN 2020 AND 2024",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%ahuja%grantmaking%' OR predicate ILIKE '%ahuja%grantees%' OR predicate ILIKE '%ahuja_foundation%cleveland%' OR predicate ILIKE '%ahuja_foundation%naples%' OR predicate ILIKE '%ahuja%fords_theatre%' OR predicate ILIKE '%irs_990_grants%ein_341685088%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Corroborating fact rebutting Response #9 'Ahuja Foundation grantmaking is district-consistent' framing.",
+      "what_shows": "Operative question is not grantmaking footprint; it is corpus + spouse trustee + non-disclosure pattern. Grantmaking analysis preempts the rebuttal anyway.",
+      "first_seen_section": "III.6"
+    },
+    {
+      "claim_id": "OCC_M057",
+      "claim_summary": "Dover Delaware rental-property asymmetric disclosure (4-leg structural): (A) Schedule A asset-side 10-year omission across TY2014-TY2023 (2,524 rows scanned; zero Dover/Delaware/First Bank of Wilmington entries); (B) Schedule D liability mismatch ($100K-$250K mortgage to First Bank of Wilmington TY2021 stands without companion asset); (C) 6 paired-disclosure exemplars (Cincinnati OH / Denham LA / Walton Hills OH / Harahan LA / Ritu Ahuja Revocable Trust NY condo / Walton OH all paired; Dover DE alone unpaired); (D) Schedule B income null corroborating.",
+      "fact_ids": [
+        495,
+        501,
+        507,
+        508,
+        509,
+        685,
+        803,
+        804,
+        862
+      ],
+      "verification_ids": [
+        68,
+        346,
+        623
+      ],
+      "substrate": "ro_khanna.pfd_schedule_a_assets + pfd_schedule_d_liabilities + pfd_schedule_b_income WHERE filer Khanna AND tax_year BETWEEN 2014 AND 2023",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%dover%' OR predicate ILIKE '%delaware%rental%' OR predicate ILIKE '%first_bank_of_wilmington%' OR predicate ILIKE '%first_bank_wilmington%' OR predicate ILIKE '%khanna%dover_de%' OR predicate ILIKE '%schedule_a%dover%' OR predicate ILIKE '%pfd_schedule_a%no_direct_dover%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Operative Count 6 ¶64a § 13104(a)(1)(B) + § 13104(a)(3) anchor: structurally probative of disclosure defect via 6-of-7 paired-disclosure exemplar 'filer knows the pattern' rebuttal.",
+      "what_shows": "Defeats 'reasonable interpretation of filing form' / 'good-faith confusion' defenses by isolating Dover DE as sole asymmetric outlier across 10 years; § 13104(a)(3) categorical reportability not satisfied.",
+      "first_seen_section": "III.6"
+    },
+    {
+      "claim_id": "OCC_M058",
+      "claim_summary": "Household margin-loan ladder TY2017-TY2020 emerging post-swearing-in: TY2017 Goldman Sachs single liability '$1M+'; TY2018 Goldman × 2 combined $265K-$550K; TY2019 Ritu Ahuja 1994 Trust $100K-$250K + Goldman $250K-$500K; TY2020 combined $500K-$1M across 2 liabilities. All margin creditors SP-owner-coded; mechanically paired with active written-PUT-option transactions.",
+      "fact_ids": [
+        503,
+        504,
+        505,
+        605,
+        642,
+        1142,
+        1158
+      ],
+      "verification_ids": [
+        273,
+        660
+      ],
+      "substrate": "ro_khanna.pfd_schedule_d_liabilities WHERE filer Khanna AND tax_year BETWEEN 2017 AND 2020 AND creditor ILIKE '%Goldman%'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%goldman%margin%' OR predicate ILIKE '%margin_loan%' OR predicate ILIKE '%margin_ladder%' OR predicate ILIKE '%margin_scaffold%' OR predicate ILIKE '%schedule_d_liability_ladder%' OR predicate ILIKE '%ritu_ahuja_1994_trust%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Forecloses passive-SMA / QBT / EIF defense under § 13104(f)(3): Reg T + standard brokerage margin agreements require customer authorization for written-option orders on margined accounts; passive custodial structure cannot originate.",
+      "what_shows": "Combined record (margin + written-options) anchors Count 6 ¶64b § 13104(f)(3) compliance review; cross-references Count 3 ¶34d + ¶34e conflict triangle.",
+      "first_seen_section": "III.6"
+    },
+    {
+      "claim_id": "OCC_M060",
+      "claim_summary": "Donor-employer × household-PTR overlap corroboration: ticker-for-ticker convergence between principal-committee employer-donor cluster and household PTR inventory: Alphabet 265 tx / Microsoft 175 / Adobe 164 / Morgan Stanley 158 / Apple 147 / Oracle 99 / Meta 165 / Salesforce 116 / KKR 66 / Synopsys 63. Foundation corpus additionally overlaps on 19 tickers with household PTR inventory.",
+      "fact_ids": [
+        499
+      ],
+      "verification_ids": [],
+      "substrate": "lake.fec_individual_contributions JOIN lake.house_ptr_transactions_canonical via contributor_employer + asset_ticker token mapping; Foundation overlay via lake.irs_990_pf_noncash_donations",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%donor_employer%ptr%' OR predicate ILIKE '%employer_cluster%household%' OR predicate ILIKE '%alphabet%khanna%' OR predicate ILIKE '%household_ptr%donor%' OR predicate ILIKE '%employer_donor%household%' OR predicate ILIKE '%principal_committee%employer%household%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Materially corroborates Count 6 § 13104 disclosure-completeness scope question via concentric-pattern convergence.",
+      "what_shows": "Anchors ¶64d cross-reference to companion House Ethics submission §3.3 principal-committee employer cluster × household PTR crosswalk.",
+      "first_seen_section": "III.6"
+    },
+    {
+      "claim_id": "OCC_M061",
+      "claim_summary": "Aggregate household economic gain Damages Table: notional traded $11.5M low / $39.7M mid / $67.9M high; terminal P&L $14.6M low / $61.0M mid / $107.5M high; SPY baseline $32.9M; alpha over SPY $28.2M.",
+      "fact_ids": [
+        225
+      ],
+      "verification_ids": [
+        327,
+        351
+      ],
+      "substrate": "ro_khanna.damages_summary",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%household_terminal%' OR predicate ILIKE '%terminal_pnl%' OR predicate ILIKE '%terminal_pl%' OR predicate ILIKE '%alpha_spy%' OR predicate ILIKE '%damages_summary%' OR predicate ILIKE '%khanna%63_7%' OR predicate ILIKE '%khanna%112_1%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Operative §IV Damages Table aggregating Counts 1-3 trade-attributable P&L.",
+      "what_shows": "Anchors disgorgement-target framing ($25.2M-$28.2M Treasury-allocable; alpha-over-SPY conservative; in-window aggressive).",
+      "first_seen_section": "IV"
+    },
+    {
+      "claim_id": "OCC_M062",
+      "claim_summary": "Window-attributable share: 41.3% of midpoint terminal P&L ($25.2M) generated by trades placed within ±14 calendar days of NDAA enactment OR CMS rulemaking action OR same-day 8-K filing OR USAspending prime-contract action. Substantially above 30% threshold signaling non-random event-window concentration.",
+      "fact_ids": [
+        225,
+        242,
+        245,
+        277,
+        278,
+        280,
+        289,
+        294,
+        301
+      ],
+      "verification_ids": [
+        152,
+        327,
+        351,
+        448,
+        457,
+        459,
+        469,
+        470,
+        471,
+        482,
+        543
+      ],
+      "substrate": "ro_khanna.trade_pnl WHERE event_window_flag=TRUE; ro_khanna.damages_summary",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%window%attributable%' OR predicate ILIKE '%event_window%' OR predicate ILIKE '%windowed%' OR predicate ILIKE '%damages%window%' OR predicate ILIKE '%household_terminal%' OR predicate ILIKE '%khanna%25_7%' OR predicate ILIKE '%khanna%40_4%' OR predicate ILIKE '%household_pnl%event%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Operative §IV ¶67 window-attributable quantum; key disgorgement floor.",
+      "what_shows": "41.3% > 30% non-random threshold = concentration evidence. Drives less-conservative disgorgement theory targeting full $25.2M in-window P&L.",
+      "first_seen_section": "IV"
+    },
+    {
+      "claim_id": "OCC_M063",
+      "claim_summary": "T+30 short-window signal: $293,646 of $509,114 household T+30 mark-to-market P&L (57.7%) attributable to event-window trades = 3.4× per-trade ratio between windowed and non-windowed T+30 P&L.",
+      "fact_ids": [],
+      "verification_ids": [],
+      "substrate": "ro_khanna.trade_pnl WHERE horizon='T+30' GROUP BY event_window_flag",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%t_30%' OR predicate ILIKE '%t30%' OR predicate ILIKE '%t+30%' OR predicate ILIKE '%short_window%' OR predicate ILIKE '%mark_to_market%' OR predicate ILIKE '%mnpi_timing%' OR predicate ILIKE '%509_114%' OR predicate ILIKE '%293_646%' OR predicate ILIKE '%trade_pnl%horizon%' OR predicate ILIKE '%household%pl%horizon%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Per-trade short-window ratio consistent with MNPI-driven timing advantage rather than long-horizon skill.",
+      "what_shows": "Independent §IV ¶68 metric corroborating event-window concentration via short-horizon performance differential.",
+      "first_seen_section": "IV"
+    },
+    {
+      "claim_id": "OCC_M064",
+      "claim_summary": "Sector-level alpha attribution (midpoint): Big Tech $28.7M / Defense Prime $5.5M / Defense Tech $0.7M / Pharma+Healthcare -$5.6M (negative; not claimed).",
+      "fact_ids": [
+        820,
+        833
+      ],
+      "verification_ids": [],
+      "substrate": "ro_khanna.trade_pnl GROUP BY sector",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%sector%alpha%' OR predicate ILIKE '%alpha_attribution%' OR predicate ILIKE '%big_tech%pnl%' OR predicate ILIKE '%big_tech%alpha%' OR predicate ILIKE '%sector_pnl%' OR predicate ILIKE '%defense_prime%pnl%' OR predicate ILIKE '%pharma%alpha%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Sector decomposition of midpoint alpha; Big Tech is largest contributor; Pharma negative concedes directional miss while regulatory-timing signal remains operative under dual-benchmark methodology.",
+      "what_shows": "§IV ¶69 sector breakdown; supports Count 3 ¶34 dual-benchmark candor by acknowledging sector-matched-positive vs SPY-relative-negative split.",
+      "first_seen_section": "IV"
+    },
+    {
+      "claim_id": "OCC_M065",
+      "claim_summary": "Response #1 SMA-defense rebuttal (Mitigated): no SMA broker / no QBT / no third-party discretionary custodian on 2024 Annual PFD per Tesseract OCR; PTR-side cross-confirmation across 114 PTRs attributes substantially every reportable transaction to ~12 named Ahuja-family trusts; zero rows attribute to Schwab / Fidelity / Vanguard / Morgan Stanley / Goldman Sachs / Merrill brokerage account.",
+      "fact_ids": [
+        38,
+        80,
+        209,
+        474,
+        807
+      ],
+      "verification_ids": [
+        295,
+        418,
+        442,
+        445
+      ],
+      "substrate": "ro_khanna.pfd_schedule_a_assets WHERE doc_id='8221318'; ro_khanna.ptr_filing_audit aggregated by account_custodian",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna_pfd%no_sma%' OR predicate ILIKE '%no_qbt%no_sma%' OR predicate ILIKE '%no_third_party%custodian%' OR predicate ILIKE '%sma_defense%' OR predicate ILIKE '%passive_account%defense%' OR predicate ILIKE '%family_trust%' OR predicate ILIKE '%qualified_blind_trust%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Operative §VI ¶78 Response #1 rebuttal anchor; key fact F80 SMA-defense rebuttal across Counts 1, 2, 3, 7.",
+      "what_shows": "Documents structural reliance on non-custodial spouse / DC accounts for executing household trades; SMA defense factually absent both PFD + PTR streams.",
+      "first_seen_section": "VI"
+    },
+    {
+      "claim_id": "OCC_M066",
+      "claim_summary": "Response #12 donor-capture rebuttal (Acknowledged + preempted): three diagnostic dimensions show donor-capture pathway absent — (a) PAC dependency 0.019% chamber rank 4/219 P0.5; (b) Form 3L bundler = 1 (JStreetPAC $25,750); (c) AIPAC/JStreet split = zero AIPAC vs Gottheimer $452,451 (17.6× opposite Israel-policy spectrum).",
+      "fact_ids": [
+        327,
+        328,
+        329,
+        333
+      ],
+      "verification_ids": [
+        131,
+        144,
+        432,
+        460,
+        462,
+        478,
+        542
+      ],
+      "substrate": "lake.fec_committee_disbursements WHERE recipient_committee_id = 'C00503185'; lake.fec_form3l WHERE candidate_id='H4CA12055'; lake.fec_individual_contributions employer ILIKE patterns for AIPAC + JStreet bundling",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%form_3l%' OR predicate ILIKE '%jstreetpac%' OR predicate ILIKE '%aipac%' OR predicate ILIKE '%no_shared_vendor%' OR predicate ILIKE '%global_strategy_group%' OR predicate ILIKE '%donor_capture%' OR predicate ILIKE '%pac_dependency%'",
+      "element_id": null,
+      "theory_id": 401,
+      "what_means": "Operative §VI ¶89 four-dimension donor-capture preemption.",
+      "what_shows": "Confirms Count rests on conduct (household trading + Foundation routing + NDAA-window timing + CMS-window timing + same-day-8K + 12-year IE benefit), NOT contribution-side capture.",
+      "first_seen_section": "VI"
+    },
+    {
+      "claim_id": "OCC_M067",
+      "claim_summary": "Response #12a MUR 7062 distinguishability (Acknowledged + preempted): Ro For Congress entered Pre-Probable-Cause Conciliation Agreement in MUR 7062 executed 2021-10-26 following 6-0 FEC vote 2021-10-12; co-respondents = treasurer + RevUp Software + Steven Spinner + Numero. Concerned 52 U.S.C. § 30111(a)(4) + 11 C.F.R. § 104.15(a) re RevUp FEC-database fundraising tool. Khanna personally received 'Dismissed-Other / No action' disposition. Present complaint factually + legally distinct; no res-judicata / issue-preclusion.",
+      "fact_ids": [
+        407
+      ],
+      "verification_ids": [
+        237,
+        269
+      ],
+      "substrate": "lake.fec_mur WHERE mur_number=7062; FEC public docket",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%mur_7062%' OR predicate ILIKE '%mur7062%' OR predicate ILIKE '%revup%' OR predicate ILIKE '%conciliation_agreement%' OR predicate ILIKE '%pre_probable_cause%' OR predicate ILIKE '%dismissed_other%'",
+      "element_id": null,
+      "theory_id": 401,
+      "what_means": "Procedural-hygiene disclosure of sole prior adverse civil FEC action of record against Ro For Congress.",
+      "what_shows": "Defeats opposing counsel's likely 'complainant seeks to relitigate' rebuttal; pre-emptive distinguishability framing under res-judicata / issue-preclusion doctrine.",
+      "first_seen_section": "VI"
+    },
+    {
+      "claim_id": "OCC_M068",
+      "claim_summary": "Response #13 progressive-disconnect framing (Acknowledged + preempted): Khanna issued ≥8 dated public statements demanding Member stock-trading ban or condemning Member trading 2023-09-14 through 2026-04-15, paired with ~5,681 household transactions within ±30 calendar days of those statements totaling ~$30.5M-$156.2M notional. Headline: 2024-12-27 X post demanding ban + same-calendar-day SP-owned BUY orders in OKTA + Ultra Clean Holdings.",
+      "fact_ids": [
+        323
+      ],
+      "verification_ids": [
+        597,
+        611
+      ],
+      "substrate": "lake.house_ptr_transactions_canonical WHERE filer Khanna AND transaction_date within ±30d of statement_date list 2023-09 to 2026-04; lake.x_twitter_posts WHERE author='RoKhanna'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%stock_act_reform%' OR predicate ILIKE '%khanna%5681%' OR predicate ILIKE '%okta%' OR predicate ILIKE '%ultra_clean%' OR predicate ILIKE '%progressive_disconnect%' OR predicate ILIKE '%irony%khanna%' OR predicate ILIKE '%khanna%30M_to_156M%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Documents disconnect between progressive public posture and household-facing trading conduct; Count not directed at posture or rhetoric, directed at the disconnect.",
+      "what_shows": "Anchors §VI ¶90 Response #13 rebuttal; complaint built on disconnect, not on claim public posture itself fraudulent.",
+      "first_seen_section": "VI"
+    },
+    {
+      "claim_id": "OCC_M069",
+      "claim_summary": "Response #14 trade-citation OCR-defect rebuttal (Acknowledged + preempted): all 28 specific household transactions cited carry zero extraction-pipeline audit flags; each (a) eyeball-verified against source House Clerk PDF; (b) Gemini OCR re-extraction with exact row-quote capture; (c) cross-validated against canonical transaction-grain amendment-cascade-deduplicated view. Three-way agreement: 11 of 12 CMS/IRA pharma cohort trades (92%); 21 of 28 cited trades achieve ≥2-of-3 (75%) across lake + Capitol Trades + QuiverQuant.",
+      "fact_ids": [
+        700
+      ],
+      "verification_ids": [],
+      "substrate": "ro_khanna.cited_trades_3way_validation; ro_khanna.ptr_filing_audit WHERE audit_flag='auditable'; Capitol Trades + QuiverQuant snapshots",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%capitol_trades%' OR predicate ILIKE '%quiverquant%' OR predicate ILIKE '%3way%' OR predicate ILIKE '%three_way%' OR predicate ILIKE '%kfv2_3way%' OR predicate ILIKE '%cms_pharma_cohort%corroborated%' OR predicate ILIKE '%trade_citation%audit_flag%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Documents triangulation discipline; defects in third-party trackers (QuiverQuant ticker corruption on 2 PLTR docs; year-digit parse on 1 CIGNA row; Capitol Trades pre-April-2023 coverage gap on 5 early NDAA trades) disclosed for candor; all orthogonal to House Clerk PDF substrate.",
+      "what_shows": "Anchors §VI ¶91 Response #14 + Exhibit FF; defeats 'OCR contamination' rebuttal across 75% / 92% triangulation thresholds.",
+      "first_seen_section": "VI"
+    },
+    {
+      "claim_id": "OCC_M070",
+      "claim_summary": "5 U.S.C. § 13105(l) STOCK Act §6 PTR 45-day deadline (operative; predecessor 5 U.S.C. App. § 103(l) per P.L. 117-286 § 7 2022-12-27 recodification).",
+      "fact_ids": [
+        525
+      ],
+      "verification_ids": [
+        374,
+        376
+      ],
+      "substrate": "public.v_statute_current WHERE jurisdiction='federal_usc' AND title_number='5' AND section='13105'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%legal_authority%stock_act%6%' OR predicate ILIKE '%legal_authority%stock_act_sec6%' OR predicate ILIKE '%stock_act%45_day%' OR predicate ILIKE '%legal_authority%13105%' OR predicate ILIKE '%ptr_45_day%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Operative statute-cite anchor for Count 1; verifier protocol = C.VERIFIER:statute_cite_resolve.",
+      "what_shows": "Authoritative citation form per .claude/rules/citation-currency.md; defeats opposing-counsel obsolete-form rebuttal.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M071",
+      "claim_summary": "5 U.S.C. § 13106 EIGA civil penalty framework (predecessor 5 U.S.C. App. § 104; $200/violation minimum; Committee on Ethics waiver authority).",
+      "fact_ids": [
+        526,
+        527,
+        850
+      ],
+      "verification_ids": [
+        231,
+        375,
+        396
+      ],
+      "substrate": "public.v_statute_current WHERE jurisdiction='federal_usc' AND title_number='5' AND section='13106'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%legal_authority%eiga%' OR predicate ILIKE '%legal_authority%13106%' OR predicate ILIKE '%eiga_sec_104%' OR predicate ILIKE '%eiga%penalt%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Operative civil-penalty framework anchor for Count 1 + Count 6 relief sought.",
+      "what_shows": "Authoritative citation form; § 13106 (not § 104) is current operative; predecessor cite permitted only in pre-2022-conduct narrative parentheticals.",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M072",
+      "claim_summary": "15 U.S.C. § 78u-1(g) STOCK Act §§ 3-4 MNPI extension to Members of Congress (operative; section number unchanged P.L. 117-286 cross-ref conformance only).",
+      "fact_ids": [
+        524
+      ],
+      "verification_ids": [
+        372,
+        373
+      ],
+      "substrate": "public.v_statute_current WHERE jurisdiction='federal_usc' AND title_number='15' AND section='78u-1'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%legal_authority%stock_act_sec3_4%' OR predicate ILIKE '%stock_act_mnpi%' OR predicate ILIKE '%legal_authority%78u%' OR predicate ILIKE '%legal_authority%mnpi%'",
+      "element_id": null,
+      "theory_id": 101,
+      "what_means": "Operative MNPI-extension authority anchor for Counts 1-3 §§ 3-4 framing.",
+      "what_shows": "Drives DOJ + SEC cross-referral framework; underlies Counts 2 (NDAA front-running) + 3 (CMS/HHS conflict).",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M073",
+      "claim_summary": "5 U.S.C. § 13104(d)(1)(A) spouse-asset disclosure scope (operative; predecessor 5 U.S.C. App. § 102(d)(1)(A)).",
+      "fact_ids": [
+        526,
+        850
+      ],
+      "verification_ids": [
+        231,
+        396
+      ],
+      "substrate": "public.v_statute_current WHERE jurisdiction='federal_usc' AND title_number='5' AND section='13104'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%legal_authority%eiga_pfd_content%' OR predicate ILIKE '%legal_authority%13104%' OR predicate ILIKE '%spouse_asset_disclosure%' OR predicate ILIKE '%pfd_content%'",
+      "element_id": null,
+      "theory_id": 301,
+      "what_means": "Operative spouse-asset disclosure-scope authority for Count 6 Ahuja Foundation interpretive question.",
+      "what_shows": "Anchors Count 6 ¶64 + ¶65 Committee on Ethics interpretive review under OGE Letter Opinion 03-2 + DOJ Advisory Opinion 170 persuasive secondary authority.",
+      "first_seen_section": "III.6"
+    },
+    {
+      "claim_id": "OCC_M074",
+      "claim_summary": "11 C.F.R. § 109.21 coordinated communications test (3-prong: payment-source + content + conduct).",
+      "fact_ids": [
+        580
+      ],
+      "verification_ids": [
+        169,
+        240,
+        247,
+        248
+      ],
+      "substrate": "public.v_statute_current WHERE jurisdiction='federal_cfr' AND title_number='11' AND section='109.21'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%legal_authority%109_21%' OR predicate ILIKE '%legal_authority%11_cfr%' OR predicate ILIKE '%coordination_test%' OR predicate ILIKE '%coordinated_communications%'",
+      "element_id": null,
+      "theory_id": 401,
+      "what_means": "Operative coordination-test authority for Count 4 IE-coordination framing; common-vendor rebuttable presumption at § 109.21(d)(4).",
+      "what_shows": "Anchors Count 4 IE-coordination framework; Citizens United-required actual-independence test via 3-prong rule.",
+      "first_seen_section": "III.4"
+    },
+    {
+      "claim_id": "OCC_M075",
+      "claim_summary": "52 U.S.C. § 30116(a)(7)(B)(i) FECA contribution limits applicable to coordinated communications.",
+      "fact_ids": [
+        530
+      ],
+      "verification_ids": [
+        165,
+        173,
+        242,
+        243
+      ],
+      "substrate": "public.v_statute_current WHERE jurisdiction='federal_usc' AND title_number='52' AND section='30116'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%legal_authority%feca%' OR predicate ILIKE '%legal_authority%30116%' OR predicate ILIKE '%feca_sec315%' OR predicate ILIKE '%feca%coordination%'",
+      "element_id": null,
+      "theory_id": 401,
+      "what_means": "Operative FECA contribution-limits authority for Count 4 in-kind recharacterization theory.",
+      "what_shows": "Anchors §V ¶73 civil penalty framework: if FEC finds coordination, $108,545.79 IEs become excess in-kind contribution subject to § 30109.",
+      "first_seen_section": "III.4"
+    },
+    {
+      "claim_id": "OCC_M076",
+      "claim_summary": "2 U.S.C. § 1604(d) LDA § 203 semi-annual Lobbyist Contribution Report (LD-203) requirement; § 1606(a) civil penalties up to $200K/knowing or $50K/negligent; § 1605(a)(8) prosecutorial referral.",
+      "fact_ids": [
+        531,
+        532,
+        834,
+        835,
+        836
+      ],
+      "verification_ids": [
+        377,
+        381,
+        391,
+        392
+      ],
+      "substrate": "public.v_statute_current WHERE jurisdiction='federal_usc' AND title_number='2' AND section IN ('1604','1605','1606')",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%legal_authority%lda%' OR predicate ILIKE '%legal_authority%1604%' OR predicate ILIKE '%legal_authority%1605%' OR predicate ILIKE '%legal_authority%1606%' OR predicate ILIKE '%lda_sec203%' OR predicate ILIKE '%hloga_sec305%'",
+      "element_id": null,
+      "theory_id": 501,
+      "what_means": "Operative LD-203 disclosure + civil/criminal penalty authority for Counts 5 + 6 (Israel omission + Taylor false certification).",
+      "what_shows": "Drives §V ¶74 + ¶75 + ¶76 relief framework; § 1606(b) criminal posture for Taylor affirmative-false-certification charge.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M077",
+      "claim_summary": "18 U.S.C. § 207 post-employment restrictions on federal executive-branch officials (subsections (a)(1) lifetime / (a)(2) 2-yr / (b) 1-yr senior / (c) 1-yr designated-component / (e) 1-yr legislative-staff / (f) 1-yr foreign-entity); § 207(i)(3) particular-matter definition.",
+      "fact_ids": [
+        528
+      ],
+      "verification_ids": [],
+      "substrate": "public.v_statute_current WHERE jurisdiction='federal_usc' AND title_number='18' AND section='207'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%legal_authority%207%' OR predicate ILIKE '%legal_authority%post_employment%' OR predicate ILIKE '%18_usc_207%' OR predicate ILIKE '%legal_authority%revolving%'",
+      "element_id": null,
+      "theory_id": 601,
+      "what_means": "Operative post-employment authority for Count 5 5-individual subsection-by-individual reference table.",
+      "what_shows": "Anchors Count 5 ¶53a § 207 reference table; Robert Taylor § 207(a)(1) DASD-Senate-Affairs case is sharpest predicate on referral.",
+      "first_seen_section": "III.5"
+    },
+    {
+      "claim_id": "OCC_M078",
+      "claim_summary": "House Rule XXIII Code of Official Conduct (cl. 1 conduct reflecting creditably; cl. 2 prohibition on use of official position for personal gain; cl. 9 acceptance thresholds for contributions from registered lobbyists).",
+      "fact_ids": [
+        529,
+        577
+      ],
+      "verification_ids": [
+        380
+      ],
+      "substrate": "public.v_statute_current WHERE jurisdiction='house_rules' AND section ILIKE '%XXIII%'",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%house_rule%' OR predicate ILIKE '%legal_authority%xxiii%' OR predicate ILIKE '%code_of_official_conduct%' OR predicate ILIKE '%rule_xxiii%' OR predicate ILIKE '%legal_authority%18_usc_201%' OR predicate ILIKE '%legal_authority%18_usc_208%'",
+      "element_id": null,
+      "theory_id": null,
+      "what_means": "Operative House Rules cross-reference for Counts 1, 2, 4, 6 framing.",
+      "what_shows": "Anchors §VI ¶80 Response #2 'Member stock-trading-ban policy' rebuttal + Count 5 Siddiqui House Rule XXIII cl. 9 acceptance-threshold framing (legislative-branch tenure not § 207-cognizable).",
+      "first_seen_section": "III.1"
+    },
+    {
+      "claim_id": "OCC_M079",
+      "claim_summary": "Exhibit catalog: 30+ lettered exhibits A-JJ + MNPI + REVOLVING_DOOR; OCC_EXHIBIT_LIST.md governs cross-reference in event of conflict; §VII summary table cross-references each exhibit letter to its file path (absolute and via ../EXHIBIT_*.md relative path).",
+      "fact_ids": [],
+      "verification_ids": [],
+      "substrate": "outputs/leads/exhibit_packets/ro_khanna_political_dossier/EXHIBIT_*.md + OCC_FILING_PACKAGE_V2/OCC_EXHIBIT_LIST.md cross-reference",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%exhibit_catalog%' OR predicate ILIKE '%occ_exhibit_list%30_exhibits%' OR predicate ILIKE '%khanna%exhibits_a_through_jj%'",
+      "element_id": null,
+      "theory_id": null,
+      "what_means": "Catalog-completeness anchor; ensures every body §-VI Response anchor resolves to an exhibit file at the claimed path.",
+      "what_shows": "Anchors §VII summary table; SHA256 manifest covers all referenced exhibit files.",
+      "first_seen_section": "VII"
+    },
+    {
+      "claim_id": "OCC_M080",
+      "claim_summary": "Methodology footer: substrates enumerated (House Clerk PTR / PFD via Gemini per-page + canonical view; FEC Forms 3/3X/5/24/3L/1 + Schedule E via bulk-data; Senate LDA bulk XML + LD-203; FARA.gov; IRS 990-PF e-file corpus; Clerk roll-call; USAspending; CMS rulemaking; FDA AdCom calendar; SEC 8-K/4/5; Cal-Access Form 497; SF Ethics). Dedup: PTR via earliest-disclosure canonical view; Schedule E via (committee_id, candidate_id, transaction_id). Composite score: dollar_weighted_midpoint_late × (worst_days_late/365) × ln(1 + n_tx_late). Statute currency: every operative cite resolves via public.v_statute_current.",
+      "fact_ids": [],
+      "verification_ids": [],
+      "substrate": "outputs/leads/exhibit_packets/ro_khanna_political_dossier/OCC_FILING_PACKAGE_V2/OCC_COMPLAINT_KHANNA.md §METHODOLOGY footer",
+      "sql_digest": null,
+      "sql_text": null,
+      "predicate_grep": "predicate ILIKE '%khanna%methodology_footer%' OR predicate ILIKE '%khanna%substrate_enumerated%' OR predicate ILIKE '%khanna%composite_score_definition%' OR predicate ILIKE '%khanna%dedup_canonical_view%'",
+      "element_id": null,
+      "theory_id": null,
+      "what_means": "Reproducibility-protocol anchor; every cited substrate, dedup rule, and computational definition is disclosed for reviewer audit.",
+      "what_shows": "Anchors REPRODUCIBILITY_METHODOLOGY_OCC.md cover doc (S5) by giving the in-body footer the cover doc expands; cold-start verifier (S6) tests every claim against the same substrates.",
+      "first_seen_section": "METHODOLOGY"
+    }
+  ]
+}

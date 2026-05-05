@@ -1,0 +1,88 @@
+{
+  "doc_id": "8217394",
+  "errors": [],
+  "file_key": "8217394",
+  "pages": {
+    "0": {
+      "detected_rotation": 0,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 91,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 1244,
+      "tokens_out": 853
+    },
+    "1": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 43,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot90",
+      "tokens_in": 3732,
+      "tokens_out": 1226
+    },
+    "2": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 69,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 3732,
+      "tokens_out": 1753
+    },
+    "3": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 518,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 3732,
+      "tokens_out": 39029
+    },
+    "4": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 524,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 3732,
+      "tokens_out": 38891
+    },
+    "5": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 516,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 3732,
+      "tokens_out": 40975
+    },
+    "6": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 402,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 3732,
+      "tokens_out": 39639
+    }
+  },
+  "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217394.pdf",
+  "stats": {
+    "elapsed_s": 111.7,
+    "n_failed": 0,
+    "n_ok": 7,
+    "pages_submitted": 7,
+    "tokens_in": 23636,
+    "tokens_out": 162366
+  },
+  "total_pages": 7,
+  "year": 2020
+}

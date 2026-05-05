@@ -1,0 +1,482 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8217856
+#   year          : 2021
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217856.pdf
+#   total_pages   : 6
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:51:05 UTC
+#   tokens_in     : 14,928
+#   tokens_out    : 8,967
+
+--- PAGE 01 ---
+FEB '11 2021
+UNITED STATES HOUSE OF REPRESENTATIVES
+Name: Rohit Khanna Page 1 of 6
+Periodic Transaction Report
+LEGISLATIVE RESOURCE CENTER
+2021 FEB 16 AM 11: 05
+OFFICE TELEPHONE: 202-225-2631
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+NAME: Rohit Khanna
+Officer or Employee
+Employing Office:
+X Member of the U.S. House of Representatives
+State: CA District: 17
+File an original and 2 copies File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+X Initial Report Amendment
+Date of Report Being Amended: ____________________
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+A B C D E F G H I J K
+SP
+DC
+JT
+JT Example: Mega Corp. Common Stock X 02/05/15 03/07/15 X
+Please see the attached
+(For Official Use Only)
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, nor ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+M&R Trust Partnership
+2020 Trust FBO Khanna Children
+DC
+Realpage Inc.
+x
+x
+01/11/21
+02/02/21
+x
+$1,001 - $15,000
+DC
+Realpage Inc.
+x
+x
+01/21/21
+02/02/21
+x
+$1,001 - $15,000
+DC
+Paypal Holdings Inc
+x
+x
+01/22/21
+02/02/21
+x
+$1,001 - $15,000
+DC
+Netflix Inc.
+x
+x
+01/22/21
+02/02/21
+x
+$1,001 - $15,000
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 6
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in Spouse or Dependent Child Asset
+SP DC JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+Arsco LP
+2020 Trust FBO Khanna Children
+DC
+Netflix Inc.
+X
+X
+01/22/21
+02/02/21
+X
+DC
+PayPal Holdings Inc.
+X
+X
+01/22/21
+02/02/21
+X
+Grandchildren's Trust
+DC
+PayPal Holdings Inc.
+X
+X
+01/22/21
+02/02/21
+X
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol
+Purchase
+Sale
+Exchange
+Capital Gain
+over $200
+Partial Sale
+MM/DD/YY
+MM/DD/YY
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+over
+$1,000,000
+Ritu Ahuja 1994 Trust
+SP
+VIRGINIA ST PUB BLDG AUTH PUB REV 5% 08/01/21 FA
+x
+01/04/21
+02/02/21
+x
+SP
+COLUMBIA CNTY WIS GO 4% 08/01/21 FA
+x
+01/04/21
+02/02/21
+x
+Ritu Ahuja 1995 Trust
+SP
+SEDGWICK CNTY KANS UNI SCH GO 4% 10/01/21 AO
+x
+01/14/21
+02/02/21
+x
+SP
+GREATER ALBANY SCH DIST NO 8I GO 5% 06/15/21 JD
+x
+01/25/21
+02/02/21
+x
+SP
+CLARK CNTY WASH PUB UTIL DIST REV 5% 01/01/22 JJ
+x
+01/14/21
+02/02/21
+x
+SP
+HOUSTON TEX UTIL SYS REV REV 4% 11/15/21 MN
+x
+01/14/21
+02/02/21
+x
+SP
+AUSTIN TEX GO 5% 05/01/21 MN
+x
+01/26/21
+02/02/21
+x
+SP
+PLEASANT PRAIRIE WIS GO 2.2500% 09/01/21 MS
+x
+01/14/21
+02/02/21
+x
+SP
+MIAMI DADE WATER & SEWER DEPT REV 4% 10/01/21 AO
+x
+01/14/21
+02/02/21
+x
+SP
+CLARK CNTY WASH SCH DIST NO GO 5% 12/01/21 JD
+x
+01/14/21
+02/02/21
+x
+SP
+LEWISVILLE TEX INDPT SCH DIST GO 3% 08/15/21 FA
+x
+01/19/21
+02/02/21
+x
+SP
+JACKSON TENN ENERGY AUTH WTR REV 5% 12/01/21 JD
+x
+01/14/21
+02/02/21
+x
+SP
+MASSACHUSETTS ST GO 4 5000% 08/01/43 FA
+x
+01/19/21
+02/02/21
+x
+SP
+NORTH CAROLINA ST CAP IMPT LTD REV 5% 05/01/25 MN
+x
+01/20/21
+02/02/21
+x
+SP
+WASHINGTON ST DB 5% 06/01/21 JD
+x
+01/25/21
+02/02/21
+x
+SP
+GEORGIA ST GO 4.5000% 07/01/28 JJ
+x
+01/26/21
+02/02/21
+x
+SP
+NY ST DORM AUTH REVS REV 5.0000% 10/31/21 AO
+x
+01/25/21
+02/02/21
+x
+SP
+ARIZONA ST TRANSH BRD HWY REV 5% 07/01/22 JJ
+x
+01/21/21
+02/02/21
+x
+SP
+NYC TRANSITIONAL FINANCE AUTH REV 5 0000% 08/01/21 FA
+x
+01/19/21
+02/02/21
+x
+
+--- PAGE 05 ---
+NAME: Ro Khanna Page 5 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Provide full name, not ticker symbol
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+M&R Trust Partnership
+2020 Trust FBO Khanna Children
+DC
+CHEVRON CORP COM NEW (CVX)
+X
+01/04/21
+02/08/21
+X
+DC
+NORTH TEX TWY AUTH REV REF 5% 2025 14R
+X
+01/04/21
+02/08/21
+X
+DC
+WASHINGTON ST WTR PWR PUB BD REF 2025 14R
+X
+01/04/21
+02/08/21
+X
+DC
+COMCAST CP CL A SP BOS SER 2020 A
+X
+01/15/21
+02/08/21
+X
+DC
+CARRIER GLOBAL CORPORATION COM
+X
+1/28/201
+02/08/21
+X
+
+--- PAGE 06 ---
+NAME: Rohit Khanna Page 6 of 6
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Date of Transaction MM/DD/YY
+Date Notified of Transaction MM/DD/YY
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+Purchase
+Sale
+Exchange
+Partial Transaction
+A $1,001 - $15,000
+B $15,001 - $50,000
+C $50,001 - $100,000
+D $100,001 - $250,000
+E $250,001 - $500,000
+F $500,001 - $1,000,000
+G $1,000,001 - $5,000,000
+H $5,000,001 - $25,000,000
+I $25,000,001 - $50,000,000
+J Over $50,000,000
+K
+SP/DC/JT
+Provide full name, not ticker symbol
+DC Grandchildren's Trust (ASR Partners, LLC)
+DC Transtar/Speedstar Holding Company Class A Common
+DC Transtar/Speedstar Holding Company 1L Term Loan
+DC Transtar/Speedstar Holding Company Class A Common (Exchange out)
+DC HPCP Speedstar Acquisition LLC (Exchange in)
+x
+x
+x
+x
+x
+01/22/21
+01/22/21
+01/22/21
+01/22/21
+01/22/21
+01/22/21
+01/22/21
+01/22/21
+x
+x

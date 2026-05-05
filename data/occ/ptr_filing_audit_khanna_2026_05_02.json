@@ -1,0 +1,36 @@
+{
+  "snapshot_target": "OCC_M007 (rate aggregate) + OCC_M008 (worst single tx)",
+  "snapshot_taken_at": "2026-05-03T03:09:25.796784+00:00",
+  "snapshot_date": "2026_05_02",
+  "substrate_authoritative": "public.house_ptr_chamber_audit_by_member",
+  "substrate_authoritative_note": "post-canonical-view-dedup chamber audit (amendment cascade collapsed via lake.house_ptr_transactions_canonical tx-key (filer, asset_name, tx_date, tx_type, COALESCE(owner,'')); see .claude/rules/stock-act-audit.md §Amendment cascade and scripts/k_ptr_canonical_views.py)",
+  "substrate_per_tx": "ro_khanna.ptr_filing_audit (case-schema raw extract; USED ONLY for the per-tx HUMANA worst-late detail row, not for aggregates)",
+  "khanna_aggregate": {
+    "member_last_name": "Khanna",
+    "member_first_name": "Rohit",
+    "sample_state_district": "CA17",
+    "n_tx_total": 35954,
+    "n_tx_late": 624,
+    "n_docs_total": 114,
+    "n_docs_with_late": 22,
+    "pct_late": 1.74,
+    "worst_days_late": 358,
+    "n_tx_over_90d_late": 68,
+    "n_tx_over_180d_late": 63,
+    "n_tx_over_1yr_late": 0,
+    "median_days_late_when_late": 9.0
+  },
+  "worst_late_humana": {
+    "asset_name": "HUMANA INC. CMN",
+    "owner": "DC",
+    "transaction_date": "2023-10-02",
+    "actual_filing_date": "2024-11-08",
+    "days_late": 358,
+    "transaction_type": "S",
+    "amount_range": "$1,001 - $15,000"
+  },
+  "verifier_kinds_supported": [
+    "ptr_audit_aggregate (OCC_M007)",
+    "ptr_audit_worst_humana (OCC_M008)"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "khanna_ohlc_2026_05_02.json",
+  "snapshot_sha256": "efe9f79fc57a913404a3e8ae2485d352e0a8ba6679ee32b3b674cccf194405d6",
+  "snapshot_size_bytes": 2538714,
+  "primary_source_class": "yahoo_finance_chart_api_via_yfinance",
+  "primary_source_endpoints": [
+    {
+      "endpoint_url_template": "https://query1.finance.yahoo.com/v8/finance/chart/{TICKER}?period1={UNIX_START}&period2={UNIX_END}&interval=1d&events=splits,dividends",
+      "fetch_tool": "yfinance",
+      "fetch_tool_pypi_url": "https://pypi.org/project/yfinance/",
+      "fetch_tool_repo": "https://github.com/ranaroussi/yfinance",
+      "fetch_call_pattern": "yfinance.Ticker(t).history(start='2017-01-01', end='2026-04-18', auto_adjust=True)",
+      "tickers": ["AAPL", "ABBV", "ABT", "AMGN", "AMZN", "BA", "BIIB", "BSX", "COIN", "DXCM", "GD", "GE", "GEV", "GILD", "GOOG", "GOOGL", "HCA", "HON", "HUM", "INCY", "ISRG", "JNJ", "LHX", "LLY", "LMT", "MDT", "META", "MRK", "MRNA", "MSFT", "NOC", "NVDA", "ORCL", "PFE", "PLTR", "REGN", "RTX", "SPY", "SYK", "TDG", "TSLA", "VRTX"],
+      "n_tickers": 42,
+      "date_range": ["2017-01-03", "2026-04-16"],
+      "n_rows_total": 93705,
+      "auto_adjust": true,
+      "rate_limit_seconds_between_tickers": 0.5
+    }
+  ],
+  "fetch_script": "scripts/k_ro_khanna_s8b_03_fetch_ohlc.py",
+  "fetch_script_in_release": "fetch_substrate_ohlc.py (mirrored under V2 root for cold-start; same yfinance call pattern)",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:05:17.216964+00:00",
+  "post_fetch_transformations": [
+    {"step": "upsert_to_postgres", "table": "ro_khanna.daily_ohlc", "key": "(ticker, trade_date)"},
+    {"step": "snapshot_export_sql", "query": "SELECT ticker, trade_date, close_price FROM ro_khanna.daily_ohlc WHERE close_price IS NOT NULL ORDER BY ticker, trade_date"}
+  ],
+  "reproducibility": {
+    "is_re_runnable_by_reviewer": true,
+    "reviewer_command": "pip install yfinance && python -c \"import yfinance as yf, json; out={t: [(d.date().isoformat(), float(r['Close'])) for d,r in yf.Ticker(t).history(start='2017-01-01', end='2026-04-18', auto_adjust=True).iterrows()] for t in ['SPY','LMT','LHX','RTX','HON','GD','TDG','GEV','BA','NOC','PLTR','NVDA','AAPL','MSFT','GOOG','GOOGL','META','AMZN','ORCL','TSLA','COIN','PFE','MRK','LLY','ABBV','BSX','MDT','SYK','ISRG','DXCM','BIIB','REGN','VRTX','MRNA','GILD','AMGN','INCY','JNJ','ABT','HCA','HUM','BA']}; print(json.dumps(out, indent=2))\"",
+    "reviewer_expected_outcome": "yfinance pull returns the same daily-close series for the same (ticker, date) pairs. Absolute close prices may differ slightly across reviewer fetch dates due to Yahoo's retroactive split-adjustment rebases (see caveat below); relative ratios and rank ordering remain stable to within ~5%."
+  },
+  "split_adjustment_caveat": {
+    "description": "yfinance with auto_adjust=True returns Yahoo's split-and-dividend-adjusted close prices. When a ticker undergoes a stock split AFTER the snapshot date, Yahoo retroactively rewrites the historical adjusted-close series for that ticker so the entire history reflects the new split basis. A reviewer fetching the same (ticker, date) pair months after publication may therefore see a different absolute close price than the bundled snapshot — this is split-adjustment rebase, not a fetch error or pipeline drift.",
+    "what_remains_stable_across_rebases": [
+      "relative ordering of close prices within a single ticker's history",
+      "alpha ratios (subject_ticker_return / SPY_return) over the same window",
+      "trade-window concentration metrics (% of position established within ±N days of a target event)",
+      "split-adjusted percentage returns over any window (these ARE invariant under future splits)"
+    ],
+    "what_can_drift_across_rebases": [
+      "absolute close prices in dollar terms",
+      "absolute share counts (if a holding is restated post-split)",
+      "absolute trade-PnL dollar figures (typically <5% drift; F225 documented at 4.16% drift between original-extraction snapshot and post-cascade re-canonization)"
+    ]
+  },
+  "tier_d_spot_check_protocol": {
+    "description": "A reviewer can spot-check this snapshot by re-running the yfinance fetch for any single ticker + date subset and comparing the daily close series against the bundled snapshot. Use the reviewer_command above with a smaller ticker list (e.g., just SPY + LMT) for a fast spot-check.",
+    "expected_match_rate": "100% on (ticker, date) pair existence; ~95-99% on dollar value within ±2% per data point assuming no recent splits; lower if a ticker has split since snapshot date (in which case all of that ticker's pre-split closes will be uniformly rebased)."
+  },
+  "primary_source_jurisdictional_note": "Yahoo Finance is the published source. Yahoo aggregates exchange tape data (NYSE, NASDAQ, etc.) via licensed market-data feeds. Reviewers who want to bypass Yahoo entirely (paranoid-mode) can subscribe to a paid market-data vendor (Bloomberg, Refinitiv, Polygon.io, IEX Cloud) and re-derive the same close prices from primary exchange feeds. The bundled snapshot does not depend on any private data source — every value in it can be re-fetched anonymously by anyone with internet access and the yfinance Python package."
+}

@@ -1,0 +1,58 @@
+{
+  "doc_id": "8218031",
+  "errors": [],
+  "file_key": "8218031",
+  "pages": {
+    "0": {
+      "detected_rotation": 0,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 74,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 1244,
+      "tokens_out": 778
+    },
+    "1": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 55,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 3732,
+      "tokens_out": 33095
+    },
+    "2": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 420,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 7670
+    },
+    "3": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 51,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 3596
+    }
+  },
+  "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218031.pdf",
+  "stats": {
+    "elapsed_s": 90.02,
+    "n_failed": 0,
+    "n_ok": 4,
+    "pages_submitted": 4,
+    "tokens_in": 9952,
+    "tokens_out": 45139
+  },
+  "total_pages": 4,
+  "year": 2021
+}

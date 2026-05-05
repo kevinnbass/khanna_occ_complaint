@@ -1,0 +1,209 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 9114396
+#   year          : 2019
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114396.pdf
+#   total_pages   : 2
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:38:04 UTC
+#   tokens_in     : 3,732
+#   tokens_out    : 3,163
+
+--- PAGE 01 ---
+HAND
+DELIVERED
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+Rohit Khanna Page 1 of 2
+LEGISLATIVE RESOURCE CENTER
+2019 FEB 15 AM 9: 13
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+X Member of the U.S. House of Representatives
+State: CA District: 17
+File an original and 2 copies
+Officer or Employee
+Employing Office:
+File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X
+Initial Report Amendment
+Date of Report Being Amended: January 10, 2019
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+(For Official Use Only)
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/015
+03/07/15
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+Please see the attached
+X
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 2
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+Ritu Ahuja Declaration Trust
+SP
+N Y N Y CITY TRANSITIONAL REV 3% 02/01/19 FA
+x
+12/06/18
+02/07/19
+x
+SP
+NEW YORK ST DORM AUTH REV 5.2500% 07/01/27 JJ
+x
+12/06/18
+02/07/19
+x
+SP
+SOUTHAMPTON TOWN N Y GO 5% 10/01/19 AO
+x
+12/06/18
+02/07/19
+x
+SP
+NEW YORK ST URBAN DEV CORP REV 5% 12/15/18 JD
+x
+12/06/18
+02/07/19
+x
+SP
+COLUMBUS OHIO GO 4% 07/01/20 JJ
+x
+12/06/18
+02/07/19
+x
+SP
+SUCCESSOR AGY TO UPLAND CMNTY REV 4.0000% 09/01/19 MS
+x
+12/06/18
+02/07/19
+x
+SP
+MONROE CNTY N Y IDA SCH FAC REV 5% 05/01/24 MN
+x
+12/07/18
+02/07/19
+x
+SP
+N Y ST DORM AUTH REVS NON REV 4.0000% 08/15/20 FA
+x
+12/07/18
+02/07/19
+x
+SP
+N Y STATE THRUWAY AUTH REV 5.0000% 05/01/19 JJ
+x
+12/07/18
+02/07/19
+x
+SP
+HUDSON YDS INFRASTRCTRE CRP N Y REV 5.7500% 02/15/47-CA FA
+x
+12/10/18
+02/07/19
+x
+SP
+PORT AUTH N Y & N J REV 5% 12/01/25-CA JD
+x
+12/26/18
+02/07/19
+x

@@ -1,0 +1,1291 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8217894
+#   year          : 2021
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217894.pdf
+#   total_pages   : 6
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:51:29 UTC
+#   tokens_in     : 11,196
+#   tokens_out    : 14,895
+
+--- PAGE 01 ---
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+Name: Rohit Khanna Page 1 of 6
+MAR 10 2021
+LEGISLATIVE RESOURCE CENTER
+2021 MAR 12 PM 10: 22
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+X Member of the U.S. House of Representatives
+State: CA District: 17
+File an original and 2 copies
+Officer or Employee
+Employing Office:
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X
+Initial Report Amendment
+Date of Report Being Amended: ____________________
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP
+DC
+JT
+X
+02/05/15
+03/07/15
+X
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT Example: Mega Corp. Common Stock
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Period
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Provide full name, not ticker symbol.
+Transaction
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+over $1,000,000
+Arco LP
+2020 Trust FBO Khanna Children
+DC
+Visa Inc.
+X
+02/02/21
+03/01/21
+X
+DC
+IHS Markit Ltd.
+X
+02/02/21
+03/01/21
+X
+DC
+IHS Markit Ltd.
+X
+02/11/21
+03/01/21
+X
+DC
+Illumina Inc.
+X
+02/25/21
+03/01/21
+X
+DC
+Snap Inc.
+X
+02/25/21
+03/01/21
+X
+DC
+Match Group Inc.
+X
+02/25/21
+03/01/21
+X
+DC
+2020 Children's Trust
+X
+02/25/21
+03/01/21
+X
+DC
+IHS Markit Ltd.
+X
+02/25/21
+03/01/21
+X
+DC
+Snap Inc.
+X
+02/25/21
+03/01/21
+X
+DC
+Match Group Inc.
+X
+02/25/21
+03/01/21
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 6
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Partial Transaction
+Date of Transaction MM/DD/YY
+Date Notified of Transaction MM/DD/YY
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+DC
+Visa Inc.
+X
+02/02/21
+03/01/21
+X
+M&R Trust Partnership
+X
+X
+02/02/21
+03/01/21
+X
+2020 Than Fbo Khanna Children
+DC
+IHS Markit Ltd
+X
+X
+02/08/21
+03/01/21
+X
+DC
+Brookfield Infrastructure Corp.
+X
+X
+02/08/21
+03/01/21
+X
+DC
+Brookfield Renewable Corp
+X
+X
+02/08/21
+03/01/21
+X
+DC
+IHS Markit Ltd
+X
+X
+02/11/21
+03/01/21
+X
+DC
+RealPage Inc.
+X
+X
+02/16/21
+03/01/21
+X
+DC
+Slack Technologies Inc.
+X
+X
+02/25/21
+03/01/21
+X
+DC
+Illumina Inc.
+X
+X
+02/25/21
+03/01/21
+X
+DC
+Vornado Realty Trust
+X
+X
+02/25/21
+03/01/21
+X
+DC
+Tyler Technologies Inc.
+X
+X
+02/25/21
+03/01/21
+X
+DC
+Snap Inc.
+X
+X
+02/25/21
+03/01/21
+X
+DC
+Equinix Inc.
+X
+X
+02/25/21
+03/01/21
+X
+DC
+Match Group Inc.
+X
+X
+02/25/21
+03/01/21
+X
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 6
+Full Asset Name
+SP/DC/JT
+Type of Transaction
+Purchase
+Sale
+Exchange
+Capital Gain
+over $200
+Partial Sale
+Date of
+Transaction
+MM/DD/YY
+Date Notified of
+Transaction
+MM/DD/YY
+Amount of Transaction
+A
+$1,001 -
+$15,000
+B
+$15,001 -
+$50,000
+C
+$50,001 -
+$100,000
+D
+$100,001 -
+$250,000
+E
+$250,001 -
+$500,000
+F
+$500,001 -
+$1,000,000
+G
+$1,000,001 -
+$5,000,000
+H
+$5,000,001 -
+$25,000,000
+I
+$25,000,001 -
+$50,000,000
+J
+Over
+$50,000,000
+K
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+over
+$1,000,000
+Assets and Gifts Aug 2023 Irrev Trust ISO Grandchildren
+DC
+WALGREENS BOOTS ALLIANCE, INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+AMERICAN INTL. GROUP, INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+KLA & CO. INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+BERKSHIRE HATHAWAY INC. CLASS B
+x
+x
+02/11/21
+03/02/21
+x
+DC
+WALT DISNEY COMPANY (THE) CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+KLA & CO. INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+BANK OF AMERICA CORP CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+PROCTER & GAMBLE COMPANY (THE) CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+MONDELEZ INTERNATIONAL, INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+PEPSICO, INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+N V A INC CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+MEDTRONIC PUBLIC LIMITED COMPA CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+GENERAL MOTORS COMPANY CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+CHARLES SCHWAB CORPORATION CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+PFIZER INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+BOOKING HOLDINGS INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+CIGNA CORP CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+FIDELITY NATL. INFO SVCS INC CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+KIMBERLY-CLARK CORPORATION CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A
+x
+x
+02/11/21
+03/02/21
+x
+DC
+HUMANA INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+PARKER-HANNIFIN CORP. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+CHARTER COMMUNICATIONS, INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+HARTFORD FINANCIAL SRVCS GROUP CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+MORGAN STANLEY CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+TRUIST FINANCIAL CORPORATION CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+COMCAST CORPORATION CMN CLASS A VOTING
+x
+x
+02/11/21
+03/02/21
+x
+DC
+TEXAS INSTRUMENTS INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+LULUE PLC CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+MARSH & MCLENNAN CO INC CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+FIRST REPUBLIC BANK CMN SERIES
+x
+x
+02/11/21
+03/02/21
+x
+DC
+METLIFE, INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+HONEYWELL INTL. INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+MERCK & CO. INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+WEYERHAEUSER COMPANY CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+BORGWARNER INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+CATERPILLAR INC. (DELAWARE) CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+VISA INC. CMN CLASS A
+x
+x
+02/11/21
+03/02/21
+x
+DC
+JPMORGAN CHASE & CO CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+PUBLIC STORAGE CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+CARRIER GLOBAL CORPORATION CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+HAMBRANDS INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+ABBVIE INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+DOMINION ENERGY INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+GILEAD SCIENCES CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+FACEBOOK, INC. CMN CLASS A
+x
+x
+02/11/21
+03/02/21
+x
+DC
+FEDEX CORPORATION CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+DEERE & COMPANY CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+AXALTA COATING SYSTEMS LTD. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+VERIZON COMMUNICATIONS, INC. CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+VIACOMICS INC CMN CLASS B
+x
+x
+02/11/21
+03/02/21
+x
+DC
+ALBEMARLE CORP CMN
+x
+x
+02/11/21
+03/02/21
+x
+DC
+VIACOMICS INC CMN CLASS B
+x
+x
+02/24/21
+03/02/21
+x
+DC
+VIACOMICS INC CMN CLASS B
+x
+x
+02/25/21
+03/02/21
+x
+DC
+VIACOMICS INC CMN CLASS B
+x
+x
+02/26/21
+03/02/21
+x
+SP
+NEW YORK STWY AUTH BEN REV REV 5% 01/01/23 JJ
+x
+x
+02/18/21
+03/02/21
+x
+Rohit Khanna Trust
+
+--- PAGE 05 ---
+NAME: Rohit Khanna Page 5 of 6
+Full Asset Name
+Type of Transaction
+Purchase
+Sale
+Exchange
+Capital Gain
+over $200
+Partial Sale
+Date of
+Transaction
+MM/DD/YY
+Date Notified of
+Transaction
+MM/DD/YY
+Amount of Transaction
+A
+$1,001 -
+$15,000
+B
+$15,001 -
+$50,000
+C
+$50,001 -
+$100,000
+D
+$100,001 -
+$250,000
+E
+$250,001 -
+$500,000
+F
+$500,001 -
+$1,000,000
+G
+$1,000,001 -
+$5,000,000
+H
+$5,000,001 -
+$25,000,000
+I
+$25,000,001 -
+$50,000,000
+J
+Over
+$50,000,000
+K
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+SP/DC/JT
+SP
+JOHNSON CTY TENN DB 4% 06/01/21 JD
+x
+x
+02/18/21
+03/02/21
+x
+SP
+SAN ANTONIO TEX GO 5% 08/01/21 PA
+x
+x
+02/18/21
+03/02/21
+x
+SP
+Abby Abide 1985 Trust
+x
+02/18/21
+03/02/21
+x
+SP
+SUMNER CTY TENN GO 5% 06/01/21 JD
+x
+x
+02/18/21
+03/02/21
+x
+SP
+ABBOTT LABS CMN
+x
+02/11/21
+03/02/21
+x
+SP
+HAWAII ST GOR ISSUES DTD PROR GO 5.0000% 12/01/24 JO
+x
+x
+02/11/21
+03/02/21
+x
+SP
+BERKSHIRE HATHAWAY INC CLASS B
+x
+02/11/21
+03/02/21
+x
+SP
+RYE TOWN N Y GO 3% 10/01/21 AO
+x
+x
+02/11/21
+03/02/21
+x
+SP
+REEDY CREEK IMPT DIST FLA GO 5% 06/01/21 JD
+x
+x
+02/11/21
+03/02/21
+x
+SP
+WALT DISNEY COMPANY (THE) CMN
+x
+02/11/21
+03/02/21
+x
+SP
+KBR & CO. INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+BANK OF AMERICA CORP CMN
+x
+02/11/21
+03/02/21
+x
+SP
+MONDELEZ INTERNATIONAL INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+PROCTER & GAMBLE COMPANY (THE) CMN
+x
+02/11/21
+03/02/21
+x
+SP
+N V R INC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+MEDTRONIC PUBLIC LIMITED COMPA CMN
+x
+02/11/21
+03/02/21
+x
+SP
+GENERAL MOTORS COMPANY CMN
+x
+02/11/21
+03/02/21
+x
+SP
+PEPSICO, INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+FORD MOTOR COMPANY CORPORATION CMN
+x
+02/11/21
+03/02/21
+x
+SP
+PFIZER INC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+HUMANA INC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+FIDELITY NATL INFO SVCS INC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+VF CORP CMN
+x
+02/11/21
+03/02/21
+x
+SP
+COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A
+x
+02/11/21
+03/02/21
+x
+SP
+PARKER-HANNIFIN CORP CMN
+x
+02/11/21
+03/02/21
+x
+SP
+KIMBERLY-CLARK CORPORATION CMN
+x
+02/11/21
+03/02/21
+x
+SP
+BOOKING HOLDINGS INC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+HARTFORD FINANCIAL SVCS GROUP CMN
+x
+02/11/21
+03/02/21
+x
+SP
+MORGAN STANLEY CMN
+x
+02/11/21
+03/02/21
+x
+SP
+TRUST FINANCIAL CORPORATION CMN
+x
+02/11/21
+03/02/21
+x
+SP
+HONEYWELL INTL INC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+CHARTER COMMUNICATIONS, INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+COMCAST CORPORATION CMN CLASS A VOTING
+x
+02/11/21
+03/02/21
+x
+SP
+ARCHER-DANIELS-MIDLAND COMPANY CMN
+x
+02/11/21
+03/02/21
+x
+SP
+LINDE PLC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+METLIFE, INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+FIRST REPUBLIC BANK CMN SERIES
+x
+02/11/21
+03/02/21
+x
+SP
+WEYERHAEUSER COMPANY CMN
+x
+02/11/21
+03/02/21
+x
+SP
+BORGWARNER INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+TEXAS TRANSN COMMN ST HWY FD REV 5% 10/01/21 AO
+x
+x
+02/11/21
+03/02/21
+x
+SP
+CATERPILLAR INC (DELAWARE) CMN
+x
+02/11/21
+03/02/21
+x
+SP
+JPMORGAN CHASE & CO CMN
+x
+02/11/21
+03/02/21
+x
+SP
+VISA INC. CMN CLASS A
+x
+02/11/21
+03/02/21
+x
+SP
+PUBLIC STORAGE CMN
+x
+02/11/21
+03/02/21
+x
+SP
+ABBVIE INC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+GENERAL ELECTRIC CORPORATION CMN
+x
+02/11/21
+03/02/21
+x
+SP
+HARRIS CORP CMN
+x
+02/11/21
+03/02/21
+x
+SP
+O'REILLY AUTOMOTIVE, INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+SHERWIN-WILLIAMS CO CMN
+x
+02/11/21
+03/02/21
+x
+SP
+DOMINION ENERGY INC CMN
+x
+02/11/21
+03/02/21
+x
+SP
+DEERE & COMPANY CMN
+x
+02/11/21
+03/02/21
+x
+SP
+FACEBOOK, INC. CMN CLASS A
+x
+02/11/21
+03/02/21
+x
+SP
+GILEAD SCIENCES CMN
+x
+02/11/21
+03/02/21
+x
+SP
+VERIZON COMMUNICATIONS, INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+VERIZON COMMUNICATIONS, INC. CMN
+x
+02/11/21
+03/02/21
+x
+SP
+FACEBOOK, INC. CMN CLASS A
+x
+02/11/21
+03/02/21
+x
+SP
+FACEBOOK, INC. CMN CLASS A
+x
+02/11/21
+03/02/21
+x
+SP
+DOMINION ENERGY INC CMN
+x
+02/22/21
+03/02/21
+x
+SP
+CHARLES SCHWAB CORPORATION CMN
+x
+02/22/21
+03/02/21
+x
+SP
+VERIZON COMMUNICATIONS, INC. CMN
+x
+02/22/21
+03/02/21
+x
+SP
+JPMORGAN CHASE & CO CMN
+x
+02/22/21
+03/02/21
+x
+
+--- PAGE 06 ---
+NAME: Rohit Khanna Page 6 of 6
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+M&R Trust Partnership
+2020 Trust FBO Khanna Children
+DC
+DURHAM CITY N C GEN, OBLIG POLLUTION CTL
+X
+02/01/21
+03/03/21
+X
+DC
+PENNSYLVANIA ST GO BONDS SER 2020A
+X
+02/01/21
+03/03/21
+X
+DC
+PULASKI CTY ARK SCH DIST REF
+X
+02/01/21
+03/03/21
+X
+DC
+WAKE CTY NC HWY REV FUEL TAX
+X
+02/01/21
+03/03/21
+X
+DC
+MAINE TPK AUTH SCH DIST OBLIG TAX
+X
+02/16/21
+03/03/21
+X
+DC
+METROPOLITAN GOV SCH DIST OBLIG TAX
+X
+02/16/21
+03/03/21
+X
+DC
+TEXAS SOUTHMOST COLLEGE DIST TAX
+X
+02/16/21
+03/03/21
+X

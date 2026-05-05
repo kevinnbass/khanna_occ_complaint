@@ -1,0 +1,218 @@
+{
+  "doc_id": "9115679",
+  "errors": [],
+  "file_key": "9115679",
+  "pages": {
+    "0": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 95,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 1681
+    },
+    "1": {
+      "detected_rotation": 270,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 152,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected270_rot0",
+      "tokens_in": 2432,
+      "tokens_out": 2240
+    },
+    "10": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 20,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2492,
+      "tokens_out": 1541
+    },
+    "11": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 174,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2492,
+      "tokens_out": 2511
+    },
+    "12": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 165,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2434,
+      "tokens_out": 2494
+    },
+    "13": {
+      "detected_rotation": 0,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 158,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 1217,
+      "tokens_out": 1527
+    },
+    "14": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 168,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2434,
+      "tokens_out": 2102
+    },
+    "15": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 96,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2492,
+      "tokens_out": 1550
+    },
+    "16": {
+      "detected_rotation": 270,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 141,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected270_rot0",
+      "tokens_in": 2492,
+      "tokens_out": 1892
+    },
+    "17": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 76,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot90",
+      "tokens_in": 3651,
+      "tokens_out": 1680
+    },
+    "18": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 124,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2434,
+      "tokens_out": 1972
+    },
+    "19": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 72,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2492,
+      "tokens_out": 1479
+    },
+    "2": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 122,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2432,
+      "tokens_out": 1920
+    },
+    "3": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 99,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2432,
+      "tokens_out": 1471
+    },
+    "4": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 138,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 2163
+    },
+    "5": {
+      "detected_rotation": 0,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 147,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 1216,
+      "tokens_out": 1248
+    },
+    "6": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 160,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 2841
+    },
+    "7": {
+      "detected_rotation": 270,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 196,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2490,
+      "tokens_out": 3042
+    },
+    "8": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 29,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2432,
+      "tokens_out": 1745
+    },
+    "9": {
+      "detected_rotation": 270,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 83,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected270_rot0",
+      "tokens_in": 2492,
+      "tokens_out": 1608
+    }
+  },
+  "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115679.pdf",
+  "stats": {
+    "elapsed_s": 25.84,
+    "n_failed": 0,
+    "n_ok": 20,
+    "pages_submitted": 20,
+    "tokens_in": 48026,
+    "tokens_out": 38707
+  },
+  "total_pages": 20,
+  "year": 2025
+}

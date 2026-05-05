@@ -1,0 +1,78 @@
+{
+  "doc_id": "8217856",
+  "errors": [],
+  "file_key": "8217856",
+  "pages": {
+    "0": {
+      "detected_rotation": 0,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 54,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 1244,
+      "tokens_out": 541
+    },
+    "1": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 61,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 1098
+    },
+    "2": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 62,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 1171
+    },
+    "3": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 169,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 3252
+    },
+    "4": {
+      "detected_rotation": 270,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 69,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_orig_rot0",
+      "tokens_in": 2488,
+      "tokens_out": 1379
+    },
+    "5": {
+      "detected_rotation": 90,
+      "error": null,
+      "garbled": null,
+      "model": "gemini-3.1-flash-lite-preview",
+      "n_lines": 45,
+      "served_by": "gemini-3.1-flash-lite-preview@32000_detected90_rot90",
+      "tokens_in": 3732,
+      "tokens_out": 1526
+    }
+  },
+  "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217856.pdf",
+  "stats": {
+    "elapsed_s": 15.45,
+    "n_failed": 0,
+    "n_ok": 6,
+    "pages_submitted": 6,
+    "tokens_in": 14928,
+    "tokens_out": 8967
+  },
+  "total_pages": 6,
+  "year": 2021
+}

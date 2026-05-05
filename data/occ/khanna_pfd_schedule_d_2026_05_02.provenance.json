@@ -1,0 +1,197 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "khanna_pfd_schedule_d_2026_05_02.json",
+  "snapshot_sha256": "c41b3aff6ad26d8a45465af70266e556062912a16c71807e52588486af6044a2",
+  "snapshot_size_bytes": 7262,
+  "primary_source_class": "house_clerk_pfd_pdf",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:08:29.118473+00:00",
+  "primary_source_endpoints": [
+    {
+      "doc_id": "9111561",
+      "filing_year": "2016",
+      "filing_date": "8/10/2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2016/9111561.pdf",
+      "fetched_sha256_raw_bytes": "3354361c745ec05bb78ac55c4cd031e0578904123542ceedad4e3cd6e4c017ea",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:29.119474+00:00",
+        "http_status": 200,
+        "content_length": 3130132,
+        "header_content_length": "3130132",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"37a8ef2f512d31:0\"",
+        "header_last_modified": "Thu, 10 Aug 2017 18:19:21 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:29 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9113638",
+      "filing_year": "2017",
+      "filing_date": "8/10/2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2017/9113638.pdf",
+      "fetched_sha256_raw_bytes": "d75a803b0c8cd755814bffcf34b765cc20dde44c79e6fe661bffcd8212814df4",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:29.898051+00:00",
+        "http_status": 200,
+        "content_length": 5032822,
+        "header_content_length": "5032822",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"da50963c33d41:0\"",
+        "header_last_modified": "Mon, 13 Aug 2018 13:48:59 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:29 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115242",
+      "filing_year": "2018",
+      "filing_date": "8/8/2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2018/9115242.pdf",
+      "fetched_sha256_raw_bytes": "61232564f612822fa5cceee6d5ae7c3640af5496b9cc4c70c331e55088ce722f",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:30.574994+00:00",
+        "http_status": 200,
+        "content_length": 10699988,
+        "header_content_length": "10699988",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"dacc1c82e34ed51:0\"",
+        "header_last_modified": "Fri, 09 Aug 2019 18:51:52 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:30 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217503",
+      "filing_year": "2019",
+      "filing_date": "8/12/2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2019/8217503.pdf",
+      "fetched_sha256_raw_bytes": "dc2823c9b3b1b40e82ac2875e4228852aa53ff33255d39fbfdcc7fc686b21cd9",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:31.342402+00:00",
+        "http_status": 200,
+        "content_length": 7285336,
+        "header_content_length": "7285336",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"7cf630487171d61:0\"",
+        "header_last_modified": "Thu, 13 Aug 2020 12:57:21 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:31 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218200",
+      "filing_year": "2020",
+      "filing_date": "7/29/2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218200.pdf",
+      "fetched_sha256_raw_bytes": "21f51446167c45cbd4cae0e99e0d1628879b05d7a280777291f0c7e1dcfb05e9",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:32.077449+00:00",
+        "http_status": 200,
+        "content_length": 20948599,
+        "header_content_length": "20948599",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"3e036516585d71:0\"",
+        "header_last_modified": "Fri, 30 Jul 2021 17:07:03 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:32 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219143",
+      "filing_year": "2021",
+      "filing_date": "8/10/2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2021/8219143.pdf",
+      "fetched_sha256_raw_bytes": "80845c0e81d35bf07e2840e0b94e6ade967e896f4f99dab7c21743972e164145",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:32.901327+00:00",
+        "http_status": 200,
+        "content_length": 12625984,
+        "header_content_length": "12625984",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"497788893add81:0\"",
+        "header_last_modified": "Thu, 11 Aug 2022 15:03:36 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:32 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219881",
+      "filing_year": "2022",
+      "filing_date": "8/9/2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2022/8219881.pdf",
+      "fetched_sha256_raw_bytes": "36331a50a936df8a1ddbdfde18e1f7a7added9560b509dd8fc69e87c6c233335",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:33.691479+00:00",
+        "http_status": 200,
+        "content_length": 15826182,
+        "header_content_length": "15826182",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ddf932369bcbd91:0\"",
+        "header_last_modified": "Thu, 10 Aug 2023 14:59:07 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:33 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220593",
+      "filing_year": "2023",
+      "filing_date": "8/12/2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023/8220593.pdf",
+      "fetched_sha256_raw_bytes": "28a888b97d5230abe7e7e6d41261ccd8f1b68f53b50ea367f07aec60fac3b3ae",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:34.481584+00:00",
+        "http_status": 200,
+        "content_length": 13084582,
+        "header_content_length": "13084582",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"a6fe813d9bedda1:0\"",
+        "header_last_modified": "Tue, 13 Aug 2024 16:09:56 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:34 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115596",
+      "filing_year": "2024",
+      "filing_date": "8/13/2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024/9115596.pdf",
+      "fetched_sha256_raw_bytes": "207b0a21b62ab875e574861ab49ad9bc87293fb87acf6ff3dd6856daac8500c8",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:35.284010+00:00",
+        "http_status": 200,
+        "content_length": 12813413,
+        "header_content_length": "12813413",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"576b9e878cdc1:0\"",
+        "header_last_modified": "Wed, 13 Aug 2025 17:30:59 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:35 GMT"
+      },
+      "fetch_status": "OK"
+    }
+  ],
+  "post_fetch_transformations": [
+    {
+      "step": "tesseract_ocr",
+      "tool": "tesseract",
+      "ref": "khanna_pfd_8221318_OCR.txt example"
+    },
+    {
+      "step": "schedule_d_row_extraction",
+      "tool": "manual_structured_extract",
+      "note": "Schedule D rows extracted from PFD PDFs into lake.house_pfd_schedule_d_liabilities. Snapshot is a WHERE filer='Khanna' projection."
+    }
+  ],
+  "gap_reason": null,
+  "primary_source_explanation": "PFD Schedule D liability rows derive from Khanna's per-year annual PFD PDFs (FilingType='O' in House Clerk FD index). The snapshot enumerates 13 liability rows across TY2016-TY2019. Provenance lists the PFDs sourced + clerk.house.gov URLs + raw-bytes SHA256."
+}

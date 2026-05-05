@@ -1,0 +1,32 @@
+{
+  "file_key": "20025282",
+  "total_pages": 1,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Velodrome",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "05/17/2024",
+            "notification_date": "05/17/2024",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1566,
+      "tokens_out": 130
+    }
+  },
+  "stats": {
+    "tokens_in": 1566,
+    "tokens_out": 130,
+    "n_ok": 1,
+    "n_failed": 0,
+    "elapsed_s": 3.08,
+    "pages_submitted": 1
+  }
+}

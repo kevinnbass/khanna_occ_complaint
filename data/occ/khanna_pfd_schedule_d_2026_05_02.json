@@ -1,0 +1,236 @@
+{
+  "snapshot_target": "OCC_M028 + OCC_M058 (Khanna Goldman SP margin scaffold TY2016-TY2019)",
+  "snapshot_taken_at": "2026-05-03T04:19:02.644534+00:00",
+  "snapshot_date": "2026_05_02",
+  "substrate_authoritative": "lake.house_pfd_schedule_d_liabilities",
+  "substrate_authoritative_note": "All 8 House PFD schedules exist at lake-tier per s11 dig-deeper landing: lake.house_pfd_schedule_{a_assets, b_transactions, c_earned_income, d_liabilities, e_positions, f_agreements, g_gifts, h_travel}. Filter discipline: 'year' int column is uniformly NULL — use 'year_' text column for tax-year filter. Member columns are 'member_first_name' / 'member_last_name' (NOT filer_first/filer_last). Owner code 'SP' (Khanna's spouse) isolates the spouse-owned Goldman margin facility chain addressed in Counts 3 + 7.",
+  "rows": [
+    {
+      "tax_year": "2016",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$500,001-$1,000,000",
+      "amount_min": 500001.0,
+      "amount_max": 1000000.0,
+      "year_incurred": 2016,
+      "interest_rate_text": null,
+      "term_text": null
+    },
+    {
+      "tax_year": "2016",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "Over $1,000,000",
+      "amount_min": 1000000.0,
+      "amount_max": 1000000.0,
+      "year_incurred": null,
+      "interest_rate_text": "",
+      "term_text": ""
+    },
+    {
+      "tax_year": "2016",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$100,001 - $250,000",
+      "amount_min": 100001.0,
+      "amount_max": 250000.0,
+      "year_incurred": null,
+      "interest_rate_text": "",
+      "term_text": ""
+    },
+    {
+      "tax_year": "2017",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$1,000,001 - $5,000,000",
+      "amount_min": 1000001.0,
+      "amount_max": 5000000.0,
+      "year_incurred": null,
+      "interest_rate_text": "",
+      "term_text": ""
+    },
+    {
+      "tax_year": "2017",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$500,001 - $1,000,000",
+      "amount_min": 500001.0,
+      "amount_max": 1000000.0,
+      "year_incurred": null,
+      "interest_rate_text": "",
+      "term_text": ""
+    },
+    {
+      "tax_year": "2017",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$250,001-$500,000",
+      "amount_min": 250001.0,
+      "amount_max": 500000.0,
+      "year_incurred": 2017,
+      "interest_rate_text": null,
+      "term_text": null
+    },
+    {
+      "tax_year": "2017",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$100,001-$250,000",
+      "amount_min": 100001.0,
+      "amount_max": 250000.0,
+      "year_incurred": 2017,
+      "interest_rate_text": null,
+      "term_text": null
+    },
+    {
+      "tax_year": "2018",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$100,001-$250,000",
+      "amount_min": 100001.0,
+      "amount_max": 250000.0,
+      "year_incurred": 2018,
+      "interest_rate_text": null,
+      "term_text": null
+    },
+    {
+      "tax_year": "2018",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$50,001-$100,000",
+      "amount_min": 50001.0,
+      "amount_max": 100000.0,
+      "year_incurred": 2018,
+      "interest_rate_text": null,
+      "term_text": null
+    },
+    {
+      "tax_year": "2018",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "",
+      "amount_min": null,
+      "amount_max": null,
+      "year_incurred": 2018,
+      "interest_rate_text": "",
+      "term_text": ""
+    },
+    {
+      "tax_year": "2019",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$500,001-$1,000,000",
+      "amount_min": 500001.0,
+      "amount_max": 1000000.0,
+      "year_incurred": 2019,
+      "interest_rate_text": null,
+      "term_text": null
+    },
+    {
+      "tax_year": "2019",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$250,001 - $500,000",
+      "amount_min": 250001.0,
+      "amount_max": 500000.0,
+      "year_incurred": null,
+      "interest_rate_text": "",
+      "term_text": ""
+    },
+    {
+      "tax_year": "2019",
+      "member_first_name": "Rohit",
+      "member_last_name": "Khanna",
+      "owner": "SP",
+      "creditor_name": "Goldman Sachs",
+      "liability_type": "Margin",
+      "amount_range_text": "$100,001 - $250,000",
+      "amount_min": 100001.0,
+      "amount_max": 250000.0,
+      "year_incurred": null,
+      "interest_rate_text": "",
+      "term_text": ""
+    }
+  ],
+  "n_rows": 13,
+  "by_year": [
+    {
+      "tax_year": "2016",
+      "n_rows": 3,
+      "sum_amount_min": 1600002.0,
+      "sum_amount_max": 2250000.0,
+      "has_1m_plus_line": true
+    },
+    {
+      "tax_year": "2017",
+      "n_rows": 4,
+      "sum_amount_min": 1850004.0,
+      "sum_amount_max": 6750000.0,
+      "has_1m_plus_line": true
+    },
+    {
+      "tax_year": "2018",
+      "n_rows": 3,
+      "sum_amount_min": 150002.0,
+      "sum_amount_max": 350000.0,
+      "has_1m_plus_line": false
+    },
+    {
+      "tax_year": "2019",
+      "n_rows": 3,
+      "sum_amount_min": 850003.0,
+      "sum_amount_max": 1750000.0,
+      "has_1m_plus_line": true
+    }
+  ],
+  "load_bearing_invariants": {
+    "n_rows_total": 13,
+    "tax_years_present": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "ty2017_has_1m_plus_line": true,
+    "rationale_ty2017_1m_plus": "Body Count 3 paragraph 34d + Count 7 paragraph 64b cite TY2017 Goldman Sachs SP single-line $1,000,001-$5,000,000 as the post-swearing-in margin-scaffold anchor that is mechanically incompatible with the passive-SMA / QBT / EIF affirmative defense under 5 U.S.C. § 13104(f)(3)."
+  },
+  "verifier_kinds_supported": [
+    "pfd_schedule_d_load (OCC_M028 / OCC_M058)"
+  ]
+}

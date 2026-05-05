@@ -1,0 +1,16 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "v3_facts_substrate_class_2026_05_03.json",
+  "snapshot_sha256": "e8c963a693171dfa6f9b2d77459231e014841a73181735652e714eaa6d07e080",
+  "snapshot_size_bytes": 296622,
+  "primary_source_class": "lake_derived_v3_facts_export",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:05:16.428378+00:00",
+  "primary_source_endpoints": [],
+  "post_fetch_transformations": [],
+  "gap_reason": "lake_derived_sql_no_single_primary_url",
+  "primary_source_explanation": "This snapshot is the projection of a SQL aggregate query against the lake. There is no single primary URL because the underlying rows derive from many primary documents (per-Member PTRs across the chamber, etc.) ETL'd into lake.* tables. Chain-of-custody: SELECT * FROM ro_khanna.v3_facts WHERE fact_id IN (set referenced by the 66 OCC manifest entries). Each v3_fact carries its OWN provenance (query_sql + citations + entity links + theory links) via the v3 contract documented in .claude/rules/v3-facts.md. This snapshot is a one-time dump of those facts at 2026-05-02.",
+  "mitigation": "Reviewer with lake access can re-run the producing SQL (documented in fetch_script_ref). Tier-F users without lake access can opt into the Gemini per-page chamber-wide rebuild (see rebuild_chamber_audit.py --full-chamber --cost-acknowledged; $50-200 reviewer Gemini spend). For PTR-row-level grain, the bundled khanna_ptr_transactions snapshot CAN be re-derived from primary PDFs at Tier-E with no lake access.",
+  "fetch_script_ref": ".claude/rules/v3-facts.md (v3 contract)"
+}

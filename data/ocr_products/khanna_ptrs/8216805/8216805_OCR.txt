@@ -1,0 +1,618 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8216805
+#   year          : 2019
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/8216805.pdf
+#   total_pages   : 5
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:42:16 UTC
+#   tokens_in     : 9,952
+#   tokens_out    : 9,713
+
+--- PAGE 01 ---
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+HAND
+DELIVERED
+LEGISLATIVE RESOURCE CENTER
+2019 DEC 11 AM 10: 26
+X Member of the U.S. House of Representatives
+State: CA District: 17
+File an original and 2 copies
+Officer or Employee
+Employing Office:
+File an original and 1 copy
+M.D.
+U.S. HOUSE OF REPRESENTATIVES
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered 'Yes' to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an Initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X Initial Report Amendment
+Date of Report Being Amended: ___________
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+$1,001-
+$15,000
+B
+$15,001-
+$50,000
+C
+$50,001-
+$100,000
+D
+$100,001-
+$250,000
+E
+$250,001-
+$500,000
+F
+$500,001-
+$1,000,000
+G
+$1,000,001-
+$5,000,000
+H
+$5,000,001-
+$25,000,00
+I
+$25,000,001-
+$50,000,000
+J
+Over
+$50,000,000
+K
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+SP
+DC
+JT
+JT Example: Mega Corp. Common Stock X 02/05/15 03/07/15 X
+Name: Rohit Khanna Page 1 of 5
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Provide full name, not ticker symbol.
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+over $1,000,000
+Areco
+SP
+EQUINIX INC COM PAR $0.001
+X
+11/27/19
+12/06/19
+X
+SP
+INTUIT INC
+X
+11/27/19
+12/06/19
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in
+a Spouse or
+Dependent
+Child Asset
+over
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+$1,000,000
+M&R Trust Partnership
+SP
+EQUINIX INC COM PAR $0.001
+X
+11/27/19
+12/06/19
+X
+SP
+INTUIT INC
+X
+11/27/19
+12/06/19
+X
+SP
+MS TRIGGER PLUS ON SX7E
+X
+11/05/19
+12/06/19
+X
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+over $1,000,000
+Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+DC ALBEMARLE CORP CMN
+x
+11/08/19
+12/06/19
+x
+DC AON PLC CMN
+x
+11/15/19
+12/06/19
+x
+DC COMCAST CORPORATION CMN CLASS A VOTING
+x
+11/04/19
+12/06/19
+x
+DC ENTEGRIS, INC. CMN
+x
+11/19/19
+12/06/19
+x
+DC FACEBOOK, INC. CMN CLASS A
+x
+11/21/19
+12/06/19
+x
+DC FIREEYE, INC. CMN
+x
+11/20/19
+12/06/19
+x
+DC LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+11/20/19
+12/06/19
+x
+DC MOSAIC COMPANY (THE) CMN
+x
+11/26/19
+12/06/19
+x
+DC URBAN OUTFITTERS INC CMN
+x
+11/27/19
+12/06/19
+x
+DC URBAN OUTFITTERS INC CMN
+x
+11/26/19
+12/06/19
+x
+Ritu Ahuja Descendants Trust
+SP NEW YORK ST DORM AUTH REVS NON REV 5% 07/01/20 JJ
+x
+11/22/19
+12/06/19
+x
+Ritu Ahuja 1994 Trust
+SP WASHINGTON CNTY WIS GO 2% 03/01/20 MS
+x
+11/08/19
+12/06/19
+x
+SP UNIVERSITY CINCINNATI OHIO GEN REV 5.0000% 06/01/20 JD
+x
+11/06/19
+12/06/19
+x
+SP FORT WORTH TEX INDPT SCH DIST GO 5% 02/15/20 FA
+x
+11/04/19
+12/06/19
+x
+SP LINCOLN NEB SOLID WASTE MGMT REV 5% 08/01/20 FA
+x
+11/18/19
+12/06/19
+x
+SP MARICOPA CNTY ARIZ CMNTY GO 4.0000% 07/01/20 JJ
+x
+11/13/19
+12/06/19
+x
+SP MINNEAPOLIS MINN SPL SCH DIST GO 4.0000% 02/01/20 FA
+x
+11/04/19
+12/06/19
+x
+SP ALBEMARLE CORP CMN
+x
+11/08/19
+12/06/19
+x
+SP WYANDOTTE CNTY KANS UNI SCH GO 5.2500% 09/01/20 MS
+x
+11/04/19
+12/06/19
+x
+SP PENN-WHITT TEX CONS INDPT GO 3% 08/15/20 FA
+x
+11/13/19
+12/06/19
+x
+SP URBAN OUTFITTERS INC CMN
+x
+11/26/19
+12/06/19
+x
+SP COMCAST CORPORATION CMN CLASS A VOTING
+x
+11/04/19
+12/06/19
+x
+SP ENTEGRIS, INC. CMN
+x
+11/19/19
+12/06/19
+x
+SP FACEBOOK, INC. CMN CLASS A
+x
+11/20/19
+12/06/19
+x
+SP URBAN OUTFITTERS INC CMN
+x
+11/27/19
+12/06/19
+x
+SP FOX CORPORATION CMN CLASS B
+x
+11/15/19
+12/06/19
+x
+SP FIREEYE, INC. CMN
+x
+11/20/19
+12/06/19
+x
+SP ALBEMARLE CORP CMN
+x
+11/08/19
+12/06/19
+x
+SP ALBEMARLE CORP CMN
+x
+11/20/19
+12/06/19
+x
+SP LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+11/20/19
+12/06/19
+x
+SP MOSAIC COMPANY (THE) CMN
+x
+11/26/19
+12/06/19
+x
+SP GRAPHIC PACKAGING HLDGCO CMN
+x
+11/14/19
+12/06/19
+x
+SP FIREEYE, INC. CMN
+x
+11/19/19
+12/06/19
+x
+SP FIREEYE, INC. CMN
+x
+11/08/19
+12/06/19
+x
+SP URBAN OUTFITTERS INC CMN
+x
+11/29/19
+12/06/19
+x
+Ritu Ahuja 1995 Trust
+SP ANTERO MIDSTREAM CORP CMN
+x
+11/20/19
+12/06/19
+x
+SP ANTERO MIDSTREAM CORP CMN
+x
+11/22/19
+12/06/19
+x
+SP ANTERO MIDSTREAM CORP CMN
+x
+11/20/19
+12/06/19
+x
+SP ANTERO MIDSTREAM CORP CMN
+x
+11/25/19
+12/06/19
+x
+SP ANTERO MIDSTREAM CORP CMN
+x
+11/21/19
+12/06/19
+x
+SP TC PIPELINES, L.P. CMN
+x
+11/12/19
+12/06/19
+x
+SP PUT/KSP @ 299 EXP 01/03/2020
+x
+11/21/19
+12/06/19
+x
+SP PUT/KSP @ 287 EXP 02/21/2020
+x
+11/11/19
+12/06/19
+x
+SP PALM BEACH CNTY FLA SOLID REV 5% 10/01/20 AO
+x
+11/18/19
+12/06/19
+x
+SP OKLAHOMA ST WTR RES BRD REV 5.0000% 04/01/20 AO
+x
+11/20/19
+12/06/19
+x
+SP NEW MEXICO FIN AUTH ST TRANSRN REV 4% 06/15/20 JD
+x
+11/06/19
+12/06/19
+x
+SP CHEMEKETA ORE CMNTY COLLEGE GO 5% 06/15/20 JD
+x
+11/05/19
+12/06/19
+x
+SP MIAMI-DADE CNTY FLA AVIATION REV 5.5000% 10/01/29 AO
+x
+11/04/19
+12/06/19
+x
+SP OHIO ST GO 5% 09/01/20 MS
+x
+11/05/19
+12/06/19
+x
+SP NEW MEXICO FIN AUTH REV 5% 06/01/20 JD
+x
+11/20/19
+12/06/19
+x
+SP JOHNSON CNTY KANS UNI SCH DIST GO 4% 10/01/20 AO
+x
+11/12/19
+12/06/19
+x
+SP JERSEY CITY NJ GO 2% 12/04/20 JD
+x
+11/22/19
+12/06/19
+x
+SP GREENWOOD S C MET DIST SWR SYS REV 4% 10/01/20 AO
+x
+11/08/19
+12/06/19
+x
+SP WASHINGTON ST CTFS PARTN COPS 5% 07/01/20 JJ
+x
+11/13/19
+12/06/19
+x
+MAR Trust Partnership
+SP SOCIETE GENERALE LINKED TO SX5E VS SPX OUTPERFO
+x
+11/20/19
+12/06/19
+x
+SP Hedge Fund Select: IARA Partners Qualified LLC
+x
+11/01/19
+12/06/19
+x
+
+--- PAGE 05 ---
+NAME: Rohit Khanna
+Page 5 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+SP/DC/JT
+GrandMire's Trust (ASK Partners, LLC)
+x
+11/07/19
+11/12/19
+x
+DC
+Transtar/Speedstar Holding Company Class A Common
+x
+11/19/19
+11/21/19
+x
+DC
+Transtar/Speedstar Holding Company 1st Lien TL
+x
+11/19/19
+11/21/19
+x
+DC
+Transtar/Speedstar Holding Company SR DD TL
+x
+11/19/19
+11/21/19
+x
+DC
+Transtar/Speedstar Holding Company PIK Note
+x
+11/19/19
+11/21/19
+x
+M & R Trust Partnership
+SP
+Strategic Value FNBA Investors LP Limited Partnership Interest
+x
+11/13/19
+11/05/19
+x

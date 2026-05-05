@@ -1,0 +1,556 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8217938
+#   year          : 2021
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217938.pdf
+#   total_pages   : 4
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:51:46 UTC
+#   tokens_in     : 8,708
+#   tokens_out    : 7,920
+
+--- PAGE 01 ---
+Name: Rohit Khanna Page 1 of 4
+APR 14 2021
+UNITED STATES HOUSE OF REPRESENTATIVES
+LEGISLATIVE RESOURCE CENTER
+Periodic Transaction Report
+2021 APR 16 AM 11: 20
+OFFICE TELEPHONE: 202-225-2631
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+MC
+NAME: Rohit Khanna
+Officer or Employee
+X Member of the U.S. House of Representatives
+Employing Office: ____________________
+State: CA District: 17
+File an original and 2 copies
+File an original and 1 copy
+(For Official Use Only)
+Please indicate whether this is an initial report or an amended report.
+Did you purchase any shares that were allocated as a part of an Initial For amendments, please provide the date of the report you are
+Public Offering?
+amending. X
+Yes No Initial Report Amendment
+X
+If you answered 'Yes' to this question, please contact the Committee on Date of Report Being Amended: ____________________
+Ethics for further guidance.
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+A B C D E F G H I J K
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY) (MM/DD/YY)
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+SP
+DC
+JT
+JT Example: Mega Corp. Common Stock X 02/05/15 03/07/15 X
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Ro Khanna Page 2 of 4
+Full Asset Name
+Type of Transaction
+Capital Gains > $200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amounts of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+$1,000,000
+Areco LP
+2020 Trust FRD Khanna Children
+DC
+Snap Inc.
+X
+X
+03/02/21
+04/06/21
+X
+DC
+Snap Inc.
+X
+X
+03/08/21
+04/06/21
+X
+DC
+CME Group Inc.
+X
+X
+03/09/21
+04/06/21
+X
+DC
+Match Group Inc.
+X
+X
+03/16/21
+04/06/21
+X
+DC
+IHS Markit Ltd.
+X
+X
+03/24/21
+04/06/21
+X
+DC
+Adobe Inc.
+X
+X
+03/24/21
+04/06/21
+X
+DC
+Snap Inc.
+X
+X
+03/24/21
+04/06/21
+X
+DC
+Media Corporation
+X
+X
+03/24/21
+04/06/21
+X
+DC
+Estee Lauder Co
+X
+X
+03/24/21
+04/06/21
+X
+DC
+Chipotle Mexican Grill Inc.
+X
+X
+03/26/21
+04/06/21
+X
+Grandchildren's Trust
+DC
+Estee Lauder Co
+X
+X
+03/24/21
+04/06/21
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 4
+Full Asset Name
+Type of Transaction
+Capital Gains >$200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+MM/DD/YY
+MM/DD/YY
+SPDR/IT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+M&R Trust Partnership
+2020 Trust FBO Khanna Children
+DC
+Snap Inc.
+X
+X
+X
+03/02/21
+04/06/21
+X
+$1,001 - $15,000
+DC
+CME Group Inc.
+X
+03/08/21
+04/06/21
+X
+$15,001 - $50,000
+DC
+Match Group Inc.
+X
+03/09/21
+04/06/21
+X
+$15,001 - $50,000
+DC
+IHS Markit Ltd
+X
+03/16/21
+04/06/21
+X
+$15,001 - $50,000
+DC
+Adobe Inc.
+X
+03/24/21
+04/06/21
+X
+$15,001 - $50,000
+DC
+IHS Markit Ltd
+X
+03/24/21
+04/06/21
+X
+$15,001 - $50,000
+DC
+Snap Inc.
+X
+03/24/21
+04/06/21
+X
+$15,001 - $50,000
+DC
+Nvidia Corp
+X
+03/24/21
+04/06/21
+X
+$15,001 - $50,000
+DC
+Estee Lauder Co.
+X
+X
+03/24/21
+04/06/21
+X
+$15,001 - $50,000
+DC
+Chipotle Mexican Grill Inc.
+X
+03/26/21
+04/06/21
+X
+$15,001 - $50,000
+
+--- PAGE 04 ---
+Periodic Transaction Report Page 4 of 4
+SP/DC/JT
+Full Asset Name
+Type of Transaction
+Purchase
+Sale
+Exchange
+Capital Gain
+over $200
+Date of
+Transaction
+MM/DD/YY
+Date Notified of
+Transaction
+MM/DD/YY
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in a Spouse or
+Child Asset
+over
+$1,000
+$1,001 -
+$15,000
+$15,001 -
+$50,000
+$50,001 -
+$100,000
+$100,001 -
+$250,000
+$250,001 -
+$500,000
+$500,001 -
+$1,000,000
+$1,000,001 -
+$5,000,000
+$5,000,001 -
+$25,000,000
+$25,000,001 -
+$50,000,000
+Over
+$50,000,000
+DC
+WESTINGHOUSE AIR BRAKE TECHNOL CMN
+x
+02/12/21
+04/05/21
+x
+DC
+AT&T INC. CMN
+x
+03/05/21
+04/05/21
+x
+DC
+BOOTS ALLIANCE, INC. CMN
+x
+03/17/21
+04/05/21
+x
+DC
+COCA-COLA COMPANY (THE) CMN
+x
+03/10/21
+04/05/21
+x
+DC
+COCA-COLA COMPANY (THE) CMN
+x
+03/15/21
+04/05/21
+x
+DC
+COCA-COLA COMPANY (THE) CMN
+x
+03/25/21
+04/05/21
+x
+DC
+COCA-COLA COMPANY (THE) CMN
+x
+03/10/21
+04/05/21
+x
+DC
+COCA-COLA COMPANY (THE) CMN
+x
+03/15/21
+04/05/21
+x
+DC
+COCA-COLA COMPANY (THE) CMN
+x
+03/25/21
+04/05/21
+x
+DC
+COCA-COLA COMPANY (THE) CMN
+x
+03/19/21
+04/05/21
+x
+DC
+VACCINES INC CMN CLASS B
+x
+03/11/21
+04/05/21
+x
+DC
+VACCINES INC CMN CLASS B
+x
+03/11/21
+04/05/21
+x
+DC
+AMERICAN INTL GROUP, INC CMN
+x
+03/11/21
+04/05/21
+x
+SP
+Abbott 3386 Trust
+SP
+TALLAHASSEE FLA ENERGY SYS REV REV 5% 10/01/21 AO
+x
+03/02/21
+04/05/21
+x
+SP
+OHIO ST WTR DEV AUTH WTR 5% 12/01/21 ID
+x
+03/02/21
+04/05/21
+x
+SP
+TEXAS ST TEX GO 5% 08/01/22 ME
+x
+03/02/21
+04/05/21
+x
+SP
+HAYS CTY TEX GO 5% 02/15/22 FA
+x
+03/02/21
+04/05/21
+x
+SP
+Abbott 3385 Trust
+SP
+HUNTSVILLE ALA GO 5% 05/01/22 CA MN
+x
+03/08/21
+04/05/21
+x
+SP
+FACEBOOK, INC. CMN CLASS A
+x
+03/08/21
+04/05/21
+x
+SP
+ZYNG A INC. CMN CLASS A
+x
+03/26/21
+04/05/21
+x
+SP
+ZYNG A INC. CMN CLASS A
+x
+03/26/21
+04/05/21
+x
+SP
+ZYNG A INC. CMN CLASS A
+x
+03/26/21
+04/05/21
+x
+SP
+S&A COMMUNICATION CORPORATION CMN
+x
+03/12/21
+04/05/21
+x
+SP
+S&A COMMUNICATION CORPORATION CMN
+x
+03/12/21
+04/05/21
+x
+SP
+HUMANA INC. CMN
+x
+03/12/21
+04/05/21
+x
+SP
+HUMANA INC. CMN
+x
+03/12/21
+04/05/21
+x
+SP
+JPMORGAN CHASE & CO. CMN
+x
+03/16/21
+04/05/21
+x
+SP
+TEXAS INSTRUMENTS INC. CMN
+x
+03/16/21
+04/05/21
+x
+SP
+O'REILLY AUTOMOTIVE, INC. CMN
+x
+03/16/21
+04/05/21
+x
+SP
+TEXAS INSTRUMENTS INC. CMN
+x
+03/26/21
+04/05/21
+x
+SP
+METLIFE, INC. CMN
+x
+03/09/21
+04/05/21
+x

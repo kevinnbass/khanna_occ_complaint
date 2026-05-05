@@ -1,0 +1,72 @@
+{
+  "file_key": "20030466",
+  "total_pages": 1,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "ski mask dog",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "05/12/2025",
+            "notification_date": "05/12/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "ski mask dog",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "05/05/2025",
+            "notification_date": "05/05/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "ski mask dog",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S (partial)",
+            "transaction_date": "05/08/2025",
+            "notification_date": "05/08/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Sui",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "06/03/2025",
+            "notification_date": "06/03/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "The Graph",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "05/09/2025",
+            "notification_date": "05/09/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1566,
+      "tokens_out": 607
+    }
+  },
+  "stats": {
+    "tokens_in": 1566,
+    "tokens_out": 607,
+    "n_ok": 1,
+    "n_failed": 0,
+    "elapsed_s": 4.05,
+    "pages_submitted": 1
+  }
+}

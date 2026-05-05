@@ -1,0 +1,762 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 9110730
+#   year          : 2017
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110730.pdf
+#   total_pages   : 5
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:27:28 UTC
+#   tokens_in     : 11,196
+#   tokens_out    : 11,929
+
+--- PAGE 01 ---
+HAND
+DELIVERED
+LEGISLATIVE RESOURCE CENTER
+2017 MAY 11 AM 11: 44
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+Page 1 of 5
+U.S. HOUSE OF REPRESENTATIVES
+NAME: Rohit Khanna
+OFFICE TELEPHONE: (202) 225-2631
+X Member of the U.S. House of Representatives
+State: CA District: 17
+Officer or Employee
+Employing Office:
+File an original and 2 copies
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+X Initial Report
+Amendment
+Date of Report Being Amended:
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+SP
+DC
+JT
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Provide full name, not ticker symbol.
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/15
+03/07/15
+X
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction In a Spouse or Dependent Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Provide full name, not ticker symbol.
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+SP
+Morgan Stanley Institutional Liquidity Fund Tax Exempt
+X
+04/05/17
+04/05/17
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+over
+$1,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+M&R Trust Partnership
+SP
+Illumina Inc.
+X
+04/27/17
+04/27/17
+X
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+RA '04 Trust
+SP
+TRANSDIGM GROUP INCORPORATED CMN
+x
+04/03/17
+05/05/17
+x
+SP
+W.W. GRAINGER INCORPORATED CMN
+x
+04/03/17
+05/05/17
+x
+SP
+BERKSHIRE HATHAWAY INC. CLASS B
+x
+04/03/17
+05/05/17
+x
+SP
+GENERAL MOTORS COMPANY CMN
+x
+04/03/17
+05/05/17
+x
+SP
+PUBLIC STORAGE CMN
+x
+04/03/17
+05/05/17
+x
+SP
+NORTHROP GRUMMAN CORP CMN
+x
+04/03/17
+05/05/17
+x
+SP
+MONDELEZ INTERNATIONAL, INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+AMERIPRISE FINANCIAL, INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+CONOCOPHILLIPS CMN
+x
+04/03/17
+05/05/17
+x
+SP
+HORMEL FOODS CORP CMN
+x
+04/03/17
+05/05/17
+x
+SP
+METLIFE, INC. CMN
+x
+04/03/17
+05/06/17
+x
+SP
+DEVON ENERGY CORPORATION (NEW) CMN
+x
+04/03/17
+05/05/17
+x
+SP
+CONCHO RESOURCES INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+RAYTHEON CO CMN
+x
+04/03/17
+05/05/17
+x
+SP
+AETNA INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+PHILLIPS 66 CMN
+x
+04/03/17
+05/05/17
+x
+SP
+INTERNATIONAL PAPER CO. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+GILEAD SCIENCES CMN
+x
+04/03/17
+05/05/17
+x
+SP
+EXPRESS SCRIPTS HOLDINGS CMN
+x
+04/03/17
+05/05/17
+x
+SP
+UNION PACIFIC CORP. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+GENERAL MILLS INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+CONAGRA BRANDS INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+ENBRIDGE INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+E.I. DU PONT DE NEMOURS AND CO CMN
+x
+04/03/17
+05/05/17
+x
+SP
+FORD MOTOR COMPANY CMN
+x
+04/03/17
+05/05/17
+x
+SP
+EOG RESOURCES INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+NORFOLK SOUTHERN CORPORATION CMN
+x
+04/03/17
+05/05/17
+x
+SP
+JOHNSON & JOHNSON CMN
+x
+04/03/17
+05/05/17
+x
+SP
+INTUIT INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+DOLLAR GENERAL CORPORATION CMN
+x
+04/03/17
+05/05/17
+x
+SP
+OCCIDENTAL PETROLEUM CORP CMN
+x
+04/03/17
+05/05/17
+x
+SP
+FEDEX CORP CMN
+x
+04/03/17
+05/05/17
+x
+SP
+VULCAN MATERIALS CO CMN
+x
+04/03/17
+05/05/17
+x
+SP
+JPMORGAN CHASE & CO CMN
+x
+04/03/17
+05/05/17
+x
+SP
+WAL MART STORES INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+PRAXAIR, INC CMN SERIES
+x
+04/03/17
+05/05/17
+x
+SP
+JOHNSON CONTROLS INTERNATIONAL CMN
+x
+04/03/17
+05/05/17
+x
+SP
+EQUIFAX INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+AON PLC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+CVS HEALTH CORP CMN
+x
+04/03/17
+05/05/17
+x
+SP
+MARSH & MCLENNAN CO INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+TEXAS INSTRUMENTS INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+CISCO SYSTEMS, INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+GGP INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+MACERICH COMPANY CMN
+x
+04/03/17
+05/05/17
+x
+SP
+THE TRAVELERS COMPANIES, INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+APACHE CORP. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+ACCENTURE PLC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+SIMON PROPERTY GROUP INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+PRUDENTIAL FINANCIAL INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+GENERAL DYNAMICS CORP. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+AIR PRODUCTS & CHEMICALS INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+FISERV INC CMN
+x
+04/03/17
+05/05/17
+x
+SP
+CORNING INCORPORATED CMN
+x
+04/03/17
+05/05/17
+x
+SP
+WELLS FARGO & CO (NEW) CMN
+x
+04/03/17
+05/05/17
+x
+SP
+KELLOGG COMPANY CMN
+x
+04/03/17
+05/05/17
+x
+SP
+PROCTER & GAMBLE COMPANY (THE) CMN
+x
+04/03/17
+05/05/17
+x
+SP
+SCHLUMBERGER LTD CMN
+x
+04/03/17
+05/05/17
+x
+
+--- PAGE 05 ---
+5 of 5
+NAME: Rohit Khanna Page _ of _
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+$1,001-
+$15,001-
+$50,001-
+$100,001-
+$250,001-
+$500,001-
+$1,000,001-
+$5,000,001-
+$25,000,001-
+Over
+over
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$15,000
+$50,000
+$100,000
+$250,000
+$500,000
+$1,000,000
+$5,000,000
+$25,000,000
+$50,000,000
+$50,000,000
+$1,000,000
+SP
+HP INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+TARGET CORPORATION CMN
+x
+04/03/17
+05/05/17
+x
+SP
+HALLIBURTON COMPANY CMN
+x
+04/03/17
+05/05/17
+x
+SP
+VERIZON COMMUNICATIONS INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+TIME WARNER INC. CMN
+x
+04/03/17
+05/05/17
+x
+SP
+THE BANK OF NY MELLON CORP CMN
+x
+04/03/17
+05/05/17
+x
+SP
+VALERO ENERGY CORPORATION CMN
+x
+04/03/17
+05/05/17
+x
+SP
+CHARLES SCHWAB CORPORATION CMN
+x
+04/03/17
+05/05/17
+x
+SP
+THE MOSAIC COMPANY CMN
+x
+04/11/17
+05/05/17
+x
+SP
+THE MOSAIC COMPANY CMN
+x
+04/12/17
+05/05/17
+x
+SP
+WESTLAKE CHEMICAL CORPORATION CMN
+x
+04/24/17
+05/05/17
+x
+SP
+WHOLE FOODS MARKET INC CMN
+x
+04/24/17
+05/05/17
+x
+SP
+WHOLE FOODS MARKET INC CMN
+x
+04/24/17
+05/05/17
+x
+SP
+BAXTER INTERNATIONAL INC CMN
+x
+04/26/17
+05/05/17
+x
+SP
+WESTLAKE CHEMICAL CORPORATION CMN
+x
+04/27/17
+05/05/17
+x
+SP
+VERSUM MATERIALS, INC. CMN
+x
+04/27/17
+05/05/17
+x
+SP
+EMERALD EXPOSITIONS EVENTS, IN CMN
+x
+04/28/17
+05/05/17
+x
+SP
+EMERALD EXPOSITIONS EVENTS, IN CMN
+x
+04/28/17
+05/05/17
+x
+SP
+GENERAL MOTORS COMPANY CMN
+x
+04/28/17
+05/05/17
+x

@@ -1,0 +1,828 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8216879
+#   year          : 2020
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8216879.pdf
+#   total_pages   : 6
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:42:31 UTC
+#   tokens_in     : 12,440
+#   tokens_out    : 10,458
+
+--- PAGE 01 ---
+HAND DELIVERED
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+Name: Rohit Khanna Page 1 of 6
+LEGISLATIVE RESOURCE CENTER
+2020 JAN -9 PM 2: 18
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+X Member of the U.S. House of Representatives
+State: CA District: 17
+File an original and 2 copies
+Officer or Employee
+Employing Office: ____________________
+File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X
+Initial Report Amendment
+Date of Report Being Amended: ____________________
+(For Official Use Only)
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+A B C D E F G H I J K
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY) (MM/DD/YY)
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT Example: Mega Corp. Common Stock X 02/05/15 03/07/15 X
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 6
+Full Asset Name
+Type of Transaction
+Data of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+M&R Trust Partnership
+SP
+NIKE INC B
+X
+12/27/19
+01/03/20
+X
+SP
+MICROSOFT CORP
+X
+12/27/19
+01/03/20
+X
+SP
+ECOLAB INC
+X
+12/27/19
+01/03/20
+X
+SP
+ADOBE INC
+X
+12/27/19
+01/03/20
+X
+SP
+IHS MARKIT LTD
+X
+12/27/19
+01/03/20
+X
+SP
+ALPHABET INC CL A
+X
+12/27/19
+01/03/20
+X
+SP
+FACEBOOK INC CL-A
+X
+12/27/19
+01/03/20
+X
+SP
+S&P GLOBAL INC COM
+X
+12/27/19
+01/03/20
+X
+SP
+EQUINIX INC COM PAR $0.001
+X
+12/27/19
+01/03/20
+X
+SP
+AMERICAN TOWER REIT
+X
+12/27/19
+01/03/20
+X
+SP
+BOOKING HOLDINGS INC
+X
+12/27/19
+01/03/20
+X
+SP
+NETFLIX INC
+X
+12/27/19
+01/03/20
+X
+SP
+CME GROUP INC
+X
+12/27/19
+01/03/20
+X
+SP
+INTUITIVE SURGICAL INC
+X
+12/27/19
+01/03/20
+X
+SP
+ALIGN TECHNOLOGY
+X
+12/27/19
+01/03/20
+X
+SP
+NVIDIA CORPORATION
+X
+12/27/19
+01/03/20
+X
+SP
+AMAZON COM INC
+X
+12/27/19
+01/03/20
+X
+SP
+INTUIT INC
+X
+12/27/19
+01/03/20
+X
+SP
+ESTEE LAUDER CO INC CL A
+X
+12/27/19
+01/03/20
+X
+SP
+ILLUMINA INC
+X
+12/27/19
+01/03/20
+X
+SP
+PAYPAL HLDGS INC COM
+X
+12/27/19
+01/03/20
+X
+SP
+VISA INC CL A
+X
+12/27/19
+01/03/20
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+Areco
+SP
+BOOKING HOLDINGS INC
+X
+12/27/19
+01/03/20
+X
+DC
+BOOKING HOLDINGS INC
+X
+12/27/19
+01/03/20
+X
+SP
+NETFLIX INC
+X
+12/27/19
+01/03/20
+X
+DC
+NETFLIX INC
+X
+12/27/19
+01/03/20
+X
+SP
+ALIGN TECHNOLOGY
+X
+12/27/19
+01/03/20
+X
+DC
+ALIGN TECHNOLOGY
+X
+12/27/19
+01/03/20
+X
+SP
+NVIDIA CORPORATION
+X
+12/27/19
+01/03/20
+X
+DC
+NVIDIA CORPORATION
+X
+12/27/19
+01/03/20
+X
+SP
+AMAZON COM INC
+X
+12/27/19
+01/03/20
+X
+DC
+AMAZON COM INC
+X
+12/27/19
+01/03/20
+X
+SP
+INTUIT INC
+X
+12/27/19
+01/03/20
+X
+DC
+INTUIT INC
+X
+12/27/19
+01/03/20
+X
+SP
+ILLUMINA INC
+X
+12/27/19
+01/03/20
+X
+DC
+ILLUMINA INC
+X
+12/27/19
+01/03/20
+X
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+Provide full name, not ticker symbol.
+DC
+URBAN OUTFITTERS INC CMN
+x
+12/30/19
+01/03/20
+x
+DC
+URBAN OUTFITTERS INC CMN
+x
+12/13/19
+01/03/20
+x
+DC
+URBAN OUTFITTERS INC CMN
+x
+12/11/19
+01/03/20
+x
+DC
+URBAN OUTFITTERS INC CMN
+x
+12/06/19
+01/03/20
+x
+DC
+MOSAIC COMPANY (THE) CMN
+x
+12/05/19
+01/03/20
+x
+DC
+MOSAIC COMPANY (THE) CMN
+x
+12/04/19
+01/03/20
+x
+Ritu Ahuja 1998 Trust
+SP
+NASSAU CNTY N Y GO 2% 03/15/20 M5
+x
+12/10/19
+01/03/20
+x
+SP
+IOWA FIN AUTH REV 5.0000% 08/01/20 FA
+x
+12/09/19
+01/03/20
+x
+SP
+S D CONSERVANCY DIST REV 5% 08/01/20 FA
+x
+12/05/19
+01/03/20
+x
+SP
+MOSAIC COMPANY (THE) CMN
+x
+12/11/19
+01/03/20
+x
+SP
+MOSAIC COMPANY (THE) CMN
+x
+12/04/19
+01/03/20
+x
+SP
+FEDEX CORPORATION CMN
+x
+12/16/19
+01/03/20
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+12/23/19
+01/03/20
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+12/16/19
+01/03/20
+x
+SP
+NETFLIX, INC. CMN
+x
+12/12/19
+01/03/20
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+12/03/19
+01/03/20
+x
+SP
+ALBEMARLE CORP CMN
+x
+12/06/19
+01/03/20
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+12/02/19
+01/03/20
+x
+SP
+ALBEMARLE CORP CMN
+x
+12/31/19
+01/03/20
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+12/05/19
+01/03/20
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+12/16/19
+01/03/20
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+12/16/19
+01/03/20
+x
+SP
+ENTEGRIS, INC. CMN
+x
+12/16/19
+01/03/20
+x
+SP
+AMAZON.COM INC CMN
+x
+12/16/19
+01/03/20
+x
+SP
+EXELON CORPORATION CMN
+x
+12/16/19
+01/03/20
+x
+SP
+BIOGEN INC. CMN
+x
+12/16/19
+01/03/20
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+12/19/19
+01/03/20
+x
+Ritu Ahuja 1995 Trust
+SP
+CONNECTICUT ST GO 5% 01/15/21 JJ
+x
+12/13/19
+01/03/20
+x
+SP
+LEAVENWORTH CNTY KANS GO 4% 12/01/20 J5
+x
+12/09/19
+01/03/20
+x
+SP
+BROWARD CNTY FLA SCH 2% 03/16/20 M5
+x
+12/10/19
+01/03/20
+x
+SP
+TEXAS A & M UNIV PERM UNIV FDS 5% 07/01/20-CA JJ
+x
+12/17/19
+01/03/20
+x
+SP
+WAUWATOSA WIS DIST GO 5% 09/01/20 M5
+x
+12/10/19
+01/03/20
+x
+SP
+GRANITE SCH DIST UTAH SAT GO 4.5000% 06/01/20 JD
+x
+12/16/19
+01/03/20
+x
+SP
+TEXAS A & M UNIV PERM UNIV FDS 5% 07/01/20 JJ
+x
+12/17/19
+01/03/20
+x
+SP
+CARROLLTON TEX GO 5% 08/15/20 FA
+x
+12/18/19
+01/03/20
+x
+SP
+PORT HOUSTON AUTH TEX HARRIS GO 5% 10/01/20 AO
+x
+12/18/19
+01/03/20
+x
+SP
+WILL CNTY ILL SCH DIST NO 159 GO 3% 12/01/20 JD
+x
+12/16/19
+01/03/20
+x
+SP
+PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS
+x
+12/12/19
+01/03/20
+x
+SP
+CHENERE ENERGY, INC. CMN
+x
+12/19/19
+01/03/20
+x
+SP
+SUNOCO LP CMN
+x
+12/16/19
+01/03/20
+x
+SP
+MPLX LP CMN
+x
+12/05/19
+01/03/20
+x
+SP
+ENTERPRISE PRODUCTS PART L.P CMN
+x
+12/09/19
+01/03/20
+x
+SP
+DCP MIDSTREAM LP CMN
+x
+12/11/19
+01/03/20
+x
+SP
+PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS
+x
+12/17/19
+01/03/20
+x
+SP
+DCP MIDSTREAM LP @ 309 EXP 02/07/2020
+x
+12/26/19
+01/03/20
+x
+SP
+CRESTWOOD EQUITY PARTNERS LP CMN
+x
+12/10/19
+01/03/20
+x
+
+--- PAGE 05 ---
+NAME: Rohit Khanna Page 5 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+SP
+ENTERPRISE PRODUCTS PART L.P CMN
+x
+12/09/19
+01/03/20
+x
+SP
+3M COMPANY CMN
+x
+12/12/19
+01/03/20
+x
+SP
+PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS
+x
+12/05/19
+01/03/20
+x
+SP
+EXXON MOBIL CORPORATION CMN
+x
+12/12/19
+01/03/20
+x
+SP
+ENTERPRISE PRODUCTS PART L.P CMN
+x
+12/09/19
+01/03/20
+x
+SP
+PLAINS ALL AMERICAN PIPELINE L.P. COMMON UNITS
+x
+12/05/19
+01/03/20
+x
+SP
+ELI LILLY & CO CMN
+x
+12/12/19
+01/03/20
+x
+
+--- PAGE 06 ---
+NAME: Rohit Khanna
+Page 6 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in
+a Spouse or
+Dependent
+Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+DC
+Grandchildren's Trust (ASK Partners, LLC)
+x
+12/31/19
+12/31/19
+x
+DC
+Tharstar/Spearstar Holding Company 1st Lien TL
+x
+12/31/19
+12/31/19
+x

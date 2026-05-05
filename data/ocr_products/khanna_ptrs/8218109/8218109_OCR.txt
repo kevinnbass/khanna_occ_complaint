@@ -1,0 +1,377 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8218109
+#   year          : 2021
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218109.pdf
+#   total_pages   : 3
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:53:32 UTC
+#   tokens_in     : 6,220
+#   tokens_out    : 5,785
+
+--- PAGE 01 ---
+Name: Rohit Khanna Page 1 of 3
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+JUN 08 2021
+LEGISLATIVE RESOURCE CENTER
+2021 JUN 10 AM 11: 16
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+U.S. HOUSE OF REPRESENTATIVES
+X Member of the U.S. House of Representatives
+Officer or Employee
+State: CA District: 17
+Employing Office:
+File an original and 2 copies
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an initial
+Public Offering?
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+Yes X No
+X
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Initial Report
+Amendment
+Date of Report Being Amended: ____________________
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+A B C D E F G H I J K
+Purchase
+Sale
+Exchange
+(MM/DD/YY) (MM/DD/YY)
+$1.001-
+$15,000
+$15.001-
+$50,000
+$50.001-
+$100,000
+$100,001-
+$250,000
+$250 001-
+$500 000
+$500 001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+X 02/05/015 03/07/15 X
+JT Example: Mega Corp Common Stock
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 3
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+2020 Trust FBO Khanna Children
+DC
+Intuitive Surgical Inc
+X
+X
+05/04/21
+06/01/21
+X
+DC
+Match Group Inc
+X
+X
+05/04/21
+06/01/21
+X
+DC
+M&T Bank Corp
+X
+X
+05/06/21
+06/01/21
+X
+DC
+Motorola Solutions Inc
+X
+X
+05/06/21
+06/01/21
+X
+DC
+Ares Management Corp
+X
+X
+05/06/21
+06/01/21
+X
+DC
+Costar Group Inc
+X
+X
+05/13/21
+06/01/21
+X
+DC
+IHS Markit Ltd
+X
+X
+05/13/21
+06/01/21
+X
+DC
+Snap Inc
+X
+X
+05/14/21
+06/01/21
+X
+DC
+Facebook Inc
+X
+X
+05/19/21
+06/01/21
+X
+DC
+Match Group Inc
+X
+X
+05/19/21
+06/01/21
+X
+DC
+IHS Markit Ltd
+X
+X
+05/19/21
+06/01/21
+X
+DC
+Costar Group Inc
+X
+X
+05/21/21
+06/01/21
+X
+DC
+CBRE Group Inc
+X
+X
+05/21/21
+06/01/21
+X
+
+--- PAGE 03 ---
+NAME: Robin Chana Page
+3 of 3
+Amount of Transaction
+Date of
+Transaction
+Date Notified of
+Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transactio
+n a Spouse or
+Dependent
+Child Asset
+Capital Gain
+over $200
+Purchase Sale
+Exchange
+Type of Transaction
+Full Asset Name, not ticker symbol
+SP/DC/JT
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+Assets and Other Assets 2020 Irrev Trust FBO Grandchildren
+DC DEERE & COMPANY CMN
+x
+05/14/21
+06/03/21
+x
+DC ZYNGA INC. CMN CLASS A
+x
+05/14/21
+06/03/21
+x
+DC REGIONS FINANCIAL CORPORATION CMN
+x
+05/14/21
+06/03/21
+x
+DC KIMBERLY-CLARK CORPORATION CMN
+x
+05/14/21
+06/03/21
+x
+DC KIMBERLY-CLARK CORPORATION CMN
+x
+05/20/21
+06/03/21
+x
+DC KIMBERLY-CLARK CORPORATION CMN
+x
+05/25/21
+06/03/21
+x
+Rita Abajie 1988 Trust
+SP CLARK CTY WASH SCH DIST NO 05 5% 12/01/21 JD
+x
+05/11/21
+06/03/21
+x
+Rita Abajie 1988 Trust
+SP FAIRFAX CTY VA GO 0.000% 10/01/21 AO
+x
+05/14/21
+06/03/21
+x
+SP PORTLAND ORE REV 5% 10/01/21 AO
+x
+05/14/21
+06/03/21
+x
+SP ILLINOIS FIN AUTH REV 5% 12/15/21 JD
+x
+05/14/21
+06/03/21
+x
+SP DENVER COLO CITY & CTY SCH GO 5% 12/01/25 JD
+x
+05/14/21
+06/03/21
+x
+SP PLANO TX INDPT SCH DIST GO 5% 02/15/23 FA
+x
+05/14/21
+06/03/21
+x
+SP MC KINNEY TEX GO 5% 08/15/21 FA
+x
+05/14/21
+06/03/21
+x
+SP ALIEF TEX INDPT SCH DIST GO 5% 02/15/22 FA
+x
+05/14/21
+06/03/21
+x
+SP SOUTHWEST SUBN SWR DIST WASH REV 5% 05/01/22 MN
+x
+05/14/21
+06/03/21
+x
+SP MOORESVILLE N C ENTERPRISE SYS REV 5% 05/01/22 MN
+x
+05/19/21
+06/03/21
+x
+SP DEERE & COMPANY CMN
+x
+05/20/21
+06/03/21
+x
+SP ZYNGA INC. CMN CLASS A
+x
+05/20/21
+06/03/21
+x
+SP COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A
+x
+05/20/21
+06/03/21
+x
+SP KIMBERLY-CLARK CORPORATION CMN
+x
+05/20/21
+06/03/21
+x
+SP KIMBERLY-CLARK CORPORATION CMN
+x
+05/20/21
+06/03/21
+x
+SP KIMBERLY-CLARK CORPORATION CMN
+x
+05/25/21
+06/03/21
+x

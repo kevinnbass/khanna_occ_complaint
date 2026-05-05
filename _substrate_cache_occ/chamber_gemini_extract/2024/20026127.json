@@ -1,0 +1,62 @@
+{
+ "file_key": "20026127",
+ "total_pages": 1,
+ "pages": {
+  "0": {
+   "parsed": {
+    "transactions": [
+     {
+      "asset_name": "aerodrome",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "11/03/2024",
+      "notification_date": "11/03/2024",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "[redacted]",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "10/07/2024",
+      "notification_date": "10/07/2024",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "[redacted]",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "10/16/2024",
+      "notification_date": "10/16/2024",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "[redacted]",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "10/30/2024",
+      "notification_date": "10/30/2024",
+      "amount_range": "$15,001 - $50,000",
+      "capital_gains_over_200": false
+     }
+    ]
+   },
+   "tokens_in": 1566,
+   "tokens_out": 488
+  }
+ },
+ "stats": {
+  "tokens_in": 1566,
+  "tokens_out": 488,
+  "n_ok": 1,
+  "n_failed": 0,
+  "elapsed_s": 4.47,
+  "pages_submitted": 1
+ }
+}

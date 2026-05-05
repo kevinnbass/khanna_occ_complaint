@@ -1,0 +1,32 @@
+{
+  "file_key": "20009497",
+  "total_pages": 1,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "LogMein, Inc. (LOGM)",
+            "asset_ticker": "LOGM",
+            "owner": null,
+            "transaction_type": "E",
+            "transaction_date": "02/01/2017",
+            "notification_date": "02/01/2017",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1566,
+      "tokens_out": 138
+    }
+  },
+  "stats": {
+    "tokens_in": 1566,
+    "tokens_out": 138,
+    "n_ok": 1,
+    "n_failed": 0,
+    "elapsed_s": 5.81,
+    "pages_submitted": 1
+  }
+}

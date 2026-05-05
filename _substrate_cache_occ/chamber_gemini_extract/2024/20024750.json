@@ -1,0 +1,42 @@
+{
+  "file_key": "20024750",
+  "total_pages": 1,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "U.S. Treasury Bond",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "11/16/2023",
+            "notification_date": "11/25/2023",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "U.S. Treasury Bond",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "02/16/2024",
+            "notification_date": "02/24/2024",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1566,
+      "tokens_out": 256
+    }
+  },
+  "stats": {
+    "tokens_in": 1566,
+    "tokens_out": 256,
+    "n_ok": 1,
+    "n_failed": 0,
+    "elapsed_s": 3.25,
+    "pages_submitted": 1
+  }
+}

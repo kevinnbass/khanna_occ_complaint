@@ -1,0 +1,77 @@
+{
+  "snapshot_target": "OCC_M012 (peer-46 baseline) + adjacent-axis exculpatory metrics",
+  "snapshot_taken_at": "2026-05-03T03:09:25.805299+00:00",
+  "snapshot_date": "2026_05_02",
+  "substrate_authoritative": "ro_khanna.peer_baseline_percentiles",
+  "metrics": [
+    {
+      "metric_name": "defense_prime_pct",
+      "khanna_value": 1.2405,
+      "n_peers": 46,
+      "p25": 0.3051,
+      "p50": 1.2476,
+      "p75": 2.9547,
+      "p95": 5.7955,
+      "khanna_rank": 24,
+      "khanna_percentile": 47.83,
+      "interpretation": "below median"
+    },
+    {
+      "metric_name": "late_rate_pct",
+      "khanna_value": 1.74,
+      "n_peers": 46,
+      "p25": 1.865,
+      "p50": 5.955,
+      "p75": 13.11,
+      "p95": 48.205,
+      "khanna_rank": 35,
+      "khanna_percentile": 25.0,
+      "interpretation": "bottom quartile"
+    },
+    {
+      "metric_name": "ndaa_window_pct_of_defense",
+      "khanna_value": 6.4444,
+      "n_peers": 38,
+      "p25": 0.0,
+      "p50": 0.0,
+      "p75": 7.2736,
+      "p95": 16.894,
+      "khanna_rank": 12,
+      "khanna_percentile": 68.42,
+      "interpretation": "above median"
+    },
+    {
+      "metric_name": "sp_dc_trade_pct",
+      "khanna_value": 100.0,
+      "n_peers": 46,
+      "p25": 12.2856,
+      "p50": 82.424,
+      "p75": 98.0244,
+      "p95": 100.0,
+      "khanna_rank": 1,
+      "khanna_percentile": 86.96,
+      "interpretation": "above 75th percentile"
+    },
+    {
+      "metric_name": "worst_late_days",
+      "khanna_value": 358.0,
+      "n_peers": 46,
+      "p25": 334.0,
+      "p50": 447.5,
+      "p75": 578.0,
+      "p95": 791.0,
+      "khanna_rank": 30,
+      "khanna_percentile": 35.87,
+      "interpretation": "below median"
+    }
+  ],
+  "worst_days_late_only_subset": {
+    "n_with_late": 43,
+    "p50_worst_late_only": 455.0,
+    "rank_le_khanna_late_only": 14
+  },
+  "worst_days_late_only_subset_note": "Body's '15 of 43 peers, P33' subject-rank uses the late-only denominator (peers with worst_late_days > 0). The P50 447.5 d in the metrics block above includes zero-worst peers; the late-only P50 is reported in this auxiliary block. Both posture Khanna's 358 d below peer median; direction unchanged across denominator choice.",
+  "verifier_kinds_supported": [
+    "peer_baseline_metric_resolve (OCC_M012)"
+  ]
+}

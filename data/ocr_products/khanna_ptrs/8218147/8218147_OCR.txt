@@ -1,0 +1,575 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8218147
+#   year          : 2021
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218147.pdf
+#   total_pages   : 3
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:53:52 UTC
+#   tokens_in     : 6,220
+#   tokens_out    : 7,583
+
+--- PAGE 01 ---
+POSTMARK ILLEGIBLE
+Page 1 of 3
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+LEGISLATIVE RESOURCE CENTER
+2021 JUL 13 PM 2:34
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+MC
+X Member of the U.S. House of Representatives
+Officer or Employee
+State: CA District: 17
+Employing Office:
+File an original and 2 copies
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X Initial Report Amendment
+Date of Report Being Amended: ____________________
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+Provide full name, not ticker symbol
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+SP
+DC
+JT
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/015
+03/07/15
+X
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 3
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+SP/DC/JT
+Provide full name, not ticker symbol
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A $1,001- $15,000
+B $15,001- $50,000
+C $50,001- $100,000
+D $100,001- $250,000
+E $250,001- $500,000
+F $500,001- $1,000,000
+G $1,000,001- $5,000,000
+H $5,000,001- $25,000,000
+I $25,000,001- $50,000,000
+J Over $50,000,000
+K Transaction in a Spouse or Dependent Child Asset over $1,000,000
+M&R Trust Partnership
+SP
+Gartner Inc.
+x
+x
+x
+06/01/21
+07/02/21
+x
+SP
+Dollar General Corp.
+x
+06/01/21
+07/02/21
+x
+SP
+IHS Markit Ltd
+x
+x
+x
+06/01/21
+07/02/21
+x
+SP
+Roper Technologies, Inc.
+x
+06/01/21
+07/02/21
+x
+SP
+Helco Corp.
+x
+x
+06/04/21
+07/02/21
+x
+SP
+Brookfield Asset Management Ltd.
+x
+x
+06/04/21
+07/02/21
+x
+SP
+Transdigm Group Inc.
+x
+x
+06/04/21
+07/02/21
+x
+SP
+KKR & Co Inc.
+x
+x
+06/04/21
+07/02/21
+x
+SP
+CBRE Group Inc.
+x
+x
+x
+06/16/21
+07/02/21
+x
+SP
+Nvidia Corporation
+x
+x
+x
+06/18/21
+07/02/21
+x
+SP
+Match Group Inc.
+x
+06/18/21
+07/02/21
+x
+SP
+Nvidia Corporation
+x
+x
+x
+06/22/21
+07/02/21
+x
+SP
+Netflix Inc.
+x
+06/22/21
+07/02/21
+x
+SP
+Costar Group Inc
+x
+06/23/21
+07/02/21
+x
+SP
+Fidelity National Financial
+x
+x
+x
+06/23/21
+07/02/21
+x
+SP
+Equinix Inc.
+x
+x
+x
+06/29/21
+07/02/21
+x
+
+--- PAGE 03 ---
+Schedule A: Assets
+Page 3 of 3
+Asset Name
+Type of Transaction
+Capital Gain
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+over $200
+Partial Sale
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+SP
+WALGREENS BOOTS ALLIANCE INC CMN
+x
+x
+06/18/21
+07/01/21
+x
+DC
+WALT DISNEY COMPANY (THE) CMN
+x
+x
+06/25/21
+07/01/21
+x
+DC
+W V B INC CMN
+x
+x
+06/25/21
+07/01/21
+x
+DC
+SBA COMMUNICATIONS CORPORATION CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+FIREEYE, INC. CMN
+x
+x
+06/03/21
+07/01/21
+x
+DC
+COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A
+x
+x
+06/15/21
+07/01/21
+x
+DC
+ABBOTT LABORATORIES CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+WEYERHAEUSER COMPANY CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+HUMANA INC. CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+PARKER-HANNIFIN CORP CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+PROCTER & GAMBLE COMPANY (THE) CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+MEDTRONIC PUBLIC LIMITED COMPANY CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+FIDELITY NATL SVCS INC CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+STARBUCKS CORP CMN
+x
+x
+06/03/21
+07/01/21
+x
+DC
+METLIFE, INC. CMN
+x
+x
+06/15/21
+07/01/21
+x
+DC
+KIMBERLY-CLARK CORPORATION CMN
+x
+x
+06/16/21
+07/01/21
+x
+Rev Ahuja 1998 Trust
+DC
+DELAWARE TRANSIT AUTH U S 901 REV 5% 06/01/22 ID
+x
+x
+06/07/21
+07/01/21
+x
+SP
+BULLOCH CNTY GA SCH DIST DB 5% 03/01/23 MN
+x
+x
+06/24/21
+07/01/21
+x
+SP
+WILLIAMSON CNTY TENN GO 5% 04/01/23 AO
+x
+x
+06/22/21
+07/01/21
+x
+SP
+SBA COMMUNICATIONS CORPORATION CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+HUMANA INC. CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+MEDTRONIC PUBLIC LIMITED COMPANY CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+WEYERHAEUSER COMPANY CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A
+x
+x
+06/14/21
+07/01/21
+x
+SP
+ABBOTT LABORATORIES CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+PARKER-HANNIFIN CORP CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+FIDELITY NATL SVCS INC CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+PROCTER & GAMBLE COMPANY (THE) CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+DEERE & COMPANY CMN
+x
+x
+06/04/21
+07/01/21
+x
+SP
+CATERPILLAR INC. (DELAWARE) CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+HARTFORD FINANCIAL SVCS GROUP CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+MORGAN STANLEY CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+VF CORP CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+METLIFE, INC. CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+MORGAN STANLEY CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+HANESBRANDS INC. CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+PEPSICO, INC. CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+DOMINION ENERGY INC CMN
+x
+x
+06/14/21
+07/01/21
+x
+SP
+MORGAN STANLEY CMN
+x
+x
+06/02/21
+07/01/21
+x
+SP
+METLIFE, INC. CMN
+x
+x
+06/15/21
+07/01/21
+x
+SP
+KIMBERLY-CLARK CORPORATION CMN
+x
+x
+06/15/21
+07/01/21
+x

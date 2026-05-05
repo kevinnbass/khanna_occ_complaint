@@ -1,0 +1,29 @@
+{
+  "snapshot_target": "OCC_M010 (chamber rate baseline) + chamber severity context",
+  "snapshot_taken_at": "2026-05-03T03:09:25.800294+00:00",
+  "snapshot_date": "2026_05_02",
+  "substrate_authoritative": "public.house_ptr_chamber_audit_by_member",
+  "filter": "n_tx_total >= 20 (chamber percentile-stability filter per .claude/rules/peer-baseline.md)",
+  "rate_percentiles": {
+    "n_members": 210,
+    "p25_pct_late": 2.0375,
+    "p50_pct_late": 10.055,
+    "p75_pct_late": 29.715,
+    "p95_pct_late": 78.0325
+  },
+  "severity_percentiles": {
+    "n_members_with_worst": 210,
+    "p50_worst_days": 344.0,
+    "p75_worst_days": 523.25,
+    "p95_worst_days": 819.0499999999998,
+    "max_worst_days": 2334
+  },
+  "khanna_severity_rank": {
+    "khanna_worst": 358,
+    "khanna_rank_le_n": 108,
+    "rank_denominator": 210
+  },
+  "verifier_kinds_supported": [
+    "chamber_audit_p50 (OCC_M010)"
+  ]
+}

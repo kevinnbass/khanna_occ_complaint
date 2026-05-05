@@ -1,0 +1,125 @@
+{
+  "rebuild_run_at": "2026-05-04T02:39:49.347733+00:00",
+  "snapshot_target": "OCC_M010 + chamber severity context (Phase-2 rebuild)",
+  "snapshot_input": "data/occ/house_chamber_audit_2026_05_02.json",
+  "served_from_csv": "data/occ/house_member_served_from_2026_05_03.csv",
+  "is_full_chamber_rebuild": false,
+  "n_members_in_sample": 5,
+  "n_members_in_universe_total": 410,
+  "n_ptrs_in_universe_total": 7444,
+  "estimated_spend_usd": 0.0209,
+  "model": "gemini-3.1-flash-lite-preview",
+  "members": [
+    {
+      "member_last_name": "RYAN",
+      "member_first_name": "PAUL D.",
+      "state_district": "WI01",
+      "served_from_iso": "1999-01-03",
+      "n_canonical_post_dedup": 1,
+      "audit_flag_distribution": {
+        "auditable": 1
+      },
+      "n_tx_total": 1,
+      "n_tx_late": 1,
+      "pct_late": 100.0,
+      "worst_days_late": 434,
+      "n_tx_over_90d_late": 1,
+      "n_tx_over_180d_late": 1,
+      "n_tx_over_1yr_late": 1,
+      "median_days_late_when_late": 434,
+      "n_pdfs_processed": 1
+    },
+    {
+      "member_last_name": "COLLINS",
+      "member_first_name": "MICHAEL A.",
+      "state_district": "GA10",
+      "served_from_iso": null,
+      "n_canonical_post_dedup": 57,
+      "audit_flag_distribution": {
+        "auditable": 57
+      },
+      "n_tx_total": 57,
+      "n_tx_late": 5,
+      "pct_late": 8.7719,
+      "worst_days_late": 44,
+      "n_tx_over_90d_late": 0,
+      "n_tx_over_180d_late": 0,
+      "n_tx_over_1yr_late": 0,
+      "median_days_late_when_late": 2,
+      "n_pdfs_processed": 19
+    },
+    {
+      "member_last_name": "BARRAGAN",
+      "member_first_name": "NANETTE",
+      "state_district": "CA44",
+      "served_from_iso": null,
+      "n_canonical_post_dedup": 5,
+      "audit_flag_distribution": {
+        "auditable": 5
+      },
+      "n_tx_total": 5,
+      "n_tx_late": 5,
+      "pct_late": 100.0,
+      "worst_days_late": 124,
+      "n_tx_over_90d_late": 3,
+      "n_tx_over_180d_late": 0,
+      "n_tx_over_1yr_late": 0,
+      "median_days_late_when_late": 93,
+      "n_pdfs_processed": 2
+    },
+    {
+      "member_last_name": "TORRES",
+      "member_first_name": "RITCHIE JOHN",
+      "state_district": "NY15",
+      "served_from_iso": "2021-01-03",
+      "n_canonical_post_dedup": 154,
+      "audit_flag_distribution": {
+        "auditable": 154
+      },
+      "n_tx_total": 154,
+      "n_tx_late": 86,
+      "pct_late": 55.8442,
+      "worst_days_late": 283,
+      "n_tx_over_90d_late": 81,
+      "n_tx_over_180d_late": 75,
+      "n_tx_over_1yr_late": 0,
+      "median_days_late_when_late": 283.0,
+      "n_pdfs_processed": 1
+    },
+    {
+      "member_last_name": "GOODEN",
+      "member_first_name": "LANCE",
+      "state_district": "TX05",
+      "served_from_iso": "2019-01-03",
+      "n_canonical_post_dedup": 3,
+      "audit_flag_distribution": {
+        "auditable": 3
+      },
+      "n_tx_total": 3,
+      "n_tx_late": 0,
+      "pct_late": 0.0,
+      "worst_days_late": 0,
+      "n_tx_over_90d_late": 0,
+      "n_tx_over_180d_late": 0,
+      "n_tx_over_1yr_late": 0,
+      "median_days_late_when_late": 0,
+      "n_pdfs_processed": 2
+    }
+  ],
+  "chamber_percentiles": {
+    "n_members_eligible": 2,
+    "filter": "n_tx_total >= 20",
+    "rate_percentiles": {
+      "p25_pct_late": 8.7719,
+      "p50_pct_late": 8.7719,
+      "p75_pct_late": 55.8442,
+      "p95_pct_late": 55.8442
+    },
+    "severity_percentiles": {
+      "p50_worst_days": 44,
+      "p75_worst_days": 283,
+      "p95_worst_days": 283,
+      "max_worst_days": 283
+    }
+  }
+}

@@ -1,0 +1,2087 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "khanna_ptr_transactions_2026_05_02.json",
+  "snapshot_sha256": "ac6fb81fef08fd686a98a54c12ea159a3b3e2562a8dc98d24a638968deccdc5f",
+  "snapshot_size_bytes": 23364311,
+  "primary_source_class": "house_clerk_ptr_pdf",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:08:49.865330+00:00",
+  "primary_source_endpoints": [
+    {
+      "doc_id": "9110456",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110456.pdf",
+      "fetched_sha256_raw_bytes": "5cfe45ad0dc437371d3018d1d37b1b0d2e33cee5713aea71fa3e71ef36507eb7",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:49.865330+00:00",
+        "http_status": 200,
+        "content_length": 154071,
+        "header_content_length": "154071",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ae8efc38687d21:0\"",
+        "header_last_modified": "Tue, 14 Feb 2017 21:06:34 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:49 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9110547",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110547.pdf",
+      "fetched_sha256_raw_bytes": "fd4fae8b8bd6776c01d4018dd606fe9a6ee2feb4f3b36f70dccc7cb0cb8b5846",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:50.454253+00:00",
+        "http_status": 200,
+        "content_length": 303821,
+        "header_content_length": "303821",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ca142965929ed21:0\"",
+        "header_last_modified": "Thu, 16 Mar 2017 20:17:54 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:50 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9110644",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110644.pdf",
+      "fetched_sha256_raw_bytes": "c36d544e164f55eeebfe78bc808cc7d82d00f52c5bd9fd9f2eab1648cf72ac6f",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:51.007025+00:00",
+        "http_status": 200,
+        "content_length": 95414,
+        "header_content_length": "95414",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"696418019b9d21:0\"",
+        "header_last_modified": "Wed, 19 Apr 2017 14:30:32 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:51 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9110730",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110730.pdf",
+      "fetched_sha256_raw_bytes": "6381aa15383e6b6a599ed0adb2b91cd03d7852529624f85255caf2ff72e5289f",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:51.521822+00:00",
+        "http_status": 200,
+        "content_length": 183817,
+        "header_content_length": "183817",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"18178d225fcbd21:0\"",
+        "header_last_modified": "Fri, 12 May 2017 20:34:20 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:51 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9111257",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111257.pdf",
+      "fetched_sha256_raw_bytes": "08a73349277a764b12f325e6ecf8c741561f8cb41baab682257f3623ebe0997d",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:52.078986+00:00",
+        "http_status": 200,
+        "content_length": 467808,
+        "header_content_length": "467808",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"bd156d48b1e3d21:0\"",
+        "header_last_modified": "Mon, 12 Jun 2017 19:22:51 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:52 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9111397",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111397.pdf",
+      "fetched_sha256_raw_bytes": "8a39ddcfb0ae2c97292cf487f6b3f354f249baa736b2a84d89b2c362af30fc14",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:52.664557+00:00",
+        "http_status": 200,
+        "content_length": 220863,
+        "header_content_length": "220863",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ca5b9cb817fcd21:0\"",
+        "header_last_modified": "Thu, 13 Jul 2017 20:36:35 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:52 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9111583",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111583.pdf",
+      "fetched_sha256_raw_bytes": "829630093d0002d07376f6b75d7506c81fd5c120da7dfd3ddd97d3ea8e3c8fa2",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:53.236012+00:00",
+        "http_status": 200,
+        "content_length": 391603,
+        "header_content_length": "391603",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"c2ece6c3c12d31:0\"",
+        "header_last_modified": "Thu, 10 Aug 2017 19:13:35 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:53 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9111740",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111740.pdf",
+      "fetched_sha256_raw_bytes": "15758f0b6e1c62ee176e9ba3f9880ebebae5ed954dbfb7d5a6ae213e1b5ca718",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:53.831440+00:00",
+        "http_status": 200,
+        "content_length": 339537,
+        "header_content_length": "339537",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"781f2d6fda28d31:0\"",
+        "header_last_modified": "Fri, 08 Sep 2017 19:41:15 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:53 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9111812",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111812.pdf",
+      "fetched_sha256_raw_bytes": "73ac8b35db50eed7284a5baf3cbc19f8a7935114ecb77566287cff9691aeb43e",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:54.400703+00:00",
+        "http_status": 200,
+        "content_length": 68382,
+        "header_content_length": "68382",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"bfb33916fb36d31:0\"",
+        "header_last_modified": "Tue, 26 Sep 2017 19:10:16 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:54 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9111874",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111874.pdf",
+      "fetched_sha256_raw_bytes": "6babe0ee62b47f91071d9c69a0012e7bac0e3984c7d0a618e1687b99ffe9266e",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:54.930877+00:00",
+        "http_status": 200,
+        "content_length": 237246,
+        "header_content_length": "237246",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"10da6724cc42d31:0\"",
+        "header_last_modified": "Wed, 11 Oct 2017 20:04:27 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:54 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9112020",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9112020.pdf",
+      "fetched_sha256_raw_bytes": "b7f619fb04b24c447c4d01b8f413788bfba89e0ae5741857e9728f8efc217b5e",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:55.489985+00:00",
+        "http_status": 200,
+        "content_length": 268496,
+        "header_content_length": "268496",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"c6c73c5c05cd31:0\"",
+        "header_last_modified": "Mon, 13 Nov 2017 20:48:34 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:55 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9112175",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9112175.pdf",
+      "fetched_sha256_raw_bytes": "de72186defd1c4a7be229a3f7936c4432961c23b3cc3464ee8ce863c390ebf2b",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:56.060263+00:00",
+        "http_status": 200,
+        "content_length": 575164,
+        "header_content_length": "575164",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2ca5ae274974d31:0\"",
+        "header_last_modified": "Wed, 13 Dec 2017 19:32:47 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:56 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9112254",
+      "filing_year": "2017",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9112254.pdf",
+      "fetched_sha256_raw_bytes": "1b3cb0baba258b3e527b57486a13dc93f2eb120fc57b7adbd1594e8c1595062d",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:56.650188+00:00",
+        "http_status": 200,
+        "content_length": 71250,
+        "header_content_length": "71250",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"5cce1a76e68bd31:0\"",
+        "header_last_modified": "Fri, 12 Jan 2018 20:46:46 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:56 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9112444",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9112444.pdf",
+      "fetched_sha256_raw_bytes": "b369c0687dd63f556502dbb747f41fae49d47a0b2e58aac12a08d1f35270b0e4",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:57.161547+00:00",
+        "http_status": 200,
+        "content_length": 226174,
+        "header_content_length": "226174",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"1d4389699fa6d31:0\"",
+        "header_last_modified": "Thu, 15 Feb 2018 20:56:12 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:57 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9112538",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9112538.pdf",
+      "fetched_sha256_raw_bytes": "5921647d1239af6818197b8dc662bdbdfc24d6ba87e83bb6020e2fa5ac40e527",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:57.736121+00:00",
+        "http_status": 200,
+        "content_length": 421254,
+        "header_content_length": "421254",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"515529d30bbd31:0\"",
+        "header_last_modified": "Tue, 13 Mar 2018 19:23:54 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:57 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9112649",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9112649.pdf",
+      "fetched_sha256_raw_bytes": "e6844bd73fbc7ed49d2ba3554b4939c36f335ecf512f5f987a3134d1e3ea9092",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:58.335671+00:00",
+        "http_status": 200,
+        "content_length": 212266,
+        "header_content_length": "212266",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"e3634947c5d5d31:0\"",
+        "header_last_modified": "Mon, 16 Apr 2018 20:55:40 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:58 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9112814",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9112814.pdf",
+      "fetched_sha256_raw_bytes": "4c11be260aa5895dbf4840246e78a9abade80a34a6e1b788e58d6571f4bd8a92",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:58.898457+00:00",
+        "http_status": 200,
+        "content_length": 460935,
+        "header_content_length": "460935",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"7a5e55235e9d31:0\"",
+        "header_last_modified": "Fri, 11 May 2018 14:35:35 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:58 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9113299",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9113299.pdf",
+      "fetched_sha256_raw_bytes": "fab0ee9368918266ac6bee297500fa0119a94472c89171b8725a5e86231f5b83",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:08:59.471672+00:00",
+        "http_status": 200,
+        "content_length": 563748,
+        "header_content_length": "563748",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"5867b03659ffd31:0\"",
+        "header_last_modified": "Fri, 08 Jun 2018 18:47:55 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:08:59 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9113509",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9113509.pdf",
+      "fetched_sha256_raw_bytes": "2bc4d93f12ccd43a1cf2b3f52354c9329d69718bd8ccb7d6473f64c005924fa8",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:00.073102+00:00",
+        "http_status": 200,
+        "content_length": 272703,
+        "header_content_length": "272703",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"909f9e41ad41:0\"",
+        "header_last_modified": "Thu, 12 Jul 2018 17:20:24 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:00 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9113657",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9113657.pdf",
+      "fetched_sha256_raw_bytes": "7d2a9006b6e8db4acd96bc5d0230d23eebdf30946a47bf02877dd4f6136fc9de",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:00.633097+00:00",
+        "http_status": 200,
+        "content_length": 447564,
+        "header_content_length": "447564",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"8162c441133d41:0\"",
+        "header_last_modified": "Mon, 13 Aug 2018 14:23:55 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:00 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9113779",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9113779.pdf",
+      "fetched_sha256_raw_bytes": "415bcf4b0ee58195bf42bc23904d9f52b9492aaff5054fd32cd0a9bd3b1dfda2",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:01.203892+00:00",
+        "http_status": 200,
+        "content_length": 322261,
+        "header_content_length": "322261",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"3446c2ca724bd41:0\"",
+        "header_last_modified": "Thu, 13 Sep 2018 15:02:30 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:01 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114060",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114060.pdf",
+      "fetched_sha256_raw_bytes": "6a7b698e3bd5ee40dbac037af0e00ea4c9e49df22fce195abbaf6b85ea2c637c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:01.784953+00:00",
+        "http_status": 200,
+        "content_length": 235431,
+        "header_content_length": "235431",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"12c49afdd560d41:0\"",
+        "header_last_modified": "Wed, 10 Oct 2018 20:15:29 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:01 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114153",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114153.pdf",
+      "fetched_sha256_raw_bytes": "d10e866754a597d0acb2d2f9ff87498cecf8d7f345169b2e1da3e08b92a07507",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:02.351331+00:00",
+        "http_status": 200,
+        "content_length": 705477,
+        "header_content_length": "705477",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"c8dd48c6867bd41:0\"",
+        "header_last_modified": "Tue, 13 Nov 2018 19:26:28 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:02 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114222",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114222.pdf",
+      "fetched_sha256_raw_bytes": "98975dc4d5fe1e0801e9ebf595eb43cea99b2faad48c873071bb7dab4cd80dfe",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:02.970202+00:00",
+        "http_status": 200,
+        "content_length": 538204,
+        "header_content_length": "538204",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"7ba72d989c91d41:0\"",
+        "header_last_modified": "Tue, 11 Dec 2018 21:58:05 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:02 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114288",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114288.pdf",
+      "fetched_sha256_raw_bytes": "fbabff80aefdb6885f76badd107601def15adaa484bdae1b9bec3ada8676af3a",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:03.578320+00:00",
+        "http_status": 200,
+        "content_length": 519429,
+        "header_content_length": "519429",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ae563e38f1a9d41:0\"",
+        "header_last_modified": "Fri, 11 Jan 2019 21:04:19 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:03 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114397",
+      "filing_year": "2018",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114397.pdf",
+      "fetched_sha256_raw_bytes": "35af97ff5bb7b70841f6d9b67b9d43ca0db10ccfecd417506f960165215ffcc7",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:04.233136+00:00",
+        "http_status": 200,
+        "content_length": 46468,
+        "header_content_length": "46468",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"1f664d065c5d41:0\"",
+        "header_last_modified": "Fri, 15 Feb 2019 19:36:57 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:04 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8216662",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/8216662.pdf",
+      "fetched_sha256_raw_bytes": "28d33598c88e01b21ad839e13d136b5b0a12a52f67b17cbc469f855c642f29d3",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:04.764271+00:00",
+        "http_status": 200,
+        "content_length": 331765,
+        "header_content_length": "331765",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"3c92848f2b9bd51:0\"",
+        "header_last_modified": "Thu, 14 Nov 2019 20:39:07 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:04 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8216805",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/8216805.pdf",
+      "fetched_sha256_raw_bytes": "2d3de086bb670cd6eb5be40ddc4b65ecc20d9362fc5509ac850409ebce234bc0",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:05.327757+00:00",
+        "http_status": 200,
+        "content_length": 167883,
+        "header_content_length": "167883",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"72c34dd9e4b1d51:0\"",
+        "header_last_modified": "Fri, 13 Dec 2019 18:40:53 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:05 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114372",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114372.pdf",
+      "fetched_sha256_raw_bytes": "755bc165a77c82ce0cb020b2b5ae009c544b9b5745a4630ec072878d360809fb",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:05.879171+00:00",
+        "http_status": 200,
+        "content_length": 677860,
+        "header_content_length": "677860",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"61d486aacfc3d41:0\"",
+        "header_last_modified": "Wed, 13 Feb 2019 19:09:38 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:05 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114396",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114396.pdf",
+      "fetched_sha256_raw_bytes": "5f0622826bcc109a6089898f2d9b03abfa146fbf7a6cd315973a66a4cd3c57fc",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:06.490902+00:00",
+        "http_status": 200,
+        "content_length": 52005,
+        "header_content_length": "52005",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"efd3c33e65c5d41:0\"",
+        "header_last_modified": "Fri, 15 Feb 2019 19:32:53 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:06 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114457",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114457.pdf",
+      "fetched_sha256_raw_bytes": "8f03783f4ddecbaafefffe60ae316bf6dcab7ab20e8b58da4c046d78c9915432",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:07.015802+00:00",
+        "http_status": 200,
+        "content_length": 277582,
+        "header_content_length": "277582",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"a8a6ae73a0dad41:0\"",
+        "header_last_modified": "Thu, 14 Mar 2019 19:59:37 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:07 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114526",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114526.pdf",
+      "fetched_sha256_raw_bytes": "36606038a9193ba62a3bf00d6208edc436f9182b7146348c15d6e77688d4ad58",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:07.574542+00:00",
+        "http_status": 200,
+        "content_length": 434019,
+        "header_content_length": "434019",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"1323b2c5a2f0d41:0\"",
+        "header_last_modified": "Thu, 11 Apr 2019 20:11:39 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:07 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9114649",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114649.pdf",
+      "fetched_sha256_raw_bytes": "09aaf738a2ef8e62913283e7dac0071a46def4447b8cbc53c926e4ce9b3de1be",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:08.163013+00:00",
+        "http_status": 200,
+        "content_length": 473830,
+        "header_content_length": "473830",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"18fefd496bad51:0\"",
+        "header_last_modified": "Tue, 14 May 2019 15:39:59 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:08 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115039",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115039.pdf",
+      "fetched_sha256_raw_bytes": "25f6d96ba524c0215e7dc09b5724dcfab6a3216af58481d84f73281caf3970aa",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:08.761936+00:00",
+        "http_status": 200,
+        "content_length": 335529,
+        "header_content_length": "335529",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"4db30885821d51:0\"",
+        "header_last_modified": "Wed, 12 Jun 2019 19:53:39 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:08 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115123",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115123.pdf",
+      "fetched_sha256_raw_bytes": "e9a671f3eee7008b94960ec119371b5ed3d49895866957780a4bd6ca7e616269",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:09.339213+00:00",
+        "http_status": 200,
+        "content_length": 542317,
+        "header_content_length": "542317",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"7be61c3ec738d51:0\"",
+        "header_last_modified": "Fri, 12 Jul 2019 15:34:06 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:09 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115234",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115234.pdf",
+      "fetched_sha256_raw_bytes": "183e1367b6c5de69972ef8fd657e94e4baef5010521495e792652df7196c7e5c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:09.909637+00:00",
+        "http_status": 200,
+        "content_length": 251022,
+        "header_content_length": "251022",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"151574f4544dd51:0\"",
+        "header_last_modified": "Wed, 07 Aug 2019 19:18:55 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:09 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115384",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115384.pdf",
+      "fetched_sha256_raw_bytes": "858992dcaf6c464d8db57679d7e2cca89a1343253a0e716c7214e6fc10b0b951",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:10.507657+00:00",
+        "http_status": 200,
+        "content_length": 468230,
+        "header_content_length": "468230",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"10213580616ad51:0\"",
+        "header_last_modified": "Fri, 13 Sep 2019 18:31:47 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:10 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115484",
+      "filing_year": "2019",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115484.pdf",
+      "fetched_sha256_raw_bytes": "a532744633abeec8dd0b60ecbee8fab7d667dc95239f02f145913cbb5cc3de61",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:11.075720+00:00",
+        "http_status": 200,
+        "content_length": 315964,
+        "header_content_length": "315964",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"75a0b080dc85d51:0\"",
+        "header_last_modified": "Fri, 18 Oct 2019 17:50:17 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:11 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8216879",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8216879.pdf",
+      "fetched_sha256_raw_bytes": "4d6f53f34eaac3c4833b0df5542fdaaf4bb5eb029dd21f54fadff400ce74a94c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:11.639741+00:00",
+        "http_status": 200,
+        "content_length": 189974,
+        "header_content_length": "189974",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ed23c1cbf2c7d51:0\"",
+        "header_last_modified": "Fri, 10 Jan 2020 20:16:09 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:11 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8216965",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8216965.pdf",
+      "fetched_sha256_raw_bytes": "706a92fbbfe867bbbebd6030bca039379119aefb70617e189c2f46f8b22fd8c9",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:12.195929+00:00",
+        "http_status": 200,
+        "content_length": 508381,
+        "header_content_length": "508381",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ca68ed4cee1d51:0\"",
+        "header_last_modified": "Tue, 11 Feb 2020 19:06:01 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:12 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217060",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217060.pdf",
+      "fetched_sha256_raw_bytes": "962032584004783a63eadbc8ee44901dcb5d24741264d66d97edef3c78f7d394",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:12.784795+00:00",
+        "http_status": 200,
+        "content_length": 715208,
+        "header_content_length": "715208",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"adb8f56e11f7d51:0\"",
+        "header_last_modified": "Tue, 10 Mar 2020 19:23:52 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:12 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217164",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217164.pdf",
+      "fetched_sha256_raw_bytes": "f3992aa5ae626057abfa6add7ca5d1b18508b48cd97f618a9340594a3aa51d9d",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:13.397921+00:00",
+        "http_status": 200,
+        "content_length": 1065965,
+        "header_content_length": "1065965",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"7938b5479c19d61:0\"",
+        "header_last_modified": "Thu, 23 Apr 2020 18:23:26 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:13 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217213",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217213.pdf",
+      "fetched_sha256_raw_bytes": "04b5480bce3d8c6719d47eb85e154859ad24c1ec5e7b6eb0e170de5a893f19f5",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:13.993769+00:00",
+        "http_status": 200,
+        "content_length": 538376,
+        "header_content_length": "538376",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"d7e393ca5729d61:0\"",
+        "header_last_modified": "Wed, 13 May 2020 18:53:29 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:13 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217329",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217329.pdf",
+      "fetched_sha256_raw_bytes": "f7f87acd8e2f142028860328e8722eb23fa66cb009921466bc92854b245cd351",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:14.572600+00:00",
+        "http_status": 200,
+        "content_length": 587706,
+        "header_content_length": "587706",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"11fcb45f9e45d61:0\"",
+        "header_last_modified": "Thu, 18 Jun 2020 18:29:16 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:14 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217394",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217394.pdf",
+      "fetched_sha256_raw_bytes": "edfa30a5eb22f8bcb2a8a73c0c62c53b1ead816f7bb489abdba6ff5670d57930",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:15.164103+00:00",
+        "http_status": 200,
+        "content_length": 426702,
+        "header_content_length": "426702",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"18ccadbdd75ed61:0\"",
+        "header_last_modified": "Mon, 20 Jul 2020 20:52:54 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:15 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217557",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217557.pdf",
+      "fetched_sha256_raw_bytes": "9aa1f432a0e0d8471728790755435790e855b5726039c109e90f020c0449c0dd",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:15.751625+00:00",
+        "http_status": 200,
+        "content_length": 398756,
+        "header_content_length": "398756",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"9520646ac874d61:0\"",
+        "header_last_modified": "Mon, 17 Aug 2020 18:58:38 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:15 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217653",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217653.pdf",
+      "fetched_sha256_raw_bytes": "7f106eb7499dbad60645b445238c740f14bab122a86be1ff0325b1d7d54148e6",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:16.349079+00:00",
+        "http_status": 200,
+        "content_length": 214033,
+        "header_content_length": "214033",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"17dd3c36ea8dd61:0\"",
+        "header_last_modified": "Fri, 18 Sep 2020 18:33:32 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:16 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217686",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217686.pdf",
+      "fetched_sha256_raw_bytes": "cea57e50a0d1c161ecf77cb59bf65d2685c71db9c0800c0702efd284ef82bf94",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:16.886543+00:00",
+        "http_status": 200,
+        "content_length": 544004,
+        "header_content_length": "544004",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"b2c174b89da8d61:0\"",
+        "header_last_modified": "Thu, 22 Oct 2020 18:04:01 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:16 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217740",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217740.pdf",
+      "fetched_sha256_raw_bytes": "8dcabf90e6e26c46125b0f8b92f100cdd7fededa377641fa6db1be3dda99cbdb",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:17.473516+00:00",
+        "http_status": 200,
+        "content_length": 187941,
+        "header_content_length": "187941",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"a2a3bc572fc7d61:0\"",
+        "header_last_modified": "Mon, 30 Nov 2020 15:42:00 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:17 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217777",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217777.pdf",
+      "fetched_sha256_raw_bytes": "b3c6d5090a77c75e95c682b559ea6c25e46ceda598cde971d00d39885b8a3eaf",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:18.041347+00:00",
+        "http_status": 200,
+        "content_length": 346801,
+        "header_content_length": "346801",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2b36926b6cd5d61:0\"",
+        "header_last_modified": "Fri, 18 Dec 2020 18:34:29 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:18 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217812",
+      "filing_year": "2020",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217812.pdf",
+      "fetched_sha256_raw_bytes": "715519968368a6245b83248a6004b4746e74a04ed36892770f7c17e371618648",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:18.625420+00:00",
+        "http_status": 200,
+        "content_length": 223976,
+        "header_content_length": "223976",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"d3bb70601ef0d61:0\"",
+        "header_last_modified": "Thu, 21 Jan 2021 17:53:51 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:18 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217856",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217856.pdf",
+      "fetched_sha256_raw_bytes": "6e7b4885e34e874c500d2f208fb9fe53d59cdb3749bd2cd79096ee4f29e67e2c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:19.173231+00:00",
+        "http_status": 200,
+        "content_length": 168500,
+        "header_content_length": "168500",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"24cbd1e9e46d71:0\"",
+        "header_last_modified": "Fri, 19 Feb 2021 17:30:27 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:19 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217894",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217894.pdf",
+      "fetched_sha256_raw_bytes": "3b323391387012353a5aa44cbb3a8d432af315ced5f2d0d9d84c51351a6ce74b",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:19.726022+00:00",
+        "http_status": 200,
+        "content_length": 264901,
+        "header_content_length": "264901",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"93c24e4cb619d71:0\"",
+        "header_last_modified": "Mon, 15 Mar 2021 16:14:38 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:19 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8217938",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217938.pdf",
+      "fetched_sha256_raw_bytes": "39ce29fb687ed7ff10f711fdf5e4624036e53f3847d45a3c7bf3674f50ca0172",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:20.292465+00:00",
+        "http_status": 200,
+        "content_length": 155434,
+        "header_content_length": "155434",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2b4ba1f3db32d71:0\"",
+        "header_last_modified": "Fri, 16 Apr 2021 16:17:09 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:20 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218031",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218031.pdf",
+      "fetched_sha256_raw_bytes": "08b1584ce0298b60727f39a6ecdc9d162232b9ef41c3ed2afca60659bb6e98ea",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:20.828011+00:00",
+        "http_status": 200,
+        "content_length": 208494,
+        "header_content_length": "208494",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"15bf2782dc48d71:0\"",
+        "header_last_modified": "Fri, 14 May 2021 16:16:34 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:20 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218109",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218109.pdf",
+      "fetched_sha256_raw_bytes": "7b0b11adf0d22efa5e1ed66919ea6ec7a1f8831c7b49699e37b64f5b3a8ac81a",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:21.382776+00:00",
+        "http_status": 200,
+        "content_length": 104048,
+        "header_content_length": "104048",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2a8c1042e35ed71:0\"",
+        "header_last_modified": "Fri, 11 Jun 2021 17:00:18 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:21 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218147",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218147.pdf",
+      "fetched_sha256_raw_bytes": "a82e22d79617b23dfc5dd1a9b45139b1e7083fc7d5d37632c96b683834b3b029",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:21.916412+00:00",
+        "http_status": 200,
+        "content_length": 133788,
+        "header_content_length": "133788",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"d99bbcacb78d71:0\"",
+        "header_last_modified": "Wed, 14 Jul 2021 16:12:28 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:21 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218261",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218261.pdf",
+      "fetched_sha256_raw_bytes": "9b01ab2f8ebc7dea460e8e376ba83d4ae53c577e9b602747993c83c3ed876190",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:22.484914+00:00",
+        "http_status": 200,
+        "content_length": 257552,
+        "header_content_length": "257552",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"3f6dd6ff6690d71:0\"",
+        "header_last_modified": "Fri, 13 Aug 2021 17:16:48 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:22 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218338",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218338.pdf",
+      "fetched_sha256_raw_bytes": "02126f40178a32e1136c6d4b61e1bc25df72af864ef57eb18d6a0fa2434f5f82",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:23.055900+00:00",
+        "http_status": 200,
+        "content_length": 1611853,
+        "header_content_length": "1611853",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"df423e41fabd71:0\"",
+        "header_last_modified": "Thu, 16 Sep 2021 17:19:33 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:23 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218398",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218398.pdf",
+      "fetched_sha256_raw_bytes": "1f609f2bee46716debd1f3c6a2185c7c4d1e18f5156ff44805d43a46933868a5",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:23.704364+00:00",
+        "http_status": 200,
+        "content_length": 529983,
+        "header_content_length": "529983",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"c2c1662f23c1d71:0\"",
+        "header_last_modified": "Thu, 14 Oct 2021 17:44:49 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:23 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218426",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218426.pdf",
+      "fetched_sha256_raw_bytes": "721c613974b952e99214422598184bd318d3f34bdc787cf90407276d3584c31c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:24.282795+00:00",
+        "http_status": 200,
+        "content_length": 483817,
+        "header_content_length": "483817",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2934398237dad71:0\"",
+        "header_last_modified": "Mon, 15 Nov 2021 15:43:17 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:24 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218490",
+      "filing_year": "2021",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218490.pdf",
+      "fetched_sha256_raw_bytes": "b42f7e9804558252fb0f95ea3ecd2baaf3c05ad33724f8b93cb36562c3425ea3",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:24.857470+00:00",
+        "http_status": 200,
+        "content_length": 642497,
+        "header_content_length": "642497",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"57fb88e4eecd71:0\"",
+        "header_last_modified": "Wed, 08 Dec 2021 16:13:36 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:24 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218518",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218518.pdf",
+      "fetched_sha256_raw_bytes": "1d9751b589aeb1c3ebc20189cfaceebc7ce5868d1fa95bfba6faac0ffae1134a",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:25.457266+00:00",
+        "http_status": 200,
+        "content_length": 558798,
+        "header_content_length": "558798",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"7e679bbde93d81:0\"",
+        "header_last_modified": "Fri, 07 Jan 2022 17:12:25 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:25 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218560",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218560.pdf",
+      "fetched_sha256_raw_bytes": "50e9aae28391c9dceeb8b78cf1bbc8a80145f19ca0820f6fee8947b30bf998b9",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:26.033216+00:00",
+        "http_status": 200,
+        "content_length": 828552,
+        "header_content_length": "828552",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"d52dcb522d1dd81:0\"",
+        "header_last_modified": "Tue, 08 Feb 2022 20:49:10 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:26 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218597",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218597.pdf",
+      "fetched_sha256_raw_bytes": "42f8aa611b45099c0719b46346d75053690acc6e225dac088fc3ac08466bcc1b",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:26.645156+00:00",
+        "http_status": 200,
+        "content_length": 769890,
+        "header_content_length": "769890",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"e2afd9e7a434d81:0\"",
+        "header_last_modified": "Thu, 10 Mar 2022 17:33:07 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:26 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218637",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218637.pdf",
+      "fetched_sha256_raw_bytes": "972b3601ae0f1f3612da281cf250c2f4527f0a85e6dee86d6ccac6b07eaaf4fa",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:27.231560+00:00",
+        "http_status": 200,
+        "content_length": 608916,
+        "header_content_length": "608916",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"b799b16f674bd81:0\"",
+        "header_last_modified": "Fri, 08 Apr 2022 16:41:03 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:27 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218730",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218730.pdf",
+      "fetched_sha256_raw_bytes": "3c042a072097fc9652e1deb007c066af8c05aff4807404e157884b8d59bb295f",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:27.836424+00:00",
+        "http_status": 200,
+        "content_length": 1316065,
+        "header_content_length": "1316065",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"d3f0a06b7765d81:0\"",
+        "header_last_modified": "Wed, 11 May 2022 20:40:58 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:27 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8218940",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218940.pdf",
+      "fetched_sha256_raw_bytes": "7e49f13ffc0b08de5a7665320804bbd643f876fdfca1151b9c87afbaf170a85b",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:28.464832+00:00",
+        "http_status": 200,
+        "content_length": 2203684,
+        "header_content_length": "2203684",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2feb19a4ef7fd81:0\"",
+        "header_last_modified": "Tue, 14 Jun 2022 13:07:03 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:28 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219068",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219068.pdf",
+      "fetched_sha256_raw_bytes": "3be39a01a41d4ee315d36146112f1d5aa1dc6474f24366f6e47f5c485c4677f8",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:29.100715+00:00",
+        "http_status": 200,
+        "content_length": 1073190,
+        "header_content_length": "1073190",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"18b7e216f792d81:0\"",
+        "header_last_modified": "Fri, 08 Jul 2022 18:18:14 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:29 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219155",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219155.pdf",
+      "fetched_sha256_raw_bytes": "a93251e1d67bc4a6a0e31fb4f6bea12c0391875f02594d7f820390f471f10fdd",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:29.737150+00:00",
+        "http_status": 200,
+        "content_length": 494230,
+        "header_content_length": "494230",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"d741878398add81:0\"",
+        "header_last_modified": "Thu, 11 Aug 2022 15:39:16 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:29 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219207",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219207.pdf",
+      "fetched_sha256_raw_bytes": "130667833321037de355e6be9cc21856a2c949f16b6a025fcb3f9b95abc24998",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:30.352299+00:00",
+        "http_status": 200,
+        "content_length": 749423,
+        "header_content_length": "749423",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"e059c2c7b9c3d81:0\"",
+        "header_last_modified": "Thu, 08 Sep 2022 19:32:49 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:30 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219242",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219242.pdf",
+      "fetched_sha256_raw_bytes": "a61b59c1d2c7f04d7e0fe0cb2f971d31d8e714caf3fdc1d753dcea5ac22944ae",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:30.955194+00:00",
+        "http_status": 200,
+        "content_length": 1019924,
+        "header_content_length": "1019924",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2fcf4a9184ddd81:0\"",
+        "header_last_modified": "Tue, 11 Oct 2022 15:17:25 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:30 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219275",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219275.pdf",
+      "fetched_sha256_raw_bytes": "c3b1ab6e4a9b228d073bff214c6cdfa4f8bc43239bf309cb7bdd0a050f060d28",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:31.532528+00:00",
+        "http_status": 200,
+        "content_length": 750092,
+        "header_content_length": "750092",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"df637537e0f9d81:0\"",
+        "header_last_modified": "Wed, 16 Nov 2022 17:24:00 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:31 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219288",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219288.pdf",
+      "fetched_sha256_raw_bytes": "40f71aa7f19b7337bbfe7cc6cf872da18f8d01f9e6142ade3b184c7ecd345bae",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:32.152981+00:00",
+        "http_status": 200,
+        "content_length": 978359,
+        "header_content_length": "978359",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"f3cbcd91b59d91:0\"",
+        "header_last_modified": "Tue, 06 Dec 2022 20:59:02 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:32 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219318",
+      "filing_year": "2022",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219318.pdf",
+      "fetched_sha256_raw_bytes": "57be54f1884a51a6477c65c8672a5ffa06a4eb4d7902662e72afe2a77fc29e95",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:32.780153+00:00",
+        "http_status": 200,
+        "content_length": 816011,
+        "header_content_length": "816011",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"8bde565d326d91:0\"",
+        "header_last_modified": "Thu, 12 Jan 2023 22:15:35 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:32 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219353",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219353.pdf",
+      "fetched_sha256_raw_bytes": "663bb8288b55d89071e7f8e5c4cd0d1d759e119c3c65a09cfbcdd75de6d47228",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:33.375637+00:00",
+        "http_status": 200,
+        "content_length": 505348,
+        "header_content_length": "505348",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"521a25bbd3cd91:0\"",
+        "header_last_modified": "Wed, 08 Feb 2023 22:36:05 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:33 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219417",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219417.pdf",
+      "fetched_sha256_raw_bytes": "29123412d90ead87c8c225bfe99e3164e1a4b5f588fcbafb18d25bfefcf8d133",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:33.950746+00:00",
+        "http_status": 200,
+        "content_length": 522317,
+        "header_content_length": "522317",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"e0cccb5ca152d91:0\"",
+        "header_last_modified": "Thu, 09 Mar 2023 16:08:18 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:33 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219444",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219444.pdf",
+      "fetched_sha256_raw_bytes": "f7407fc7674978e4cfe20c95ed55d59d8f6cadb38fed79fab6992ea8eda6c86b",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:34.578890+00:00",
+        "http_status": 200,
+        "content_length": 757079,
+        "header_content_length": "757079",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ac206691b46cd91:0\"",
+        "header_last_modified": "Tue, 11 Apr 2023 20:31:17 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:34 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219521",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219521.pdf",
+      "fetched_sha256_raw_bytes": "a295ec9cbd8820722aeb108e397e27b679730c8607d2253e6700eefe32fa85ff",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:35.181845+00:00",
+        "http_status": 200,
+        "content_length": 713850,
+        "header_content_length": "713850",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"1bbc5274a382d91:0\"",
+        "header_last_modified": "Tue, 09 May 2023 18:24:12 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:35 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219783",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219783.pdf",
+      "fetched_sha256_raw_bytes": "ca1ae3968a23a519cff74d9a1c812b1449eb0116668ca0ac1fa5680e58edfb84",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:35.831998+00:00",
+        "http_status": 200,
+        "content_length": 1037641,
+        "header_content_length": "1037641",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"956cbb712f9ed91:0\"",
+        "header_last_modified": "Tue, 13 Jun 2023 19:44:19 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:35 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219826",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219826.pdf",
+      "fetched_sha256_raw_bytes": "77102c2fde71fa8aa765a0864a732055fb66548dff2ed085482da4e71133decf",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:36.469429+00:00",
+        "http_status": 200,
+        "content_length": 1286388,
+        "header_content_length": "1286388",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"9da07cc32fb4d91:0\"",
+        "header_last_modified": "Tue, 11 Jul 2023 19:42:02 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:36 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219876",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219876.pdf",
+      "fetched_sha256_raw_bytes": "302d5ba2bee329ec99259066f65b6ad3154f068b12f612cfce51b106e3b6f278",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:37.125181+00:00",
+        "http_status": 200,
+        "content_length": 460477,
+        "header_content_length": "460477",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2bb1342726cad91:0\"",
+        "header_last_modified": "Tue, 08 Aug 2023 18:28:39 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:37 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219953",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219953.pdf",
+      "fetched_sha256_raw_bytes": "b3ac018676252ae1da50de978e275465cdc313e6411991ceca3015b794e0f62e",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:37.709103+00:00",
+        "http_status": 200,
+        "content_length": 839941,
+        "header_content_length": "839941",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"9965381f1e1d91:0\"",
+        "header_last_modified": "Wed, 06 Sep 2023 20:31:31 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:37 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8219992",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219992.pdf",
+      "fetched_sha256_raw_bytes": "cc7ca6c4b384dfa864c1cfe72785279c41c1b6ae3b0a95f0b256d0177b7d783e",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:38.365584+00:00",
+        "http_status": 200,
+        "content_length": 470128,
+        "header_content_length": "470128",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"6e91561a80f8d91:0\"",
+        "header_last_modified": "Fri, 06 Oct 2023 18:08:26 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:38 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220039",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8220039.pdf",
+      "fetched_sha256_raw_bytes": "5a8005032af09878fbd7a1a341c64cd39c3e3fd2e3b2a13fbf0a8113c8280753",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:39.027133+00:00",
+        "http_status": 200,
+        "content_length": 1571758,
+        "header_content_length": "1571758",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"aa254cf3113da1:0\"",
+        "header_last_modified": "Thu, 09 Nov 2023 17:26:01 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:39 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220067",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8220067.pdf",
+      "fetched_sha256_raw_bytes": "3566efb58c2236414378e1fba301e8fd38653b6987b12f2b09ebe2754d6dafd4",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:39.661807+00:00",
+        "http_status": 200,
+        "content_length": 474017,
+        "header_content_length": "474017",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"d6f5cd5b5629da1:0\"",
+        "header_last_modified": "Thu, 07 Dec 2023 21:43:04 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:39 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220092",
+      "filing_year": "2023",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8220092.pdf",
+      "fetched_sha256_raw_bytes": "6ccb9035836ab78d75c191fd0a4c922ed94346ff9876d7832662b8249e88fb25",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:40.276859+00:00",
+        "http_status": 200,
+        "content_length": 372450,
+        "header_content_length": "372450",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"35bcd8604343da1:0\"",
+        "header_last_modified": "Tue, 09 Jan 2024 21:32:42 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:40 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220127",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220127.pdf",
+      "fetched_sha256_raw_bytes": "480fb4e12cb6becc3a7e90b36b39dbf5559a08104b0d65a29854ff558f47981c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:40.877764+00:00",
+        "http_status": 200,
+        "content_length": 790822,
+        "header_content_length": "790822",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"3615ba562d59da1:0\"",
+        "header_last_modified": "Tue, 06 Feb 2024 18:50:22 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:40 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220173",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220173.pdf",
+      "fetched_sha256_raw_bytes": "5a0cd6633e799b1b5591761dac864f1d174129421886cdd9a08db4de0cc1363c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:41.473299+00:00",
+        "http_status": 200,
+        "content_length": 555354,
+        "header_content_length": "555354",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ef50e9e4c270da1:0\"",
+        "header_last_modified": "Thu, 07 Mar 2024 19:08:52 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:41 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220192",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220192.pdf",
+      "fetched_sha256_raw_bytes": "93e8bbccf9a78a52776c3b76122410b28a11b0470a0f31b814b33cf8db2d33dd",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:42.054326+00:00",
+        "http_status": 200,
+        "content_length": 532784,
+        "header_content_length": "532784",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"1489d29e9587da1:0\"",
+        "header_last_modified": "Fri, 05 Apr 2024 20:12:44 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:42 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220252",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220252.pdf",
+      "fetched_sha256_raw_bytes": "42e4cdbc550a44d5557709fdf442b7e861f6215766aeb63e269ea3e3bb57a274",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:42.661689+00:00",
+        "http_status": 200,
+        "content_length": 822750,
+        "header_content_length": "822750",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"1d787e4bf99fda1:0\"",
+        "header_last_modified": "Mon, 06 May 2024 21:06:42 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:42 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220451",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220451.pdf",
+      "fetched_sha256_raw_bytes": "5f67e4ab15015d19234ab09eee7f636c833a86426f6cf8dff91a6679cd265cfa",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:43.269304+00:00",
+        "http_status": 200,
+        "content_length": 957237,
+        "header_content_length": "957237",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"283447c590b7da1:0\"",
+        "header_last_modified": "Wed, 05 Jun 2024 21:38:57 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:43 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220534",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220534.pdf",
+      "fetched_sha256_raw_bytes": "ee276c19b0efe5386d294d533d70ae050ab6ef4334a773318de7f4a1256de87a",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:43.876286+00:00",
+        "http_status": 200,
+        "content_length": 507713,
+        "header_content_length": "507713",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"323523ef77d1da1:0\"",
+        "header_last_modified": "Mon, 08 Jul 2024 20:46:40 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:43 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220570",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220570.pdf",
+      "fetched_sha256_raw_bytes": "53f68cc73d20629b1190d5ce3aa15154e7740e52ad13fa05b1fdb9ce8db86256",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:44.454726+00:00",
+        "http_status": 200,
+        "content_length": 768794,
+        "header_content_length": "768794",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"65fcf9c8fae8da1:0\"",
+        "header_last_modified": "Wed, 07 Aug 2024 18:51:17 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:44 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220626",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220626.pdf",
+      "fetched_sha256_raw_bytes": "a1f47ffd2a563befd3a28baeff5b7b28c55aa0d9e475a9af3a1262a6f9ae6352",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:45.079436+00:00",
+        "http_status": 200,
+        "content_length": 1252817,
+        "header_content_length": "1252817",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"c94e71a8a0db1:0\"",
+        "header_last_modified": "Fri, 06 Sep 2024 18:25:09 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:45 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220660",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220660.pdf",
+      "fetched_sha256_raw_bytes": "d1292db45fd660a72a009116e932b76127d8881af7d9f61e0ffac3701ecbde2b",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:45.718427+00:00",
+        "http_status": 200,
+        "content_length": 569936,
+        "header_content_length": "569936",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"f6cb9a1d218db1:0\"",
+        "header_last_modified": "Mon, 07 Oct 2024 16:04:46 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:45 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220674",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220674.pdf",
+      "fetched_sha256_raw_bytes": "8561bdb9c5e8c48fd07171dcb9e5445b3528cce1c85bac0aac13593a666aada5",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:46.316357+00:00",
+        "http_status": 200,
+        "content_length": 803338,
+        "header_content_length": "803338",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"4c8cec11032db1:0\"",
+        "header_last_modified": "Fri, 08 Nov 2024 19:02:28 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:46 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220691",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220691.pdf",
+      "fetched_sha256_raw_bytes": "6c37d40587e57e541789786333727216f6c28f2d3746fa990541ed83e52e93d5",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:46.940045+00:00",
+        "http_status": 200,
+        "content_length": 956109,
+        "header_content_length": "956109",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"1e46428b5c47db1:0\"",
+        "header_last_modified": "Thu, 05 Dec 2024 21:27:53 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:46 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220711",
+      "filing_year": "2024",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220711.pdf",
+      "fetched_sha256_raw_bytes": "5c03278a036abba5cef7fbf6f2c3c1c7e819cea5ca187e4c9b56db0dce4a17a4",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:47.541563+00:00",
+        "http_status": 200,
+        "content_length": 727793,
+        "header_content_length": "727793",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"60a9d6991162db1:0\"",
+        "header_last_modified": "Wed, 08 Jan 2025 21:09:27 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:47 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220750",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220750.pdf",
+      "fetched_sha256_raw_bytes": "f846e21d204830941cee2cf6dc402c48999a0548ca6c8bf465537f8e0ee3a1b6",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:48.210590+00:00",
+        "http_status": 200,
+        "content_length": 1027104,
+        "header_content_length": "1027104",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ae299586ab79db1:0\"",
+        "header_last_modified": "Fri, 07 Feb 2025 21:59:14 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:48 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220783",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220783.pdf",
+      "fetched_sha256_raw_bytes": "10be37678414505ab67ba3a9bdb78721ebe7367dc61863fd065d16536b15f045",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:48.820498+00:00",
+        "http_status": 200,
+        "content_length": 817616,
+        "header_content_length": "817616",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"28958860a18fdb1:0\"",
+        "header_last_modified": "Fri, 07 Mar 2025 20:42:00 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:48 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220827",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220827.pdf",
+      "fetched_sha256_raw_bytes": "158f7364b91e2ac6537343f21f4409da6a56c9fb44f92bf490bbceb0a33f29ee",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:49.438333+00:00",
+        "http_status": 200,
+        "content_length": 990255,
+        "header_content_length": "990255",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"7b32ac152aadb1:0\"",
+        "header_last_modified": "Thu, 10 Apr 2025 19:57:14 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:49 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8220906",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220906.pdf",
+      "fetched_sha256_raw_bytes": "5958b9bd3281ebc563a6a9642d77fe3372e084da8a1c26fbd95a19aeb98c21cf",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:50.123691+00:00",
+        "http_status": 200,
+        "content_length": 1724452,
+        "header_content_length": "1724452",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"5ab7421d7c5db1:0\"",
+        "header_last_modified": "Wed, 14 May 2025 19:33:48 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:50 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8221124",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221124.pdf",
+      "fetched_sha256_raw_bytes": "513101cd0041b1429e110af2deb19171ea8f4e8d9e0e43b393fc68fbb48e05f1",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:50.797249+00:00",
+        "http_status": 200,
+        "content_length": 938065,
+        "header_content_length": "938065",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"b23eace8f4dadb1:0\"",
+        "header_last_modified": "Wed, 11 Jun 2025 17:18:54 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:50 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8221176",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221176.pdf",
+      "fetched_sha256_raw_bytes": "3fa97844820d2f49dd5d4988c455d6e6f1004276916ce2ea24470fd27967a7f5",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:51.425120+00:00",
+        "http_status": 200,
+        "content_length": 700622,
+        "header_content_length": "700622",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"7e74a6295f1db1:0\"",
+        "header_last_modified": "Wed, 09 Jul 2025 19:10:41 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:51 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8221231",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221231.pdf",
+      "fetched_sha256_raw_bytes": "33266c68e77b215e459e3eb781d8cef7e3ee3448f7db32cfca213ff6cdc18620",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:52.021444+00:00",
+        "http_status": 200,
+        "content_length": 623379,
+        "header_content_length": "623379",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"ba9bbcf3cb54dc1:0\"",
+        "header_last_modified": "Thu, 13 Nov 2025 18:33:05 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:52 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8221264",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221264.pdf",
+      "fetched_sha256_raw_bytes": "516b74c086fcc8dc7b1de3d66451c0ed423b18c559ffaebebcdbf4956316a39c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:52.630201+00:00",
+        "http_status": 200,
+        "content_length": 582157,
+        "header_content_length": "582157",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"8abeafa3c69dc1:0\"",
+        "header_last_modified": "Tue, 09 Dec 2025 18:45:51 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:52 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8221285",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221285.pdf",
+      "fetched_sha256_raw_bytes": "da072c0cef208af0fb7f3e2180c3a93b7118f1a2894c9080cb9950a47f42ddbc",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:53.222325+00:00",
+        "http_status": 200,
+        "content_length": 473379,
+        "header_content_length": "473379",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"cfd1ec3437fdc1:0\"",
+        "header_last_modified": "Tue, 06 Jan 2026 19:31:11 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:53 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115671",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115671.pdf",
+      "fetched_sha256_raw_bytes": "48e25a833bb1a8617714a51f576fbfbfe15f19ddcc78bea70c1d4022c8aabbcf",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:53.793747+00:00",
+        "http_status": 200,
+        "content_length": 800786,
+        "header_content_length": "800786",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"c46a0cd5a2edc1:0\"",
+        "header_last_modified": "Thu, 25 Sep 2025 20:27:23 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:53 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115676",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115676.pdf",
+      "fetched_sha256_raw_bytes": "5517c29d1f968ffc0921ebf667af564e9e4a059d300494cfe5a4e8f3e17d68f7",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:54.381142+00:00",
+        "http_status": 200,
+        "content_length": 601984,
+        "header_content_length": "601984",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"c5f1d5d5c2edc1:0\"",
+        "header_last_modified": "Thu, 25 Sep 2025 20:36:21 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:54 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115679",
+      "filing_year": "2025",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115679.pdf",
+      "fetched_sha256_raw_bytes": "cacef2564e9c121c8cc9916060b6dffd592bea668c4e308fb066769c598d0bb2",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:54.981636+00:00",
+        "http_status": 200,
+        "content_length": 663198,
+        "header_content_length": "663198",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"fd706d93aa34dc1:0\"",
+        "header_last_modified": "Fri, 03 Oct 2025 21:13:33 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:54 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8221322",
+      "filing_year": "2026",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf",
+      "fetched_sha256_raw_bytes": "26f1ce2fb7823d2e84ea4fbde24514c5c6371b43a828720d50f21b1c8c7ad314",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:55.564576+00:00",
+        "http_status": 200,
+        "content_length": 1534853,
+        "header_content_length": "1534853",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"739af0ebfe99dc1:0\"",
+        "header_last_modified": "Mon, 09 Feb 2026 20:01:47 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:55 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "8221358",
+      "filing_year": "2026",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf",
+      "fetched_sha256_raw_bytes": "4df42ba1c69022a27f57daa8928ab9f74db7614a678da296fc1e76083d82e816",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:56.182367+00:00",
+        "http_status": 200,
+        "content_length": 1048665,
+        "header_content_length": "1048665",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"8d647cf178b1dc1:0\"",
+        "header_last_modified": "Wed, 11 Mar 2026 17:03:11 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:56 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "doc_id": "9115726",
+      "filing_year": "2026",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115726.pdf",
+      "fetched_sha256_raw_bytes": "b453fddb193c7cabca36c818e2f8a92e4140c1a77e12a4ecae4d3b530bdceca1",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:09:56.811257+00:00",
+        "http_status": 200,
+        "content_length": 1012319,
+        "header_content_length": "1012319",
+        "header_content_type": "application/pdf",
+        "header_etag": "\"2c8143580c7dc1:0\"",
+        "header_last_modified": "Wed, 08 Apr 2026 17:50:37 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:09:56 GMT"
+      },
+      "fetch_status": "OK"
+    }
+  ],
+  "post_fetch_transformations": [
+    {
+      "step": "render_pdf_pages",
+      "tool": "pymupdf",
+      "dpi": 200
+    },
+    {
+      "step": "extract_per_page",
+      "tool": "gemini_per_page_extract",
+      "model": "gemini-3.1-flash-lite-preview",
+      "ref": "src.gemini_per_page_extract.extract_per_page (hhs_doge)",
+      "note": "Per-page Gemini extraction; outputs structured tx rows. Bundled output at _substrate_cache_occ/chamber_gemini_extract/."
+    },
+    {
+      "step": "canonical_view_dedup",
+      "tool": "lake.house_ptr_transactions_canonical SQL",
+      "ref": "scripts/k_ptr_canonical_views.py",
+      "note": "tx-key (filer_identity, asset_name, tx_date, tx_type, owner) collapses amendment-cascade re-filings into one row anchored at earliest_filing_date. Required for STOCK Act §6 days-late computation per stock-act-audit.md."
+    }
+  ],
+  "gap_reason": null,
+  "primary_source_explanation": "Each row in the snapshot is a structured transaction extracted via Gemini per-page OCR from a House Clerk PTR PDF. Provenance lists every unique doc_id with its public clerk.house.gov URL + raw-bytes SHA256 at fetch time. Spot-check re-fetches the PDF and compares bytes; Tier-E re-OCRs the PDF and compares structured rows.",
+  "unique_doc_count": 114
+}

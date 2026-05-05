@@ -1,0 +1,16 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "ptr_filing_audit_khanna_2026_05_02.json",
+  "snapshot_sha256": "4abaf269ba5965c44d1f0651822ef064d6476791b31bf74b0d8a9c343f792c96",
+  "snapshot_size_bytes": 1490,
+  "primary_source_class": "lake_derived_canonical_view_aggregate",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:05:15.600429+00:00",
+  "primary_source_endpoints": [],
+  "post_fetch_transformations": [],
+  "gap_reason": "lake_derived_sql_no_single_primary_url",
+  "primary_source_explanation": "This snapshot is the projection of a SQL aggregate query against the lake. There is no single primary URL because the underlying rows derive from many primary documents (per-Member PTRs across the chamber, etc.) ETL'd into lake.* tables. Chain-of-custody: Khanna-only projection of post-canonical-view-dedup chamber audit. Source: public.house_ptr_chamber_audit_by_member WHERE last='Khanna' AND state_dst='CA17'. Canonical view amendment-cascade dedup applied per stock-act-audit.md §Amendment cascade.",
+  "mitigation": "Reviewer with lake access can re-run the producing SQL (documented in fetch_script_ref). Tier-F users without lake access can opt into the Gemini per-page chamber-wide rebuild (see rebuild_chamber_audit.py --full-chamber --cost-acknowledged; $50-200 reviewer Gemini spend). For PTR-row-level grain, the bundled khanna_ptr_transactions snapshot CAN be re-derived from primary PDFs at Tier-E with no lake access.",
+  "fetch_script_ref": "scripts/k_house_ptr_chamber_late_filing_audit.py"
+}

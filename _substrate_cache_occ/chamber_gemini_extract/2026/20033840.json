@@ -1,0 +1,42 @@
+{
+  "file_key": "20033840",
+  "total_pages": 1,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "usdc",
+            "asset_ticker": "CT",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "12/26/2025",
+            "notification_date": "12/26/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "usdc",
+            "asset_ticker": "CT",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "01/12/2026",
+            "notification_date": "01/12/2026",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1566,
+      "tokens_out": 250
+    }
+  },
+  "stats": {
+    "tokens_in": 1566,
+    "tokens_out": 250,
+    "n_ok": 1,
+    "n_failed": 0,
+    "elapsed_s": 3.02,
+    "pages_submitted": 1
+  }
+}

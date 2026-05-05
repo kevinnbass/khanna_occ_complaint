@@ -1,0 +1,1282 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 9114457
+#   year          : 2019
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114457.pdf
+#   total_pages   : 6
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:38:45 UTC
+#   tokens_in     : 9,952
+#   tokens_out    : 16,074
+
+--- PAGE 01 ---
+HAND
+DELIVERED
+Name: Rohit Khanna Page 1 of 6
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+LEGISLATIVE RESOURCE CENTER
+2019 MAR -8 PM 3:36
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+X Member of the U.S. House of Representatives
+Officer or Employee
+State: CA District: 17
+Employing Office: ____________________
+File an original and 2 copies
+File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X
+Initial Report Amendment
+Date of Report Being Amended: ____________________
+(For Official Use Only)
+FULL ASSET NAME
+TYPE OF TRANS- ACTION
+DATE OF TRANS- ACTION
+DATE NOTIFIED OF TRANS- ACTION
+AMOUNT OF TRANSACTION
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/015
+03/07/15
+$1,001-
+$15,000
+$15,001-
+$50,000
+X
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+SP
+DC
+JT
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/IT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+over $1,000,000
+Areco
+SP
+ALLERGAN PLC SHS (AGN)
+X
+02/08/19
+03/01/19
+X
+SP
+FACEBOOK INC CL-A (FB)
+X
+02/08/19
+03/01/19
+X
+SP
+ESTEE LAUDER CO INC CL A (EL)
+X
+02/08/19
+03/01/19
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+M&R Trust Partnership
+SP
+ALLERGAN PLC SHS (AGN)
+X
+02/08/19
+03/01/19
+X
+SP
+FACEBOOK INC CL-A (FB)
+X
+02/08/19
+03/01/19
+X
+SP
+ESTEE LAUDER CO INC CL A (EL)
+X
+02/08/19
+03/01/19
+X
+SP
+BOX, INC. CL A (BOX)
+X
+02/07/19
+03/01/19
+X
+SP
+BCS AUTO-CALLABLE TRIGGER JUMP ON SPX (SQAGZ)
+X
+02/07/19
+03/01/19
+X
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 6
+Full Asset Name
+SP/DC/JT
+Provide full name, not ticker symbol.
+Type of Transaction
+Date of
+Transaction
+Date Notified of
+Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in
+a Spouse or
+Dependent
+Child Asset
+over
+$1,000
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+DC
+AT&T INC. CMN
+x
+02/01/19
+03/06/19
+x
+DC
+AT&T INC. CMN
+x
+02/05/19
+03/06/19
+x
+DC
+AT&T INC. CMN
+x
+02/06/19
+03/06/19
+x
+DC
+BWX TECHNOLOGIES, INC. CMN
+x
+02/27/19
+03/06/19
+x
+DC
+FIRST DATA CORPORATION CMN CLASS A
+x
+02/04/19
+03/06/19
+x
+DC
+FIRST DATA CORPORATION CMN CLASS A
+x
+02/05/19
+03/06/19
+x
+DC
+UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK
+x
+02/07/19
+03/06/19
+x
+DC
+FIRST DATA CORPORATION CMN CLASS A
+x
+02/08/19
+03/06/19
+x
+Ritu Ahuja Decedents Trust
+SP
+N Y ST DORM AUTH ST PERS REV 5% 02/15/24 FA
+x
+02/12/19
+03/06/19
+x
+SP
+TOMPKINS CTY N Y GO 2.7500% 02/20/20 FA
+x
+02/21/19
+03/06/19
+x
+Ritu Ahuja 1994 Trust
+SP
+RICHLAND CTY S C GO 5% 05/01/19 MN
+x
+01/01/19
+03/06/19
+x
+SP
+TEXAS ST REV 4.0000% 08/29/19 FA
+x
+02/25/19
+03/06/19
+x
+SP
+AT&T INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+PHILIP MORRIS INTL INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+BERKSHIRE HATHAWAY INC. CLASS B
+x
+02/20/19
+03/06/19
+x
+SP
+AT&T INC. CMN
+x
+02/05/19
+03/06/19
+x
+SP
+EXXON MOBIL CORPORATION CMN
+x
+02/20/19
+03/06/19
+x
+SP
+BOOKING HOLDINGS INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+AT&T INC. CMN
+x
+02/11/19
+03/06/19
+x
+SP
+INVESCO LTD. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+WPX ENERGY, INC. CMN
+x
+02/05/19
+03/06/19
+x
+SP
+WPX ENERGY, INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+02/08/19
+03/06/19
+x
+SP
+NORTHROP GRUMMAN CORP CMN
+x
+02/20/19
+03/06/19
+x
+SP
+UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK
+x
+02/05/19
+03/06/19
+x
+SP
+ANADARKO PETROLEUM CORP CMN
+x
+02/20/19
+03/06/19
+x
+SP
+BWX TECHNOLOGIES, INC. CMN
+x
+02/07/19
+03/06/19
+x
+SP
+WPX ENERGY, INC. CMN
+x
+02/06/19
+03/06/19
+x
+SP
+WPX ENERGY, INC. CMN
+x
+02/07/19
+03/06/19
+x
+SP
+GENERAL ELECTRIC CO CMN
+x
+02/20/19
+03/06/19
+x
+SP
+FIREEYE, INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+3M COMPANY CMN
+x
+02/20/19
+03/06/19
+x
+SP
+PERRIGO CO PLC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+BANK OZK CMN
+x
+02/20/19
+03/06/19
+x
+SP
+COLFAX CORPORATION CMN
+x
+02/20/19
+03/06/19
+x
+SP
+MOHAWK INDUSTRIES INC. COMMON STOCK
+x
+02/20/19
+03/06/19
+x
+SP
+STENCYCLE, INC. CMN
+x
+02/13/19
+03/06/19
+x
+SP
+WPX ENERGY, INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+ELECTRONIC ARTS CMN
+x
+02/20/19
+03/06/19
+x
+SP
+WPX ENERGY, INC. CMN
+x
+02/01/19
+03/06/19
+x
+SP
+CAPRI HOLDINGS LIMITED CMN
+x
+02/20/19
+03/06/19
+x
+SP
+ANTERO RESOURCES CORPORATION CMN
+x
+02/20/19
+03/06/19
+x
+SP
+APACHE CORP. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+HANEBRANDS INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+DEVON ENERGY CORPORATION (NEW) CMN
+x
+02/20/19
+03/06/19
+x
+SP
+CIMAREX ENERGY CO. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+LYONDELLBASELL INDUSTRIES N.V. CMN CLASS A
+x
+02/20/19
+03/06/19
+x
+SP
+EXTRACTION OIL & GAS INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+BEST BUY CO INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+ALPHABET INC. CMN CLASS A
+x
+02/20/19
+03/06/19
+x
+SP
+AMERICAN AIRLINES GROUP INC CMN
+x
+02/20/19
+03/06/19
+x
+
+--- PAGE 05 ---
+NAME: Rohit Khanna Page 5 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+SP
+FIRST DATA CORPORATION CMN CLASS A
+x
+02/01/19
+03/06/19
+x
+SP
+BWX TECHNOLOGIES, INC. CMN
+x
+02/26/19
+03/06/19
+x
+SP
+FIRST DATA CORPORATION CMN CLASS A
+x
+02/05/19
+03/06/19
+x
+SP
+UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK
+x
+02/04/19
+03/06/19
+x
+SP
+AMAZON.COM INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+FIRST DATA CORPORATION CMN CLASS A
+x
+02/08/19
+03/06/19
+x
+SP
+LOCKHEED MARTIN CORPORATION CMN
+x
+02/20/19
+03/06/19
+x
+SP
+BWX TECHNOLOGIES, INC. CMN
+x
+02/27/19
+03/06/19
+x
+SP
+BWX TECHNOLOGIES, INC. CMN
+x
+02/27/19
+03/06/19
+x
+SP
+FIRST DATA CORPORATION CMN CLASS A
+x
+02/07/19
+03/06/19
+x
+SP
+AMGEN INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+INTERCONTINENTAL EXCHANGE INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+CONCHO RESOURCES INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+STATE STREET CORPORATION (NEW) CMN
+x
+02/20/19
+03/06/19
+x
+SP
+BANK OF AMERICA CORP CMN
+x
+02/20/19
+03/06/19
+x
+SP
+FEDEX CORPORATION CMN
+x
+02/20/19
+03/06/19
+x
+SP
+QUALCOMM INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+ACTIVISION BLIZZARD, INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+TWITTER, INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+OMNICOM GROUP CMN
+x
+02/20/19
+03/06/19
+x
+SP
+GENERAL MOTORS COMPANY CMN
+x
+02/12/19
+03/06/19
+x
+SP
+TAPESTRY, INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+MEDTRONIC PUBLIC LIMITED COMPA CMN
+x
+02/20/19
+03/06/19
+x
+SP
+DOWDUPONT INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+CIGNA CORP CMN
+x
+02/20/19
+03/06/19
+x
+SP
+GAP INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+VIACOM INC CMN CLASS B
+x
+02/20/19
+03/06/19
+x
+SP
+TAKE TWO INTERACTIVE SOFTWARE INC
+x
+02/20/19
+03/06/19
+x
+SP
+HEWLETT PACKARD ENTERPRISE CO CMN
+x
+02/20/19
+03/06/19
+x
+SP
+MACERICH COMPANY CMN
+x
+02/20/19
+03/06/19
+x
+SP
+NEWELL BRANDS INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+PARSLEY ENERGY, INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+SNAP-ON INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+WESTLAKE CHEMICAL CORPORATION CMN
+x
+02/20/19
+03/06/19
+x
+SP
+SEAGATE TECHNOLOGY PLC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+CONTINENTAL RESOURCES, INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+H & R BLOCK INC. CMN
+x
+02/20/19
+03/06/19
+x
+SP
+QEP RESOURCES INC CMN
+x
+02/20/19
+03/06/19
+x
+SP
+WHITING PETROLEUM CORPORATION CMN
+x
+02/20/19
+03/06/19
+x
+SP
+FLUOR CORPORATION CMN
+x
+02/20/19
+03/06/19
+x
+Ritu Ahuja 1995 Trust
+SP
+RICHLAND CNTY S C GO 3% 02/27/20 FA
+x
+02/12/19
+03/06/19
+x
+SP
+TEXAS ST REV 4.0000% 08/29/19 FA
+x
+02/15/19
+03/06/19
+x
+SP
+METROPOLITAN TRANSN AUTH N Y REV 4% 02/03/20 FA
+x
+02/01/19
+03/06/19
+x
+SP
+ENERGY TRANSFER LP CMN
+x
+02/01/19
+03/06/19
+x
+SP
+FACEBOOK, INC. CMN CLASS A
+x
+02/15/19
+03/06/19
+x
+SP
+EXXON MOBIL CORPORATION CMN
+x
+02/15/19
+03/06/19
+x
+SP
+WESTERN GAS EQUITY PARTNERS, L CMN
+x
+02/22/19
+03/06/19
+x
+SP
+CHENIERE ENERGY, INC. CMN
+x
+02/27/19
+03/06/19
+x
+SP
+BERKSHIRE HATHAWAY INC. CLASS B
+x
+02/15/19
+03/06/19
+x
+SP
+MPLX LP CMN
+x
+02/04/19
+03/06/19
+x
+SP
+UNITED TECHNOLOGIES CORPORATIO CMN
+x
+02/15/19
+03/06/19
+x
+SP
+MEDTRONIC PUBLIC LIMITED COMPA CMN
+x
+02/15/19
+03/06/19
+x
+SP
+WESTERN GAS EQUITY PARTNERS, L CMN
+x
+02/22/19
+03/06/19
+x
+SP
+HONEYWELL INTL INC CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ENERGY TRANSFER LP CMN
+x
+02/01/19
+03/06/19
+x
+SP
+UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK
+x
+02/15/19
+03/06/19
+x
+SP
+WELLS FARGO & CO (NEW) CMN
+x
+02/15/19
+03/06/19
+x
+SP
+BANK OF AMERICA CORP CMN
+x
+02/15/19
+03/06/19
+x
+SP
+PEPSICO, INC. CMN
+x
+02/15/19
+03/06/19
+x
+
+--- PAGE 06 ---
+NAME: Rohit Khanna Page 6 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+SP
+THE KRAFT HEINZ CO CMN
+x
+02/15/19
+03/06/19
+x
+SP
+TARGET CORPORATION CMN
+x
+02/15/19
+03/06/19
+x
+SP
+SCHLUMBERGER LTD CMN
+x
+02/15/19
+03/06/19
+x
+SP
+MCKESSON CORPORATION CMN
+x
+02/15/19
+03/06/19
+x
+SP
+PLAINS GP HOLDINGS, L.P. CMN
+x
+02/07/19
+03/06/19
+x
+SP
+PLAINS GP HOLDINGS, L.P. CMN
+x
+02/07/19
+03/06/19
+x
+SP
+CONOCOPHILLIPS CMN
+x
+02/15/19
+03/06/19
+x
+SP
+CONAGRA BRANDS INC CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ABBVIE INC CMN
+x
+02/15/19
+03/06/19
+x
+SP
+CVS HEALTH CORP CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ANADARKO PETROLEUM CORP CMN
+x
+02/15/19
+03/06/19
+x
+SP
+EQUINIX, INC. REIT
+x
+02/15/19
+03/06/19
+x
+SP
+ENERGY TRANSFER LP CMN
+x
+02/01/19
+03/06/19
+x
+SP
+TYSON FOODS INC CL-A CMN CLASS A
+x
+02/15/19
+03/06/19
+x
+SP
+TARGA RESOURCES CORP. CMN
+x
+02/19/19
+03/06/19
+x
+SP
+VERIZON COMMUNICATIONS, INC. CMN
+x
+02/15/19
+03/06/19
+x
+SP
+AMGEN INC. CMN
+x
+02/15/19
+03/06/19
+x
+SP
+WALT DISNEY COMPANY (THE) CMN
+x
+02/15/19
+03/06/19
+x
+SP
+PUT/XSP @ 268 EXP 04/18/2019
+x
+02/19/19
+03/06/19
+x
+SP
+QUALCOMM INC CMN
+x
+02/15/19
+03/06/19
+x
+SP
+PUT/XSP @ 262 EXP 03/08/2019
+x
+02/01/19
+03/06/19
+x
+SP
+PUT/XSP @ 265 EXP 03/22/2019
+x
+02/12/19
+03/06/19
+x
+SP
+PUT/XSP @ 271 EXP 04/05/2019
+x
+02/27/19
+03/06/19
+x
+SP
+EXELON CORPORATION CMN
+x
+02/15/19
+03/06/19
+x
+SP
+TARGA RESOURCES CORP. CMN
+x
+02/27/19
+03/06/19
+x
+SP
+ILLUMINA, INC CMN
+x
+02/15/19
+03/06/19
+x
+SP
+CIGNA CORP CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ANTERO MIDSTREAM PARTNERS LP CMN
+x
+02/07/19
+03/06/19
+x
+SP
+DOWDUPONT INC. CMN
+x
+02/15/19
+03/06/19
+x
+SP
+FIRSTENERGY CORP. CMN
+x
+02/15/19
+03/06/19
+x
+SP
+CONCHO RESOURCES INC. CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ONEOK INC CMN
+x
+02/07/19
+03/06/19
+x
+SP
+MARATHON PETROLEUM CORPORATION CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ARCONIC INC CMN
+x
+02/15/19
+03/06/19
+x
+SP
+AMAZON.COM INC CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ARCHER-DANIELS-MIDLAND COMPANY CMN
+x
+02/15/19
+03/06/19
+x
+SP
+KELLOGG COMPANY CMN
+x
+02/15/19
+03/06/19
+x
+SP
+EQT CORPORATION CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ACTIVISION BLIZZARD, INC CMN
+x
+02/15/19
+03/06/19
+x
+SP
+MACY'S INC. CMN
+x
+02/15/19
+03/06/19
+x
+SP
+CME GROUP INC. CMN CLASS A
+x
+02/15/19
+03/06/19
+x
+SP
+CENTENE CORPORATION CMN
+x
+02/15/19
+03/06/19
+x
+SP
+ONEOK INC CMN
+x
+02/07/19
+03/06/19
+x
+SP
+FEDEX CORPORATION CMN
+x
+02/15/19
+03/06/19
+x
+SP
+HENRY SCHEIN INC COMMON STOCK
+x
+02/15/19
+03/06/19
+x

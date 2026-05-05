@@ -1,0 +1,113 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "ahuja_foundation_990pf_2026_05_02.json",
+  "snapshot_sha256": "1dd47a0c98cd16e6a696558677cd42c9519ddfc065f963b77c28b26d53af3890",
+  "snapshot_size_bytes": 3804,
+  "primary_source_class": "irs_990_efile_xml_with_pdf_mirror",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:05:17.617758+00:00",
+  "primary_source_explanation": "Ahuja Foundation IRS 990-PF filings (EIN 341685088). The bundled snapshot was extracted from the IRS e-file XML corpus (lake.irs_990_returns + lake.irs_990_officers + lake.irs_990_pf_noncash_donations + ro_khanna.ahuja_foundation_holdings — XML, not PDF, is the canonical IRS publication for e-filed Form 990-PF). Mirror PDFs are provided as a courtesy for human review.",
+  "primary_source_endpoints_xml_canonical": [
+    {
+      "tax_year": "2024",
+      "object_id": "202513159349100221",
+      "primary_source_url_propublica_xml": "https://projects.propublica.org/nonprofits/download-xml?object_id=202513159349100221",
+      "primary_source_url_irs_eos": "https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=2287614&ein=341685088",
+      "pdf_mirror_status": "NOT_AVAILABLE_FROM_PUBLISHER (ProPublica filings_with_data carries no pdf_url for TY2024 yet; IRS apps.irs.gov has not rendered PDF as of 2026-05-04)"
+    },
+    {
+      "tax_year": "2023",
+      "object_id": "202413189349102416",
+      "primary_source_url_propublica_xml": "https://projects.propublica.org/nonprofits/download-xml?object_id=202413189349102416",
+      "primary_source_url_irs_eos": "https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=2287614&ein=341685088",
+      "pdf_mirror_status": "NOT_AVAILABLE_FROM_PUBLISHER (ProPublica filings_with_data carries no pdf_url for TY2023 yet)"
+    },
+    {
+      "tax_year": "2022",
+      "object_id": "202232039349100003",
+      "primary_source_url_propublica_xml": "https://projects.propublica.org/nonprofits/download-xml?object_id=202232039349100003",
+      "primary_source_url_irs_eos": "https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=2287614&ein=341685088",
+      "pdf_filename": "341685088_202212_990PF_2023120422056207.pdf",
+      "pdf_irs_direct_url": "https://apps.irs.gov/pub/epostcard/cor/341685088_202212_990PF_2023120422056207.pdf",
+      "release_mirror_url": "https://github.com/kevinnbass/political/releases/download/v2-occ-trust-tiers-2026-05-04/AHUJA_990PF_2022.pdf",
+      "release_mirror_size_bytes": 948894,
+      "release_mirror_sha256": "0d994de9819573187683dc03bc595265a9a335a7fc2dd9df65f6e92727ab7b00",
+      "fetch_status": "MIRRORED"
+    },
+    {
+      "tax_year": "2021",
+      "object_id": "202122019349100262",
+      "primary_source_url_propublica_xml": "https://projects.propublica.org/nonprofits/download-xml?object_id=202122019349100262",
+      "primary_source_url_irs_eos": "https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=2287614&ein=341685088",
+      "pdf_filename": "341685088_202112_990PF_2023012620816383.pdf",
+      "pdf_irs_direct_url": "https://apps.irs.gov/pub/epostcard/cor/341685088_202112_990PF_2023012620816383.pdf",
+      "release_mirror_url": "https://github.com/kevinnbass/political/releases/download/v2-occ-trust-tiers-2026-05-04/AHUJA_990PF_2021.pdf",
+      "release_mirror_size_bytes": 879314,
+      "release_mirror_sha256": "256397795674732271c517b02684d3358d8dd5aef6388790a5e465d78aea3a23",
+      "fetch_status": "MIRRORED",
+      "amendment_filing_pdf_filename": "341685088_202112_990PF_2023013020854518.pdf",
+      "amendment_release_mirror_url": "https://github.com/kevinnbass/political/releases/download/v2-occ-trust-tiers-2026-05-04/AHUJA_990PF_2021_v2.pdf",
+      "amendment_release_mirror_sha256": "3fca4f8fbdb523b7c53cf34f57b305dcb5eb46293e2dd07f01d7b8584607bb5c"
+    },
+    {
+      "tax_year": "2020",
+      "object_id": "202041569349101114",
+      "primary_source_url_propublica_xml": "https://projects.propublica.org/nonprofits/download-xml?object_id=202041569349101114",
+      "primary_source_url_irs_eos": "https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=2287614&ein=341685088",
+      "pdf_mirror_status": "NOT_AVAILABLE_FROM_PUBLISHER (ProPublica filings_with_data carries no pdf_url for TY2020)"
+    },
+    {
+      "tax_year": "2019",
+      "object_id": "201941689349100009",
+      "primary_source_url_propublica_xml": "https://projects.propublica.org/nonprofits/download-xml?object_id=201941689349100009",
+      "primary_source_url_irs_eos": "https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=2287614&ein=341685088",
+      "pdf_filename": "341685088_201912_990PF_2021060918301813.pdf",
+      "pdf_irs_direct_url": "https://apps.irs.gov/pub/epostcard/cor/341685088_201912_990PF_2021060918301813.pdf",
+      "release_mirror_url": "https://github.com/kevinnbass/political/releases/download/v2-occ-trust-tiers-2026-05-04/AHUJA_990PF_2019.pdf",
+      "release_mirror_size_bytes": 847744,
+      "release_mirror_sha256": "198581431492ba773f0a763144fdf2b9b25d2a2329264e1e542acceef4a737ff",
+      "fetch_status": "MIRRORED"
+    },
+    {
+      "tax_year": "2018",
+      "object_id": "201831519349100308",
+      "primary_source_url_propublica_xml": "https://projects.propublica.org/nonprofits/download-xml?object_id=201831519349100308",
+      "primary_source_url_irs_eos": "https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=2287614&ein=341685088",
+      "pdf_filename": "341685088_201812_990PF_2019081316563954.pdf",
+      "pdf_irs_direct_url": "https://apps.irs.gov/pub/epostcard/cor/341685088_201812_990PF_2019081316563954.pdf",
+      "release_mirror_url": "https://github.com/kevinnbass/political/releases/download/v2-occ-trust-tiers-2026-05-04/AHUJA_990PF_2018.pdf",
+      "release_mirror_size_bytes": 793353,
+      "release_mirror_sha256": "0b031d37364df49ba43f0e7da77fbca8dc72e74095421e81684efcb64a9e338f",
+      "fetch_status": "MIRRORED"
+    },
+    {
+      "tax_year": "2016",
+      "object_id": "201611349349100236",
+      "primary_source_url_propublica_xml": "https://projects.propublica.org/nonprofits/download-xml?object_id=201611349349100236",
+      "primary_source_url_irs_eos": "https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=2287614&ein=341685088",
+      "pdf_filename": "341685088_201612_990PF_2018020115161157.pdf",
+      "pdf_irs_direct_url": "https://apps.irs.gov/pub/epostcard/cor/341685088_201612_990PF_2018020115161157.pdf",
+      "release_mirror_url": "https://github.com/kevinnbass/political/releases/download/v2-occ-trust-tiers-2026-05-04/AHUJA_990PF_2016.pdf",
+      "release_mirror_size_bytes": 748684,
+      "release_mirror_sha256": "660e4be43f67b9cc9eca107dcad6d5e452f616df9d6319306eabac371ad887d2",
+      "fetch_status": "MIRRORED"
+    }
+  ],
+  "fetch_method_pdf_irs_direct": "PDFs are fetchable anonymously from apps.irs.gov direct (no Cloudflare, no JS challenge): GET https://apps.irs.gov/pub/epostcard/cor/<filename> with any standard User-Agent. The 6 mirrored PDFs above were fetched this way.",
+  "fetch_method_xml_propublica_cloudflare_note": "ProPublica's download-xml endpoint is Cloudflare-protected (returns 403 to urllib + cloudscraper + headless browser API calls). To fetch XML directly from ProPublica, use a real browser session that completes the Cloudflare JS challenge. Alternative paths: (a) IRS Tax-Exempt Organization Search at apps.irs.gov/app/eos (browser-rendered JS); (b) the bundled snapshot's lake-derived projection (lake.irs_990_returns + siblings) for the e-file extraction.",
+  "post_fetch_transformations": [
+    {"step": "990pf_xml_extraction", "tool": "irs_990_etl",
+     "note": "990-PF XMLs ETL'd into lake.irs_990_returns + lake.irs_990_officers + lake.irs_990_pf_noncash_donations. Snapshot is the WHERE ein='341685088' projection."}
+  ],
+  "tier_d_spot_check_protocol": {
+    "description": "Reviewers can spot-check by downloading any AHUJA_990PF_<year>.pdf release-mirror asset and verifying its SHA256 matches release_mirror_sha256 above. The PDF can also be cross-verified against IRS direct: GET https://apps.irs.gov/pub/epostcard/cor/<pdf_filename>.",
+    "reviewer_command_example": "curl -sL https://github.com/kevinnbass/political/releases/download/v2-occ-trust-tiers-2026-05-04/AHUJA_990PF_2019.pdf | sha256sum",
+    "expected_match": "198581431492ba773f0a763144fdf2b9b25d2a2329264e1e542acceef4a737ff"
+  },
+  "limitations": {
+    "pdf_mirror_completeness": "6 of 8 in-scope tax years (TY2018, TY2019, TY2021 + amendment, TY2022, plus TY2016 historical reference). TY2017, TY2020, TY2023, TY2024 are XML-only because the IRS / ProPublica did not render PDFs for those years (TY2017 had only e-file XML; TY2020/2023/2024 PDFs are still pending publisher rendering as of fetch date). The body claims sourced from those 4 years are XML-anchored, which is the canonical IRS publication for e-filed Form 990-PF.",
+    "pre_2016_filings": "Earlier filings (2011-2015) used a different filename pattern that apps.irs.gov no longer hosts; ProPublica retains them but behind Cloudflare. These predate the snapshot's in-scope window so are not mirrored.",
+    "cloudflare_xml_path": "The XML primary path (ProPublica download-xml) requires Cloudflare bypass. Reviewers who want raw XML can browse to https://projects.propublica.org/nonprofits/organizations/341685088 in a real browser and click XML links."
+  }
+}

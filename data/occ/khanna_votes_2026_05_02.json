@@ -1,0 +1,133 @@
+{
+ "snapshot_target": "OCC_M020 (NDAA NAY-cluster)",
+ "snapshot_taken_at": "2026-05-03T03:09:29.547524+00:00",
+ "snapshot_date": "2026_05_02",
+ "substrate_authoritative": "lake.congress_member_votes JOIN lake.congress_rollcalls USING (chamber, congress, session, roll_number)",
+ "substrate_authoritative_note": "Bill numbering: NDAA passage rolls span FY2018-FY2025 across 9 distinct H R bill numbers (2810/5515/2500/6395/4350/7900/2670/8070/5009). Body's 12-of-13 NAY claim aggregates passage + override + conference-report rolls; snapshot below carries the verifiable On-Passage / Override / Conference-Report set.",
+ "ndaa_cluster": {
+  "rolls": [
+   {
+    "congress": "115",
+    "session": "1",
+    "roll_number": "378",
+    "vote_date": "2017-07-14",
+    "bill_reference": "H R 2810",
+    "vote_question": "On Passage",
+    "vote_position": "No"
+   },
+   {
+    "congress": "115",
+    "session": "1",
+    "roll_number": "631",
+    "vote_date": "2017-11-14",
+    "bill_reference": "H R 2810",
+    "vote_question": "On Agreeing to the Conference Report",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "115",
+    "session": "2",
+    "roll_number": "230",
+    "vote_date": "2018-05-24",
+    "bill_reference": "H R 5515",
+    "vote_question": "On Passage",
+    "vote_position": "No"
+   },
+   {
+    "congress": "115",
+    "session": "2",
+    "roll_number": "379",
+    "vote_date": "2018-07-26",
+    "bill_reference": "H R 5515",
+    "vote_question": "On Agreeing to the Conference Report",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "116",
+    "session": "1",
+    "roll_number": "473",
+    "vote_date": "2019-07-12",
+    "bill_reference": "H R 2500",
+    "vote_question": "On Passage",
+    "vote_position": "Aye"
+   },
+   {
+    "congress": "116",
+    "session": "2",
+    "roll_number": "152",
+    "vote_date": "2020-07-21",
+    "bill_reference": "H R 6395",
+    "vote_question": "On Passage",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "116",
+    "session": "2",
+    "roll_number": "238",
+    "vote_date": "2020-12-08",
+    "bill_reference": "H R 6395",
+    "vote_question": "On Agreeing to the Conference Report",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "116",
+    "session": "2",
+    "roll_number": "253",
+    "vote_date": "2020-12-28",
+    "bill_reference": "H R 6395",
+    "vote_question": "On Passage, Objections of the President to the Contrary Notwithstanding",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "117",
+    "session": "1",
+    "roll_number": "293",
+    "vote_date": "2021-09-23",
+    "bill_reference": "H R 4350",
+    "vote_question": "On Passage",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "117",
+    "session": "2",
+    "roll_number": "350",
+    "vote_date": "2022-07-14",
+    "bill_reference": "H R 7900",
+    "vote_question": "On Passage",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "118",
+    "session": "1",
+    "roll_number": "328",
+    "vote_date": "2023-07-14",
+    "bill_reference": "H R 2670",
+    "vote_question": "On Passage",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "118",
+    "session": "1",
+    "roll_number": "723",
+    "vote_date": "2023-12-14",
+    "bill_reference": "H R 2670",
+    "vote_question": "On Motion to Suspend the Rules and Agree to the Conference Report",
+    "vote_position": "Nay"
+   },
+   {
+    "congress": "118",
+    "session": "2",
+    "roll_number": "279",
+    "vote_date": "2024-06-14",
+    "bill_reference": "H R 8070",
+    "vote_question": "On Passage",
+    "vote_position": "No"
+   }
+  ],
+  "n_rolls": 13,
+  "n_nay": 12
+ },
+ "verifier_kinds_supported": [
+  "vote_resolve (OCC_M020 / OCC_M039 / OCC_M044)"
+ ]
+}

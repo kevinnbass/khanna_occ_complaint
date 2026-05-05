@@ -1,0 +1,26 @@
+{
+  "distinct_registrant_names": [
+    "AMERICAN ACADEMY OF SLEEP MEDICINE",
+    "[redacted]",
+    "CHAMBER OF COMMERCE OF THE U.S.A.",
+    "CLARK STREET ASSOCIATES",
+    "HOLLAND & KNIGHT LLP",
+    "INTERNATIONAL UNION OF OPERATING ENGINEERS",
+    "NATIONAL ASSOCIATION OF REALTORS",
+    "NATIONAL RURAL ELECTRIC COOPERATIVE ASSOCIATION (NRECA)",
+    "RUBICON ADVISORS, LLC"
+  ],
+  "fetched_at_utc": "2026-05-04T02:44:44Z",
+  "filter_pattern": "contribution_payee variant \u2208 {'Ro for Congress', 'Ro Khanna', 'RO KHANNA FOR CONGRESS'}; per-line-item filter payee_name ILIKE '%KHANNA%' OR '%RO FOR CONGRESS%'",
+  "n_distinct_registrants": 9,
+  "n_filings": 13,
+  "n_line_items": 15,
+  "occ_body_anchor": {
+    "body_claim": "Aggregate registrant-originated LD-203 contributions to Khanna PCC: $299,197.54 across 147 line items / 53 distinct registrants",
+    "currency_note": "lake.lda_contributions has continued to grow between body-author and current-snapshot dates; the 53-distinct-registrant universe is the BIT-EXACT invariant per F1135 wave-19 substrate-keyed empirical verification. Line / amount totals are PASS_WITH_DEFECT/substrate_count_drift if the current API count exceeds 147 / $299,197.54 (corpus-grown beyond snapshot).",
+    "marker": "OCC_M041",
+    "snapshot_date": "2026-05-02"
+  },
+  "substrate_authoritative": "Senate LDA REST API contributions endpoint (https://lda.senate.gov/api/v1/contributions/)",
+  "total_amount_usd": 24000.0
+}

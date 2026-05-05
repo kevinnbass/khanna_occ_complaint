@@ -1,0 +1,320 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 9112254
+#   year          : 2017
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9112254.pdf
+#   total_pages   : 4
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:30:56 UTC
+#   tokens_in     : 8,708
+#   tokens_out    : 5,275
+
+--- PAGE 01 ---
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+Name: Rohit Khanna Page 1 of 4
+LEGISLATIVE RESOURCE CENTER
+18 JAN 10 PM 4: 18
+OFFICE TELEPHONE: (202) 225-2631
+NAME: Rohit Khanna
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+X Member of the U.S. House of Representatives
+State: CA District: 17
+Officer or Employee
+Employing Office: ____________________
+HAND
+DELIVERED
+File an original and 2 copies
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+Yes X No
+X Initial Report
+Amendment
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Date of Report Being Amended: _______________
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/Y)
+(MM/DD/Y)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/015
+03/07/15
+X
+Please see the attached
+
+--- PAGE 02 ---
+Name: Rohit Khanna Page 2 of 4
+Full Asset Name
+Date of
+Transaction
+Date Notified of
+Transaction
+Type of Transaction
+Amount of Transaction
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol,
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001-
+$15,001-
+$50,001-
+$100,001-
+$250,001-
+$500,001-
+$1,000,001-
+$5,000,001-
+$25,000,001-
+Over
+$15,000
+$50,000
+$100,000
+$250,000
+$500,000
+$1,000,000
+$5,000,000
+$25,000,000
+$50,000,000
+$50,000,000
+Grandchildren's Trust
+DC AXALTA COATING SYSTEMS LTD. CMN
+x
+12/14/17
+01/06/18
+x
+Ritu Ahuja Declaration of Trust
+SP COLUMBUS OHIO CITY SCH DIST GO 5% 12/01/18 JD
+x
+12/07/17
+01/06/18
+x
+SP NASSAU CNTY N Y FOR ISSUES DTD GO 5% 10/01/24 AO
+x
+12/12/17
+01/06/18
+x
+Ritu Ahuja 1994 Trust
+SP ULTA BEAUTY INC CMN
+x
+12/01/17
+01/06/18
+x
+SP WALGREENS BOOTS ALUANCE, INC. CMN
+x
+12/01/17
+01/06/18
+x
+SP USG CORP (NEW) CMN
+x
+12/07/17
+01/06/18
+x
+SP FIRST DATA CORPORATION CMN CLASS A
+x
+12/11/17
+01/06/18
+x
+SP THE MOSAIC COMPANY CMN
+x
+12/12/17
+01/06/18
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+12/14/17
+01/06/18
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+12/14/17
+01/06/18
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+12/21/17
+01/06/18
+x
+Ritu Ahuja 1995 Trust
+SP PUT/XSP @ 254 EXP 01/05/2018
+x
+12/01/17
+01/06/18
+x
+SP PUT/XSP @ 261 EXP 02/16/2018
+x
+12/12/17
+01/06/18
+x
+SP PUT/XSP @ 263 EXP 01/26/2018
+x
+12/20/17
+01/06/18
+x
+SP CHENIERE ENERGY INC CMN
+x
+12/04/17
+01/06/18
+x
+SP CHENIERE ENERGY INC CMN
+x
+12/04/17
+01/06/18
+x
+SP CHENIERE ENERGY INC CMN
+x
+12/04/17
+01/06/18
+x
+
+--- PAGE 03 ---
+Name: Rohit Khanna Page 3 of 4
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+$1,001 - $15,000
+B
+$15,001 - $50,000
+C
+$50,001 - $100,000
+D
+$100,001 - $250,000
+E
+$250,001 - $500,000
+F
+$500,001 - $1,000,000
+G
+$1,000,001 - $5,000,000
+H
+$5,000,001 - $25,000,000
+I
+$25,000,001 - $50,000,000
+J
+Over $50,000,000
+K
+Over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+DC
+Grandchildren Trust (ASK Partners, LLC)
+X
+12/05/17
+01/05/18
+X
+DC
+Transtar/Speedstar Holding Company
+X
+12/13/17
+01/05/18
+X
+
+--- PAGE 04 ---
+Name: Rohit Khanna Page 4 of 4
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+over $1,000,000
+Provide full name, not ticker symbol.
+SP/DC/JT
+M&R Trust Partnership
+SP
+PRICELINE GRP INC
+X
+12/08/17
+01/02/18
+X

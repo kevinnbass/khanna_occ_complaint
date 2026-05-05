@@ -1,0 +1,16 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "trade_pnl_facts_2026_05_02.json",
+  "snapshot_sha256": "da110a5f2bc395f70ac88936cb928500520f18d83071a28a6abe4d4971c2ade9",
+  "snapshot_size_bytes": 12858,
+  "primary_source_class": "lake_derived_v3_facts_subset",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:05:16.836843+00:00",
+  "primary_source_endpoints": [],
+  "post_fetch_transformations": [],
+  "gap_reason": "lake_derived_sql_no_single_primary_url",
+  "primary_source_explanation": "This snapshot is the projection of a SQL aggregate query against the lake. There is no single primary URL because the underlying rows derive from many primary documents (per-Member PTRs across the chamber, etc.) ETL'd into lake.* tables. Chain-of-custody: F225/F242/F820/F833 trade-PnL canonical scalars from ro_khanna.v3_facts. F225 was re-canonized 2026-05-04 to the post-cascade rebuild value ($61,040,313.07) against the bundled khanna_ptr_transactions + khanna_ohlc + khanna_window_events snapshots — those three snapshots ARE the primary substrate for F225 and have their own provenance.json files. This snapshot is the canonical-scalars projection.",
+  "mitigation": "Reviewer with lake access can re-run the producing SQL (documented in fetch_script_ref). Tier-F users without lake access can opt into the Gemini per-page chamber-wide rebuild (see rebuild_chamber_audit.py --full-chamber --cost-acknowledged; $50-200 reviewer Gemini spend). For PTR-row-level grain, the bundled khanna_ptr_transactions snapshot CAN be re-derived from primary PDFs at Tier-E with no lake access.",
+  "fetch_script_ref": "data/ocr_products/rebuild_trade_pnl_khanna.py"
+}

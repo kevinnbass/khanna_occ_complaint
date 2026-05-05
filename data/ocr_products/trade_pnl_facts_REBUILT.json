@@ -1,0 +1,87 @@
+{
+  "rebuild_run_at": "2026-05-05T10:17:59.145897+00:00",
+  "snapshot_inputs": {
+    "ptr": "khanna_ptr_transactions_2026_05_02.json",
+    "ohlc": "khanna_ohlc_2026_05_02.json",
+    "windows": "khanna_window_events_2026_05_02.json",
+    "target": "trade_pnl_facts_2026_05_02.json"
+  },
+  "snapshot_date": "2026_05_02",
+  "served_from_iso": "2017-01-03",
+  "terminal_date": "2026-04-17",
+  "n_transactions_raw": 36277,
+  "n_auditable": 36223,
+  "n_in_scope_tagged": 3414,
+  "exclusion_counts": {
+    "tx_after_filing": 54
+  },
+  "totals": {
+    "n_in_scope_tagged": 3414,
+    "n_common": 3395,
+    "n_options_skip": 19,
+    "n_no_price": 0,
+    "notional_low": 11462395.0,
+    "notional_mid": 39698697.5,
+    "notional_high": 67935000.0,
+    "pnl_terminal_low": 14622296.472411573,
+    "pnl_terminal_mid": 61040313.068416916,
+    "pnl_terminal_high": 107458329.66442226,
+    "spy_baseline_mid": 32881760.601004392,
+    "alpha_vs_spy_mid": 28158552.467412524
+  },
+  "per_sector": [
+    {
+      "sector": "Big Tech",
+      "n_trades": 1193,
+      "notional_mid": 16095596.5,
+      "pnl_terminal_mid": 39684524.170145065,
+      "spy_baseline_mid": 12126350.497829398
+    },
+    {
+      "sector": "Defense Prime",
+      "n_trades": 344,
+      "notional_mid": 3806172.0,
+      "pnl_terminal_mid": 9919388.76445922,
+      "spy_baseline_mid": 4559722.469580189
+    },
+    {
+      "sector": "Pharma",
+      "n_trades": 1087,
+      "notional_mid": 11715543.5,
+      "pnl_terminal_mid": 8063472.516581465,
+      "spy_baseline_mid": 10306933.41767588
+    },
+    {
+      "sector": "Healthcare Devices",
+      "n_trades": 568,
+      "notional_mid": 6261284.0,
+      "pnl_terminal_mid": 1671607.8843398548,
+      "spy_baseline_mid": 4548660.799469847
+    },
+    {
+      "sector": "Healthcare Services",
+      "n_trades": 178,
+      "notional_mid": 1571089.0,
+      "pnl_terminal_mid": 924392.9351031437,
+      "spy_baseline_mid": 1269436.565842069
+    },
+    {
+      "sector": "Defense Tech",
+      "n_trades": 25,
+      "notional_mid": 249012.5,
+      "pnl_terminal_mid": 776926.7977881467,
+      "spy_baseline_mid": 70656.8506069745
+    }
+  ],
+  "window_attribution": {
+    "total_pnl_mid": 61040313.068416916,
+    "any_window_pnl_mid": 25205142.160096824,
+    "window_attributable_share_pct": 41.29261613033618,
+    "n_total": 3395,
+    "n_any_window": 1275,
+    "n_ndaa": 16,
+    "n_cms": 139,
+    "n_8k_same_day": 278,
+    "n_contract": 910
+  }
+}

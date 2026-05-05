@@ -1,0 +1,32 @@
+{
+  "file_key": "20026489",
+  "total_pages": 1,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Ski Mask Dog",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "12/03/2024",
+            "notification_date": "12/03/2024",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1566,
+      "tokens_out": 131
+    }
+  },
+  "stats": {
+    "tokens_in": 1566,
+    "tokens_out": 131,
+    "n_ok": 1,
+    "n_failed": 0,
+    "elapsed_s": 3.09,
+    "pages_submitted": 1
+  }
+}

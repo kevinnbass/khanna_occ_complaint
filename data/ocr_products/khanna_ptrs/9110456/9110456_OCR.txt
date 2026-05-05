@@ -1,0 +1,596 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 9110456
+#   year          : 2017
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110456.pdf
+#   total_pages   : 5
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:25:38 UTC
+#   tokens_in     : 11,196
+#   tokens_out    : 10,995
+
+--- PAGE 01 ---
+HAND DELIVERED
+Page 1 of
+LEGISLATIVE RESOURCE CENTER
+UNITED STATES HOUSE OF REPRESENTATIVES
+2017 FEB 13 PM 4: 40
+Periodic Transaction Report
+U.S. HOUSE OF REPRESENTATIVES
+NAME: Rohit Khanna
+OFFICE TELEPHONE: (202) 225-2631
+OFFICE OF THE CLERK
+X Member of the U.S. House of Representatives
+Officer or Employee
+State: CA District: 17
+Employing Office:
+File an original and 2 copies
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+X
+Yes X No
+Initial Report Amendment
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Date of Report Being Amended:
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY) (MM/DD/YY)
+A B C D E F G H I J K
+SP
+DC
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/15 03/07/15
+X
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT
+Please see the attached
+X
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+In a Spouse or
+Dependent
+Child Asset
+over
+$1,000
+$15,001-
+$50,001-
+$100,001-
+$250,001-
+$500,001-
+$1,000,001-
+$5,000,001-
+$25,000,001-
+Over
+$1,000,000
+$15,000
+$50,000
+$100,000
+$250,000
+$500,000
+$1,000,000
+$5,000,000
+$25,000,000
+$50,000,000
+$50,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+M&R Trust Partnership
+SP
+Global Long Short Partners
+x
+01/01/17
+02/06/17
+x
+SP
+Global Long Short Partners
+x
+01/01/17
+02/06/17
+x
+RA '94 Trust
+SP
+VERSUM MATERIALS, INC. CMN
+x
+01/04/17
+02/06/17
+x
+SP
+WHOLE FOODS MARKET INC CMN
+x
+01/09/17
+02/06/17
+x
+SP
+VERSUM MATERIALS, INC. CMN
+x
+01/12/17
+02/06/17
+x
+Ritu Declaration of Trust
+SP
+CHICAGO IL O'HARE INTL AIRPORT REV 5.2500% 01/01/18 JJ
+x
+01/17/17
+02/06/17
+x
+SP
+MET TRANSN AUTH N Y REV 4.0000% 11/15/18 MN
+x
+01/17/17
+02/06/17
+x
+RA '94 Trust
+SP
+VCA INC. CMN
+x
+01/18/17
+02/06/17
+x
+Ritu Declaration of Trust
+SP
+BUILD NYC RESOURCE CORP N Y REV 5% 11/01/19-CA MN
+x
+01/18/17
+02/06/17
+x
+RA '94 Trust
+SP
+WPX ENERGY, INC. CMN
+x
+01/19/17
+02/06/17
+x
+SP
+WPX ENERGY, INC. CMN
+x
+01/20/17
+02/06/17
+x
+SP
+STRYKER CORP CMN
+x
+01/24/17
+02/06/17
+x
+SP
+QUALCOMM INC CMN
+x
+01/24/17
+02/06/17
+x
+SP
+HONEYWELL INTL INC CMN
+x
+01/24/17
+02/06/17
+x
+SP
+KIMBERLY CLARK CORP CMN
+x
+01/24/17
+02/06/17
+x
+SP
+INTEL CORPORATION CMN
+x
+01/24/17
+02/06/17
+x
+SP
+3M COMPANY CMN
+x
+01/24/17
+02/06/17
+x
+SP
+RYDER SYSTEM INC CMN
+x
+01/24/17
+02/06/17
+x
+SP
+ESTEE LAUDER COS INC CL-A CMN CLASS A
+x
+01/24/17
+02/06/17
+x
+SP
+ALPHABET INC. CMN CLASS C
+x
+01/24/17
+02/06/17
+x
+SP
+AMERICAN TOWER CORPORATION CMN
+x
+01/24/17
+02/06/17
+x
+SP
+PROCTER & GAMBLE COMPANY (THE) CMN
+x
+01/24/17
+02/06/17
+x
+SP
+COGNIZANT TECHNOLOGY SOLUTIONS CORP CLASS A
+x
+01/24/17
+02/06/17
+x
+SP
+AUTOZONE, INC. CMN
+x
+01/24/17
+02/06/17
+x
+SP
+CUMMINS INC COMMON STOCK
+x
+01/24/17
+02/06/17
+x
+SP
+ABBVIE INC. CMN
+x
+01/24/17
+02/06/17
+x
+SP
+PARKER-HANNIFIN CORP. CMN
+x
+01/24/17
+02/06/17
+x
+SP
+COSTCO WHOLESALE CORPORATION CMN
+x
+01/24/17
+02/06/17
+x
+SP
+ALTRIA GROUP, INC. CMN
+x
+01/24/17
+02/06/17
+x
+SP
+ELI LILLY & CO CMN
+x
+01/24/17
+02/06/17
+x
+SP
+DANAHER CORPORATION CMN
+x
+01/24/17
+02/06/17
+x
+SP
+ZIMMER BIOMET HOLDINGS INC
+x
+01/24/17
+02/06/17
+x
+SP
+MERCK & CO., INC. CMN
+x
+01/24/17
+02/06/17
+x
+SP
+STANLEY BLACK & DECKER INC CMN
+x
+01/24/17
+02/06/17
+x
+SP
+CSX CORPORATION CMN
+x
+01/24/17
+02/06/17
+x
+SP
+VF CORP CMN
+x
+01/24/17
+02/06/17
+x
+SP
+PFIZER INC. CMN
+x
+01/24/17
+02/06/17
+x
+SP
+PHILIP MORRIS INTL INC CMN
+x
+01/24/17
+02/06/17
+x
+SP
+THERMO FISHER SCIENTIFIC INC CMN
+x
+01/24/17
+02/06/17
+x
+SP
+NIKE CLASS-B CMN CLASS B
+x
+01/24/17
+02/06/17
+x
+SP
+TARGET CORPORATION CMN
+x
+01/24/17
+02/06/17
+x
+SP
+ORACLE CORPORATION CMN
+x
+01/24/17
+02/06/17
+x
+SP
+PACCAR INC CMN
+x
+01/24/17
+02/06/17
+x
+SP
+EXXON MOBIL CORPORATION CMN
+x
+01/24/17
+02/06/17
+x
+SP
+EATON CORP PLC CMN
+x
+01/24/17
+02/06/17
+x
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+In a Spouse or
+Dependent
+Child Asset
+over
+$1,001- $15,001- $50,001- $100,001- $250,001- $500,001- $1,000,001- $5,000,001- $25,000,001- Over $1,000,000
+$15,000 $50,000 $100,000 $250,000 $500,000 $1,000,000 $5,000,000 $25,000,000 $50,000,000 $50,000,000
+SP/DC/JT Provide full name, not ticker symbol. Purchase Sale Exchange MM/DD/YY MM/DD/YY
+SP PAYPAL HOLDINGS INC CMN x 01/24/17 02/06/17 x
+SP MACERICH COMPANY CMN x 01/24/17 02/06/17 x
+SP THE SOUTHERN CO. CMN x 01/24/17 02/06/17 x
+SP HORMEL FOODS CORP CMN x 01/24/17 02/06/17 x
+SP TJX COMPANIES INC (NEW) CMN x 01/24/17 02/06/17 x
+SP DUKE ENERGY CORPORATION CMN x 01/24/17 02/06/17 x
+SP PHILLIPS 66 CMN x 01/24/17 02/06/17 x
+SP CHEVRON CORPORATION CMN x 01/24/17 02/06/17 x
+SP MEDTRONIC PUBLIC LIMITED COMPA CMN x 01/24/17 02/06/17 x
+SP DOMINION RESOURCES, INC. CMN x 01/24/17 02/06/17 x
+SP ABBOTT LABORATORIES CMN x 01/24/17 02/06/17 x
+SP ALLERGAN PLC CMN x 01/24/17 02/06/17 x
+SP EXPRESS SCRIPTS HOLDINGS CMN x 01/24/17 02/06/17 x
+SP THE HOME DEPOT, INC. CMN x 01/24/17 02/06/17 x
+SP VALERO ENERGY CORPORATION CMN x 01/24/17 02/06/17 x
+SP NIELSEN HLDGS PLC CMN x 01/24/17 02/06/17 x
+SP CONOCOPHILLIPS CMN x 01/24/17 02/06/17 x
+SP OCCIDENTAL PETROLEUM CORP CMN x 01/24/17 02/06/17 x
+SP COCA-COLA COMPANY (THE) CMN x 01/24/17 02/06/17 x
+SP MANHATTAN ASSOCIATES INC CMN x 01/24/17 02/06/17 x
+SP SCHLUMBERGER LTD CMN x 01/24/17 02/06/17 x
+SP SIMON PROPERTY GROUP INC CMN x 01/24/17 02/06/17 x
+SP WALGREENS BOOTS ALLIANCE, INC. CMN x 01/24/17 02/06/17 x
+SP JOHNSON CONTROLS INTERNATIONAL CMN x 01/24/17 02/06/17 x
+SP CVS HEALTH CORP CMN x 01/24/17 02/06/17 x
+SP ACCENTURE PLC CMN x 01/24/17 02/06/17 x
+SP COLGATE-PALMOLIVE CO CMN x 01/24/17 02/06/17 x
+SP JONES LANG LASALLE INC CMN x 01/24/17 02/06/17 x
+SP L BRANDS, INC. CMN x 01/24/17 02/06/17 x
+SP PERRIGO CO PLC CMN x 01/24/17 02/06/17 x
+SP AMGEN INC. CMN x 01/24/17 02/06/17 x
+SP WELLTOWER, INC. CMN x 01/24/17 02/06/17 x
+SP PEPSICO INC CMN x 01/24/17 02/06/17 x
+SP DISCOVERY COMMUNICATIONS, INC. CMN SERIES A x 01/26/17 02/06/17 x
+SP WPX ENERGY, INC. CMN x 01/26/17 02/06/17 x
+SP WPX ENERGY, INC. CMN x 01/27/17 02/06/17 x
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+$1,001- $15,000
+B
+$15,001- $50,000
+C
+$50,001- $100,000
+D
+$100,001- $250,000
+E
+$250,001- $500,000
+F
+$500,001- $1,000,000
+G
+$1,000,001- $5,000,000
+H
+$5,000,001- $25,000,000
+I
+$25,000,001- $50,000,000
+J
+Over $50,000,000
+K
+Over $1,000,000
+SP
+Allergan PLC
+X
+01/05/17
+01/23/17
+X
+SP
+American Tower
+X
+01/05/17
+01/23/17
+X
+M&R Trust Partnership
+
+--- PAGE 05 ---
+NAME: Rohit Khanna Page 5 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction In
+a Spouse or
+Dependent
+Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+over
+$1,000,000
+ARECO, LP
+SP
+Park Center Plaza Holdings LP
+X
+01/03/17
+01/23/17
+X

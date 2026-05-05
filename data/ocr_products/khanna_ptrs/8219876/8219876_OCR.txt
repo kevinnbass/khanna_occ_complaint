@@ -1,0 +1,1653 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8219876
+#   year          : 2023
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219876.pdf
+#   total_pages   : 13
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 10:21:45 UTC
+#   tokens_in     : 31,769
+#   tokens_out    : 59,640
+
+--- PAGE 01 ---
+Name: Rohit Khanna Page 1 of 13
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+HAND DELIVERED
+OFFICE TELEPHONE: 202-226-2831
+NAME: Rohit Khanna
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+2023 AUG -7 PM 2: 16
+LEGISLATIVE RESOURCE CENTER
+X Member of the U.S. House of Representatives
+State: CA District: 17
+File an original and 2 copies
+Officer or Employee
+Employing Office:
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "Yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X
+Initial Report Amendment
+Date of Report Being Amended: ____________________
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+A B C D E F G H I J K
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY) (MM/DD/YY)
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT Example: Mega Corp, Common Stock X 02/05/016 03/07/16 X
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Ro Khanna Page 2 of 13
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in
+SP/DC/JT
+Provide full name, not ticker symbol
+Purchase
+Sale
+Exchange
+Capital gains exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Spouse or
+Dependent
+Child Asset
+over
+$1,000
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+over $1,000,000
+DC UBER TECHNOLOGIES INC
+X
+X
+X
+07/17/23 08/01/23
+X
+DC AUTODESK INC DELAWARE
+X
+X
+X
+07/17/23 08/01/23
+X
+DC UNITEDHEALTH GP INC
+X
+X
+X
+07/18/23 08/01/23
+X
+DC VERISK ANALYTICS INC COM
+X
+X
+X
+07/21/23 08/01/23
+X
+DC UBER TECHNOLOGIES INC
+X
+X
+X
+07/21/23 08/01/23
+X
+DC AUTODESK INC DELAWARE
+X
+X
+X
+07/27/23 08/01/23
+X
+DC AUTODESK INC DELAWARE
+X
+X
+X
+07/27/23 08/01/23
+X
+
+--- PAGE 03 ---
+Periodic Transaction Report Page 3 of 13
+Full Asset Name
+Type of Transaction
+Capital Gains > $200
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child/Asset
+Monte and Usha Ahuja 2020 Irrev Trust FBO
+Grandchildren
+Hedge Fund Select: ELT Associates LLC
+DC Commitment
+x
+07/01/23
+08/01/23
+x
+DC ACCENTURE PLC CMN CLASS A
+x
+07/07/23
+08/01/23
+x
+DC INTUITIVE SURGICAL, INC. CMN
+x
+07/07/23
+08/01/23
+x
+DISCOVER FINANCIAL SERVICES HYBRID
+DC PERPETUAL USD
+x
+07/03/23
+08/01/23
+x
+ALLSTATE CORPORATION COMMON
+DC STOCK
+x
+07/13/23
+08/01/23
+x
+SBA COMMUNICATIONS
+DC CORPORATION CMN
+x
+07/17/23
+08/01/23
+x
+WELLS FARGO & COMPANY HYBRID
+DC PERPETUAL
+x
+07/17/23
+08/01/23
+x
+SEMPRA ENERGY HYBRID PERPETUAL
+DC USD
+x
+07/03/23
+08/01/23
+x
+DC CATERPILLAR INC (DELAWARE) CMN
+x
+07/07/23
+08/01/23
+x
+DC MORGAN STANLEY CMN
+x
+07/07/23
+08/01/23
+x
+M&T BANK CORPORATION HYBRID
+DC PERPETUAL
+x
+07/06/23
+08/01/23
+x
+ALLSTATE CORPORATION COMMON
+DC STOCK
+x
+07/14/23
+08/01/23
+x
+CALL/ODFL FLEX EURO PM 340 EXP
+DC 07/07/2023
+x
+07/07/23
+08/01/23
+x
+CALL/MRVL FLEX EURO PM 48 EXP
+DC 07/07/2023
+x
+07/07/23
+08/01/23
+x
+DC WALT DISNEY COMPANY (THE) CMN
+x
+07/07/23
+08/01/23
+x
+DC DANAHER CORPORATION CMN
+x
+07/07/23
+08/01/23
+x
+DC MICROSOFT CORPORATION CMN
+x
+x
+07/18/23
+08/01/23
+x
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 13
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+$1,000,000
+DC MICROSOFT CORPORATION CMN
+x
+x
+x
+07/14/23
+08/01/23
+x
+DC OLD DOMINION FREIGHT LINE, INC
+x
+x
+x
+07/07/23
+08/01/23
+x
+DC CMN
+x
+07/28/23
+08/01/23
+x
+DC PHINIA INC. CMN
+x
+07/07/23
+08/01/23
+x
+DC LINDE PLC CMN
+x
+07/28/23
+08/01/23
+x
+Ahuja Grandchildren's Education Trust
+DC BAXTER INTERNATIONAL INC CMN
+x
+07/31/23
+08/01/23
+x
+DC BAXTER INTERNATIONAL INC CMN
+x
+07/13/23
+08/01/23
+x
+ALLSTATE CORPORATION COMMON
+DC STOCK
+x
+07/28/23
+08/01/23
+x
+WALGREENS BOOTS ALLIANCE, INC.
+DC CMN
+x
+07/18/23
+08/01/23
+x
+DC URBAN OUTFITTERS INC CMN
+x
+07/12/23
+08/01/23
+x
+DC AXALTA COATING SYSTEMS LTD. CMN
+x
+07/21/23
+08/01/23
+x
+DC AXALTA COATING SYSTEMS LTD. CMN
+x
+07/05/23
+08/01/23
+x
+Ahuja Khanna Children Irrevocable Trust
+BANK OF NEW YORK MELLON CORPOR
+DC HYBRID MTN 10/25/2028 USD
+x
+07/05/23
+08/01/23
+x
+VERIZON COMMUNICATIONS, INC.
+DC 4.329% 09/21/2028 USD
+x
+07/28/23
+08/01/23
+x
+DC T-MOBILE US, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC ABBVIE INC CMN
+x
+07/28/23
+08/01/23
+x
+DC INTUIT INC CMN
+x
+07/20/23
+08/01/23
+x
+
+--- PAGE 05 ---
+NAME: Keith Ellison Page 5 of 13
+Full Asset Name
+Type of Transaction
+Capitial Gains > $200?
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+$1,000 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+DC TRANE TECHNOLOGIES PUBLIC LIMI CMN
+x
+07/28/23
+08/01/23
+x
+DC STATE STREET CORPORATION HYBRID 12/03/2029 USD
+x
+07/05/23
+08/01/23
+x
+DC REALTY INCOME CORP 3.1% 12/15/2029 USD
+x
+07/05/23
+08/01/23
+x
+DC DOLLAR GENERAL CORPORATION CMN
+x
+07/28/23
+08/01/23
+x
+DC INTUIT INC CMN
+x
+07/28/23
+08/01/23
+x
+DC AUTOZONE, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC VERIZON COMMUNICATIONS, INC. CMN
+x
+07/20/23
+08/01/23
+x
+DC TRUIST FINANCIAL CORPORATION CMN
+x
+07/28/23
+08/01/23
+x
+DC TRACTOR SUPPLY COMPANY CMN
+x
+07/28/23
+08/01/23
+x
+DC DEERE & COMPANY CMN
+x
+07/28/23
+08/01/23
+x
+DC QUANTA SERVICES INC CMN
+x
+07/28/23
+08/01/23
+x
+DC AMAZON.COM INC CMN
+x
+07/28/23
+08/01/23
+x
+DC JPMORGAN CHASE & CO. HYBRID 02/24/2028 USD
+x
+07/05/23
+08/01/23
+x
+DC BLK CMN
+x
+07/28/23
+08/01/23
+x
+DC ESTEE LAUDER COS INC CL-A CMN CLASS A
+x
+07/28/23
+08/01/23
+x
+DC AMERIPRISE FINANCIAL, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC INTUITIVE SURGICAL, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC COSTCO WHOLESALE CORPORATION
+x
+07/28/23
+08/01/23
+x
+
+--- PAGE 06 ---
+NAME: Ro Khanna Page 6 of 13
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Capital Gains Exceed $200
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+Purchase
+Sale
+Exchange
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+DC ILLUMINA, INC CMN
+x
+07/28/23
+08/01/23
+x
+DC TESLA, INC. CMN
+x
+07/20/23
+08/01/23
+x
+DC QUALCOMM INC CMN
+x
+07/28/23
+08/01/23
+x
+DC CINTAS CORPORATION CMN
+x
+07/28/23
+08/01/23
+x
+DC CBRE GROUP, INC. CMN CLASS A
+x
+07/28/23
+08/01/23
+x
+DC KEYCORP CMN
+x
+07/20/23
+08/01/23
+x
+DC QUALCOMM INC CMN
+x
+07/20/23
+08/01/23
+x
+DC U.S. BANCORP CMN
+x
+07/28/23
+08/01/23
+x
+DC LOWES COMPANIES INC CMN
+x
+07/28/23
+08/01/23
+x
+DC GENUINE PARTS CO. CMN
+x
+07/28/23
+08/01/23
+x
+DC AT&T INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC NEWMONT CORP CMN
+x
+07/28/23
+08/01/23
+x
+DC CITIZENS FINANCIAL GROUP, INC. CMN
+x
+07/20/23
+08/01/23
+x
+DC EPAM SYSTEMS, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC ENPHASE ENERGY, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC ULTA BEAUTY INC CMN
+x
+07/28/23
+08/01/23
+x
+DC COPART INC CMN
+x
+07/28/23
+08/01/23
+x
+DC AMPHENOL CORP CL-A (NEW) CMN
+x
+07/28/23
+08/01/23
+x
+
+--- PAGE 07 ---
+NAME: Rohit Khanna Page 7 of 13
+Full Asset Name
+Type of Transaction
+Capitial
+Gains
+Date of Transaction
+Date Notified of
+Transaction
+Amount of Transaction
+Transactions in
+a Spouse's
+Owned
+Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+$200
+Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Over
+$1,000
+$1,001-
+$15,001-
+$50,001-
+$100,001-
+$250,001-
+$500,001-
+$1,000,001-
+$5,000,001-
+$25,000,001-
+$50,000,001-
+Over
+$15,000
+$50,000
+$100,000
+$250,000
+$500,000
+$1,000,000
+$5,000,000
+$25,000,000
+$50,000,000
+$1,000,000
+DC PAYPAL HOLDINGS, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC VICI PROPERTIES INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC CROWN CASTLE INTL. CORP CMN
+x
+07/28/23
+08/01/23
+x
+SBA COMMUNICATIONS
+CORPORATION CMN
+x
+07/20/23
+08/01/23
+x
+ARCHER-DANIELS-MIDLAND COMPANY
+CMN
+x
+07/28/23
+08/01/23
+x
+DC CROWN CASTLE INTL. CORP CMN
+x
+07/20/23
+08/01/23
+x
+DC GARMIN LTD CMN
+x
+07/28/23
+08/01/23
+x
+DC S&P GLOBAL INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC ALPHABET INC. CMN CLASS A
+x
+07/28/23
+08/01/23
+x
+CHARTER COMMUNICATIONS, INC.
+CMN
+x
+07/20/23
+08/01/23
+x
+DC USD
+x
+07/05/23
+08/01/23
+x
+DC ALIGN TECHNOLOGY, INC CMN
+CITIGROUP INC. HYBRID 07/24/2028
+x
+07/20/23
+08/01/23
+x
+DC BANK OF AMERICA CORP CMN
+x
+07/20/23
+08/01/23
+x
+DC DANAHER CORPORATION CMN
+x
+07/28/23
+08/01/23
+x
+DC WALT DISNEY COMPANY (THE) CMN
+x
+07/20/23
+08/01/23
+x
+DC FORTINET, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC DOLLAR TREE STORES, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC MC DONALDS CORP CMN
+x
+07/28/23
+08/01/23
+x
+
+--- PAGE 08 ---
+PAGE 8 of 13
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+SP/DC/JT
+Purchase
+Sale
+Exchange
+Cap. Gains > $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in Spouse or Dependent Child Asset
+DC
+GENERAL MOTORS COMPANY CMN
+x
+x
+07/20/23
+08/01/23
+x
+DC
+THE HOME DEPOT, INC. CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+BRISTOL-MYERS SQUIBB COMPANY
+x
+x
+07/28/23
+08/01/23
+x
+DC
+CMN
+DC
+D.R. HORTON, INC. CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+TARGET CORPORATION CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+THE HERSHEY COMPANY CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+UNITED RENTALS, INC. CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+CARRIER GLOBAL CORPORATION CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+THERMO FISHER SCIENTIFIC INC CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+EDWARDS LIFESCIENCES CORPORATI
+x
+x
+07/28/23
+08/01/23
+x
+DC
+CMN
+DC
+SIMON PROPERTY GROUP INC CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+EXTRA SPACE STORAGE INC. CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+ALBEMARLE CORP CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+EQUIFAX INC. CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+PFIZER INC. CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+MICROSOFT CORPORATION CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC
+REGENERON PHARMACEUTICAL INC
+x
+x
+07/28/23
+08/01/23
+x
+DC
+CMN
+DC
+NIKE CLASS-B CMN CLASS B
+x
+x
+07/28/23
+08/01/23
+x
+
+--- PAGE 09 ---
+NAME: Rohit Khanna Page 9 of 13
+Full Asset Name
+Type of Transaction
+Capital Gains
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in Spouse or Dependent Child Asset
+SP/JT
+Purchase
+Sale
+Exchange
+> $200
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+DC CONAGRA BRANDS INC CMN
+x
+07/28/23
+08/01/23
+x
+DC ORGANON & CO CMN
+x
+x
+x
+07/28/23
+08/01/23
+x
+DC CLOROX CO (THE) (DELAWARE) CMN
+x
+x
+x
+07/28/23
+08/01/23
+x
+DC INSULET CORPORATION CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC PALO ALTO NETWORKS INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC CORTEVA, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC LAMB WESTON HOLDINGS, INC. CMN
+x
+07/28/23
+08/01/23
+x
+DC HOLOGIC INCORPORATED CMN
+x
+x
+07/28/23
+08/01/23
+x
+GE HEALTHCARE TECHNOLOGIES INC
+DC CMN
+x
+07/28/23
+08/01/23
+x
+DC MODERNA, INC. CMN
+x
+x
+07/28/23
+08/01/23
+x
+MONSTER BEVERAGE CORPORATION
+DC CMN
+x
+07/28/23
+08/01/23
+x
+DC MGM RESORTS INTERNATIONAL CMN
+x
+x
+07/28/23
+08/01/23
+x
+DC WORKDAY, INC. CMN CLASS A
+x
+x
+07/28/23
+08/01/23
+x
+STATE STREET CORPORATION (NEW)
+DC CMN
+x
+x
+07/28/23
+08/01/23
+x
+Ritu Ahuja Declaration of Trust
+SP RALEIGH N C LTD OBLIG REV 1.9640%
+x
+10/01/30 AO
+07/05/23
+08/01/23
+x
+Ritu Ahuja 1994 Trust
+
+--- PAGE 10 ---
+NAME: Ro, Khanna Page 10 of 13
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+mm/dd/yy
+mm/dd/yy
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP
+BAXTER INTERNATIONAL INC CMN
+x
+07/28/23
+08/01/23
+x
+SP
+BAXTER INTERNATIONAL INC CMN
+x
+07/31/23
+08/01/23
+x
+SP
+MOHAWK INDUSTRIES INC COMMON STOCK
+x
+07/28/23
+08/01/23
+x
+SP
+SENSATA TECHNOLOGIES HOLDING P CMN
+x
+07/28/23
+08/01/23
+x
+SP
+ABB LTD SPONSORED ADR CMN
+x
+07/14/23
+08/01/23
+x
+SP
+MOHAWK INDUSTRIES INC COMMON STOCK
+x
+07/05/23
+08/01/23
+x
+SP
+TAIWAN SEMICONDUCTOR MFG ADS LTD ADS 1ADS EQUALS 5ORDS
+x
+07/14/23
+08/01/23
+x
+SP
+CALL/TSM FLEX EURO PM @ 93 EXP 07/14/2023
+x
+07/14/23
+08/01/23
+x
+SP
+CALL/STM FLEX EURO PM @ 47 EXP 07/14/2023
+x
+07/14/23
+08/01/23
+x
+SP
+PUT/XSP @ 421 EXP 09/15/2023
+x
+07/06/23
+08/01/23
+x
+SP
+PUT/XSP @ 445 EXP 09/08/2023
+x
+07/26/23
+08/01/23
+x
+SP
+PUT/XSP @ 439 EXP 09/29/2023
+x
+07/20/23
+08/01/23
+x
+SP
+PUT/XSP @ 432 EXP 08/25/2023
+x
+07/13/23
+08/01/23
+x
+SP
+WALGREENS BOOTS ALLIANCE, INC. CMN
+x
+07/28/23
+08/01/23
+x
+SP
+GENERAL MOTORS COMPANY CMN
+x
+07/19/23
+08/01/23
+x
+SP
+SENSATA TECHNOLOGIES HOLDING P CMN
+x
+07/19/23
+08/01/23
+x
+SP
+ELANCO ANIMAL HEALTH INCORPORA CMN
+x
+07/25/23
+08/01/23
+x
+SP
+URBAN OUTFITTERS INC CMN
+x
+x
+07/03/23
+08/01/23
+x
+
+--- PAGE 11 ---
+NAME: Ro Khanna Page 11 of 13
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Capital Gains Exceed $200
+Partial Transaction
+Purchase
+Sale
+Exchange
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction by a Spouse or Dependent Child Asset over $1,000,000
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+SP URBAN OUTFITTERS INC CMN
+x
+x
+x
+07/07/23
+08/01/23
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+x
+x
+07/18/23
+08/01/23
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+x
+x
+07/25/23
+08/01/23
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+x
+x
+07/21/23
+08/01/23
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+x
+x
+07/20/23
+08/01/23
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+x
+x
+07/28/23
+08/01/23
+x
+SP WALGREENS BOOTS ALLIANCE, INC. CMN
+x
+07/31/23
+08/01/23
+x
+SP ELANCO ANIMAL HEALTH INCORPORA CMN
+x
+07/27/23
+08/01/23
+x
+SP URBAN OUTFITTERS INC CMN
+x
+x
+x
+07/10/23
+08/01/23
+x
+SP URBAN OUTFITTERS INC CMN
+x
+x
+x
+07/18/23
+08/01/23
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+x
+x
+07/12/23
+08/01/23
+x
+SP AXALTA COATING SYSTEMS LTD. CMN
+x
+x
+x
+07/19/23
+08/01/23
+x
+Ritu Ahuja 1995 Trust
+SP BANK OF NEW YORK MELLON CORPOR HYBRID 04/26/2027
+x
+07/05/23
+08/01/23
+x
+SP AMERICAN EXPRESS COMPANY 5.85% 11/05/2027 USD
+x
+07/05/23
+08/01/23
+x
+SP MITSUBISHI UFJ FINANCIAL GROUP 4.05% 09/11/2028 USD
+x
+07/05/23
+08/01/23
+x
+SP AMGEN INC. 5.15% 03/02/2028 AON CORP/AON GLOBAL HOLD 2.85% 05/28/2027 USD
+x
+07/05/23
+08/01/23
+x
+
+--- PAGE 12 ---
+NAME: Rohit Khanna Page 12 of 13
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A ($1,001 - $15,000)
+B ($15,001 - $50,000)
+C ($50,001 - $100,000)
+D ($100,001 - $250,000)
+E ($250,001 - $500,000)
+F ($500,001 - $1,000,000)
+G ($1,000,001 - $5,000,000)
+H ($5,000,001 - $25,000,000)
+I ($25,000,001 - $50,000,000)
+J (Over $50,000,000)
+SP EBAY INC. 3.6% 06/05/2027 USD
+x
+07/05/23
+08/01/23
+x
+SP NASDAQ, INC. 5.35% 06/28/2028
+x
+07/05/23
+08/01/23
+x
+SP SIMON PROPERTY GROUP, L.P. 3.375%
+x
+07/05/23
+08/01/23
+x
+SP 12/01/2027 USD
+CITIGROUP INC. HYBRID 06/09/2027
+x
+07/05/23
+08/01/23
+x
+SP USD
+x
+07/05/23
+08/01/23
+x
+SP FISERV INC 5.45% 03/02/2028
+x
+07/05/23
+08/01/23
+x
+SP STATE STREET CORPORATION HYBRID
+x
+07/05/23
+08/01/23
+x
+SP 02/07/2028 USD
+CITIGROUP INC. HYBRID 07/24/2028
+x
+07/05/23
+08/01/23
+x
+SP USD
+x
+07/05/23
+08/01/23
+x
+SP BOSTON SCIENTIFIC CORP 3.45%
+x
+07/05/23
+08/01/23
+x
+SP 03/01/2024 USD
+WELLS FARGO & COMPANY HYBRID
+x
+07/17/23
+08/01/23
+x
+SP PERPETUAL
+ALLSTATE CORPORATION COMMON
+x
+07/13/23
+08/01/23
+x
+SP STOCK
+SBA COMMUNICATIONS
+x
+07/17/23
+08/01/23
+x
+SP CORPORATION CMN
+ALLSTATE CORPORATION COMMON
+x
+07/14/23
+08/01/23
+x
+SP STOCK
+PARAMOUNT GLOBAL HYBRID
+x
+07/13/23
+08/01/23
+x
+SP 03/30/2062 USD
+SP MICROSOFT CORPORATION CMN
+x
+x
+x
+07/18/23
+08/01/23
+x
+SP MICROSOFT CORPORATION CMN
+x
+x
+x
+07/14/23
+08/01/23
+x
+M & R TP Primary
+DC Hedge Fund Select: ELT Associates LLC
+x
+07/01/23
+08/01/23
+x
+DC Commitment
+TRAUST FINANCIAL CORPORATION
+x
+07/13/23
+08/01/23
+x
+DC HYBRID MTN 10/28/2026 USD
+
+--- PAGE 13 ---
+NAME: Rohit Khanna Page 13 of 13
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A $1,001- $15,000
+B $15,001- $50,000
+C $50,001- $100,000
+D $100,001- $250,000
+E $250,001- $500,000
+F $500,001- $1,000,000
+G $1,000,001- $5,000,000
+H $5,000,001- $25,000,000
+I $25,000,001- $50,000,000
+J Over $50,000,000
+K Transaction in a Spouse or Dependent Child Asset over $1,000,000
+DC
+DELL INTERNATIONAL L.L.C. 5.25% 02/01/2028
+x
+07/13/23
+08/01/23
+x
+DC
+FOX CORPORATION 4.709% 01/25/2029 USD
+x
+07/13/23
+08/01/23
+x
+DC
+NXP BV/NXP FUNDING LLC 5.55% 12/01/2028 USD
+x
+07/13/23
+08/01/23
+x
+DC
+MORGAN STANLEY HYBRID 12/10/2026 USD
+x
+07/13/23
+08/01/23
+x
+DC
+THE BANK OF NOVA SCOTIA 4.5% 12/16/2025 USD
+x
+07/06/23
+08/01/23
+x
+DC
+RELX CAPITAL INC 3.0% 05/22/2030 USD
+x
+07/13/23
+08/01/23
+x
+DC
+BAXTER INTERNATIONAL INC 2.272% 12/01/2028 USD
+x
+07/13/23
+08/01/23
+x
+DC
+T-MOBILE USA, INC. 3.375% 04/15/2029 USD
+x
+07/13/23
+08/01/23
+x
+DC
+SIMON PROPERTY GROUP, L.P. 3.375% 12/01/2027 USD
+x
+x
+07/13/23
+08/01/23
+x
+DC
+GENERAL MOTORS FINL CO 5.85% 04/06/2030
+x
+x
+07/13/23
+08/01/23
+x
+DC
+TORONTO-DOMINION BANK (THE) MTN 4.108% 06/08/2027 USD
+x
+x
+07/13/23
+08/01/23
+x
+DC
+AMGEN INC. 5.25% 03/02/2030
+x
+x
+07/13/23
+08/01/23
+x
+DC
+BANK OF AMERICA CORPORATION HYBRID MTN 07/23/2029 USD
+x
+x
+07/13/23
+08/01/23
+x
+DC
+BAT INTL FINANCE PLC 4.448% 03/16/2028 USD
+x
+x
+07/13/23
+08/01/23
+x

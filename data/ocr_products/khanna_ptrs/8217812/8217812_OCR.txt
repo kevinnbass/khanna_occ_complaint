@@ -1,0 +1,1073 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8217812
+#   year          : 2020
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217812.pdf
+#   total_pages   : 5
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:50:49 UTC
+#   tokens_in     : 8,708
+#   tokens_out    : 13,839
+
+--- PAGE 01 ---
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+X Member of the U.S. House of Representatives
+State: CA District: 17
+File an original and 2 copies
+Officer or Employee
+Employing Office:
+File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "Yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X Initial Report Amendment
+Date of Report Being Amended: _______________
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+$1,001-
+$15,000
+B
+$15,001-
+$50,000
+C
+$50,001-
+$100,000
+D
+$100,001-
+$250,000
+E
+$250,001-
+$500,000
+F
+$500,001-
+$1,000,000
+G
+$1,000,001-
+$5,000,000
+H
+$5,000,001-
+$25,000,00
+I
+$25,000,001-
+$50,000,000
+J
+Over
+$50,000,000
+K
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/016
+03/07/15
+X
+Please see the attached
+LEGISLATIVE RESOURCE CENTER
+2021 JAN 15 PM 12: 10
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+(For Official Use Only)
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+Name: Rohit Khanna Page 1 of 5
+POSTMARK ILLEGIBLE
+ML
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 5
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+Purchase
+Sale
+Exchange
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+M&M Trust Partnership
+SP
+GCI Liberty Inc., Class A (Exchange Out)
+X
+12/21/20
+01/07/21
+X
+SP
+Liberty Broadband Corp 5-C (Exchange In)
+X
+12/21/20
+01/07/21
+X
+
+--- PAGE 03 ---
+Periodic Transaction Report Page 3 of 5
+Full Asset Name
+Type of Transaction
+Capital Gain
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+Purchase
+Sale
+Exchange
+over $200
+Partial Sale
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,000- $15,001- $50,001- $100,001- $250,001- $500,001- $1,000,001- $5,000,001- $25,000,001- Over
+$15,000 $50,000 $100,000 $250,000 $500,000 $1,000,000 $5,000,000 $25,000,000 $50,000,000 $50,000,000
+SP AT&T INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+DC FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP TOMPKINS CTY NY DEV CORP REV 5.0000% 07/01/21 JJ
+x
+x
+12/14/20
+01/04/21
+x
+SP TIERA, INC. CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP FLORIDA ST DEPT TRANSN REV 5% 07/01/21 JJ
+x
+x
+12/03/20
+01/04/21
+x
+SP ANCHORAGE ALASKA GO 5.0000% 09/01/21 MS
+x
+x
+12/03/20
+01/04/21
+x
+SP PRATTVILLE ALA GO 5% 11/01/21 MN
+x
+x
+12/03/20
+01/04/21
+x
+SP CLACKAMAS CTY ORE SCH DIST NO 5% 06/15/21 JJ
+x
+x
+12/03/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+SP AT&T INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+SP WPP ENERGY INC. CMN
+x
+x
+12/15/20
+01/04/21
+x
+SP EXXON MOBIL CORPORATION CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP BOEING COMPANY CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP RAYTHEON TECHNOLOGIES CORPORATION CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP HALLIBURTON COMPANY CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP DUKE ENERGY CORPORATION CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP NEXTERA ENERGY, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP DOMINION ENERGY INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP ALPHABET INC. CMN CLASS A
+x
+x
+12/22/20
+01/04/21
+x
+SP AMERICAN ELECTRIC POWER INC CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP WEC ENERGY GROUP INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP VALERO ENERGY CORPORATION CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP GILEAD SCIENCES CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP NORTHROP GRUMMAN CORP CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP CHEVRON CORPORATION CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP CONOCOPHILLIPS CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP FACEBOOK, INC. CMN CLASS A
+x
+x
+12/22/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP EDISON INTERNATIONAL CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP GENERAL DYNAMICS CORPORATION CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP AVERY DENNISON CORPORATION CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP FIREEYE, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP PUBLIC SERVICE ENTERPRISE GROUP HOLDING CO
+x
+x
+12/22/20
+01/04/21
+x
+SP REGENERON PHARMACEUTICAL INC CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP CONSOLIDATED EDISON INC CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP SALESFORCE.COM, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP PPL CORPORATION CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP VIAVI, INC. CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP DEVON ENERGY CORPORATION (NEW) CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP LEIDOS TECHNOLOGIES INC CMN
+x
+x
+12/22/20
+01/04/21
+x
+SP BOEING COMPANY CMN
+x
+x
+12/22/20
+01/04/21
+x
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gain over $200
+Partial Sale
+MM/DD/YY
+MM/DD/YY
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+SP
+EOG RESOURCES INC CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+CABOT OIL & GAS CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+DANAHER CORPORATION CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP
+DIGITAL REALTY TRUST, INC. CMN
+x
+12/18/20
+01/04/21
+x
+SP
+CONSOLIDATED EDISON INC CMN
+x
+12/31/20
+01/04/21
+x
+SP
+ENTERGY CORPORATION CMN
+x
+12/31/20
+01/04/21
+x
+SP
+DOMINION ENERGY INC CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+NISOURCE INC. CMN
+x
+12/31/20
+01/04/21
+x
+SP
+CROWN CASTLE INTL CORP CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP
+PINNACLE WEST CAPITAL CORP CMN
+x
+12/31/20
+01/04/21
+x
+SP
+EQT CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+ROYAL GOLD, INC. CMN
+x
+12/18/20
+01/04/21
+x
+SP
+NRG ENERGY, INC. CMN
+x
+12/18/20
+01/04/21
+x
+SP
+AMERICAN WATER WORKS CO, INC. CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+THE HOME DEPOT, INC. CMN
+x
+x
+12/18/20
+01/04/21
+x
+Rita Ahuja 1995 Trust
+SP
+BREVARD CNTY FLA SCH BRD CTPS COPS 5% 07/01/21 J
+x
+12/07/20
+01/04/21
+x
+SP
+DURHAM CNTY N C INDL REV 4.0000% 02/01/21-CA FA
+x
+12/22/20
+01/04/21
+x
+SP
+MAINE ST GO 5% 06/01/21 JD
+x
+11/08/20
+01/04/21
+x
+SP
+OKLAHOMA ST WTR RES BRD ST LN REV 4% 10/01/21-CA AO
+x
+12/28/20
+01/04/21
+x
+SP
+ARKANSAS ST GO 5% 06/15/21 JD
+x
+12/15/20
+01/04/21
+x
+SP
+TAMPA BAY WTR FLA A REGL WTR REV 5% 10/01/21 AO
+x
+11/02/20
+01/04/21
+x
+SP
+TESLA, INC. CMN
+x
+12/18/20
+01/04/21
+x
+SP
+OHIO ST WTR DEV AUTH WTR REV 5.5000% 06/01/21 JD
+x
+12/15/20
+01/04/21
+x
+SP
+WASHQE CNTY NEV HWY REV 5% 02/01/21 FA
+x
+12/23/20
+01/04/21
+x
+SP
+GRAND RAPIDS MICH GO 5.0000% 05/01/21 MN
+x
+11/14/20
+01/04/21
+x
+SP
+ANN ARBOR MICH SCH DIST PUB GO 5% 05/01/21 MN
+x
+11/14/20
+01/04/21
+x
+SP
+RICHLAND CNTY S C SCH DIST NO GO 5% 05/01/21 MN
+x
+12/10/20
+01/04/21
+x
+SP
+VIRGINIA COMWLTH TRANSH BRD REV 5.0000% 05/15/21 MN
+x
+12/11/20
+01/04/21
+x
+SP
+OREGON ST GO 5% 05/01/21 MN
+x
+12/16/20
+01/04/21
+x
+SP
+VA COLLEGE REV 5% 02/01/21 FA
+x
+12/22/20
+01/04/21
+x
+SP
+LAS VEGAS VALLEY NEV WTR DIST DB 5.0000% 06/01/21 JD
+x
+11/21/20
+01/04/21
+x
+SP
+ST JOHNS CNTY FLA WTR & SWR REV 5% 06/01/21 JD
+x
+12/16/20
+01/04/21
+x
+SP
+HAWAII ST GO 5% 10/01/21 AO
+x
+12/22/20
+01/04/21
+x
+SP
+JEA FLA ELEC SYS REV REV 5% 10/01/21 AO
+x
+11/24/20
+01/04/21
+x
+SP
+CHEVRON CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+PPL CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+WEC ENERGY GROUP, INC. CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+LOCKHEED MARTIN CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+TRANSDIGM GROUP INCORPORATED CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+BOEING COMPANY CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+AMERICAN WATER WORKS CO, INC. CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+GILEAD SCIENCES CMN
+x
+x
+12/15/20
+01/04/21
+x
+SP
+EXXON MOBIL CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+ONEOK, INC CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+THE SOUTHERN CO. CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+VERIZON COMMUNICATIONS, INC. CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP
+CONOCOPHILLIPS CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+DUKE ENERGY CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+SEMPRA ENERGY CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+NORTHROP GRUMMAN CORP CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+EDISON INTERNATIONAL CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+AMERICAN ELECTRIC POWER INC CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+PUBLIC-SVC ENTERPRISE GROUP HOLDING CO
+x
+x
+12/31/20
+01/04/21
+x
+SP
+FACEBOOK, INC. CMN CLASS A
+x
+x
+12/18/20
+01/04/21
+x
+SP
+ENTERGY CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+LEIDOS HOLDINGS INC CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+EXELON CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+VALERO ENERGY CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+CONSOLIDATED EDISON INC CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP
+TEKTRON INC DEL CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+SALESFORCE.COM, INC CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP
+GENERAL DYNAMICS CORP. CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+HALLIBURTON COMPANY CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP
+MARATHON PETROLEUM CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+
+--- PAGE 05 ---
+NAME: Ro Khanna Page 5 of 5
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+SP/DC/JT
+Provide full name, not ticker symbol
+Purchase
+Sale
+Exchange
+Capital Gain over $200
+Partial Sale
+MM/DD/YY
+MM/DD/YY
+A $1,001 - $15,000
+B $15,001 - $50,000
+C $50,001 - $100,000
+D $100,001 - $250,000
+E $250,001 - $500,000
+F $500,001 - $1,000,000
+G $1,000,001 - $5,000,000
+H $5,000,001 - $25,000,000
+I $25,000,001 - $50,000,000
+J Over $50,000,000
+K Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP EQT CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP PROLOGIS INC CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP AMERICAN TOWER CORPORATION CMN
+x
+12/18/20
+01/04/21
+x
+SP PHILLIPS 66 CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP AMGEN INC. CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP LOWES COMPANIES INC CMN
+x
+12/18/20
+01/04/21
+x
+SP DOMINION ENERGY INC CMN
+x
+x
+12/18/20
+01/04/21
+x
+SP CONSOLIDATED EDISON INC CMN
+x
+x
+12/31/20
+01/04/21
+x
+SP ANTERO RESOURCES CORPORATION CMN
+x
+x
+12/31/20
+01/04/21
+x

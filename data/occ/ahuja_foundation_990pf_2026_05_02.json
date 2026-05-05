@@ -1,0 +1,137 @@
+{
+  "snapshot_target": "OCC_M027 (NVDA TY2024 10,076 shares) + OCC_M054 (Ritu Ahuja Khanna TRUSTEE 2018-2024) + OCC_M055 (TY2024 EoY FMV $45,102,055)",
+  "snapshot_taken_at": "2026-05-03T03:09:30.866824+00:00",
+  "snapshot_date": "2026_05_02",
+  "substrate_authoritative": "lake.irs_990_returns + lake.irs_990_officers + lake.irs_990_pf_noncash_donations + ro_khanna.ahuja_foundation_holdings (campaign-extracted from Ahuja Foundation 990-PF XML; carries the eoy_fmv per-holding scalar that does not appear cleanly in lake.irs_990_returns)",
+  "ein": "341685088",
+  "org_name": "The Ahuja Foundation",
+  "irs_990_returns": [
+    {
+      "tax_year": "2018",
+      "org_name": "The Ahuja Foundation",
+      "total_revenue": 3741096.0,
+      "total_assets_990": 19546188.0,
+      "net_assets_990": 19431188.0
+    },
+    {
+      "tax_year": "2019",
+      "org_name": "The Ahuja Foundation",
+      "total_revenue": 1964453.0,
+      "total_assets_990": 20600639.0,
+      "net_assets_990": 20595639.0
+    },
+    {
+      "tax_year": "2020",
+      "org_name": "The Ahuja Foundation",
+      "total_revenue": 2238437.0,
+      "total_assets_990": 22179403.0,
+      "net_assets_990": 22066903.0
+    },
+    {
+      "tax_year": "2021",
+      "org_name": "The Ahuja Foundation",
+      "total_revenue": 21491529.0,
+      "total_assets_990": 41277657.0,
+      "net_assets_990": 41252507.0
+    },
+    {
+      "tax_year": "2021",
+      "org_name": "The Ahuja Foundation",
+      "total_revenue": 21491529.0,
+      "total_assets_990": 33316551.0,
+      "net_assets_990": 33291401.0
+    },
+    {
+      "tax_year": "2022",
+      "org_name": "THE AHUJA FOUNDATION",
+      "total_revenue": 4635186.0,
+      "total_assets_990": 34973504.0,
+      "net_assets_990": 34875471.0
+    },
+    {
+      "tax_year": "2023",
+      "org_name": "THE AHUJA FOUNDATION",
+      "total_revenue": 4141273.0,
+      "total_assets_990": 37384981.0,
+      "net_assets_990": 37384981.0
+    },
+    {
+      "tax_year": "2024",
+      "org_name": "THE AHUJA FOUNDATION",
+      "total_revenue": 12084890.0,
+      "total_assets_990": 47274958.0,
+      "net_assets_990": 47023958.0
+    }
+  ],
+  "ritu_ahuja_khanna_trustee_years": [
+    {
+      "tax_year": "2018",
+      "officer_name": "RITU AHUJA KHANNA",
+      "officer_title": "TRUSTEE"
+    },
+    {
+      "tax_year": "2019",
+      "officer_name": "RITU AHUJA KHANNA",
+      "officer_title": "TRUSTEE"
+    },
+    {
+      "tax_year": "2020",
+      "officer_name": "RITU AHUJA KHANNA",
+      "officer_title": "TRUSTEE"
+    },
+    {
+      "tax_year": "2021",
+      "officer_name": "RITU AHUJA KHANNA",
+      "officer_title": "TRUSTEE"
+    },
+    {
+      "tax_year": "2021",
+      "officer_name": "RITU AHUJA KHANNA",
+      "officer_title": "TRUSTEE"
+    },
+    {
+      "tax_year": "2022",
+      "officer_name": "RITU AHUJA KHANNA",
+      "officer_title": "TRUSTEE"
+    },
+    {
+      "tax_year": "2023",
+      "officer_name": "RITU AHUJA KHANNA",
+      "officer_title": "TRUSTEE"
+    },
+    {
+      "tax_year": "2024",
+      "officer_name": "RITU AHUJA KHANNA",
+      "officer_title": "TRUSTEE"
+    }
+  ],
+  "nvda_ty2024": {
+    "rows": [
+      {
+        "tax_year": "2024",
+        "contributor_name": "MONTE USHA AHUJA FAMILY TRUST",
+        "issuer_name": "NVIDIA CORP",
+        "shares": 7255.0,
+        "fmv": 1281249.0
+      },
+      {
+        "tax_year": "2024",
+        "contributor_name": "RITU AHUJA KHANNA",
+        "issuer_name": "NVIDIA CORP",
+        "shares": 2821.0,
+        "fmv": 386096.0
+      }
+    ],
+    "total_shares": 10076.0,
+    "total_fmv": 1667345.0
+  },
+  "eoy_fmv_ty2024": {
+    "tax_year": 2024,
+    "n_holdings": 30,
+    "sum_eoy_fmv": 45102055.0,
+    "sum_book_value": 35621181.0
+  },
+  "verifier_kinds_supported": [
+    "irs_990_resolve (OCC_M027 / OCC_M054 / OCC_M055)"
+  ]
+}

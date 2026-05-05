@@ -1,0 +1,788 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8217653
+#   year          : 2020
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217653.pdf
+#   total_pages   : 6
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:48:59 UTC
+#   tokens_in     : 14,928
+#   tokens_out    : 14,433
+
+--- PAGE 01 ---
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+Name: Rohit Khanna Page 1 of 6
+NAME: Rohit Khanna
+OFFICE TELEPHONE: 202-225-2631
+LEGISLATIVE RESOURCE CENTER
+2028 SEP 18 AM 10: 27
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+X Member of the U.S. House of Representatives
+State: CA District: 17
+File an original and 2 copies
+Officer or Employee
+Employing Officer: MC
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committees on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X
+Initial Report Amendment
+Date of Report Being Amended:
+SEP 09 2020
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP
+DC
+JT
+JT Example: Mega Corp. Common Stock X 02/05/015 03/07/15 X
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+Please see the attached
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+over $1,000,000
+SP
+M&R Trust Partnership
+SP
+ILLUMINA INC
+X
+08/19/20
+09/01/20
+X
+SP
+BRIGHT HORIZONS FAMILY SOLUT
+X
+08/26/20
+09/01/20
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 6
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP
+ILLUMINA INC
+X
+08/13/20
+09/01/20
+X
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+over $1,000,000
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/IT
+Provide full name, not ticker symbol
+Purchase
+Sale
+Exchange
+Capital Gain over $200
+Partial Sale
+MM/DD/YY
+MM/DD/YY
+$1,000- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+Meeta and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+DC AT&T INC. CMN
+x
+08/25/20
+09/01/20
+x
+DC WESTINGHOUSE AIR BRAKE TECHNOL CMN
+x
+08/05/20
+09/01/20
+x
+DC MICRON TECHNOLOGY, INC. CMN
+x
+08/19/20
+09/01/20
+x
+DC AT&T INC. CMN
+x
+08/27/20
+09/01/20
+x
+DC AT&T INC. CMN
+x
+08/27/20
+09/01/20
+x
+DC AT&T INC. CMN
+x
+08/28/20
+09/01/20
+x
+DC AT&T INC. CMN
+x
+08/31/20
+09/01/20
+x
+DC AT&T INC. CMN
+x
+08/26/20
+09/01/20
+x
+DC LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+08/14/20
+09/01/20
+x
+DC FEDEX CORPORATION CMN
+x
+x
+x
+08/18/20
+09/01/20
+x
+DC ALBEMARLE CORP CMN
+x
+x
+x
+08/10/20
+09/01/20
+x
+DC URBAN OUTFITTERS INC CMN
+x
+x
+x
+08/14/20
+09/01/20
+x
+DC HANESBRANDS INC. CMN
+x
+x
+x
+08/17/20
+09/01/20
+x
+Ritu Ahuja Descendants Trust
+SP CHIPPEWA VALLEY MICH SCHS GD 1.4290% 05/01/28 MN
+x
+08/26/20
+09/01/20
+x
+Ritu Ahuja 1994 Trust
+SP PENNSYLVANIA ST HIGHER ED REV 5% 06/15/21-CA JD
+x
+08/24/20
+09/01/20
+x
+SP WHATCOM CNTY WASH SCH DIST NO GO 5% 12/01/20 JD
+x
+08/20/20
+09/01/20
+x
+SP SOUTH-WESTERN CITY SCH DIST GO 4.0000% 12/01/20 JD
+x
+08/27/20
+09/01/20
+x
+SP TULSA CNTY OKLA INDPT 4 BIXBY GO 2.0000% 06/01/21 JD
+x
+08/05/20
+09/01/20
+x
+SP AT&T INC. CMN
+x
+08/25/20
+09/01/20
+x
+SP HAYS CNTY TEX DB 3% 02/15/21 FA
+x
+08/14/20
+09/01/20
+x
+SP AT&T INC. CMN
+x
+08/28/20
+09/01/20
+x
+SP MERCK & CO., INC. CMN
+x
+08/03/20
+09/01/20
+x
+SP WESTINGHOUSE AIR BRAKE TECHNOL CMN
+x
+08/27/20
+09/01/20
+x
+SP WESTINGHOUSE AIR BRAKE TECHNOL CMN
+x
+08/04/20
+09/01/20
+x
+SP AT&T INC. CMN
+x
+08/27/20
+09/01/20
+x
+SP AT&T INC. CMN
+x
+08/27/20
+09/01/20
+x
+SP AT&T INC. CMN
+x
+08/27/20
+09/01/20
+x
+SP AT&T INC. CMN
+x
+08/28/20
+09/01/20
+x
+SP AT&T INC. CMN
+x
+08/31/20
+09/01/20
+x
+SP MICRON TECHNOLOGY, INC. CMN
+x
+08/19/20
+09/01/20
+x
+SP STARBUCKS CORP. CMN
+x
+08/24/20
+09/01/20
+x
+SP STARBUCKS CORP. CMN
+x
+08/07/20
+09/01/20
+x
+SP WESTINGHOUSE AIR BRAKE TECHNOL CMN
+x
+08/21/20
+09/01/20
+x
+SP WESTINGHOUSE AIR BRAKE TECHNOL CMN
+x
+08/05/20
+09/01/20
+x
+SP ENERGY NORTHWEST REV 5.0000% 07/01/21 J
+x
+08/11/20
+09/01/20
+x
+SP LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+08/07/20
+09/01/20
+x
+SP MICRON TECHNOLOGY, INC. CMN
+x
+08/24/20
+09/01/20
+x
+SP LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+08/14/20
+09/01/20
+x
+SP LIONS GATE ENTERTAINMENT CORP. CMN CLASS B
+x
+08/27/20
+09/01/20
+x
+SP FEDEX CORPORATION CMN
+x
+x
+x
+08/13/20
+09/01/20
+x
+SP URBAN OUTFITTERS INC CMN
+x
+x
+x
+08/14/20
+09/01/20
+x
+SP HANESBRANDS INC. CMN
+x
+x
+x
+08/17/20
+09/01/20
+x
+SP FEDEX CORPORATION CMN
+x
+x
+x
+08/13/20
+09/01/20
+x
+SP URBAN OUTFITTERS INC CMN
+x
+x
+x
+08/28/20
+09/01/20
+x
+SP ALBEMARLE CORP CMN
+x
+x
+x
+08/10/20
+09/01/20
+x
+SP ALBEMARLE CORP CMN
+x
+x
+x
+08/10/20
+09/01/20
+x
+SP URBAN OUTFITTERS INC CMN
+x
+x
+x
+08/14/20
+09/01/20
+x
+SP HANESBRANDS INC. CMN
+x
+x
+x
+08/17/20
+09/01/20
+x
+SP URBAN OUTFITTERS INC CMN
+x
+x
+x
+08/25/20
+09/01/20
+x
+SP URBAN OUTFITTERS INC CMN
+x
+x
+x
+08/11/20
+09/01/20
+x
+SP HANESBRANDS INC. CMN
+x
+x
+x
+08/24/20
+09/01/20
+x
+SP FEDEX CORPORATION CMN
+x
+x
+x
+08/26/20
+09/01/20
+x
+Ritu Ahuja 1995 Trust
+SP TEXAS ST REV 4.0000% 08/26/21 FA
+x
+08/19/20
+09/01/20
+x
+SP JACKSON CNTY ORE SCH DIST NO GO 5% 12/15/20 JD
+x
+08/27/20
+09/01/20
+x
+SP AUBURN N Y GO 1.5000% 08/18/21 FA
+x
+08/14/20
+09/01/20
+x
+SP NEVADA SYS HIGHER ED UNIVS REV 5% 07/01/21 J
+x
+08/14/20
+09/01/20
+x
+SP FLORIDA ST TPK AUTH TPK REV 5% 07/01/21 J
+x
+08/12/20
+09/01/20
+x
+SP WASHINGTON ST GO 5% 07/01/21 J
+x
+08/20/20
+09/01/20
+x
+SP WISCONSIN (STATE OF) GO 5.0000% 05/01/21 MN
+x
+08/12/20
+09/01/20
+x
+SP CATAWBA CNTY N C LTD OBLIG REV 4.0000% 06/01/21 JD
+x
+08/07/20
+09/01/20
+x
+
+--- PAGE 05 ---
+NAME: Ro Khanna Page 5 of 6
+SP/DC/JT
+Full Asset Name
+Type of Transaction
+Purchase
+Sale
+Exchange
+Capital Gain
+over $200
+Date of
+Transaction
+Date Notified of
+Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in a Spouse or
+Dependent
+Child asset
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+$1,000,000
+SP
+ALVIN TEX INDPT SCH DIST ED 5% 02/15/21 FA
+x
+04/21/20
+05/01/20
+x
+SP
+WASH TRNSN CRT ARCH 2% 07/01/21 LI
+x
+04/21/20
+05/01/20
+x
+SP
+PULASKI CTY ARK SCH DIST ED 3% 02/01/27 FA
+x
+04/21/20
+05/01/20
+x
+SP
+BAKERSFIELD RENEWABLE CORP CMN
+x
+04/21/20
+05/01/20
+x
+SP
+ATLANTICA SUSTAINABLE INFRASTR CMN
+x
+04/21/20
+05/01/20
+x
+SP
+TARGA RESOURCES CORP. CMN
+x
+04/21/20
+05/01/20
+x
+SP
+ONEOK INC. CMN
+x
+04/21/20
+05/01/20
+x
+SP
+ONEOK INC. CMN
+x
+04/21/20
+05/01/20
+x
+SP
+NEXTERA ENERGY PARTNERS, LP CMN
+x
+04/21/20
+05/01/20
+x
+SP
+TARGA RESOURCES CORP. CMN
+x
+04/21/20
+05/01/20
+x
+SP
+ENTERPRISE PRODUCTS PART LP CMN
+x
+04/21/20
+05/01/20
+x
+SP
+MAGELLAN MIDSTREAM PARTNERS, L.P. CMN
+x
+04/21/20
+05/01/20
+x
+SP
+KINDER MORGAN INC CMN CLASS P
+x
+04/21/20
+05/01/20
+x
+SP
+KINDER MORGAN INC CMN CLASS P
+x
+04/21/20
+05/01/20
+x
+SP
+KINDER MORGAN INC CMN CLASS P
+x
+04/21/20
+05/01/20
+x
+SP
+PLAINS GP HOLDINGS, L.P. CMN
+x
+04/21/20
+05/01/20
+x
+SP
+KINDER MORGAN INC CMN CLASS P
+x
+04/21/20
+05/01/20
+x
+SP
+KINDER MORGAN INC CMN CLASS P
+x
+04/21/20
+05/01/20
+x
+SP
+KINDER MORGAN INC CMN CLASS P
+x
+04/21/20
+05/01/20
+x
+SP
+KINDER MORGAN INC CMN CLASS P
+x
+04/21/20
+05/01/20
+x
+
+--- PAGE 06 ---
+NAME: Rohit Khanna
+Page 6 of 6
+Full Asset Name
+SP/DC/JT
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+$1,001 - $15,000
+B
+$15,001 - $50,000
+C
+$50,001 - $100,000
+D
+$100,001 - $250,000
+E
+$250,001 - $500,000
+F
+$500,001 - $1,000,000
+G
+$1,000,001 - $5,000,000
+H
+$5,000,001 - $25,000,000
+I
+$25,000,001 - $50,000,000
+J
+Over $50,000,000
+K
+Over $1,000,000
+DC
+Grandchildren's Trust (ASK Partners, LLC)
+x
+07/24/20
+08/07/20
+x
+DC
+Transtar/Speedstar Holding Company
+x

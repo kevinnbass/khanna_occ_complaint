@@ -1,0 +1,3071 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8221124
+#   year          : 2025
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221124.pdf
+#   total_pages   : 26
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 10:35:19 UTC
+#   tokens_in     : 60,546
+#   tokens_out    : 47,418
+
+--- PAGE 01 ---
+HAND DELIVERED
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+Name: Rohit Khanna Page 1 of 26
+LEGISLATIVE RESOURCE CENTER
+2025 JUN 10 PM 1:38
+OFFICE TELEPHONE: 202-225-2631
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+NAME: Rohit Khanna
+OFFICE OR EMPLOYEE
+MC
+X Member of the U.S. House of Representatives
+Employing Officer: ________________________
+(For Official Use Only)
+State: CA District: 17
+File an original and 2 copies
+File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an initial
+Public Offering?
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending. X
+Initial Report Amendment
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+Date of Report Being Amended: ________________________
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP
+DC
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/16
+03/07/16
+$1,001-
+$15,000
+X
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,00
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+Please see the attached
+
+--- PAGE 02 ---
+SCHEDULE: Periodic Transaction Report
+Page 2 of 26
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in Spouse or Child Asset
+Purchase
+Sale
+Exchange
+Capital Gains > $200
+Partial
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+MURA Holdings
+Ritu Ahuja 1994 Trust
+SP
+APOLLO GLOBAL MGMT INC COM
+x
+05/09/25
+05/08/25
+x
+SP
+CHEVRON CORP NEW COM
+x
+05/09/25
+05/08/25
+x
+SP
+MERCK & CO. INC. COM
+x
+05/09/25
+05/08/25
+x
+SP
+EXXON MOBIL CORP COM
+x
+05/09/25
+05/08/25
+x
+SP
+HOME DEPOT INC
+x
+05/09/25
+05/08/25
+x
+SP
+JOHNSON & JOHNSON COM
+x
+05/09/25
+05/08/25
+x
+SP
+NIPPON TEL & TEL CORP SPON ADR EACH REP
+25 ORD SHS
+x
+05/09/25
+05/08/25
+x
+MURA Holdings
+Monte and Usha Ahuja 2020 Irrev Trust FBO
+Grandchildren
+DC
+APOLLO GLOBAL MGMT INC COM
+x
+05/09/25
+05/08/25
+x
+DC
+CHEVRON CORP NEW COM
+x
+05/09/25
+05/08/25
+x
+DC
+MERCK & CO. INC. COM
+x
+05/09/25
+05/08/25
+x
+DC
+EXXON MOBIL CORP COM
+x
+05/09/25
+05/08/25
+x
+DC
+HOME DEPOT INC
+x
+05/09/25
+05/08/25
+x
+DC
+JOHNSON & JOHNSON COM
+x
+05/09/25
+05/08/25
+x
+DC
+NIPPON TEL & TEL CORP SPON ADR EACH REP
+25 ORD SHS
+x
+05/09/25
+05/08/25
+x
+MURA Holdings
+2020 Trust FBO Khanna Children
+DC
+APOLLO GLOBAL MGMT INC COM
+x
+05/09/25
+05/08/25
+x
+
+--- PAGE 03 ---
+NAME: Healthhouse Page 3 of 26
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction is
+a Spouse or
+Dependent
+Child Asset
+Purchase
+Sale
+Exchange
+Capital
+Gains
+Partial
+Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+MURA Holdings
+$1,001 -
+$15,001 -
+$50,001 -
+$100,001 -
+$250,001 -
+$500,001 -
+$1,000,001 -
+$5,000,001 -
+$25,000,001 -
+Over
+$15,000
+$50,000
+$100,000
+$250,000
+$500,000
+$1,000,000
+$5,000,000
+$25,000,000
+$50,000,000
+$50,000,000
+2020 Trust FBO Khanna Children
+DC APOLLO GLOBAL MGMT INC COM
+X
+05/09/25
+05/08/25
+X
+DC EXXON MOBIL CORP COM
+X
+05/09/25
+05/08/25
+X
+DC HOME DEPOT INC
+X
+05/09/25
+05/08/25
+X
+DC JOHNSON & JOHNSON COM
+X
+05/09/25
+05/08/25
+X
+DC NIPPON TEL & TEL CORP SPON ADR EACH REP
+X
+05/09/25
+05/08/25
+X
+25 ORD SHS
+
+--- PAGE 04 ---
+NAME: Rohit Khanna Page 4 of 26
+Full Asset Name
+Type of Transaction
+Capital
+Gains
+Partial
+Date of
+Transaction
+Date Notified of
+Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+In a Spouse
+or Dependent
+Child Asset
+SP/DC/JT
+Owner
+Asset Name (if not ticker symbol)
+Purchase
+Sale
+Exchange
+> $200
+Transaction
+MM/DD/YY
+MM/DD/YY
+$1,000 -
+$15,000
+$15,001 -
+$50,000
+$50,001 -
+$100,000
+$100,001 -
+$250,000
+$250,001 -
+$500,000
+$500,001 -
+$1,000,000
+$1,000,001 -
+$5,000,000
+$5,000,001 -
+$25,000,000
+$25,000,001 -
+$50,000,000
+Over
+$50,000,000
+Over
+$50,000,000
+Mamta and Usha Ahuja 2010 Irrev Trust FBO
+Grandchildren
+TORONTO DOMINION BANK LINKED
+DC TO S&P 500 INDEX
+x
+05/22/25
+06/09/25
+x
+TORONTO DOMINION BANK LINKED
+DC TO BASKET OF INDICES
+x
+05/08/25
+06/09/25
+x
+DC UBS AG LINKED TO S&P 500 INDEX
+x
+05/22/25
+06/09/25
+x
+DC BROADCOM INC. CMN
+x
+05/16/25
+06/09/25
+x
+BNP PARIBAS LINKED TO S&P 500
+DC INDEX
+x
+05/28/25
+06/09/25
+x
+BNP PARIBAS LINKED TO S&P 500
+DC INDEX
+x
+05/30/25
+06/09/25
+x
+BANK OF AMERICA CORPORATION
+DC HYBRID PERPETUAL
+x
+05/15/25
+06/09/25
+x
+DC DATADOG, INC. CMN CLASS A
+x
+05/16/25
+06/09/25
+x
+STATE STREET CORPORATION HYBRID
+DC PERPETUAL USD
+x
+05/15/25
+06/09/25
+x
+CALL/GEV FLEX EURO PM @ 355
+DC EXP 05/02/2025
+x
+05/02/25
+06/09/25
+x
+UNITEDHEALTH GROUP
+DC INCORPORATE CMN
+x
+05/16/25
+06/09/25
+x
+DC MARVELL TECHNOLOGY, INC. CMN
+x
+05/16/25
+06/09/25
+x
+HCA HEALTHCARE, INC CMN
+DC SS&C TECHNOLOGIES HOLDINGS, IN
+x
+x
+05/07/25
+06/09/25
+x
+DC CMN
+x
+x
+05/08/25
+06/09/25
+x
+
+--- PAGE 05 ---
+NAME: Ro Khanna Page 5 of 26
+Full Asset Name
+Type of Transaction
+Capital Gains > $200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+Ahuja Grandchildren's Education Trust
+DC
+TRUIST FINANCIAL CORPORATION
+x
+05/13/25
+06/09/25
+x
+DC
+CMIN
+x
+05/09/25
+06/09/25
+x
+DC
+TENABLE HOLDINGS, INC CMIN
+x
+05/09/25
+06/09/25
+x
+DC
+TENABLE HOLDINGS, INC CMIN
+x
+05/08/25
+06/09/25
+x
+DC
+HOLOGIC INCORPORATED CMIN
+x
+05/16/25
+06/09/25
+x
+DC
+GLOBAL PAYMENTS INC. CMIN
+x
+05/02/25
+06/09/25
+x
+DC
+ZIMMER BIOMET HOLDINGS INC
+x
+05/07/25
+06/09/25
+x
+DC
+HCA HEALTHCARE, INC CMIN
+x
+x
+05/06/25
+06/09/25
+x
+SS&C TECHNOLOGIES HOLDINGS, IN
+DC
+CMIN
+x
+x
+05/06/25
+06/09/25
+x
+DC
+ELANCO ANIMAL HEALTH
+x
+x
+05/08/25
+06/09/25
+x
+DC
+INCORPORA CMIN
+x
+x
+05/08/25
+06/09/25
+x
+SS&C TECHNOLOGIES HOLDINGS, IN
+DC
+CMIN
+x
+x
+05/06/25
+06/09/25
+x
+DC
+BAXTER INTERNATIONAL INC CMIN
+x
+x
+05/06/25
+06/09/25
+x
+ELANCO ANIMAL HEALTH
+DC
+INCORPORA CMIN
+x
+x
+05/12/25
+06/09/25
+x
+
+--- PAGE 06 ---
+NAME: Ro Khanna Page 6 of 26
+SP/DC/JT
+Full Asset Name
+Type of Transaction
+Capital Gains > $200
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child/Asset
+2020 Trust FBO Khanna Children
+DC
+THE BANK OF NOVA SCOTIA LINKED TO S&P 500 INDEX
+x
+05/28/25
+06/09/25
+x
+DC
+BANK OF MONTREAL LINKED TO S&P 500 INDEX
+x
+05/22/25
+06/09/25
+x
+DC
+APPLE INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+PFIZER INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+WALT DISNEY COMPANY (THE) CMN
+x
+05/19/25
+06/09/25
+x
+DC
+COMCAST CORPORATION CMN CLASS A VOTING
+x
+05/19/25
+06/09/25
+x
+DC
+ADOBE INC CMN
+x
+05/19/25
+06/09/25
+x
+DC
+CATERPILLAR INC (DELAWARE) CMN
+x
+05/19/25
+06/09/25
+x
+DC
+REGENERON PHARMACEUTICAL INC CMN
+x
+05/19/25
+06/09/25
+x
+DC
+UNITED PARCEL SERVICE, INC. CLASS B COMMON STOCK
+x
+05/19/25
+06/09/25
+x
+DC
+APOLLO GLOBAL MANAGEMENT INC CMN
+x
+05/19/25
+06/09/25
+x
+DC
+UNION PACIFIC CORP. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+ALTRIA GROUP, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+THE PROCTER & GAMBLE COMPANY CMN
+x
+05/19/25
+06/09/25
+x
+DC
+HUMANA INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+AMAZON.COM INC CMN
+x
+05/19/25
+06/09/25
+x
+DC
+BECTON, DICKINSON AND COMPANY CMN
+x
+05/19/25
+06/09/25
+x
+DC
+PROLOGIS INC CMN
+x
+05/19/25
+06/09/25
+x
+
+--- PAGE 07 ---
+PAGE 7 of 26
+2020 Trust FBO Khanna Children
+SP/J/ST
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child trust
+Purchase
+Sale
+Exchange
+Capital Gains > $200
+Pending
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+DC
+ZOETIS INC. CMN CLASS A
+x
+05/19/25
+06/09/25
+x
+DC
+COLGATE-PALMOLIVE CO CMN
+x
+05/19/25
+06/09/25
+x
+DC
+DANAHER CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC
+D.R. HORTON, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+AVALONBAY COMMUNITIES INC
+x
+05/19/25
+06/09/25
+x
+DC
+CMN
+x
+05/19/25
+06/09/25
+x
+DC
+ROSS STORES, INC CMN
+x
+05/19/25
+06/09/25
+x
+DC
+QUALCOMM INC CMN
+x
+05/19/25
+06/09/25
+x
+DC
+BXP INC COMMON STOCK
+x
+05/19/25
+06/09/25
+x
+DC
+TARGET CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC
+METTLER-TOLEDO INTL. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+ESSEX PROPERTY TRUST INC CMN
+x
+05/19/25
+06/09/25
+x
+DC
+IQVIA HOLDINGS INC CMN
+x
+05/19/25
+06/09/25
+x
+DC
+AIR PRODUCTS & CHEMICALS INC
+x
+05/19/25
+06/09/25
+x
+DC
+CMN
+x
+05/19/25
+06/09/25
+x
+DC
+AMERICAN EXPRESS CO. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+HILTON WORLDWIDE HOLDINGS INC.
+x
+05/19/25
+06/09/25
+x
+DC
+CMN
+x
+05/19/25
+06/09/25
+x
+DC
+SBA COMMUNICATIONS
+x
+05/19/25
+06/09/25
+x
+DC
+CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC
+DIGITAL REALTY TRUST, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC
+ANALOG DEVICES, INC. CMN
+x
+05/19/25
+06/09/25
+x
+
+--- PAGE 08 ---
+NAME: Rohit Khanna Page 8 of 26
+SP/DC/JT
+Asset Name
+Type of Transaction
+Capital Gains > $200
+Period
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+2020 Trust FBO Khanna Children
+DC LENNAR CORPORATION CMN CLASS A
+x
+05/19/25
+06/09/25
+x
+DC REVVITY INC CMN
+x
+05/19/25
+06/09/25
+x
+DC CBRE GROUP, INC. CMN CLASS A
+x
+05/19/25
+06/09/25
+x
+DC WEST PHARMACEUTICAL SERVICES INC
+x
+05/19/25
+06/09/25
+x
+DC MID-AMERICA APT CMNTYS INC CMN
+x
+05/19/25
+06/09/25
+x
+DC EQUITY RESIDENTIAL CMN
+x
+05/19/25
+06/09/25
+x
+DC BIO-TECHNE CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC ACCENTURE PLC CMN CLASS A
+x
+05/19/25
+06/09/25
+x
+DC INCYTE CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC DOW INC CMN
+x
+05/19/25
+06/09/25
+x
+DC TRUIST FINANCIAL CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC CONAGRA BRANDS INC CMN
+x
+05/19/25
+06/09/25
+x
+DC INVITATION HOMES INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC CROWN CASTLE INTL CORP CMN
+x
+05/19/25
+06/09/25
+x
+DC 3M COMPANY CMN
+x
+05/19/25
+06/09/25
+x
+DC CENTENE CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC WEYERHAEUSER COMPANY CMN
+x
+05/19/25
+06/09/25
+x
+DC THE HOME DEPOT, INC. CMN
+x
+05/19/25
+06/09/25
+x
+
+--- PAGE 09 ---
+NAME: rohit Khanna Page 9 of 26
+Full Asset Name
+Type of Transaction
+Cap/Gai
+Date of
+Transaction
+Date Notified of
+Transaction
+Amount of Transaction
+Transaction
+in or Dependent
+Child Asset
+SH/DC/JT
+Purchase
+Sale
+Exchange
+Period
+Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+2020 Trust FBO Khanna Children
+DC ARCHER-DANIELS-MIDLAND
+COMPANY CMN
+x
+05/19/25
+06/09/25
+x
+DC T. ROWE PRICE GROUP, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC AVERY DENNISON CORPORATION
+CMN
+x
+05/19/25
+06/09/25
+x
+DC INTL.FLAVORS & FRAGRANCE CMN
+x
+05/19/25
+06/09/25
+x
+DC MOODY'S CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC WALMART INC CMN
+x
+05/19/25
+06/09/25
+x
+DC WELLS FARGO & COMPANY CMN
+x
+05/19/25
+06/09/25
+x
+DC EXTRA SPACE STORAGE INC. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC BERKSHIRE HATHAWAY INC. CLASS B
+UNITEDHEALTH GROUP
+DC INCORPORATE CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC LINDE PLC CMN
+x
+05/19/25
+06/09/25
+x
+DC PEPSICO, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC ALPHABET INC. CMN CLASS A
+x
+05/19/25
+06/09/25
+x
+DC THERMO FISHER SCIENTIFIC INC CMN
+CHARTER COMMUNICATIONS, INC.
+DC CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC TJX COMPANIES INC (NEW) CMN
+x
+05/19/25
+06/09/25
+x
+DC VERTEX PHARMACEUTICALS
+DC INCORPO CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC PULTEGROUP INC. CMN
+x
+05/19/25
+06/09/25
+x
+
+--- PAGE 10 ---
+NAME: Rohit Khanna Page 10 of 26
+2020 Trust FBO Khanna Children
+Full Asset Name
+Type of Transaction
+Owner
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+Purchase
+Sale
+Exchange
+Cap. Gains > $200
+Period
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+DC AGILENT TECHNOLOGIES, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC APPLIED MATERIALS INC CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC NIKE CLASS-B CMN CLASS B
+x
+05/19/25
+06/09/25
+x
+DC MERCK & CO., INC. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC ELECTRONIC ARTS CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC UDR INC CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC ELEVANCE HEALTH INC CMN
+x
+05/19/25
+06/09/25
+x
+DC NXP SEMICONDUCTORS N.V. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC PUBLIC STORAGE CMN
+x
+05/19/25
+06/09/25
+x
+DC CAMDEN PROPERTY TRUST CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC CHURCH & DWIGHT CO., INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC HP INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC STANLEY BLACK & DECKER, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC T-MOBILE US, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC GLOBAL PAYMENTS INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC BRISTOL-MYERS SQUIBB COMPANY
+x
+x
+05/19/25
+06/09/25
+x
+DC CMN
+DC BUILDERS FIRSTSOURCE, INC. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC HEALTHPEAK OP, LLC CMN
+x
+05/19/25
+06/09/25
+x
+
+--- PAGE 11 ---
+NAME: Rohit Khanna Page 11 of 26
+Full Asset Name
+Type of Transaction
+Date Notified of Transaction
+Date of Transaction
+Capital Gains > $200
+Purchase
+Sale
+Partial Transaction
+Amount of Transaction
+A $1,001- $15,000
+B $15,001- $50,000
+C $50,001- $100,000
+D $100,001- $250,000
+E $250,001- $500,000
+F $500,001- $1,000,000
+G $1,000,001- $5,000,000
+H $5,000,001- $25,000,000
+I $25,000,001- $50,000,000
+J Over $50,000,000
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+2020 Trust FBO Khanna Children
+DC FOX CORPORATION CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC CORNING INCORPORATED CMN
+x
+x
+x
+05/19/25
+06/09/25
+x
+DC NUCOR CORPORATION CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC MARSH & MCLENNAN CO INC CMN
+x
+05/19/25
+06/09/25
+x
+DC BIOGEN INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC CSX CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC YUM BRANDS, INC. CMN
+x
+05/19/25
+06/09/25
+x
+DC OTIS WORLDWIDE CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC THE KRAFT HEINZ CO CMN
+x
+05/19/25
+06/09/25
+x
+DC SYSCO CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC ROPER TECHNOLOGIES INC CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC FORTIVE CORPORATION CMN
+x
+05/19/25
+06/09/25
+x
+DC PACKAGING CORP OF AMERICA COMMON STOCK
+x
+05/19/25
+06/09/25
+x
+DC COOPER COS INC/THE CMN
+x
+05/19/25
+06/09/25
+x
+DC ZIMMER BIOMET HOLDINGS INC
+x
+05/19/25
+06/09/25
+x
+DC WARNER BROS DISCOVERY INC CMN
+x
+05/19/25
+06/09/25
+x
+DC CVS HEALTH CORP CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC ALIGN TECHNOLOGY, INC CMN
+x
+05/19/25
+06/09/25
+x
+
+--- PAGE 12 ---
+NAME: Rohit Khanna Page 12 of 26
+2020 Trust FBO Khanna Children
+SP/DC/JT
+Full Asset Name
+Type of Transaction
+Capital Gains > $200
+Partial
+Date of Transaction
+Date of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction is a Spouse or Dependent Child Asset
+DC
+EPAM SYSTEMS, INC. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+AIRBNB, INC. CMN CLASS A
+x
+x
+05/19/25
+06/09/25
+x
+DC
+SUPER MICRO COMPUTER, INC. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+HEWLETT PACKARD ENTERPRISE CO
+x
+x
+05/19/25
+06/09/25
+x
+DC
+CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+ALEXANDRIA REAL ESTATE EQUITIES,
+x
+x
+05/19/25
+06/09/25
+x
+DC
+INC.
+DC
+VERALTO CORPORATION CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+FISERV, INC. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+TERADYNE INC CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+ENPHASE ENERGY, INC. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+JOHNSON & JOHNSON CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+DUPONT DE NEMOURS INC CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+MODERNA, INC. CMN
+x
+x
+05/19/25
+06/09/25
+x
+DC
+LYONDELLBASELL INDUSTRIES N.V.
+x
+x
+05/19/25
+06/09/25
+x
+DC
+CMN CLASS A
+
+--- PAGE 13 ---
+13 of 26
+NAME: Rohit Khanna Page
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/ST
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+Ritu Ahuja Declaration of Trust
+SP
+UBS AG LINKED TO S&P 500 INDEX
+x
+05/22/25
+06/09/25
+x
+SP
+TORONTO DOMINION BANK LINKED TD S&P 500 INDEX
+x
+05/22/25
+06/09/25
+x
+SP
+HOLOGIC INCORPORATED CMN
+x
+05/02/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/09/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/02/25
+06/09/25
+x
+SP
+PENN ENTERTAINMENT INC CMN
+x
+05/13/25
+06/09/25
+x
+SP
+ULTRA CLEAN HOLDINGS, INC. CMN
+x
+05/12/25
+06/09/25
+x
+SP
+HOLOGIC INCORPORATED CMN
+x
+05/08/25
+06/09/25
+x
+SP
+TRUIST FINANCIAL CORPORATION CMN
+x
+05/13/25
+06/09/25
+x
+SP
+TRUIST FINANCIAL CORPORATION CMN
+x
+05/05/25
+06/09/25
+x
+SP
+TRUIST FINANCIAL CORPORATION CMN
+x
+05/08/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/12/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/08/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/05/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/06/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/01/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/30/25
+06/09/25
+x
+SP
+ULTRA CLEAN HOLDINGS, INC. CMN
+x
+05/13/25
+06/09/25
+x
+
+--- PAGE 14 ---
+NAME: Ritu Ahuja Page 14 of 26
+Full Asset Name
+Type of Transaction
+Capital Gains > $200
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Ritu Ahuja Declaration of Trust
+SP GLOBAL PAYMENTS INC. CMN
+x
+x
+05/16/25
+06/09/25
+x
+SP ZIMMER BIOMET HOLDINGS INC
+x
+x
+05/02/25
+06/09/25
+x
+SP ELECTRONIC ARTS CMN
+x
+x
+05/06/25
+06/09/25
+x
+SP SS&C TECHNOLOGIES HOLDINGS, IN
+x
+x
+05/06/25
+06/09/25
+x
+SP CMN
+SP MICRON TECHNOLOGY, INC. CMN
+x
+x
+05/28/25
+06/09/25
+x
+SP BANK OF AMERICA CORP CMN
+x
+x
+05/16/25
+06/09/25
+x
+SP GLOBAL PAYMENTS INC. CMN
+x
+x
+05/15/25
+06/09/25
+x
+SP ELANCO ANIMAL HEALTH
+SP INCORPORA CMN
+x
+x
+05/12/25
+06/09/25
+x
+SP NCR VOYIX CORP CMN
+x
+x
+05/12/25
+06/09/25
+x
+SP BERKSHIRE HATHAWAY INC. CLASS B
+x
+x
+05/05/25
+06/09/25
+x
+SP ELANCO ANIMAL HEALTH
+SP INCORPORA CMN
+x
+x
+05/08/25
+06/09/25
+x
+SP SENSATA TECHNOLOGIES HOLDING P
+SP CMN
+x
+x
+05/01/25
+06/09/25
+x
+SP BAXTER INTERNATIONAL INC CMN
+x
+x
+05/08/25
+06/09/25
+x
+SP SENSATA TECHNOLOGIES HOLDING P
+SP CMN
+x
+x
+05/08/25
+06/09/25
+x
+SP NCR VOYIX CORP CMN
+x
+x
+05/13/25
+06/09/25
+x
+
+--- PAGE 15 ---
+PTR Page 15 of 26
+Full Asset Name
+Type of Transaction
+Capital Gains
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction is Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+>$200
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Ritu Ahuja 1994 Trust
+SP
+UBS AG LINKED TO S&P 500 INDEX
+x
+05/22/25
+06/09/25
+x
+SP
+BNP PARIBAS LINKED TO S&P 500 INDEX
+x
+05/28/25
+06/09/25
+x
+SP
+INDEX
+x
+05/27/25
+06/09/25
+x
+SP
+UBS AG LINKED TO S&P 500 INDEX
+x
+05/28/25
+06/09/25
+x
+SP
+MICROSOFT CORPORATION CMN
+x
+05/09/25
+06/09/25
+x
+SP
+CAP GEMINI ADR CMN
+x
+05/09/25
+06/09/25
+x
+SP
+INFINEON TECHNOLOGIES AG - ADR SPONSORED ADR CMN
+x
+05/28/25
+06/09/25
+x
+SP
+ABBVIE INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+INTUIT INC CMN
+x
+05/09/25
+06/09/25
+x
+SP
+TOYOTA MOTOR CORPORATION SPON ADR
+x
+05/28/25
+06/09/25
+x
+SP
+MERCK & CO., INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+LOWES COMPANIES INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+PFIZER INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+BANK OF AMERICA CORP CMN
+x
+05/28/25
+06/09/25
+x
+SP
+THE PROCTER & GAMBLE COMPANY CMN
+x
+05/28/25
+06/09/25
+x
+SP
+WALT DISNEY COMPANY (THE) CMN
+x
+05/28/25
+06/09/25
+x
+SP
+BLACKSTONE GROUP INC/THE CMN
+x
+05/28/25
+06/09/25
+x
+SP
+PROLOGIS INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+UNION PACIFIC CORP. CMN
+x
+05/28/25
+06/09/25
+x
+
+--- PAGE 16 ---
+NAME: Ritu Ahuja Page 16 of 26
+Full Asset Name
+Type of Transaction
+Capital Gains > $200
+Purchase
+Sale
+Exchange
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+Over $50,000,000
+Transaction in a Spouse or Dependent Child Asset
+Ritu Ahuja 1994 Trust
+SP CRH PUBLIC LIMITED COMPANY CMN x 05/09/25 06/09/25 x
+SP BROADCOM INC. CMN x 05/28/25 06/09/25 x
+SP HOLOGIC INCORPORATED CMN x 05/02/25 06/09/25 x
+SP SERVICENOW INC CMN x 05/28/25 06/09/25 x
+SP QUALCOMM INC CMN x 05/28/25 06/09/25 x
+SP LVMH MOET HENNESSY LOUIS VUITTON S.A. ADR CMN x 05/09/25 06/09/25 x
+SP REVVITY INC CMN x 05/28/25 06/09/25 x
+SP TENABLE HOLDINGS, INC CMN x 05/02/25 06/09/25 x
+SP METTLER-TOLEDO INTL CMN CARRIER GLOBAL CORPORATION x 05/28/25 06/09/25 x
+SP TENABLE HOLDINGS, INC CMN CMN x 05/30/25 06/09/25 x
+SP HOLOGIC INCORPORATED CMN x 05/09/25 06/09/25 x
+SP AGILENT TECHNOLOGIES, INC. CMN x 05/28/25 06/09/25 x
+SP IQVIA HOLDINGS INC CMN THE PROGRESSIVE CORPORATION CMN x 05/28/25 06/09/25 x
+SP BIO-TECHNE CORPORATION CMN BECTON, DICKINSON AND COMPANY CMN x 05/28/25 06/09/25 x
+SP COINBASE GLOBAL, INC. CMN CLASS A x 05/28/25 06/09/25 x
+
+--- PAGE 17 ---
+NAME: Ritu Ahuja Page 17 of 26
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+Cap. Gains
+Partial
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Ritu Ahuja 1994 Trust
+SP
+APPLE INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+WORKDAY, INC. CMN CLASS A
+x
+05/28/25
+06/09/25
+x
+SP
+HOLOGIC INCORPORATED CMN
+x
+05/13/25
+06/09/25
+x
+SP
+TRUIST FINANCIAL CORPORATION
+x
+05/05/25
+06/09/25
+x
+SP
+CMN
+x
+05/05/25
+06/09/25
+x
+SP
+TRUIST FINANCIAL CORPORATION
+x
+05/05/25
+06/09/25
+x
+SP
+CMN
+x
+05/08/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+TRUIST FINANCIAL CORPORATION
+x
+05/28/25
+06/09/25
+x
+SP
+CMN
+x
+05/28/25
+06/09/25
+x
+SP
+ELEVANCE HEALTH INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+EQUITY RESIDENTIAL CMN
+x
+05/28/25
+06/09/25
+x
+SP
+SHERWIN-WILLIAMS CO CMN
+x
+05/12/25
+06/09/25
+x
+SP
+WATERS CORPORATION COMMON
+x
+05/08/25
+06/09/25
+x
+SP
+STOCK
+x
+05/09/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/05/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+TENABLE HOLDINGS, INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+ACCENTURE PLC CMN CLASS A
+x
+05/28/25
+06/09/25
+x
+SP
+CIGNA GROUP/THE CMN
+x
+05/28/25
+06/09/25
+x
+
+--- PAGE 18 ---
+NAME: Rohit Khanna Page 18 of 26
+Full Asset Name
+Type of Transaction
+Owner
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+Cap. Gains > $200
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Ritu Ahuja 1994 Trust
+SP TENABLE HOLDINGS, INC CMN
+x
+05/01/25
+06/09/25
+x
+SP MOLINA HEALTHCARE, INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP AMAZON.COM INC CMN
+x
+05/28/25
+06/09/25
+x
+SP UNIVERSAL HEALTH SVC CL B CMN
+x
+05/28/25
+06/09/25
+x
+SP ALEXANDRIA REAL ESTATE EQUITIES,
+x
+05/28/25
+06/09/25
+x
+INC.
+SP NIKE CLASS-B CMN CLASS B
+x
+05/28/25
+06/09/25
+x
+SP TEXAS INSTRUMENTS INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP CHIPOTLE MEXICAN GRILL, INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP DAVITA INC CMN
+x
+05/28/25
+06/09/25
+x
+SP DUPONT DE NEMOURS INC CMN
+x
+05/28/25
+06/09/25
+x
+SP BXP INC COMMON STOCK
+x
+05/28/25
+06/09/25
+x
+SP HASBRO, INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP APOLLO GLOBAL MANAGEMENT INC
+x
+05/28/25
+06/09/25
+x
+CMN
+SP LENNAR CORPORATION CMN CLASS
+x
+05/28/25
+06/09/25
+x
+A
+SP DEXCOM, INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP EQUIFAX INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP ROYAL CARIBBEAN GROUP ISIN:
+x
+05/28/25
+06/09/25
+x
+LR0008862868
+SP VERALTO CORPORATION CMN
+x
+05/28/25
+06/09/25
+x
+
+--- PAGE 19 ---
+NAME: Ritu Ahuja Page 19 of 26
+SP
+Ritu Ahuja 1994 Trust
+SP LABCORP HOLDINGS INC CMN x 05/28/25 06/09/25 x
+SP RESMED INC. CMN x 05/28/25 06/09/25 x
+SP SIMON PROPERTY GROUP INC CMN x 05/28/25 06/09/25 x
+SP MOODY'S CORPORATION CMN x 05/28/25 06/09/25 x
+SP ALTRIA GROUP, INC. CMN x 05/12/25 06/09/25 x
+SP ULTRA CLEAN HOLDINGS, INC. CMN x 05/13/25 06/09/25 x
+SP PENN ENTERTAINMENT INC CMN x 05/19/25 06/09/25 x
+PUT/XSP @ 560 EXP
+SP 08/15/2025 x 05/13/25 06/09/25 x
+PUT/XSP @ 555 EXP
+SP 07/11/2025 x 05/19/25 06/09/25 x
+PUT/XSP @ 539 EXP
+SP 07/31/2025 x 05/01/25 06/09/25 x
+PUT/XSP @ 530 EXP
+SP 06/06/2025 x 05/28/25 06/09/25 x
+PUT/XSP @ 570 EXP
+SP 06/30/2025 x 05/28/25 06/09/25 x
+NESTLE SA SPONSORED ADR (REP
+SP 1/20 CHF 10 REGD SHS) x 05/28/25 06/09/25 x
+SP DANAHER CORPORATION CMN x x 05/28/25 06/09/25 x
+UNITEDHEALTH GROUP
+SP INCORPORATE CMN x 05/28/25 06/09/25 x
+SP TIX COMPANIES INC (NEW) CMN x 05/28/25 06/09/25 x
+SP THERMO FISHER SCIENTIFIC INC CMN x 05/28/25 06/09/25 x
+SP GLOBAL PAYMENTS INC. CMN x x 05/16/25 06/09/25 x
+
+--- PAGE 20 ---
+HAVE: Ritu Ahuja Page 20 of 26
+Full Asset Name
+Type of Transaction
+Capital Gains Exceed $200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset
+$1,000- $15,001- $50,001- $100,001- $250,001- $500,001- $1,000,001- $5,000,001- $25,000,001- Over
+$15,000 $50,000 $100,000 $250,000 $500,000 $1,000,000 $5,000,000 $25,000,000 $50,000,000 $50,000,000
+Ritu Ahuja 1994 Trust
+SP PEPSICO, INC. CMN
+x
+05/28/25 06/09/25
+x
+SP STMICROELECTRONICS NV ADR CMN
+x
+05/09/25 06/09/25
+x
+SP MORGAN STANLEY CMN
+x
+x
+05/28/25 06/09/25
+x
+SP BERKSHIRE HATHAWAY INC. CLASS B
+x
+x
+05/28/25 06/09/25
+x
+SP INTEL CORPORATION CMN
+x
+x
+05/28/25 06/09/25
+x
+SP ZIMMER BIOMET HOLDINGS INC
+x
+x
+05/02/25 06/09/25
+x
+SP IBERDROLA SOCIEDAD ANONIMA
+x
+x
+05/09/25 06/09/25
+x
+SP SPONSORED ADR CMN
+SP ELECTRONIC ARTS CMN
+x
+x
+05/02/25 06/09/25
+x
+SP SS&C TECHNOLOGIES HOLDINGS, IN
+x
+x
+x
+05/06/25 06/09/25
+x
+CMN
+SP MICRON TECHNOLOGY, INC. CMN
+x
+x
+05/28/25 06/09/25
+x
+SP EQUINIX, INC. REIT
+x
+x
+05/28/25 06/09/25
+x
+SP BANK OF AMERICA CORP CMN
+x
+x
+05/16/25 06/09/25
+x
+SP COPART, INC. CMN
+x
+x
+05/28/25 06/09/25
+x
+SP GLOBAL PAYMENTS INC. CMN
+x
+x
+05/15/25 06/09/25
+x
+SP FISERV, INC. CMN
+x
+x
+05/28/25 06/09/25
+x
+SP FAIR ISAAC INC CMN
+x
+x
+05/28/25 06/09/25
+x
+SP ELANCO ANIMAL HEALTH
+x
+x
+05/12/25 06/09/25
+x
+INCORPORA CMN
+SP PUBLIC STORAGE CMN
+x
+x
+05/28/25 06/09/25
+x
+
+--- PAGE 21 ---
+NAME: Ritu Ahuja Page 21 of 26
+Full Asset Name
+Type of Transaction
+Capital Gains > $200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+Transaction is Spouse or Dependent, Child Asset
+Ritu Ahuja 1994 Trust
+VERTEX PHARMACEUTICALS
+SP INCORPO CMN
+X
+X
+05/28/25
+06/09/25
+X
+SP ENEL SOCIETA PER AZIONI ADR CMN
+X
+X
+05/09/25
+06/09/25
+X
+SP PALO ALTO NETWORKS INC. CMN
+X
+X
+05/28/25
+06/09/25
+X
+SP MC DONALDS CORP CMN
+X
+X
+05/28/25
+06/09/25
+X
+SP MOTOROLA SOLUTIONS INC CMN
+X
+X
+05/28/25
+06/09/25
+X
+SP TYLER TECHNOLOGIES, INC. CMN
+X
+X
+05/09/25
+06/09/25
+X
+HSBC HOLDINGS PLC SPONSORED
+SP ADR CMN
+X
+X
+05/28/25
+06/09/25
+X
+SP DOW INC CMN
+X
+X
+05/05/25
+06/09/25
+X
+SP BERKSHIRE HATHAWAY INC. CLASS B
+X
+X
+05/28/25
+06/09/25
+X
+BLANCO ANIMAL HEALTH
+SP INCORPORA CMN
+X
+X
+05/08/25
+06/09/25
+X
+SP APPLIED MATERIALS INC CMN
+X
+X
+05/28/25
+06/09/25
+X
+SP COOPER COS INC/THE CMN
+X
+X
+05/28/25
+06/09/25
+X
+SP HUMANA INC. CMN
+X
+X
+05/28/25
+06/09/25
+X
+SP HEALTHPEAK OP, LLC CMN
+X
+X
+05/12/25
+06/09/25
+X
+SENSATA TECHNOLOGIES HOLDING P
+SP CMN
+X
+X
+05/01/25
+06/09/25
+X
+SP ELI LILLY & CO CMN
+X
+X
+05/28/25
+06/09/25
+X
+
+--- PAGE 22 ---
+NAME: Rohit Khanna Page 22 of 26
+Full Asset Name
+Type of Transaction
+Capital Gains
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset
+SP/DC/JT
+Purchase
+Sale
+Exchange
+Exceed
+$200
+Period
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Ritu Ahuja 1994 Trust
+SP
+ING GROEP N.V. SPONS ADR
+SP
+SPONSORED ADR CMN
+x
+x
+x
+05/09/25
+06/09/25
+x
+SP
+STRYKER CORPORATION CMN
+x
+05/28/25
+06/09/25
+x
+SP
+GLOBAL PAYMENTS INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+BAXTER INTERNATIONAL INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+AFLAC INCORPORATED CMN
+x
+05/06/25
+06/09/25
+x
+SP
+BAXTER INTERNATIONAL INC CMN
+REGENERON PHARMACEUTICAL INC
+SP
+CMN
+x
+05/28/25
+06/09/25
+x
+SP
+NXP SEMICONDUCTORS N.V. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+MSCI INC. CMN
+x
+05/09/25
+06/09/25
+x
+SP
+SUMITOMO MITSUI FINANCIAL GRP
+SP
+SPONSORED ADR CMN
+x
+05/28/25
+06/09/25
+x
+SP
+AIR PRODUCTS & CHEMICALS INC
+SP
+CMN
+x
+x
+05/28/25
+06/09/25
+x
+SP
+CONAGRA BRANDS INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+AMETEK INC (NEW) CMN
+x
+05/28/25
+06/09/25
+x
+SP
+GENERAL MILLS INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+NEWS CORPORATION CMN CLASS A
+x
+x
+05/28/25
+06/09/25
+x
+SP
+THE KRAFT HEINZ CO CMN
+x
+05/28/25
+06/09/25
+x
+SP
+INVITATION HOMES INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+MARRIOTT INTERNATIONAL, INC
+SP
+CMN CLASS A
+x
+x
+05/28/25
+06/09/25
+x
+
+--- PAGE 23 ---
+NAME: Ritu Ahuja Page 23 of 24
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction by a Spouse or Dependent Child/Asset
+SP/DC/JT
+Purchase
+Sale
+Capital Gains
+Partial
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Ritu Ahuja 1994 Trust
+SP
+FIFTH THIRD BANCORP CMN
+x
+05/28/25
+06/09/25
+x
+SP
+HOST HOTELS & RESORTS INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+FORTINET, INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+CLOROX CO (THE) (DELAWARE) CMN
+x
+05/28/25
+06/09/25
+x
+SP
+DECKERS OUTDOORS CORP CMN
+x
+x
+05/28/25
+06/09/25
+x
+SP
+VICI PROPERTIES INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+BEST BUY CO INC CMN
+x
+05/28/25
+06/09/25
+x
+SP
+SYSCO CORPORATION CMN
+x
+05/28/25
+06/09/25
+x
+SP
+CVS HEALTH CORP CMN
+x
+05/28/25
+06/09/25
+x
+SP
+HP INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+PRINCIPAL FINANCIAL GROUP, INC
+CMN
+x
+05/28/25
+06/09/25
+x
+SP
+ZIMMER BIOMET HOLDINGS INC
+x
+05/28/25
+06/09/25
+x
+SP
+CENTENE CORPORATION CMN
+x
+05/28/25
+06/09/25
+x
+SP
+SENSATA TECHNOLOGIES HOLDING P
+CMN
+x
+05/08/25
+06/09/25
+x
+SP
+NCR VOYIX CORP CMN
+x
+05/13/25
+06/09/25
+x
+SP
+BUILDERS FIRSTSOURCE, INC. CMN
+x
+05/28/25
+06/09/25
+x
+SP
+AVALONBAY COMMUNITIES INC
+CMN
+x
+05/28/25
+06/09/25
+x
+
+--- PAGE 24 ---
+24 26
+NAME: Rohit Khanna Page ____ of ____
+Full Asset Name
+Type of Transaction
+Capital
+Gains
+Exceed
+$200
+Partial
+Transaction
+Date of
+Transaction
+Date Notified of
+Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in a Spouse
+or Dependent
+Child Asset
+over
+$1,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+$1,000,000
+Ritu Ahuja 1994 Trust
+SP
+ENPHASE ENERGY, INC. CMN
+x
+05/28/25
+06/09/25
+x
+TAKEDA PHARMACEUTICAL CO LTD
+SP
+SPONSORED ADR CMN
+x
+x
+05/09/25
+06/09/25
+x
+
+--- PAGE 25 ---
+25 of 26
+NAME: Ritu Ahuja Page
+Asset Name
+Type of Transaction
+Owner
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Purchase
+Sale
+Exchange
+Capital Gains
+Partial
+Transaction
+MM/DD/YY
+MM/DD/YY
+$1,000 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Ritu Ahuja 1995 Trust
+SP
+IOWA FIN AUTH REV REV 5%
+08/01/32 FA
+x
+05/01/25
+06/09/25
+x
+SP
+KKR & CO INC PFD
+6.875000/01/2065
+x
+05/20/25
+06/09/25
+x
+SP
+STATE STREET CORPORATION HYBRID
+PERPETUAL USD
+x
+05/15/25
+06/09/25
+x
+SP
+BANK OF AMERICA CORPORATION
+HYBRID PERPETUAL
+x
+05/15/25
+06/09/25
+x
+SP
+HCA HEALTHCARE, INC CMN
+x
+x
+05/07/25
+06/09/25
+x
+SP
+SS&C TECHNOLOGIES HOLDINGS, IN
+CMN
+x
+x
+05/08/25
+06/09/25
+x
+
+--- PAGE 26 ---
+NAME: Rohit Khanna Page 26 of 26
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A $1,003 - $15,000
+B $15,001 - $50,000
+C $50,001 - $100,000
+D $100,001 - $250,000
+E $250,001 - $500,000
+F $500,001 - $1,000,000
+G $1,000,001 - $5,000,000
+H $5,000,001 - $25,000,000
+I $25,000,001 - $50,000,000
+J Over $50,000,000
+K
+M & R Trust Partnership
+DC OHIO ST GO 5% 02/01/38 FA
+x
+05/01/25
+06/09/25
+x
+DC OHIO ST SPL OBLIG REV 5.0000% 12/01/25 JD
+x
+05/01/25
+06/09/25
+x
+DC OHIO ST WTR DEV AUTH WTR REV 5% 12/01/32 JD
+x
+05/01/25
+06/09/25
+x
+DC FLORIDA ST DEPT ENVIRONMENTAL REV 5% 07/01/27 JJ
+x
+05/12/25
+06/09/25
+x
+DC CLEVELAND OHIO WTR REV REV 5% 01/01/26 JJ
+x
+05/09/25
+06/09/25
+x
+DC LORAIN CNTY OHIO CMNTY COLLEGE REV 4% 12/01/25 JO
+x
+05/09/25
+06/09/25
+x
+DC OHIO ST HIGHER EDL FAC REV REV 5.2500% 12/01/25 JD
+x
+05/06/25
+06/09/25
+x
+DC OHIO ST HSG FIN AGY REV 5% 03/01/26-CA MS
+x
+05/07/25
+06/09/25
+x
+DC CLEVELAND OHIO INCOME TAX REV REV 5% 10/01/25 AO
+x
+05/06/25
+06/09/25
+x
+DC OHIO ST GO 5% 03/01/26 MS
+x
+05/08/25
+06/09/25
+x
+DC NVIDIA CORPORATION CMN
+x
+05/21/25
+06/09/25
+x
+DC HAMILTON CNTY OHIO SALES TAX REV 5% 12/01/25 JD
+x
+05/30/25
+06/09/25
+x
+DC SALESFORCE INC CMN
+x
+05/21/25
+06/09/25
+x
+DC DATADOG, INC. CMN CLASS A
+x
+05/21/25
+06/09/25
+x
+DC CROWDSTRIKE HOLDINGS, INC. CMN
+x
+x
+x
+05/21/25
+06/09/25
+x
+DC APPLOVIN CORPORATION CMN CLASS A
+x
+x
+x
+05/21/25
+06/09/25
+x

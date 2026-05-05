@@ -1,0 +1,150 @@
+{
+ "file_key": "20024042",
+ "total_pages": 2,
+ "pages": {
+  "0": {
+   "parsed": {
+    "transactions": [
+     {
+      "asset_name": "[redacted]",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "S",
+      "transaction_date": "11/24/2023",
+      "notification_date": "12/11/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": true
+     },
+     {
+      "asset_name": "[redacted]",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "12/10/2023",
+      "notification_date": "12/11/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "[redacted]",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "10/09/2023",
+      "notification_date": "10/09/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "[redacted]",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "11/05/2023",
+      "notification_date": "11/05/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     }
+    ]
+   },
+   "tokens_in": 1566,
+   "tokens_out": 494
+  },
+  "1": {
+   "parsed": {
+    "transactions": [
+     {
+      "asset_name": "Alphabet Inc. - Class A (GOOGL)",
+      "asset_ticker": "GOOGL",
+      "owner": "JT",
+      "transaction_type": "S",
+      "transaction_date": "11/27/2023",
+      "notification_date": "12/22/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "Alphabet Inc. - Class C (GOOG)",
+      "asset_ticker": "GOOG",
+      "owner": "JT",
+      "transaction_type": "S",
+      "transaction_date": "11/27/2023",
+      "notification_date": "12/22/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "Amazon.com, Inc. (AMZN)",
+      "asset_ticker": "AMZN",
+      "owner": "JT",
+      "transaction_type": "S",
+      "transaction_date": "11/27/2023",
+      "notification_date": "12/22/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "Apple Inc. (AAPL)",
+      "asset_ticker": "AAPL",
+      "owner": "JT",
+      "transaction_type": "S",
+      "transaction_date": "11/27/2023",
+      "notification_date": "12/22/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "Meta Platforms, Inc. - Class A (META)",
+      "asset_ticker": "META",
+      "owner": "JT",
+      "transaction_type": "S",
+      "transaction_date": "11/27/2023",
+      "notification_date": "12/22/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "Microsoft Corporation (MSFT)",
+      "asset_ticker": "MSFT",
+      "owner": "JT",
+      "transaction_type": "S",
+      "transaction_date": "11/27/2023",
+      "notification_date": "12/22/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "NVIDIA Corporation (NVDA)",
+      "asset_ticker": "NVDA",
+      "owner": "JT",
+      "transaction_type": "S",
+      "transaction_date": "11/27/2023",
+      "notification_date": "12/22/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "Tesla, Inc. (TSLA)",
+      "asset_ticker": "TSLA",
+      "owner": "JT",
+      "transaction_type": "S",
+      "transaction_date": "11/27/2023",
+      "notification_date": "12/22/2023",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     }
+    ]
+   },
+   "tokens_in": 4698,
+   "tokens_out": 1042
+  }
+ },
+ "stats": {
+  "tokens_in": 6264,
+  "tokens_out": 1536,
+  "n_ok": 2,
+  "n_failed": 0,
+  "elapsed_s": 10.95,
+  "pages_submitted": 2
+ }
+}

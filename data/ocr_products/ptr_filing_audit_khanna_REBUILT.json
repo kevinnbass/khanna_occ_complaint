@@ -1,0 +1,36 @@
+{
+  "rebuild_run_at": "2026-05-05T10:17:58.042034+00:00",
+  "snapshot_input": "OCC_M007 (rate aggregate) + OCC_M008 (worst single tx) \u2014 REBUILD INPUT for B-F1 (rebuild_ptr_audit_khanna.py)",
+  "snapshot_date": "2026_05_02",
+  "served_from_iso": "2017-01-03",
+  "n_transactions_raw_input": 36277,
+  "n_canonical_post_dedup": 36272,
+  "audit_flag_distribution": {
+    "auditable": 35954,
+    "tx_after_filing": 318
+  },
+  "khanna_aggregate": {
+    "member_last_name": "Khanna",
+    "member_first_name": "Rohit",
+    "sample_state_district": "CA17",
+    "n_tx_total": 35954,
+    "n_tx_late": 624,
+    "n_docs_total": 114,
+    "n_docs_with_late": 22,
+    "pct_late": 1.74,
+    "worst_days_late": 358,
+    "n_tx_over_90d_late": 68,
+    "n_tx_over_180d_late": 63,
+    "n_tx_over_1yr_late": 0,
+    "median_days_late_when_late": 9.0
+  },
+  "worst_late_humana": {
+    "asset_name": "HUMANA INC. CMN",
+    "owner": "DC",
+    "transaction_date": "2023-10-02",
+    "filing_date": "2024-11-08",
+    "days_late": 358,
+    "transaction_type": "S",
+    "amount_range": "$1,001 - $15,000"
+  }
+}

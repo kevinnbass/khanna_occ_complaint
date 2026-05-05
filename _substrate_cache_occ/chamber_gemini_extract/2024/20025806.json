@@ -1,0 +1,42 @@
+{
+  "file_key": "20025806",
+  "total_pages": 1,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Marathon Oil Corporation Common Stock (MRO)",
+            "asset_ticker": "MRO",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/23/2024",
+            "notification_date": "08/08/2024",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Sotherly Hotels Inc. - Common Stock (SOHO)",
+            "asset_ticker": "SOHO",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/23/2024",
+            "notification_date": "08/08/2024",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1566,
+      "tokens_out": 271
+    }
+  },
+  "stats": {
+    "tokens_in": 1566,
+    "tokens_out": 271,
+    "n_ok": 1,
+    "n_failed": 0,
+    "elapsed_s": 3.17,
+    "pages_submitted": 1
+  }
+}

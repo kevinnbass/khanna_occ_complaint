@@ -1,0 +1,52 @@
+{
+ "file_key": "20026696",
+ "total_pages": 1,
+ "pages": {
+  "0": {
+   "parsed": {
+    "transactions": [
+     {
+      "asset_name": "[redacted]",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "01/03/2025",
+      "notification_date": "01/03/2025",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "Virtuals Protocol",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "P",
+      "transaction_date": "01/03/2025",
+      "notification_date": "01/03/2025",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     },
+     {
+      "asset_name": "Virtuals Protocol",
+      "asset_ticker": null,
+      "owner": null,
+      "transaction_type": "S",
+      "transaction_date": "01/12/2025",
+      "notification_date": "01/12/2025",
+      "amount_range": "$1,001 - $15,000",
+      "capital_gains_over_200": false
+     }
+    ]
+   },
+   "tokens_in": 1566,
+   "tokens_out": 369
+  }
+ },
+ "stats": {
+  "tokens_in": 1566,
+  "tokens_out": 369,
+  "n_ok": 1,
+  "n_failed": 0,
+  "elapsed_s": 3.92,
+  "pages_submitted": 1
+ }
+}

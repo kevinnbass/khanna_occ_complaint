@@ -1,0 +1,109 @@
+{
+ "snapshot_target": "OCC_M041 (LD-203 aggregate registrant-originated giving)",
+ "snapshot_taken_at": "2026-05-03T04:19:02.636026+00:00",
+ "snapshot_date": "2026_05_02",
+ "substrate_authoritative": "ro_khanna.v_lda_khanna_contributions (view over lake.lda_contributions)",
+ "substrate_authoritative_note": "View filters lake.lda_contributions filings to those whose contribution_items text contains 'khanna' OR 'c00503185' (Ro for Congress principal committee FEC ID) OR 'c00392100'. Per s11 addendum dig-deeper landing: (i) within-view per-item aggregation requires the same three-token filter at the jsonb_array_elements grain, NOT a naive sum across all items in matching filings (which would over-count $63M / 13K lines across all 53 registrants' non-Khanna contributions); (ii) the view itself uses column 'registrant' (not 'registrant_name') and stores 'contribution_items' as text (not jsonb directly), requiring explicit ::jsonb cast.",
+ "khanna_aggregate": {
+  "n_unique_registrants": 53,
+  "n_line_items": 120,
+  "sum_amount": 237697.54,
+  "earliest_item_date": "2011-11-14",
+  "latest_item_date": "2025-12-31"
+ },
+ "top_registrants_by_sum": [
+  {
+   "registrant_name": "AMERICAN FEDERATION OF TEACHERS",
+   "sum_amount": 35000.0,
+   "n_line_items": 3
+  },
+  {
+   "registrant_name": "PACIFIC GAS AND ELECTRIC COMPANY",
+   "sum_amount": 35000.0,
+   "n_line_items": 1
+  },
+  {
+   "registrant_name": "[redacted]",
+   "sum_amount": 24800.0,
+   "n_line_items": 4
+  },
+  {
+   "registrant_name": "INTERNATIONAL BROTHERHOOD OF TEAMSTERS",
+   "sum_amount": 24000.0,
+   "n_line_items": 10
+  },
+  {
+   "registrant_name": "NEW YORK LIFE INSURANCE COMPANY",
+   "sum_amount": 15000.0,
+   "n_line_items": 3
+  },
+  {
+   "registrant_name": "TRIMPA GROUP, LLC",
+   "sum_amount": 13000.0,
+   "n_line_items": 5
+  },
+  {
+   "registrant_name": "SOCIETY FOR HUMAN RESOURCE MANAGEMENT",
+   "sum_amount": 10000.0,
+   "n_line_items": 1
+  },
+  {
+   "registrant_name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
+   "sum_amount": 8000.0,
+   "n_line_items": 1
+  },
+  {
+   "registrant_name": "RUBICON ADVISORS, LLC",
+   "sum_amount": 5900.0,
+   "n_line_items": 2
+  },
+  {
+   "registrant_name": "ARNOLD & PORTER KAYE SCHOLER LLP",
+   "sum_amount": 5800.0,
+   "n_line_items": 3
+  },
+  {
+   "registrant_name": "SHOPIFY INC",
+   "sum_amount": 5600.0,
+   "n_line_items": 2
+  },
+  {
+   "registrant_name": "COMMUNICATIONS WORKERS OF AMERICA",
+   "sum_amount": 5000.0,
+   "n_line_items": 8
+  },
+  {
+   "registrant_name": "NATIONAL FOOTBALL LEAGUE",
+   "sum_amount": 5000.0,
+   "n_line_items": 2
+  },
+  {
+   "registrant_name": "UNITED BROTHERHOOD OF CARPENTERS AND JOINERS OF AMERICA",
+   "sum_amount": 5000.0,
+   "n_line_items": 1
+  },
+  {
+   "registrant_name": "HUMANE WORLD ACTION FUND AND AFFILIATES (FORMERLY KNOWN AS HUMANE SOCIETY LEGISLATIVE FUND)",
+   "sum_amount": 3950.08,
+   "n_line_items": 6
+  }
+ ],
+ "body_claim": {
+  "amount": 299198.0,
+  "n_line_items": 147,
+  "n_unique_registrants": 53,
+  "period": "2011-10 through 2025-12"
+ },
+ "drift_class_explanation": "PASS_WITH_DEFECT/substrate_count_drift. The body's $299,198 / 147-line / 53-registrant figure was authored at an earlier lake.lda_contributions substrate state; the current snapshot reproduces 53-unique-LDA-registrant BIT-EXACT (load-bearing per F1135 wave-19 verification) with line-item count and aggregate amount lower because the view's underlying lake table grew between body-author and current-snapshot dates. Per fact-store provenance, the 53-registrant invariant is the load-bearing scalar per F500 / F899 / F1135 (LDA-203 cohort). The line-item and aggregate-amount drift is documented and acknowledged.",
+ "load_bearing_invariant": {
+  "n_unique_registrants_must_equal": 53,
+  "rationale": "Body cites 53 unique LDA-registered organizations at Count 5 paragraph 44 + Anticipated Response #4. F1135 wave-19 verification BIT-EXACT-confirmed this scalar."
+ },
+ "floor_assertions": {
+  "n_line_items_floor": 100,
+  "sum_amount_floor": 200000.0
+ },
+ "verifier_kinds_supported": [
+  "lda_resolve (OCC_M041)"
+ ]
+}

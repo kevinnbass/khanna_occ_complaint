@@ -1,0 +1,46 @@
+{
+  "rebuild_run_at": "2026-05-05T10:17:58.186970+00:00",
+  "snapshot_input": "OCC_M028 + OCC_M058 (Khanna Goldman SP margin scaffold TY2016-TY2019)",
+  "snapshot_date": "2026_05_02",
+  "n_rows": 13,
+  "by_year": [
+    {
+      "tax_year": "2016",
+      "n_rows": 3,
+      "sum_amount_min": 1600002.0,
+      "sum_amount_max": 2250000.0,
+      "has_1m_plus_line": true
+    },
+    {
+      "tax_year": "2017",
+      "n_rows": 4,
+      "sum_amount_min": 1850004.0,
+      "sum_amount_max": 6750000.0,
+      "has_1m_plus_line": true
+    },
+    {
+      "tax_year": "2018",
+      "n_rows": 3,
+      "sum_amount_min": 150002.0,
+      "sum_amount_max": 350000.0,
+      "has_1m_plus_line": false
+    },
+    {
+      "tax_year": "2019",
+      "n_rows": 3,
+      "sum_amount_min": 850003.0,
+      "sum_amount_max": 1750000.0,
+      "has_1m_plus_line": true
+    }
+  ],
+  "load_bearing_invariants": {
+    "n_rows_total": 13,
+    "tax_years_present": [
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "ty2017_has_1m_plus_line": true
+  }
+}

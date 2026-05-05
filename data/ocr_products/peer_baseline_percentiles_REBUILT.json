@@ -1,0 +1,51 @@
+{
+  "rebuild_run_at": "2026-05-04T02:41:44.428139+00:00",
+  "snapshot_target": "OCC_M012 peer-46 baseline (late-rate + worst-late-days legs)",
+  "snapshot_input": "data/occ/peer_baseline_percentiles_2026_05_02.json",
+  "chamber_rebuild_input": "data\\ocr_products\\house_chamber_audit_REBUILT.json",
+  "peer46_roster": "data\\occ\\peer46_roster_2026_05_03.csv",
+  "is_full_chamber_rebuild_upstream": false,
+  "n_members_in_chamber_rebuild": 5,
+  "n_peers_in_roster": 46,
+  "n_peers_matched": 0,
+  "n_peers_unmatched": 46,
+  "unmatched_sample": [
+    {
+      "bioguide_id": "L000579",
+      "name": "Alan S. Lowenthal",
+      "state_district": "CA47",
+      "on_hasc": "False",
+      "is_subject": "False"
+    },
+    {
+      "bioguide_id": "W000812",
+      "name": "Ann Wagner",
+      "state_district": "MO02",
+      "on_hasc": "False",
+      "is_subject": "False"
+    },
+    {
+      "bioguide_id": "F000461",
+      "name": "Bill Flores",
+      "state_district": "TX17",
+      "on_hasc": "False",
+      "is_subject": "False"
+    },
+    {
+      "bioguide_id": "H001058",
+      "name": "Bill Huizenga",
+      "state_district": "MI04",
+      "on_hasc": "False",
+      "is_subject": "False"
+    },
+    {
+      "bioguide_id": "G000563",
+      "name": "Bob Gibbs",
+      "state_district": "OH07",
+      "on_hasc": "False",
+      "is_subject": "False"
+    }
+  ],
+  "metrics": [],
+  "narrow_scope_disclosure": "Only late-rate + worst-late-days legs of OCC_M012's peer baseline are re-derivable from the F4 chamber rebuild. defense_prime_pct, ndaa_window_pct_of_defense, sp_dc_trade_pct, top_employer_donor_pct, protect_progress_ie_amount remain anchored on the broader ro_khanna.peer_baseline derivation pipeline (verifier kinds: peer_baseline_metric_resolve via v3_facts_substrate_class)."
+}

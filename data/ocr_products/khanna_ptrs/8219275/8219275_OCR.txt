@@ -1,0 +1,3172 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 8219275
+#   year          : 2022
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219275.pdf
+#   total_pages   : 21
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 10:14:39 UTC
+#   tokens_in     : 51,213
+#   tokens_out    : 80,229
+
+--- PAGE 01 ---
+HAND
+DELIVERED
+Name: Rohit Khanna Page 1 of 21
+LEGISLATIVE RESOURCE CENTER
+2022 NOV 10 AM 11: 54
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+OFFICE TELEPHONE: 202-226-2631
+OFFICE: TELEPHONE: 202-226-2631
+NAME: Rohit Khanna
+Officer or Employee
+Member of the U.S. House of Representatives
+Employing Office:
+State: CA District: 17
+File an original and 2 copies
+File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an initial
+Public Offering?
+Yes No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+Initial Report Amendment
+Date of Report Being Amended:
+(For Official Use Only)
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+A B C D E F G H I J K
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY) (MM/DD/YY)
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/015 03/07/15
+X
+
+--- PAGE 02 ---
+NAME: Rohit Khanna Page 2 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+$1,000 - $15,000
+B
+$15,001 - $50,000
+C
+$50,001 - $100,000
+D
+$100,001 - $250,000
+E
+$250,001 - $500,000
+F
+$500,001 - $1,000,000
+G
+$1,000,001 - $5,000,000
+H
+$5,000,001 - $25,000,000
+I
+$25,000,001 - $50,000,000
+J
+Over $50,000,000
+K
+Over $1,000,000
+M&R Trust Partnership
+DC
+WEST PHARMACEUTICAL SVCS INC
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+MONOLITHIC PWR SYSTEMS INC
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+MARVELL TECHNOLOGY GROUP LTD
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+BIO RAD LAB A
+X
+X
+20-Oct-22
+2-Nov-22
+X
+
+--- PAGE 03 ---
+NAME: Rohit Khanna Page 3 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capitial Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,000- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+$50,000,001- $1,000,000
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+Monte and Usha Ahuja 2010 Irrev Trust FBO Grandchildren
+DC
+ISHARES RUSSELL 1000 VALUE
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+ISHARES RUSSELL 1000 GROWTH ETF
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+TIGER GLOBAL CROSSOVER ACCESS LLC CLASS A1 SERIES 2
+x
+1-Oct-22
+2-Nov-22
+x
+DC
+CVS HEALTH CORP CMN
+x
+7-Oct-22
+2-Nov-22
+x
+DC
+GENERAL MOTORS COMPANY CMN
+x
+10-Oct-22
+2-Nov-22
+x
+DC
+TESLA, INC. CMN
+x
+5-Oct-22
+2-Nov-22
+x
+DC
+AMAZON.COM INC CMN
+x
+3-Oct-22
+2-Nov-22
+x
+DC
+BANK OF AMERICA CORPORATION HYBRID PERPETUAL USD
+x
+31-Oct-22
+2-Nov-22
+x
+DC
+VERIZON COMMUNICATIONS, INC. CMN
+x
+7-Oct-22
+2-Nov-22
+x
+DC
+TESLA, INC. CMN
+x
+13-Oct-22
+2-Nov-22
+x
+DC
+HCA HEALTHCARE, INC CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+AMAZON.COM INC CMN
+x
+28-Oct-22
+2-Nov-22
+x
+DC
+NETFLIX, INC. CMN
+x
+27-Oct-22
+2-Nov-22
+x
+DC
+CAPITAL ONE FINANCIAL CORPORAT HYBRID PERPETUAL USD
+x
+28-Oct-22
+2-Nov-22
+x
+DC
+APTIV PLC CMN
+x
+7-Oct-22
+2-Nov-22
+x
+DC
+AMERICAN INTL GROUP, INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+PEPSICO, INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+BANK OF AMERICA CORP CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+ABBOTT LABORATORIES CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+
+--- PAGE 04 ---
+NAME: Ro Khanna Page 4 of 21
+Full Asset Name Type of Transaction Date of Transaction Date Notified of Transaction Amount of Transaction
+A B C D E F G H I J K
+Transaction
+in a Spouse
+or Dependent
+Child Asset
+over
+$1,001- $15,001- $50,001- $100,001- $250,001- $500,001- $1,000,001- $5,000,001- $25,000,001- Over $1,000,000
+Owner Provide full name, not ticker symbol Purchase Sale Exchange $200 Partial Transaction MM/DD/YY MM/DD/YY $15,000 $50,000 $100,000 $250,000 $500,000 $1,000,000 $5,000,000 $25,000,000 $50,000,000 $50,000,000
+DC ALPHABET INC. CMN CLASS A x x 20-Oct-22 2-Nov-22 x
+DC N V R INC CMN x x 20-Oct-22 2-Nov-22 x
+DC TEXAS INSTRUMENTS INC. CMN x x 20-Oct-22 2-Nov-22 x
+DC AMAZON.COM INC CMN x x 20-Oct-22 2-Nov-22 x
+DC APPLE INC. CMN x x 20-Oct-22 2-Nov-22 x
+DC KKR & CO. INC. CMN x x 20-Oct-22 2-Nov-22 x
+DC MICROSOFT CORPORATION CMN x x 20-Oct-22 2-Nov-22 x
+DC MARSH & MCLENNAN CO INC CMN x x 20-Oct-22 2-Nov-22 x
+DC PARKER-HANNIFIN CORP. CMN x x 20-Oct-22 2-Nov-22 x
+DC HUMANA INC. CMN x x x 20-Oct-22 2-Nov-22 x
+DC TESLA, INC. CMN x x 20-Oct-22 2-Nov-22 x
+DC PFIZER INC. CMN x x 20-Oct-22 2-Nov-22 x
+DC CATERPILLAR INC (DELAWARE) CMN x x 20-Oct-22 2-Nov-22 x
+DC TRUIST FINANCIAL CORPORATION CMN x x 20-Oct-22 2-Nov-22 x
+DC THE HOME DEPOT, INC. CMN x x 20-Oct-22 2-Nov-22 x
+DC AMAZON.COM INC CMN x x 20-Oct-22 2-Nov-22 x
+DC MICROSOFT CORPORATION CMN x x 20-Oct-22 2-Nov-22 x
+DC GENERAL MOTORS COMPANY CMN x x 20-Oct-22 2-Nov-22 x
+DC DEERE & COMPANY CMN x x 20-Oct-22 2-Nov-22 x
+DC BERKSHIRE HATHAWAY INC. CLASS B x x 20-Oct-22 2-Nov-22 x
+DC UNION PACIFIC CORP. CMN x x 20-Oct-22 2-Nov-22 x
+DC HCA HEALTHCARE, INC CMN x x x 20-Oct-22 2-Nov-22 x
+
+--- PAGE 05 ---
+HOUSE PERIODIC TRANSACTION REPORT Page 5 of 21
+Owner
+Ticker
+Asset Name
+Transaction
+Type
+Date of
+Transaction
+Date
+Notification
+Cap.
+Gains >
+$200?
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+is a Spouse
+or Dependent
+Child Asset
+over
+$1,000?
+DC
+BECTON, DICKINSON AND
+COMPANY CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+STRYKER CORPORATION CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+WELLS FARGO & CO (NEW) CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+WEYERHAEUSER COMPANY
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+LINDE PLC CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+MEDTRONIC PUBLIC LIMITED
+COMPA CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+NASDAQ INC. CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ABBVIE INC CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+HONEYWELL INTL INC CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+WALT DISNEY COMPANY (THE)
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+WASTE MANAGEMENT INC
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+VISA INC. CMN CLASS A
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+SS&C TECHNOLOGIES
+HOLDINGS, IN CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+BOOKING HOLDINGS INC. CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+CARRIER GLOBAL
+CORPORATION CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+BORGWARNER INC. CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+VISA INC. CMN CLASS A
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+TAKE TWO INTERACTIVE
+SOFTWARE INC
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+VERIZON COMMUNICATIONS,
+INC. CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+SVB FINANCIAL GROUP CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ELI LILLY & CO CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+
+--- PAGE 06 ---
+HOUSE Periodic Transaction Report Page 6 of 21
+SP/DC/JT
+Owner
+Asset Name
+Type of Transaction
+Capital
+Gains
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Cap. Gains > $200
+P
+S
+B
+S
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+Comment
+DC
+SHERWIN-WILLIAMS CO CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ALPHABET INC. CMN CLASS A
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ALPHABET INC. CMN CLASS C
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+HARTFORD FINANCIAL SRVCS
+GROUP CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+MARTIN MARIETTA
+MATERIALS,INC CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+MASTERCARD INCORPORATED
+CMN CLASS A
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+UNITEDHEALTH GROUP
+INCORPORATE CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+NVIDIA CORPORATION CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+SALESFORCE INC CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+LVMH MOET HENNESSY LOUIS
+VUITTON S.A. ADR CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+VF CORP CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+DANAHER CORPORATION CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+COSTCO WHOLESALE
+CORPORATION CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+CHIPOTLE MEXICAN GRILL, INC.
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+FIDELITY NATL INFO SVCS INC
+CMN
+X
+X
+7-Oct-22
+2-Nov-22
+X
+DC
+SVB FINANCIAL GROUP CMN
+X
+X
+31-Oct-22
+2-Nov-22
+X
+DC
+UBER TECHNOLOGIES, INC. CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+SBA COMMUNICATIONS
+CORPORATION CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ADYEN N.V. ADR CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+
+--- PAGE 07 ---
+Periodic Transaction Report Page 7 of 21
+Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Cap. Gains > $200?
+Owner
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction is in Spouse or Dependent Child Asset over $1,000,000
+$1,000 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+DC
+ATLASSIAN CORPORATION PLC
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+PROCTER & GAMBLE COMPANY
+(THE) CMN
+X
+X
+7-Oct-22
+2-Nov-22
+X
+DC
+TJX COMPANIES INC (NEW)
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+VERTEX PHARMACEUTICALS
+INCORPO CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+CROWDSTRIKE HOLDINGS, INC.
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ESTEE LAUDER COS INC CL-A
+CMN CLASS A
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+NOVO-NORDISK A/S ADR ADR
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ADOBE INC CMN
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+AIRBNB, INC. CMN CLASS A
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+LULULEMON ATHLETICA INC.
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+AMERICAN TOWER
+CORPORATION CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+MERCADOLIBRE, INC. CMN
+X
+X
+7-Oct-22
+2-Nov-22
+X
+DC
+COMCAST CORPORATION CMN
+CLASS A VOTING
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ABBOTT LABORATORIES CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+BROADCOM INC. CMN
+CLASS A VOTING
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+COMCAST CORPORATION CMN
+CLASS A VOTING
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+FIDELITY NATL. INFO SVCS INC
+CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+DEXCOM, INC. CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+NIKE CLASS-B CMN CLASS B
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+S&P GLOBAL INC. CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+
+--- PAGE 08 ---
+Periodic Transaction Report Page 8 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset Over $1,000,000
+$1,000 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+SP/J/DC
+Owner
+Purchase
+Sale
+Exchange
+Cap. Gains > $200
+Initial Transaction
+MM/DD/YY
+MM/DD/YY
+DC
+MARRIOTT INTERNATIONAL, INC CMN CLASS A
+x
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+APPLE INC. CMN
+x
+x
+28-Oct-22
+2-Nov-22
+x
+DC
+META PLATFORMS INC-CLASS A CMN CLASS A
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+TRADE DESK, INC. (THE) CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+SNOWFLAKE INC. CMN CLASS A
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+COMCAST CORPORATION CMN CLASS A VOTING
+x
+x
+10-Oct-22
+2-Nov-22
+x
+DC
+THE HOME DEPOT, INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+FIDELITY NATL INFO SVCS INC CMN
+x
+x
+10-Oct-22
+2-Nov-22
+x
+DC
+INTUITIVE SURGICAL, INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+NIKE CLASS-B CMN CLASS B
+x
+x
+3-Oct-22
+2-Nov-22
+x
+DC
+ASML HOLDING N.V. ADR CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+SPOTIFY TECHNOLOGY S.A. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+KKR & CO. INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+SVB FINANCIAL GROUP HYBRID PERPETUAL USD
+x
+x
+28-Oct-22
+2-Nov-22
+x
+DC
+AIRBNB, INC. CMN CLASS A
+x
+x
+3-Oct-22
+2-Nov-22
+x
+Ahuja Grandchildren's Education Trust
+DC
+ISHARES RUSSELL 1000 VALUE
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+ISHARES RUSSELL 1000 GROWTH ETF
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+ISHARES RUSSELL 1000 GROWTH ETF
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+SS&C TECHNOLOGIES HOLDINGS, IN CMN
+x
+28-Oct-22
+2-Nov-22
+x
+
+--- PAGE 09 ---
+NAME: Rohit Khanna Page 9 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in a Spouse
+or Dependent
+Child Asset
+over
+$1,000,000
+SP/J/DC
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital
+Gains
+$200
+Partial
+Transaction
+MM/DD/YY
+MM/DD/YY
+$1,000-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+DC
+SENSATA TECHNOLOGIES
+HOLDING P CMN
+X
+25-Oct-22
+2-Nov-22
+X
+DC
+GENERAL MOTORS COMPANY
+CMN
+X
+10-Oct-22
+2-Nov-22
+X
+DC
+AMAZON.COM INC CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+TESLA, INC. CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+APPLE INC. CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+MICROSOFT CORPORATION
+CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+ALPHABET INC. CMN CLASS C
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+ALPHABET INC. CMN CLASS A
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+NVIDIA CORPORATION CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+VISA INC. CMN CLASS A
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+AMERICAN INTL GROUP, INC.
+CMN
+X
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+ELI LILLY & CO CMN
+X
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+ADOBE INC CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+MASTERCARD INCORPORATED
+CMN CLASS A
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+AIRBNB, INC. CMN CLASS A
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+CHIPOTLE MEXICAN GRILL, INC.
+CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+NETFLIX, INC. CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+BANK OF AMERICA CORP CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+COSTCO WHOLESALE
+CORPORATION CMN
+X
+21-Oct-22
+2-Nov-22
+X
+DC
+ALPHABET INC. CMN CLASS A
+X
+X
+20-Oct-22
+2-Nov-22
+X
+DC
+TEXAS INSTRUMENTS INC. CMN
+X
+X
+20-Oct-22
+2-Nov-22
+X
+
+--- PAGE 10 ---
+PAGE: 10 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Transaction is a Spouse or Dependent Child Asset over $1,000,000
+DC
+SALESFORCE INC CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+ABBOTT LABORATORIES CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+KKR & CO. INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+ESTEE LAUDER COS INC CL-A CMN CLASS A
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+LULULEMON ATHLETICA INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+HUMANA INC. CMN
+x
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+HUMANA INC. CMN
+x
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+PEPSICO, INC. CMN
+x
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+MICROSOFT CORPORATION CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+NIKE CLASS-B CMN CLASS B
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+UBER TECHNOLOGIES, INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+PFIZER INC. CMN
+x
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+THE HOME DEPOT, INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+MARSH & MCLENNAN CO INC CMN
+x
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+TRUIST FINANCIAL CORPORATION CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+BERKSHIRE HATHAWAY INC. CLASS B
+x
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+AMAZON.COM INC CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+ATLASSIAN CORPORATION PLC CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+MERCADOLIBRE, INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+GENERAL MOTORS COMPANY CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+TJX COMPANIES INC (NEW) CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+CATERPILLAR INC (DELAWARE) CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+
+--- PAGE 11 ---
+NAME: Ro Khanna Page 11 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent child Asset over $1,000,000
+SP/DC/JT
+Owner
+Purchase
+Sale
+Exchange
+Cap. Gains >$200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A $1,000 - $15,000
+B $15,001 - $50,000
+C $50,001 - $100,000
+D $100,001 - $250,000
+E $250,001 - $500,000
+F $500,001 - $1,000,000
+G $1,000,001 - $5,000,000
+H $5,000,001 - $25,000,000
+I $25,000,001 - $50,000,000
+J $50,000,001 - $100,000,000
+K Over $50,000,000
+DC
+SHOPIFY INC. CMN CLASS A
+x
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+DEERE & COMPANY CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+PARKER-HANNIFIN CORP. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+META PLATFORMS INC-CLASS A CMN CLASS A
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+N V R INC CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+UNION PACIFIC CORP. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+CROWDSTRIKE HOLDINGS, INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+BECTON, DICKINSON AND COMPANY CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+MATCH GROUP, INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+LINDE PLC CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+WEYERHAEUSER COMPANY CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+HCA HEALTHCARE, INC CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+MEDTRONIC PUBLIC LIMITED COMPA CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+SS&C TECHNOLOGIES HOLDINGS, IN CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+NASDAQ INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+STRYKER CORPORATION CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+WASTE MANAGEMENT INC CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+WELLS FARGO & CO (NEW) CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+MARRIOTT INTERNATIONAL, INC CMN CLASS A
+x
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+VISA INC. CMN CLASS A
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+WALT DISNEY COMPANY (THE) CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+
+--- PAGE 12 ---
+NAME: Rohit Khanna Page 12 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+$1,000 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+DC
+DANAHER CORPORATION CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+HONEYWELL INTL INC CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+TRADE DESK, INC. (THE) CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+ABBVIE INC CMN
+x
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+BOOKING HOLDINGS INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+DOMINION ENERGY INC CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+HARTFORD FINANCIAL SRVCS GROUP CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+BORGWARNER INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+VERIZON COMMUNICATIONS, INC. CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+DEXCOM, INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+SNOWFLAKE INC. CMN CLASS A
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+SVB FINANCIAL GROUP CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+CARRIER GLOBAL CORPORATION CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+PEPSICO, INC. CMN
+x
+x
+13-Oct-22
+2-Nov-22
+x
+DC
+INTUITIVE SURGICAL, INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+VF CORP CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+BLOCK, INC. CMN CLASS A
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+TAKE TWO INTERACTIVE SOFTWARE INC
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+SHERWIN-WILLIAMS CO CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+PAYPAL HOLDINGS, INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+S&P GLOBAL INC. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+MARTIN MARIETTA MATERIALS, INC CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+
+--- PAGE 13 ---
+NAME: Rohit Khanna Page 13 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in of Spouse
+or Dependent
+Child Asset
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital
+Gains
+Exceed
+$200
+Partial
+Transaction
+MM/DD/YY
+MM/DD/YY
+$1,000-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+$1,000,000
+DC
+SPOTIFY TECHNOLOGY S.A. CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+ABBOTT LABORATORIES CMN
+x
+x
+13-Oct-22
+2-Nov-22
+x
+DC
+SBA COMMUNICATIONS
+CORPORATION CMN
+x
+x
+20-Oct-22
+2-Nov-22
+x
+DC
+FIDELITY NATL INFO SVCS INC
+CMN
+x
+x
+7-Oct-22
+2-Nov-22
+x
+DC
+HUBSPOT INC, CMN
+x
+21-Oct-22
+2-Nov-22
+x
+DC
+SVB FINANCIAL GROUP CMN
+x
+x
+31-Oct-22
+2-Nov-22
+x
+DC
+TWILIO INC. CMN CLASS A
+x
+21-Oct-22
+2-Nov-22
+x
+Ahuja Khanna Children Irrevocable Trust
+DC
+NJ ECONOMIC DEV AUTH REV
+5% 03/01/30 MS
+x
+6-Oct-22
+2-Nov-22
+x
+DC
+DALLAS CNTY TEX UTIL & GO 5%
+02/15/23 FA
+x
+19-Oct-22
+2-Nov-22
+x
+DC
+PHOENIX ARIZ CIVIC IMPT CORP
+REV 5% 07/01/23 JJ
+x
+19-Oct-22
+2-Nov-22
+x
+Ritu Ahuja Declaration of Trust
+SP
+ISHARES RUSSELL 2000 ETF
+x
+20-Oct-22
+2-Nov-22
+x
+SP
+CHAMPLAIN SMALL COMPANY
+FUND INSTITUTIONAL
+x
+x
+20-Oct-22
+2-Nov-22
+x
+SP
+CHAMPLAIN SMALL COMPANY
+FUND INSTITUTIONAL
+x
+x
+21-Oct-22
+2-Nov-22
+x
+Ritu Ahuja 1994 Trust
+SP
+SPDR S&P 500 ETF TRUST
+x
+10/20/22
+11/02/22
+x
+SP
+SENSATA TECHNOLOGIES
+HOLDING P CMN
+x
+10/25/22
+11/02/22
+x
+SP
+SS&C TECHNOLOGIES
+HOLDINGS, IN CMN
+x
+10/17/22
+11/02/22
+x
+SP
+SERVICENOW INC CMN
+x
+10/05/22
+11/02/22
+x
+SP
+ILLUMINA, INC CMN
+x
+10/05/22
+11/02/22
+x
+
+--- PAGE 14 ---
+PAGE 14 OF 21
+Date Notified of
+Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+Transaction in a Spouse
+or Dependent
+Child/Asset
+Over
+SP
+NJ ECONOMIC DEV AUTH REV
+5% 03/01/30 MS
+x
+10/06/22
+11/02/22
+x
+$1,000 - $15,000 - $50,001 - $100,001 - $250,001 - $500,001 - $1,000,001 - $5,000,001 - $25,000,001 - Over
+$15,000 $50,000 $100,000 $250,000 $500,000 $1,000,000 $5,000,000 $25,000,000 $50,000,000 $50,000,000
+SP
+ALPHABET INC. CMN CLASS C
+x
+10/28/22
+11/02/22
+x
+SP
+MESA ARIZ UTIL SYS REV REV
+4.0000% 07/01/23 JJ
+x
+10/19/22
+11/02/22
+x
+SP
+SS&C TECHNOLOGIES
+HOLDINGS, IN CMN
+x
+10/21/22
+11/02/22
+x
+SP
+SENSATA TECHNOLOGIES
+HOLDING P CMN
+x
+10/13/22
+11/02/22
+x
+SP
+SS&C TECHNOLOGIES
+HOLDINGS, IN CMN
+x
+10/18/22
+11/02/22
+x
+SP
+SS&C TECHNOLOGIES
+HOLDINGS, IN CMN
+x
+10/28/22
+11/02/22
+x
+SP
+SS&C TECHNOLOGIES
+HOLDINGS, IN CMN
+x
+10/19/22
+11/02/22
+x
+SP
+SALESFORCE INC CMN
+10/21/2022
+x
+10/03/22
+11/02/22
+x
+SP
+PUT/XSP
+@ 375 EXP
+x
+10/19/22
+11/02/22
+x
+SP
+PUT/XSP
+01/20/2023
+@ 320 EXP
+x
+10/19/22
+11/02/22
+x
+SP
+PUT/XSP
+12/02/2022
+@ 345 EXP
+x
+10/19/22
+11/02/22
+x
+SP
+PUT/XSP
+12/09/2022
+@ 357 EXP
+x
+10/27/22
+11/02/22
+x
+SP
+AMAZON.COM INC CMN
+x
+10/20/22
+11/02/22
+x
+SP
+ALPHABET INC. CMN CLASS C
+x
+10/20/22
+11/02/22
+x
+SP
+MICROSOFT CORPORATION
+CMN
+x
+10/20/22
+11/02/22
+x
+SP
+NETFLIX, INC. CMN
+x
+10/20/22
+11/02/22
+x
+SP
+ADOBE INC CMN
+x
+10/20/22
+11/02/22
+x
+SP
+AMAZON.COM INC CMN
+x
+10/11/22
+11/02/22
+x
+SP
+SALESFORCE INC CMN
+x
+10/20/22
+11/02/22
+x
+
+--- PAGE 15 ---
+NAME: Robin Khanna Page 15 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP
+WESTINGHOUSE AIR BRAKE
+TECHNOL CMN
+X
+X
+X
+10/28/22
+11/02/22
+X
+SP
+MASTERCARD INCORPORATED
+CMN CLASS A
+X
+X
+10/03/22
+11/02/22
+X
+SP
+META PLATFORMS INC-CLASS A
+CMN CLASS A
+X
+X
+10/20/22
+11/02/22
+X
+SP
+VISA INC. CMN CLASS A
+X
+X
+10/03/22
+11/02/22
+X
+SP
+SERVICENOW INC CMN
+X
+X
+10/20/22
+11/02/22
+X
+SP
+MASTERCARD INCORPORATED
+CMN CLASS A
+X
+X
+10/20/22
+11/02/22
+X
+SP
+AUTODESK, INC. CMN
+X
+X
+10/20/22
+11/02/22
+X
+SP
+URBAN OUTFITTERS INC CMN
+X
+X
+10/28/22
+11/02/22
+X
+SP
+AIRBNB, INC. CMN CLASS A
+X
+X
+10/20/22
+11/02/22
+X
+SP
+UNITEDHEALTH GROUP
+INCORPORATE CMN
+X
+X
+X
+10/20/22
+11/02/22
+X
+SP
+VISA INC. CMN CLASS A
+X
+X
+10/20/22
+11/02/22
+X
+SP
+ALPHABET INC. CMN CLASS C
+X
+X
+10/11/22
+11/02/22
+X
+SP
+ACCENTURE PLC CMN CLASS A
+X
+X
+10/20/22
+11/02/22
+X
+SP
+ABBOTT LABORATORIES CMN
+X
+X
+10/20/22
+11/02/22
+X
+SP
+META PLATFORMS INC-CLASS A
+CMN CLASS A
+X
+X
+10/27/22
+11/02/22
+X
+SP
+MERCK & CO., INC. CMN
+X
+X
+10/26/22
+11/02/22
+X
+SP
+PAYPAL HOLDINGS, INC. CMN
+X
+X
+10/20/22
+11/02/22
+X
+SP
+ILLUMINA, INC CMN
+X
+X
+10/20/22
+11/02/22
+X
+SP
+FEDEX CORPORATION CMN
+X
+X
+10/04/22
+11/02/22
+X
+SP
+FEDEX CORPORATION CMN
+X
+X
+10/17/22
+11/02/22
+X
+SP
+MICROSOFT CORPORATION
+CMN
+X
+X
+10/11/22
+11/02/22
+X
+SP
+WESTINGHOUSE AIR BRAKE
+TECHNOL CMN
+X
+X
+10/17/22
+11/02/22
+X
+
+--- PAGE 16 ---
+PERIODIC TRANSACTION REPORT
+PAGE 16 OF 21
+SP REGIONS FINANCIAL CORPORATION CMN
+SP WESTINGHOUSE AIR BRAKE TECHNOL CMN
+SP GARTNER, INC. CMN
+SP ADOBE INC CMN
+SP ZOETIS INC. CMN CLASS A
+SP SERVICENOW INC CMN
+SP NETFLIX, INC. CMN
+SP SALESFORCE INC CMN
+SP AT&T INC. CMN
+SP META PLATFORMS INC-CLASS A CMN CLASS A
+SP AUTODESK, INC. CMN
+SP MASTERCARD INCORPORATED CMN CLASS A
+SP UNITEDHEALTH GROUP INCORPORATE CMN
+SP ABBOTT LABORATORIES CMN
+SP AIRBNB, INC. CMN CLASS A
+SP VISA INC. CMN CLASS A
+SP ACCENTURE PLC CMN CLASS A
+SP NIKE CLASS-B CMN CLASS B
+SP WESTINGHOUSE AIR BRAKE TECHNOL CMN
+SP PAYPAL HOLDINGS, INC. CMN
+SP ILLUMINA, INC CMN
+SP DOCUSIGN, INC. CMN
+SP GARTNER, INC. CMN
+SP ZOETIS INC. CMN CLASS A
+SP NIKE CLASS-B CMN CLASS B
+
+--- PAGE 17 ---
+PERIODIC TRANSACTION REPORT
+NAME: AHUJA, ROHIT
+PAGE 17 OF 21
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in Spouse or Child Asset
+Owner
+Asset
+Purchase
+Sale
+Exchange
+Cap. Gains > $200
+Partial Investment
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,000 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+SP
+ALIGN TECHNOLOGY, INC CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+DOCUSIGN, INC. CMN
+x
+x
+10/11/22
+11/02/22
+x
+SP
+ALIGN TECHNOLOGY, INC CMN
+x
+x
+10/11/22
+11/02/22
+x
+Ritu Ahuja 1995 Trust
+SP
+ISHARES RUSSELL 1000 VALUE
+x
+10/20/22
+11/02/22
+x
+SP
+WAKE CNTY N C GO 5%
+03/01/23 MS
+x
+10/04/22
+11/02/22
+x
+SP
+PLATTE RIVER POWER
+AUTHORITY REV 5.0000%
+06/01/23 JD
+x
+10/04/22
+11/02/22
+x
+SP
+BENTONVILLE ARK SCH DIST NO
+GO 5% 06/01/23-CA JD
+x
+10/04/22
+11/02/22
+x
+SP
+MANATEE CNTY FLA REV REV
+5% 10/01/23 AO
+x
+10/10/22
+11/02/22
+x
+SP
+GENERAL MOTORS COMPANY
+CMN
+x
+10/07/22
+11/02/22
+x
+SP
+VERIZON COMMUNICATIONS,
+INC. CMN
+x
+10/21/22
+11/02/22
+x
+SP
+HCA HEALTHCARE, INC CMN
+x
+x
+10/28/22
+11/02/22
+x
+SP
+AMAZON.COM INC CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+AMERICAN INTL. GROUP, INC.
+CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+PEPSICO, INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+ABBOTT LABORATORIES CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+ALPHABET INC. CMN CLASS A
+x
+x
+10/20/22
+11/02/22
+x
+SP
+BANK OF AMERICA CORP CMN
+x
+x
+10/20/22
+11/02/22
+x
+
+--- PAGE 18 ---
+HOUSE Periodic Transaction Report Page 18 of 21
+Full Asset Name
+Type of Transaction
+Owner
+Date of Transaction
+Date Notification of Transaction
+Amount of Transaction
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+Purchase
+Sale
+Exchange
+Cap. Gains > $200
+Partial
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP
+TEXAS INSTRUMENTS INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+KKR & CO. INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+MARSH & MCLENNAN CO INC
+CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+MICROSOFT CORPORATION
+CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+N V R INC CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+AMAZON.COM INC CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+PFIZER INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+PARKER-HANNIFIN CORP. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+CATERPILLAR INC (DELAWARE)
+CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+THE HOME DEPOT, INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+GENERAL MOTORS COMPANY
+CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+TRUST FINANCIAL
+CORPORATION CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+BERKSHIRE HATHAWAY INC.
+CLASS B
+x
+x
+10/20/22
+11/02/22
+x
+SP
+LINDE PLC CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+HUMANA INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+HCA HEALTHCARE, INC CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+BOOKING HOLDINGS INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+STRYKER CORPORATION CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+DEERE & COMPANY CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+WEYERHAEUSER COMPANY
+CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+WELLS FARGO & CO (NEW) CMN
+x
+x
+10/20/22
+11/02/22
+x
+
+--- PAGE 19 ---
+NAME: Rohit Khanna Page 19 of 21
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+Capital Gains Exceed $200
+Partial Transaction
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+$25,000,001- $50,000,000
+Over $50,000,000
+SP
+WALT DISNEY COMPANY (THE) CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+HONEYWELL INTL INC CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+CARRIER GLOBAL CORPORATION CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+UNION PACIFIC CORP. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+VISA INC. CMN CLASS A
+x
+x
+10/20/22
+11/02/22
+x
+SP
+SS&C TECHNOLOGIES HOLDINGS, IN CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+NASDAQ INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+BECTON, DICKINSON AND COMPANY CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+MEDTRONIC PUBLIC LIMITED COMPA CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+ABBVIE INC CMN
+x
+x
+x
+10/20/22
+11/02/22
+x
+SP
+BORGWARNER INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+TAKE TWO INTERACTIVE SOFTWARE INC
+x
+x
+10/20/22
+11/02/22
+x
+SP
+VERIZON COMMUNICATIONS, INC. CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+HUMANA INC. CMN
+x
+x
+x
+10/13/22
+11/02/22
+x
+SP
+VF CORP CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+SVB FINANCIAL GROUP CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+HARTFORD FINANCIAL SRVCS GROUP CMN
+x
+x
+x
+10/20/22
+11/02/22
+x
+SP
+SBA COMMUNICATIONS CORPORATION CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+MARTIN MARIETTA MATERIALS, INC CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+SHERWIN-WILLIAMS CO CMN
+x
+x
+10/20/22
+11/02/22
+x
+
+--- PAGE 20 ---
+NAME: Seth Moulton Page 20 of 21
+Full Asset Name
+Type of Transaction
+Owner
+Date of Transaction
+Date Notification of Transaction
+Amount of Transaction
+Transaction Type (Spouse or Dependent Child)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP
+WASTE MANAGEMENT INC
+CMN
+x
+x
+x
+10/20/22
+11/02/22
+x
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Transaction Type (Spouse or Dependent Child)
+SP
+SVB FINANCIAL GROUP CMN
+x
+x
+10/31/22
+11/02/22
+x
+SP
+COMCAST CORPORATION CMN
+CLASS A VOTING
+x
+x
+10/07/22
+11/02/22
+x
+SP
+FIDELITY NATL INFO SVCS INC
+CMN
+x
+x
+10/07/22
+11/02/22
+x
+SP
+COMCAST CORPORATION CMN
+CLASS A VOTING
+x
+x
+10/20/22
+11/02/22
+x
+SP
+FIDELITY NATL INFO SVCS INC
+CMN
+x
+x
+10/20/22
+11/02/22
+x
+SP
+COMCAST CORPORATION CMN
+CLASS A VOTING
+x
+x
+10/10/22
+11/02/22
+x
+SP
+FIDELITY NATL INFO SVCS INC
+CMN
+x
+x
+10/10/22
+11/02/22
+x
+M & R TP Primary
+DC
+TIGER GLOBAL CROSSOVER
+ACCESS LLC CLASS A1 SERIES 2
+x
+x
+10/01/22
+11/02/22
+x
+
+--- PAGE 21 ---
+NAME: Ro Khanna Page 21 of 21
+SP/DC/JT
+Owner
+Full Asset Name
+Type of Transaction
+Cap. Gains > $200
+Partial Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction in a Spouse or Dependent Child Asset over $1,000,000
+Provide full name, not ticker symbol.
+Purchase
+Sale
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+MURA Holdings
+RA94
+SP
+Home Depot Inc
+X
+6-Oct-22
+11-Oct-22
+X
+SP
+Verizon Communications Inc
+X
+6-Oct-22
+11-Oct-22
+X
+SP
+Coca-Cola Co
+X
+6-Oct-22
+11-Oct-22
+X
+SP
+Costco Wholesale Corp
+X
+6-Oct-22
+11-Oct-22
+X
+SP
+Starbucks Corp
+X
+6-Oct-22
+11-Oct-22
+X
+SP
+Comcast Corp
+X
+26-Oct-22
+28-Oct-22
+X
+SP
+Nextera Energy Inc
+X
+26-Oct-22
+28-Oct-22
+X
+MURA Holdings
+Grandchildren Trust (Khanna Portion)
+DC
+Home Depot Inc
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Verizon Communications Inc
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Coca-Cola Co
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Costco Wholesale Corp
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Starbucks Corp
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Comcast Corp
+X
+26-Oct-22
+28-Oct-22
+X
+DC
+Nextera Energy Inc
+X
+26-Oct-22
+28-Oct-22
+X
+MURA Holdings
+2020 Trust FBO Khanna Children
+DC
+Home Depot Inc
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Verizon Communications Inc
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Coca-Cola Co
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Costco Wholesale Corp
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Starbucks Corp
+X
+6-Oct-22
+11-Oct-22
+X
+DC
+Comcast Corp
+X
+26-Oct-22
+28-Oct-22
+X
+DC
+Nextera Energy Inc
+X
+26-Oct-22
+28-Oct-22
+X

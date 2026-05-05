@@ -1,0 +1,53 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "lda_khanna_contributions_2026_05_02.json",
+  "snapshot_sha256": "06b25ea31c2460ffddce4d2d2cbcd63b02a0b21912f5bcb5c11cab034b22fb78",
+  "snapshot_size_bytes": 4185,
+  "primary_source_class": "lda_senate_disclosure_api",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:06:22.303422+00:00",
+  "primary_source_endpoints": [
+    {
+      "title": "filings_by_contribution_payee_kw_khanna",
+      "url": "https://lda.senate.gov/api/v1/filings/?contribution_payee_keyword=khanna&page_size=100",
+      "fetched_sha256_raw_bytes": "3be0ca223b70e3493a6adfa9d435b59c3560ee668978053b0b985dcc68b0b5d3",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:22.303422+00:00",
+        "http_status": 200,
+        "content_length": 103372,
+        "header_content_length": null,
+        "header_content_type": "application/json",
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": "gunicorn",
+        "header_date": "Tue, 05 May 2026 01:06:23 GMT"
+      },
+      "fetch_status": "OK",
+      "api_response_count": 1946332
+    },
+    {
+      "title": "contributions_by_payee_kw_khanna",
+      "url": "https://lda.senate.gov/api/v1/contributions/?contribution_payee_keyword=khanna&page_size=100",
+      "fetched_sha256_raw_bytes": "87d480d3942e85ea2f63c02621b70fa44dc33668d748079f8c0ea10288b0bd15",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:25.609854+00:00",
+        "http_status": 200,
+        "content_length": 42687,
+        "header_content_length": "42687",
+        "header_content_type": "application/json",
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": "gunicorn",
+        "header_date": "Tue, 05 May 2026 01:06:26 GMT"
+      },
+      "fetch_status": "OK",
+      "api_response_count": 656058
+    }
+  ],
+  "post_fetch_transformations": [],
+  "gap_reason": null,
+  "primary_source_explanation": "LDA Senate disclosure XML / JSON API at lda.senate.gov. Snapshot filters to filings whose contribution_items text contains 'khanna' OR 'c00503185' (Ro for Congress committee). Spot-check API endpoint may return drift due to ongoing filing accrual; snapshot is bundled-frozen at 2026-05-02.",
+  "expected_drift_class": "PASS_WITH_DEFECT_substrate_count_drift",
+  "expected_drift_explanation": "LDA API count likely exceeds snapshot count by 0-5% due to ongoing filing accrual since 2026-05-02 freeze. This is benign drift, NOT a tamper signal. Spot-check classifies as PASS_WITH_DEFECT when delta < 5% AND snapshot rows are a subset of live response."
+}

@@ -1,0 +1,219 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "statute_cites_2026_05_02.json",
+  "snapshot_sha256": "8bac5b532230f87616561390c14e8c208a314924352697dfbe656e1ee1ce37da",
+  "snapshot_size_bytes": 265150,
+  "primary_source_class": "statute_text_uscode_ecfr",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:05:27.634208+00:00",
+  "primary_source_endpoints": [
+    {
+      "anchor_id": "OCC_M070",
+      "title": "federal_usc title 5 § 13105",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title5-section13105&f=treesort&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "76f4e774103d123ac00ace4a6f2c5e67e3fc87d184a22b99d230622b5253f7f9",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:27.634208+00:00",
+        "http_status": 200,
+        "content_length": 184135,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M071",
+      "title": "federal_usc title 5 § 13106",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title5-section13106&f=treesort&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "de92784d4951157831890883091da24f1be508701816b5c78cd0e4feb66c2f56",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:29.475366+00:00",
+        "http_status": 200,
+        "content_length": 150999,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M072",
+      "title": "federal_usc title 15 § 78u-1",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title15-section78u-1&f=treesort&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "a97dbd2ff29c247a1d7c33dfda262fcbb94e9037bf39217ba6719bdb8f841de3",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:32.258172+00:00",
+        "http_status": 200,
+        "content_length": 178250,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M073",
+      "title": "federal_usc title 5 § 13104",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title5-section13104&f=treesort&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "ce4b604061ce6e2c82d324e084fc5c5cfa5ded7b0a585a0c7c748be42d6c0706",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:33.779509+00:00",
+        "http_status": 200,
+        "content_length": 208959,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M074",
+      "title": "federal_cfr title 11 § 109.21",
+      "url": "https://www.govinfo.gov/content/pkg/CFR-2023-title11-vol1/pdf/CFR-2023-title11-vol1-sec109-21.pdf",
+      "fetched_sha256_raw_bytes": "798355c938babd25b4b17579c689b37cb57b614f87003c85f932619757bfcf36",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:35.295826+00:00",
+        "http_status": 200,
+        "content_length": 193758,
+        "header_content_length": "193758",
+        "header_content_type": "application/pdf",
+        "header_etag": null,
+        "header_last_modified": "Wed, 22 May 2024 13:45:45 GMT",
+        "header_server": "cloudflare",
+        "header_date": "Tue, 05 May 2026 01:05:39 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M075",
+      "title": "federal_usc title 52 § 30116",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title52-section30116&f=treesort&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "d2cc97f78a3d0f83ffce1b57fd8597169097c6d71969aa7718ecd86b4d58ceb1",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:40.612564+00:00",
+        "http_status": 200,
+        "content_length": 195621,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M076a",
+      "title": "federal_usc title 2 § 1604",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1604&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "9fc1cbe5b94807b47ad3032b361111b48a0dfb9501d02599150373178b67d240",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:44.278792+00:00",
+        "http_status": 200,
+        "content_length": 162180,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M076b",
+      "title": "federal_usc title 2 § 1605",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1605&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "c64329aa3ca2284cb679fa0f98829afd60048d61339beab095a87dbbdf7daa60",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:46.769188+00:00",
+        "http_status": 200,
+        "content_length": 151515,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M076c",
+      "title": "federal_usc title 2 § 1606",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1606&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "7df685dec801ec93993bb834e1be42b6b6fe86d2f2e3f3194d6732804293edd8",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:51.883984+00:00",
+        "http_status": 200,
+        "content_length": 145579,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M077",
+      "title": "federal_usc title 18 § 207",
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title18-section207&f=treesort&num=0&edition=prelim",
+      "fetched_sha256_raw_bytes": "b8040573538f90829eacb909736beebb38940fc09b2941fbe76018b9f4584083",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:53.361250+00:00",
+        "http_status": 200,
+        "content_length": 274586,
+        "header_content_length": null,
+        "header_content_type": null,
+        "header_etag": null,
+        "header_last_modified": null,
+        "header_server": null,
+        "header_date": null
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "anchor_id": "OCC_M078",
+      "title": "house_rules title 119 § XXIII",
+      "url": "https://www.govinfo.gov/content/pkg/HMAN-119/pdf/HMAN-119.pdf",
+      "fetched_sha256_raw_bytes": "c51acd6c0682b0913e581a27f56bbad4debaf1d5d07e070a875c9f49c90c0c33",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:05:55.131414+00:00",
+        "http_status": 200,
+        "content_length": 3461585,
+        "header_content_length": "3461585",
+        "header_content_type": "application/pdf",
+        "header_etag": null,
+        "header_last_modified": "Thu, 15 May 2025 15:39:52 GMT",
+        "header_server": "cloudflare",
+        "header_date": "Tue, 05 May 2026 01:06:01 GMT"
+      },
+      "fetch_status": "OK"
+    }
+  ],
+  "post_fetch_transformations": [
+    {
+      "step": "html_to_text_normalize",
+      "tool": "BeautifulSoup",
+      "note": "uscode.house.gov returns XHTML; full_text in snapshot is the section text extracted via DOM walk. Spot-check verifies the raw HTML bytes; the text-normalization step is auditable against the same source by inspecting the snapshot's `full_text` field."
+    }
+  ],
+  "gap_reason": null,
+  "primary_source_explanation": "Each operative statute / regulation cite resolves against the authoritative full_text fetched from uscode.house.gov (USC) or ecfr.gov (CFR) at snapshot freeze time. The OCC body cites the section_label + full_text from this snapshot, NOT a memorized rendering. Spot-check: re-fetch each source_url, hash bytes, compare to fetched_sha256_raw_bytes here."
+}

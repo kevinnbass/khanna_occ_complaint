@@ -1,0 +1,1797 @@
+{
+  "file_key": "20030930",
+  "total_pages": 28,
+  "pages": {
+    "0": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "AbbVie Inc. Common Stock (ABBV)",
+            "asset_ticker": "ABBV",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "AbbVie Inc. Common Stock (ABBV)",
+            "asset_ticker": "ABBV",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Alexandria Real Estate Equities, Inc. Common Stock (ARE)",
+            "asset_ticker": "ARE",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Alphabet Inc. - Class A Common Stock (GOOGL)",
+            "asset_ticker": "GOOGL",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 527
+    },
+    "1": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Alphabet Inc. - Class A Common Stock (GOOGL)",
+            "asset_ticker": "GOOGL",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "American Homes 4 Rent Common Shares of Beneficial Interest (AMH)",
+            "asset_ticker": "AMH",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "American Homes 4 Rent Common Shares of Beneficial Interest (AMH)",
+            "asset_ticker": "AMH",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "American Tower Corporation (AMT)",
+            "asset_ticker": "AMT",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "American Tower Corporation (AMT)",
+            "asset_ticker": "AMT",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Apollo Global Management, Inc. (APO)",
+            "asset_ticker": "APO",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 777
+    },
+    "2": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Apollo Global Management, Inc. (APO)",
+            "asset_ticker": "APO",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Appell Pete Corp (APPL)",
+            "asset_ticker": "APPL",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Apple Inc. - Common Stock (AAPL)",
+            "asset_ticker": "AAPL",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Ares Management Corporation Class A Common Stock (ARES)",
+            "asset_ticker": "ARES",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Ares Management Corporation Class A Common Stock (ARES)",
+            "asset_ticker": "ARES",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "10/09/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 647
+    },
+    "9": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Home Depot, Inc. (HD)",
+            "asset_ticker": "HD",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Honeywell International Inc. (HON)",
+            "asset_ticker": "HON",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "02/28/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Intercontinental Exchange Inc. Common Stock (ICE)",
+            "asset_ticker": "ICE",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "09/26/2024",
+            "notification_date": "07/11/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Intercontinental Exchange Inc. Common Stock (ICE)",
+            "asset_ticker": "ICE",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Johnson & Johnson Common Stock (JNJ)",
+            "asset_ticker": "JNJ",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 638
+    },
+    "8": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Equity Residential Common Shares of Beneficial Interest (EQR)",
+            "asset_ticker": "EQR",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Freeport-McMoRan, Inc. Common Stock (FCX)",
+            "asset_ticker": "FCX",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Gaming and Leisure Properties, Inc. - Common Stock (GLPI)",
+            "asset_ticker": "GLPI",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Goldman Sachs Group, Inc. (GS)",
+            "asset_ticker": "GS",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Hewlett Packard Enterprise Company Common Stock (HPE)",
+            "asset_ticker": "HPE",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Home Depot, Inc. (HD)",
+            "asset_ticker": "HD",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 781
+    },
+    "4": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Blackstone Inc. Common Stock (BX)",
+            "asset_ticker": "BX",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Blue Owl Capital Inc. Class A Common Stock (OWL)",
+            "asset_ticker": "OWL",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Blue Owl Capital Inc. Class A Common Stock (OWL)",
+            "asset_ticker": "OWL",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Broadcom Inc. - Common Stock (AVGO)",
+            "asset_ticker": "AVGO",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Broadcom Inc. - Common Stock (AVGO)",
+            "asset_ticker": "AVGO",
+            "owner": null,
+            "transaction_type": "S (partial)",
+            "transaction_date": "01/07/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 651
+    },
+    "6": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "DBA Sempra Common Stock (SRE)",
+            "asset_ticker": "SRE",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Eaton Corporation, PLC Ordinary Shares (ETN)",
+            "asset_ticker": "ETN",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Edison International Common Stock (EIX)",
+            "asset_ticker": "EIX",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Emerson Electric Company Common Stock (EMR)",
+            "asset_ticker": "EMR",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Enbridge Inc Common Stock (ENB)",
+            "asset_ticker": "ENB",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "EQT Corporation Common Stock (EQT)",
+            "asset_ticker": "EQT",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 773
+    },
+    "7": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "EQT Corporation Common Stock (EQT)",
+            "asset_ticker": "EQT",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Equinix, Inc. - Common Stock (EQIX)",
+            "asset_ticker": "EQIX",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Equinix, Inc. - Common Stock (EQIX)",
+            "asset_ticker": "EQIX",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Equity Lifestyle Properties, Inc. Common Stock (ELS)",
+            "asset_ticker": "ELS",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Equity Lifestyle Properties, Inc. Common Stock (ELS)",
+            "asset_ticker": "ELS",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Equity Residential Common Shares of Beneficial Interest (EQR)",
+            "asset_ticker": "EQR",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 780
+    },
+    "5": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Broadcom Inc. - Common Stock (AVGO)",
+            "asset_ticker": "AVGO",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Citigroup, Inc. Common Stock (C)",
+            "asset_ticker": "C",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Coca-Cola Company (KO)",
+            "asset_ticker": "KO",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Coca-Cola Company (KO)",
+            "asset_ticker": "KO",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Colgate-Palmolive Company Common Stock (CL)",
+            "asset_ticker": "CL",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Comcast Corporation - Class A Common Stock (CMCSA)",
+            "asset_ticker": "CMCSA",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 769
+    },
+    "3": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "ASML Holding N.V. - New York Registry Shares (ASML)",
+            "asset_ticker": "ASML",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "ASML Holding N.V. - New York Registry Shares (ASML)",
+            "asset_ticker": "ASML",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "ASML Holding N.V. - New York Registry Shares (ASML)",
+            "asset_ticker": "ASML",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Bank of America Corporation Common Stock (BAC)",
+            "asset_ticker": "BAC",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "BlackRock, Inc. Common Stock (BLK)",
+            "asset_ticker": "BLK",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "BlackRock, Inc. Common Stock (BLK)",
+            "asset_ticker": "BLK",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Blackstone Inc. Common Stock (BX)",
+            "asset_ticker": "BX",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1567,
+      "tokens_out": 913
+    },
+    "10": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "JP Morgan Chase & Co. Common Stock (JPM)",
+            "asset_ticker": "JPM",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "JP Morgan Chase & Co. Common Stock (JPM)",
+            "asset_ticker": "JPM",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Kinder Morgan, Inc. Common Stock (KMI)",
+            "asset_ticker": "KMI",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Kinder Morgan, Inc. Common Stock (KMI)",
+            "asset_ticker": "KMI",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "L3Harris Technologies, Inc. Common Stock (LHX)",
+            "asset_ticker": "LHX",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "L3Harris Technologies, Inc. Common Stock (LHX)",
+            "asset_ticker": "LHX",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 787
+    },
+    "11": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Lennar Corporation Class A Common Stock (LEN)",
+            "asset_ticker": "LEN",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "09/26/2024",
+            "notification_date": "07/11/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Lennar Corporation Class A Common Stock (LEN)",
+            "asset_ticker": "LEN",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Lineage, Inc. - Common Stock (LINE)",
+            "asset_ticker": "LINE",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Lockheed Martin Corporation Common Stock (LMT)",
+            "asset_ticker": "LMT",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Marvell Technology, Inc. - Common Stock (MRVL)",
+            "asset_ticker": "MRVL",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "06/06/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Marvell Technology, Inc. - Common Stock (MRVL)",
+            "asset_ticker": "MRVL",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 780
+    },
+    "13": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Meta Platforms, Inc. - Class A Common Stock (META)",
+            "asset_ticker": "META",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Meta Platforms, Inc. - Class A Common Stock (META)",
+            "asset_ticker": "META",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "MetLife, Inc. Common Stock (MET)",
+            "asset_ticker": "MET",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Microsoft Corporation - Common Stock (MSFT)",
+            "asset_ticker": "MSFT",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Microsoft Corporation - Common Stock (MSFT)",
+            "asset_ticker": "MSFT",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Morgan Stanley Common Stock (MS)",
+            "asset_ticker": "MS",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 771
+    },
+    "12": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "McCormick & Company, Incorporated Common Stock (MKC)",
+            "asset_ticker": "MKC",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "McCormick & Company, Incorporated Common Stock (MKC)",
+            "asset_ticker": "MKC",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "01/07/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "McCormick & Company, Incorporated Common Stock (MKC)",
+            "asset_ticker": "MKC",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "McKesson Corporation Common Stock (MCK)",
+            "asset_ticker": "MCK",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Merck & Company, Inc. Common Stock (MRK)",
+            "asset_ticker": "MRK",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Merck & Company, Inc. Common Stock (MRK)",
+            "asset_ticker": "MRK",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 788
+    },
+    "17": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "PPL Corporation Common Stock (PPL)",
+            "asset_ticker": "PPL",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "PPL Corporation Common Stock (PPL)",
+            "asset_ticker": "PPL",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Procter & Gamble Company (PG)",
+            "asset_ticker": "PG",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Procter & Gamble Company (PG)",
+            "asset_ticker": "PG",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Prologis, Inc. Common Stock (PLD)",
+            "asset_ticker": "PLD",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Public Service Enterprise Group Incorporated Common Stock (PEG)",
+            "asset_ticker": "PEG",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 767
+    },
+    "14": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Morgan Stanley Common Stock (MS)",
+            "asset_ticker": "MS",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "NESTLE S.A S/ADR (NSRGY)",
+            "asset_ticker": "NSRGY",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "NextEra Energy, Inc. Common Stock (NEE)",
+            "asset_ticker": "NEE",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "NextEra Energy, Inc. Common Stock (NEE)",
+            "asset_ticker": "NEE",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Northrop Grumman Corporation Common Stock (NOC)",
+            "asset_ticker": "NOC",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Northrop Grumman Corporation Common Stock (NOC)",
+            "asset_ticker": "NOC",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 778
+    },
+    "18": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "QUALCOMM Incorporated - Common Stock (QCOM)",
+            "asset_ticker": "QCOM",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "QUALCOMM Incorporated - Common Stock (QCOM)",
+            "asset_ticker": "QCOM",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "ROCHE HOLDING LTD S/ADR (RHHBY)",
+            "asset_ticker": "RHHBY",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Salesforce, Inc. Common Stock (CRM)",
+            "asset_ticker": "CRM",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Salesforce, Inc. Common Stock (CRM)",
+            "asset_ticker": "CRM",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Sherwin-Williams Company (SHW)",
+            "asset_ticker": "SHW",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 777
+    },
+    "19": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Sherwin-Williams Company (SHW)",
+            "asset_ticker": "SHW",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "TC Energy Corporation Common Stock (TRP)",
+            "asset_ticker": "TRP",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "TC Energy Corporation Common Stock (TRP)",
+            "asset_ticker": "TRP",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "04/09/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Texas Instruments Incorporated - Common Stock (TXN)",
+            "asset_ticker": "TXN",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "T-Mobile US, Inc. (TMUS)",
+            "asset_ticker": "TMUS",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 645
+    },
+    "16": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Oracle Corporation Common Stock (ORCL)",
+            "asset_ticker": "ORCL",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Otis Worldwide Corporation Common Stock (OTIS)",
+            "asset_ticker": "OTIS",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Otis Worldwide Corporation Common Stock (OTIS)",
+            "asset_ticker": "OTIS",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Otis Worldwide Corporation Common Stock (OTIS)",
+            "asset_ticker": "OTIS",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Pepsico, Inc. (PEP)",
+            "asset_ticker": "PEP",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Plains GP Holdings, L.P. - Class A Shares representing limited partner interests (PAGP)",
+            "asset_ticker": "PAGP",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 783
+    },
+    "15": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "NVIDIA Corporation - Common Stock (NVDA)",
+            "asset_ticker": "NVDA",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "NXP Semiconductors N.V. - Common Stock (NXPI)",
+            "asset_ticker": "NXPI",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Old Dominion Freight Line, Inc. - Common Stock (ODFL)",
+            "asset_ticker": "ODFL",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "ONEOK, Inc. Common Stock (OKE)",
+            "asset_ticker": "OKE",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "ONEOK, Inc. Common Stock (OKE)",
+            "asset_ticker": "OKE",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Oracle Corporation Common Stock (ORCL)",
+            "asset_ticker": "ORCL",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 780
+    },
+    "20": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "T-Mobile US, Inc. (TMUS)",
+            "asset_ticker": "TMUS",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "U.S. Bancorp Common Stock (USB)",
+            "asset_ticker": "USB",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Union Pacific Corporation Common Stock (UNP)",
+            "asset_ticker": "UNP",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Union Pacific Corporation Common Stock (UNP)",
+            "asset_ticker": "UNP",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "UnitedHealth Group Incorporated Common Stock (UNH)",
+            "asset_ticker": "UNH",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 9128284V9",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 775
+    },
+    "21": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "US Treasury Note 9128284V9",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 912828P46",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 912828P46",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 912828P469",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CAE1",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CAE1",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 785
+    },
+    "23": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "US Treasury Note 91282CGC91",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "06/06/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CGM7",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CGM7",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CGM7",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "12/09/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CHA2",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CHA2",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 779
+    },
+    "26": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "Walmart Inc. Common Stock (WMT)",
+            "asset_ticker": "WMT",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Waste Connections, Inc. Common Shares (WCN)",
+            "asset_ticker": "WCN",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "Williams Companies, Inc. (WMB)",
+            "asset_ticker": "WMB",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Williams Companies, Inc. (WMB)",
+            "asset_ticker": "WMB",
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 518
+    },
+    "22": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "US Treasury Note 91282CAY7",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CAY75",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CFF3",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CFF3",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CFK2",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CFY2",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CFY2",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 909
+    },
+    "25": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "US Treasury Note 91282CMP3",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "03/24/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CMU26",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "06/06/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CNE7",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CNG2",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": true
+          },
+          {
+            "asset_name": "Verizon Communications Inc. Common Stock (VZ)",
+            "asset_ticker": "VZ",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "VICI Properties Inc. Common Stock (VICI)",
+            "asset_ticker": "VICI",
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 778
+    },
+    "24": {
+      "parsed": {
+        "transactions": [
+          {
+            "asset_name": "US Treasury Note 91282CKY6",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "03/24/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CKY6",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "09/26/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CLP4",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "10/09/2024",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CLP4",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "P",
+            "transaction_date": "02/18/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CLP40",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "06/06/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          },
+          {
+            "asset_name": "US Treasury Note 91282CMP3",
+            "asset_ticker": null,
+            "owner": null,
+            "transaction_type": "S",
+            "transaction_date": "07/11/2025",
+            "notification_date": "08/01/2025",
+            "amount_range": "$1,001 - $15,000",
+            "capital_gains_over_200": false
+          }
+        ]
+      },
+      "tokens_in": 1568,
+      "tokens_out": 780
+    },
+    "27": {
+      "parsed": {
+        "transactions": []
+      },
+      "tokens_in": 6272,
+      "tokens_out": 36
+    }
+  },
+  "stats": {
+    "tokens_in": 48599,
+    "tokens_out": 20272,
+    "n_ok": 28,
+    "n_failed": 0,
+    "elapsed_s": 19.34,
+    "pages_submitted": 28
+  }
+}

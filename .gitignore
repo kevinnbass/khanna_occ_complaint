@@ -1,0 +1,15 @@
+# Reviewer-side caches (large; regenerable on demand at higher tiers)
+data/raw_pdfs/
+data/tier_e_reocr_substrate/
+data/tier_f_reocr_substrate/
+
+# Reviewer-side debug + smoke-test outputs
+_debug*.py
+_debug*.log
+tier_e_test*.log
+tier_e_ptr_test*.log
+
+# Auto-regenerated reports (not part of the canonical bundle)
+tier_e_reocr_report.md
+tier_f_full_rederive_report.md
+verify_anchors_occ_spot_check_report.md

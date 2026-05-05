@@ -1,0 +1,84 @@
+{
+ "snapshot_target": "OCC_M021 + M026 + M061 + M062 + M063 + M064 (trade-PnL canonical scalars Tier-1 v3_fact anchor)",
+ "snapshot_taken_at": "2026-05-03T04:19:02.657539+00:00",
+ "snapshot_date": "2026_05_02",
+ "substrate_authoritative": "ro_khanna.v3_facts",
+ "substrate_authoritative_note": "Per s11 addendum dig-deeper landing: trade-PnL canonical scalars are stored directly in v3_facts with full provenance (numeric_value + result_summary in object_value/notes); verifier should anchor Tier-1 on existing fact_id via the substrate-class verifier kind pattern (statute_cite_resolve model), NOT require trade_pnl table re-derivation. F225 carries household_terminal_pnl_in_scope_sectors_2017_2026 = 61040313.07 (BIT-EXACT body $61.0M mid terminal). F820 and F833 carry pharma sector-matched alpha pair under the Daubert dual-benchmark candor framework. F242 carries the chamber sector-windowed P50 baseline. Body's defense-prime $5.49M alpha (M021) + 41.3% window-attributable (M062) + T+30 ratio (M063) are constituent-scalar references inside F225's preserved provenance text.",
+ "facts": [
+  {
+   "fact_id": 225,
+   "predicate": "household_terminal_pnl_in_scope_sectors_2017_2026",
+   "fact_type": "damages",
+   "status": "active",
+   "numeric_value": 61040313.07,
+   "unit": "USD",
+   "evidence_role": "prima_facie",
+   "is_key_fact": true,
+   "is_smoking_gun": false,
+   "object_value": "SYNTHETIC DAMAGES TOTAL — Khanna family terminal mark-to-market P&L on in-scope sector trades (Defense Primes, Defense Tech, Big Tech, Pharma, Healthcare Devices/Services) over Khanna House tenure 2017-01-03 through 2026-04-17. Low: $15,321,262 | MID: $63,692,504 | High: $112,069,889. Against SPY baseline $34,399,539 => alpha $29,292,965. Window-attributable share 19.0% of mid-P&L. Options (28 rows) excluded. See outputs/leads/exhibit_packets/ro_khanna_political_dossier/EXHIBIT_DAMAGES.md.",
+   "notes": "Session K_ro_khanna_s8b_damages_disgorgement. Summary fact — see EXHIBIT_DAMAGES.md for full breakdown. Options (28 rows) excluded pending s9. PTR bin midpoint estimates carry ~2× width uncertainty; low/high bands preserved in result_summary.",
+   "content_hash": "f7265234d81e9ed619140230c413e4cfb1df84a2190f9c3d5ce172cdbfb4850e"
+  },
+  {
+   "fact_id": 242,
+   "predicate": "chamber_baseline_sector_windowed_p50_6.74_p90_21.87",
+   "fact_type": "peer_comparison",
+   "status": "active",
+   "numeric_value": 6.7425,
+   "unit": "pct",
+   "evidence_role": "contextual",
+   "is_key_fact": true,
+   "is_smoking_gun": false,
+   "object_value": "K_house_ptr_mnpi_pattern_scan_s1 chamber baseline, sector x any-window % (defense_prime+defense_tech x NDAA windows OR pharma x CMS windows): P50=6.74, P75=11.78, P90=21.87, P95=25.00, P99=41.76. n=90 Members with n_sector_tagged>=20. Window: +/-30d. Sector-tagged = ticker in defense_prime U defense_tech U pharma U big_tech. n_tx_sector_tagged>=20 floor (n_def>=5, n_pharma>=5) applied per metric.",
+   "notes": "Session K_house_ptr_mnpi_pattern_scan_s1. Chamber P50/P75/P90/P95/P99 for sector-windowed rate across 90 Members. Anchor for F213 context and future chamber-wide MNPI comparisons.",
+   "content_hash": "a0195dde85132dd0fde09b2386789504dd8d1991fb26fb8d73a3a7e2b0dba72c"
+  },
+  {
+   "fact_id": 820,
+   "predicate": "khanna_14_ticker_pharma_sector_matched_alpha_2017_2026_recompute_arg78_prong_d",
+   "fact_type": "peer_comparison",
+   "status": "active",
+   "numeric_value": 215000.0,
+   "unit": "USD",
+   "evidence_role": "contextual",
+   "is_key_fact": true,
+   "is_smoking_gun": false,
+   "object_value": "Sector-matched counterfactual alpha recompute replacing SPY benchmark per arg 78 T301 sev 7 open Daubert prong (d) asset-classification attack. Universe: Khanna household trades in the 14 canonical pharma/biotech tickers (ABBV/AMGN/BIIB/BMY/GILD/INCY/JNJ/LLY/MRK/MRNA/PFE/REGN/TEVA/VRTX) sourced from lake.house_ptr_transactions_canonical (tx-grain amendment-cascade dedup; n_trades=748; 13/14 ticker price series present — TEVA missing from lake.stock_ohlc_daily). Pricing: pharma ticker adj_close from lake.stock_ohlc_daily; ETF adj_close (XLV/IBB/VHT/SPY) from yfinance live fetch anchor 2026-04-17 (staged for lake.stock_ohlc_daily ingest via queue_for_ingest under source_key yfinance_sector_etfs_xlv_ibb_vht_spy_s04). Per-trade dollar-midpoint notional with sign convention BUY=+1/SELL=-1; entry-price = first trading-day close >= tx_date; anchor-price = last trading-day close <= 2026-04-17; matched sector composite = large-cap pharma → XLV, biotech → IBB. RESULTS (USD P&L): actual Khanna 14-ticker pharma portfolio = +1,385,275; SPY benchmark = +2,636,212 (alpha_vs_SPY = −1,250,937); XLV benchmark = +1,170,181 (alpha_vs_XLV = +215,094); IBB benchmark = +947,806 (alpha_vs_IBB = +437,469); VHT benchmark = +1,112,638 (alpha_vs_VHT = +272,637); matched sector composite benchmark = +1,120,742 (alpha_vs_matched = +264,533). MATERIAL FINDING: under sector-matched benchmark (XLV/IBB/VHT/composite), Khanna 14-ticker pharma-portfolio alpha is POSITIVE (≈ +$215K to +$437K range, +$265K matched composite), whereas under SPY benchmark alpha is NEGATIVE (−$1.25M). The ≈$1.5M swing between SPY-alpha and sector-matched-alpha is pure pharma-sector drift (the pharma sector lagged SPY materially 2017-2026) — NOT trade-selection skill or deficit. This partially CORROBORATES arg 78 prong (d) Daubert attack: Exhibit F §6 '-$2,345,612 sector alpha' framing (which benchmarks against SPY) conflates sector drift with trade-selection, and under a sector-matched benchmark the trade-selection signal on the 14-ticker universe is roughly flat-to-slightly-positive rather than a large loss. NOTE ON SCOPE: Exhibit F §6 uses 1,115 trades across a broader 'pharmaceutical-sector' definition (likely includes XLV/IBB/VHT ETF holdings + additional ticker names beyond the 14-ticker list); this recompute uses only 748 trades in the strict 14-ticker universe, so numbers are not directly comparable in magnitude, only in direction (SPY alpha negative preserved both scopes). Follow-on mining task registered for full 1,115 universe (§8(g) escalation per s02/s03 precedent).",
+   "notes": "Task 4 of K_ro_khanna_redteam_mining (session K_ro_khanna_redteam_mining_s04_t4_arg78_sector_alpha). Recompute script: scripts/k_ro_khanna_redteam_mining_s04_t4_arg78_sector_alpha.py. Output: outputs/ro_khanna_redteam_mining/K_ro_khanna_redteam_mining_s04_t4_arg78_sector_alpha/sector_alpha_recompute.json + sector_alpha_per_trade.csv. Per v3-facts convention + s02/s03 precedent: fact stored as CONTEXTUAL (corroborates defense on sector-drift prong rather than rebuts); NOT added to arg 78 rebutting_facts. Sector-matched positive-alpha result strengthens defense on '-$2.35M' dollar magnitude; does NOT disturb sharper event-study / same-day-cluster predicates (F77 2024-08-02 13-trade cluster; F212 saturation synthesis). Scope limitation: 748 trades in strict 14-ticker universe vs 1,115 in Exhibit F §6 broader pharma-sector definition — magnitude not apples-to-apples.",
+   "content_hash": "c6faf87cf2563910d2c77006d84c89ced5606e05ef694f001ad73bc635471a43"
+  },
+  {
+   "fact_id": 833,
+   "predicate": "exhibit_f_sec6_full_pharma_universe_sector_matched_alpha_plus_1_84m_vs_spy_minus_247k",
+   "fact_type": "peer_comparison",
+   "status": "active",
+   "numeric_value": 1837077.0,
+   "unit": "alpha_usd",
+   "evidence_role": "contextual",
+   "is_key_fact": true,
+   "is_smoking_gun": false,
+   "object_value": "FULL-UNIVERSE SECTOR-MATCHED ALPHA RECOMPUTE PER ARG 78 (Option 3 companion to s04 AF #161) — Exhibit F §6 asserts \"Pharmaceutical-sector household trading — 1,115 transactions in scope — produced midpoint terminal profit of $8,281,138 against an SPY-benchmark of $10,626,750, yielding sector alpha of minus $2,345,612.\" Full-universe recompute from lake.house_ptr_transactions_canonical (member_last_name='Khanna'; date range 2017-01-03..2026-04-17; joined to ro_khanna.ticker_map sector='Pharma' 12 tickers ABBV/AMGN/BIIB/GILD/INCY/JNJ/LLY/MRK/MRNA/PFE/REGN/VRTX) per-trade dollar-midpoint × sign (BUY=+1/SELL=-1) × (terminal-return − benchmark-return), benchmarks: SPY / XLV / IBB / VHT / matched composite (XLV for big-pharma ABBV/AMGN/GILD/JNJ/LLY/MRK/PFE; IBB for biotech BIIB/INCY/MRNA/REGN/VRTX):\n\nSTRICT PHARMA-12 UNIVERSE (1,088 priced trades; $11.72M notional; matches F212 108-constituent scope):\n- actual_pnl_terminal = +$3,175,976\n- spy_baseline = +$3,422,735; alpha_vs_SPY = **−$246,759**\n- xlv_baseline = +$1,319,675; alpha_vs_XLV = **+$1,856,301**\n- ibb_baseline = +$1,380,730; alpha_vs_IBB = **+$1,795,246**\n- vht_baseline = +$1,295,498; alpha_vs_VHT = **+$1,880,478**\n- matched_composite_baseline = alpha_vs_matched = **+$1,837,077**\n\nBROADER PHARMA+DEVICES+SERVICES UNIVERSE (1,835 priced trades; $19.56M notional; approximates Exhibit F §6 \"1,115 trades in scope\" more generously via Pharma-12 + Healthcare Devices ABT/BSX/DXCM/ISRG/MDT/SYK + Healthcare Services HCA/HUM):\n- actual_pnl_terminal = +$4,262,913\n- spy_baseline = +$5,698,292; alpha_vs_SPY = **−$1,435,378**\n- alpha_vs_XLV = +$2,157,791\n- alpha_vs_IBB = +$1,957,483\n- alpha_vs_VHT = +$2,186,204\n- alpha_vs_matched = **+$2,138,624**\n\nEXHIBIT F §6 CLAIM (SPY benchmark only): terminal profit $8,281,138 / SPY baseline $10,626,750 / alpha_vs_SPY −$2,345,612.\n\nDIRECTION AND MAGNITUDE: (1) Under SPY benchmark, reproduced SPY-alpha is −$247K (strict Pharma-12) to −$1.44M (broader Healthcare 20-ticker) — smaller in magnitude than the exhibit's −$2.35M by factor of 1.6× to 9.5×. (2) Under any PHARMA-SECTOR benchmark (XLV, IBB, VHT, or the XLV/IBB/VHT matched composite), alpha is strongly POSITIVE across both universes: +$1.80M to +$1.88M on Pharma-12; +$1.96M to +$2.19M on broader healthcare. (3) The matched-composite sign-flip from s04 (14-ticker 748-trade subset, +$264,533) to this s13 broader universe (+$1.84M on 1,088 trades / +$2.14M on 1,835 trades) scales with universe breadth and is robust.\n\nCONSEQUENCE FOR ARG 78 PRONG (d) DAUBERT ASSET-CLASSIFICATION ATTACK: the \"$2.35M sector alpha\" in Exhibit F §6 body text is SPY-specific. Replacing SPY (a broad-market benchmark) with a sector-appropriate benchmark (XLV/IBB/VHT, which are the standard Daubert-admissible pharma/biotech/healthcare benchmarks for event-study alpha per MacKinlay 1997 JEL Ch. 4 + Campbell-Lo-MacKinlay 1997 Ch. 4.2 — seeded as F824/F825 in s08) reverses the sign from strongly negative to strongly positive. The \"trading through events\" narrative rescue in §6 body text (\"negative alpha is not inconsistent with the regulatory-timing hypothesis... the regulatory-timing signal is independent of directional accuracy\") is unnecessary under sector-matched benchmarks — actual alpha is positive, not negative, when measured against pharma's own sector return.\n\nArg 78 prong (d) Daubert attack EMPIRICALLY STRENGTHENED; full-universe result amplifies s04's partial corroboration (s04 on 14-ticker 748-trade subset showed alpha_vs_matched=+$265K). Full-universe result per Option 3: +$1.84M to +$2.14M on broader universe. Exhibit F §6 requires brief-refresh rewrite per CLAUDE.md §Factual integrity — either to report dual-benchmark (SPY alpha + sector-matched alpha) disclosure or to re-anchor §6 narrative onto sector-matched alpha + narrower re-scoping of the \"trading through events\" framing. Sharper anchors in Exhibit F remain (§2 NDAA event saturation; §4 repeating-pattern; §5 Oversight-Committee jurisdictional nexus; §7 3-of-3 third-party validation 11-of-12). Per SESSION_PROMPT §8(h) this mining session does not edit outputs/leads/exhibit_packets/**; AF routes brief-refresh cascade.",
+   "notes": "Session K_ro_khanna_redteam_mining_s13_t13_arg78_full_pharma_universe. Contextual (corroborates defense arg 78 per s02-s09 convention; NOT linked to rebutting_facts). Routes brief-refresh cascade via AF to rewrite Exhibit F section 6 onto dual-benchmark disclosure (SPY + sector-matched) or sector-matched re-anchor.",
+   "content_hash": "322ab6e9ba4b937b9d177de30f91af471ab5a59fab0311c12a8dd9cbabfd3c22"
+  }
+ ],
+ "load_bearing_invariants": {
+  "F225_numeric_value": 61040313.07,
+  "F242_numeric_value": 6.7425,
+  "F820_numeric_value": 215000.0,
+  "F833_numeric_value": 1837077.0,
+  "F225_status": "active",
+  "F242_status": "active",
+  "F820_status": "active",
+  "F833_status": "active"
+ },
+ "expected_substring_grep": {
+  "OCC_M021_defense_prime_alpha_pattern": "5.49",
+  "OCC_M062_window_attributable_pct": "41.3",
+  "OCC_M063_t30_ratio_pct": "57.7",
+  "OCC_M064_big_tech_pattern": "28.7"
+ },
+ "verifier_kinds_supported": [
+  "trade_pnl_aggregate (OCC_M021 / OCC_M026 / OCC_M061 / OCC_M062 / OCC_M063 / OCC_M064)"
+ ]
+}

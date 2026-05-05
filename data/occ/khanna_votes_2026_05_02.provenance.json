@@ -1,0 +1,249 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "khanna_votes_2026_05_02.json",
+  "snapshot_sha256": "8702bcc56f444b918f8da343f143544a94a324802d62a25ed4316886dc74e9fc",
+  "snapshot_size_bytes": 3789,
+  "primary_source_class": "house_clerk_rollcall_xml",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:06:09.427368+00:00",
+  "primary_source_endpoints": [
+    {
+      "title": "Roll 378/2017 (H R 2810 — On Passage)",
+      "url": "https://clerk.house.gov/evs/2017/roll378.xml",
+      "expected_position": "No",
+      "fetched_sha256_raw_bytes": "18a4b4101cefb82d5279c0943e23391e728d5cae76f9533b137f4dc9fd8a2557",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:09.427368+00:00",
+        "http_status": 200,
+        "content_length": 83247,
+        "header_content_length": "83247",
+        "header_content_type": "text/xml",
+        "header_etag": "\"e2d5b075780d61:0\"",
+        "header_last_modified": "Tue, 01 Sep 2020 11:57:13 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:09 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 631/2017 (H R 2810 — On Agreeing to the Conference Report)",
+      "url": "https://clerk.house.gov/evs/2017/roll631.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "9eef6014ea5c787be002a8ffe993d44c5b78dc8d9e4363f8ac81cc6293c36e83",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:10.451621+00:00",
+        "http_status": 200,
+        "content_length": 83329,
+        "header_content_length": "83329",
+        "header_content_type": "text/xml",
+        "header_etag": "\"97b7f2b5780d61:0\"",
+        "header_last_modified": "Tue, 01 Sep 2020 11:57:20 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:10 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 230/2018 (H R 5515 — On Passage)",
+      "url": "https://clerk.house.gov/evs/2018/roll230.xml",
+      "expected_position": "No",
+      "fetched_sha256_raw_bytes": "c4bdcd4b34f8019e989fe8b9faa8c600bef4d13c7882484e5c1dd6b750fc6060",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:11.415398+00:00",
+        "http_status": 200,
+        "content_length": 82100,
+        "header_content_length": "82100",
+        "header_content_type": "text/xml",
+        "header_etag": "\"b9e410115780d61:0\"",
+        "header_last_modified": "Tue, 01 Sep 2020 11:57:29 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:11 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 379/2018 (H R 5515 — On Agreeing to the Conference Report)",
+      "url": "https://clerk.house.gov/evs/2018/roll379.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "8709c210c17082b5e1ed97e1f9d93fa77f0d03addfac4a9ae09582164685d2e1",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:12.372948+00:00",
+        "http_status": 200,
+        "content_length": 82405,
+        "header_content_length": "82405",
+        "header_content_type": "text/xml",
+        "header_etag": "\"ade81135780d61:0\"",
+        "header_last_modified": "Tue, 01 Sep 2020 11:57:33 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:12 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 473/2019 (H R 2500 — On Passage)",
+      "url": "https://clerk.house.gov/evs/2019/roll473.xml",
+      "expected_position": "Aye",
+      "fetched_sha256_raw_bytes": "88bd43bc2cbbb77a65f78228886666714ee96f93b6d6fc346b78bdbb845e5e38",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:13.330781+00:00",
+        "http_status": 200,
+        "content_length": 83019,
+        "header_content_length": "83019",
+        "header_content_type": "text/xml",
+        "header_etag": "\"cca7721e5780d61:0\"",
+        "header_last_modified": "Tue, 01 Sep 2020 11:57:51 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:13 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 152/2020 (H R 6395 — On Passage)",
+      "url": "https://clerk.house.gov/evs/2020/roll152.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "6d837d494345a197bda04e695ce761f086b8aca16ef2371341c7dfc8e7bd60a1",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:14.284313+00:00",
+        "http_status": 200,
+        "content_length": 82659,
+        "header_content_length": "82659",
+        "header_content_type": "text/xml",
+        "header_etag": "\"d45ec6245780d61:0\"",
+        "header_last_modified": "Tue, 01 Sep 2020 11:58:02 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:14 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 238/2020 (H R 6395 — On Agreeing to the Conference Report)",
+      "url": "https://clerk.house.gov/evs/2020/roll238.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "2b3e502a8fc9dd871a6b3eb819762f2c352ba0238888f0bb9e008c69b2f8df99",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:15.225631+00:00",
+        "http_status": 200,
+        "content_length": 82712,
+        "header_content_length": "82712",
+        "header_content_type": "text/xml",
+        "header_etag": "\"0bc91e9c2cdd61:0\"",
+        "header_last_modified": "Wed, 09 Dec 2020 00:33:28 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:15 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 253/2020 (H R 6395 — On Passage, Objections of the President to the Contrary Notwithstanding)",
+      "url": "https://clerk.house.gov/evs/2020/roll253.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "a8abc7a6aa6e5be50aeaa4ada2df3d7216da8044873ce625b198a19c0661cce3",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:16.220291+00:00",
+        "http_status": 200,
+        "content_length": 82783,
+        "header_content_length": "82783",
+        "header_content_type": "text/xml",
+        "header_etag": "\"0f470567addd61:0\"",
+        "header_last_modified": "Tue, 29 Dec 2020 00:34:16 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:16 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 293/2021 (H R 4350 — On Passage)",
+      "url": "https://clerk.house.gov/evs/2021/roll293.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "f4f0d35e1d1382c74a566a3bf30e4b471055ad7f4abd12559e4ebe0a505f23de",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:17.195055+00:00",
+        "http_status": 200,
+        "content_length": 82635,
+        "header_content_length": "82635",
+        "header_content_type": "text/xml",
+        "header_etag": "\"04e1e2ce2b0d71:0\"",
+        "header_last_modified": "Fri, 24 Sep 2021 01:19:08 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:17 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 350/2022 (H R 7900 — On Passage)",
+      "url": "https://clerk.house.gov/evs/2022/roll350.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "20458659b7be83351039ea69718ac9a9bbe0e2b6222cda4d2abb95c5a168ce9e",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:18.157552+00:00",
+        "http_status": 200,
+        "content_length": 82679,
+        "header_content_length": "82679",
+        "header_content_type": "text/xml",
+        "header_etag": "\"07f507bd997d81:0\"",
+        "header_last_modified": "Thu, 14 Jul 2022 23:28:54 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:18 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 328/2023 (H R 2670 — On Passage)",
+      "url": "https://clerk.house.gov/evs/2023/roll328.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "611f7563f6c0ef7b366e6ccaac6a6d2bf4cc816d6e0010edee99c897b85c004c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:19.122789+00:00",
+        "http_status": 200,
+        "content_length": 83126,
+        "header_content_length": "83126",
+        "header_content_type": "text/xml",
+        "header_etag": "\"070848166b6d91:0\"",
+        "header_last_modified": "Fri, 14 Jul 2023 15:18:56 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:19 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 723/2023 (H R 2670 — On Motion to Suspend the Rules and Agree to the Conference Report)",
+      "url": "https://clerk.house.gov/evs/2023/roll723.xml",
+      "expected_position": "Nay",
+      "fetched_sha256_raw_bytes": "ef1b7ab1140ca521136583ec3132a4fdfdd5a4779722138f3483426c8b34c11c",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:20.076500+00:00",
+        "http_status": 200,
+        "content_length": 83170,
+        "header_content_length": "83170",
+        "header_content_type": "text/xml",
+        "header_etag": "\"0cdd5d9a52eda1:0\"",
+        "header_last_modified": "Thu, 14 Dec 2023 15:54:42 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:20 GMT"
+      },
+      "fetch_status": "OK"
+    },
+    {
+      "title": "Roll 279/2024 (H R 8070 — On Passage)",
+      "url": "https://clerk.house.gov/evs/2024/roll279.xml",
+      "expected_position": "No",
+      "fetched_sha256_raw_bytes": "60e519747dd7d9edf85cb220b3dd5aa25c615ab544ddffaba130c18038cf2bef",
+      "fetched_meta": {
+        "fetched_at_utc": "2026-05-05T01:06:21.252891+00:00",
+        "http_status": 200,
+        "content_length": 82453,
+        "header_content_length": "82453",
+        "header_content_type": "text/xml",
+        "header_etag": "\"06d94406ebeda1:0\"",
+        "header_last_modified": "Fri, 14 Jun 2024 15:19:30 GMT",
+        "header_server": null,
+        "header_date": "Tue, 05 May 2026 01:06:21 GMT"
+      },
+      "fetch_status": "OK"
+    }
+  ],
+  "post_fetch_transformations": [],
+  "gap_reason": null,
+  "primary_source_explanation": "Each NDAA roll-call vote derives from clerk.house.gov roll-call XML, deterministic by (vote_year, roll_number). The snapshot summarizes vote_position per roll; spot-check re-fetches the XML and hashes it."
+}

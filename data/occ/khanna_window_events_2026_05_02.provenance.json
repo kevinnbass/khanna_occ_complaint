@@ -1,0 +1,48 @@
+{
+  "$schema_version": "1",
+  "snapshot_file": "khanna_window_events_2026_05_02.json",
+  "snapshot_sha256": "f9b05792b0df166c248d685a194b51051ab91b721f6fd7d10b2a0f88ac0a2ddd",
+  "snapshot_size_bytes": 654589,
+  "primary_source_class": "composite_window_events",
+  "fetch_script": "build_provenance.py",
+  "fetch_script_git_sha": "e595aaf72241479ddcc28aa5f7550c03faae0a40",
+  "generated_at_utc": "2026-05-05T01:05:17.252546+00:00",
+  "primary_source_endpoints": [
+    {
+      "title": "NDAA enactment dates 2017-2025",
+      "url": "https://www.congress.gov/public-laws/115th-congress",
+      "url_note": "First NDAA (FY2018 P.L. 115-91) shown; full set spans 115th-118th Congresses (P.L. 115-91 / 115-232 / 116-92 / 116-283 / 117-81 / 117-263 / 118-31 / 118-159) — 8 enactments total.",
+      "kind": "constants_list",
+      "ndaa_dates_count": 8,
+      "ndaa_window_days": 14,
+      "fetch_status": "DOCUMENTED_AS_CONSTANTS"
+    },
+    {
+      "title": "CMS rulemaking dates 2017-2024",
+      "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+      "kind": "constants_list",
+      "cms_dates_count": 14,
+      "cms_window_days": 14,
+      "fetch_status": "DOCUMENTED_AS_CONSTANTS"
+    },
+    {
+      "title": "Same-day 8-K events (per-ticker)",
+      "url": "https://data.sec.gov/submissions/CIK{cik:0>10}.json",
+      "kind": "sec_edgar_submissions_api",
+      "n_8k_events": 6620,
+      "fetch_status": "DETERMINISTIC_DEFERRED_TO_SPOT_CHECK",
+      "note": "SEC EDGAR submissions JSON API is rate-limited at 10 req/s. Tier-D spot-check fetches per-ticker submissions JSON + filters to 8-K filings, hashes the filtered set."
+    },
+    {
+      "title": "USAspending contract action dates (per-ticker)",
+      "url": "https://api.usaspending.gov/api/v2/search/spending_by_award/",
+      "kind": "usaspending_api",
+      "n_contract_events": 29516,
+      "n_contract_tickers": 17,
+      "fetch_status": "DETERMINISTIC_DEFERRED_TO_SPOT_CHECK"
+    }
+  ],
+  "post_fetch_transformations": [],
+  "gap_reason": null,
+  "primary_source_explanation": "Window events are a composite of three primary-source classes: (a) NDAA enactment dates — congressional record / Public Law numbers, deterministic public list. (b) CMS rulemaking dates — Federal Register publication dates, deterministic public list. (c) Same-day 8-K events — SEC EDGAR submissions JSON API, deterministic per-CIK. (d) USAspending contract action dates — usaspending.gov bulk CSV / API, deterministic by recipient_name + action_date. Provenance documents each source class; spot-check re-fetches the constituent date sets and verifies the bundled lists are subsets."
+}

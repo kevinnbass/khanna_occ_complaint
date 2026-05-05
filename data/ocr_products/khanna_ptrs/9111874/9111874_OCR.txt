@@ -1,0 +1,1238 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 9111874
+#   year          : 2017
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111874.pdf
+#   total_pages   : 6
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:29:51 UTC
+#   tokens_in     : 13,684
+#   tokens_out    : 20,437
+
+--- PAGE 01 ---
+HAND
+DELIVERED Name: Rohit Khanna Page 1 of 6
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+LEGISLATIVE RESOURCE CENTER
+17 OCT 10 AM 11: 54
+NAME: Rohit Khanna
+OFFICE TELEPHONE: (202) 225-2631
+OFFICE OF THE CLERK
+U.S. HOUSE OF REPRESENTATIVES
+X Member of the U.S. House of Representatives
+State: CA District: 17
+Officer or Employee
+Employing Office:
+File an original and 2 copies
+File an original and 1 copy
+(For Official Use Only)
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+Yes X No
+X Initial Report
+Amendment
+If you answered 'yes' to this question, please contact the Committee on
+Ethics for further guidance.
+Date of Report Being Amended:
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+A B C D E F G H I J K
+SP
+DC
+JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+(MM/DD/YY) (MM/DD/YY)
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT Example: Mega Corp. Common Stock X 02/05/015 03/07/15 X
+Please see the attached
+
+--- PAGE 02 ---
+Name: Rohit Khanna  Page 2 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+over
+$1,001-
+$15,001-
+$50,001-
+$100,001-
+$250,001-
+$500,001-
+$1,000,001-
+$5,000,001-
+$25,000,001-
+Over
+$15,000
+$50,000
+$100,000
+$250,000
+$500,000
+$1,000,000
+$5,000,000
+$25,000,000
+$50,000,000
+$50,000,000
+$1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+RA '94 Trust
+SP
+WALT DISNEY COMPANY (THE) CMN
+x
+09/07/17
+10/04/17
+x
+SP
+PERKINELMER INC CMN
+x
+09/08/17
+10/04/17
+x
+SP
+MERCK & CO., INC. CMN
+x
+09/08/17
+10/04/17
+x
+SP
+BAXTER INTERNATIONAL INC CMN
+x
+09/08/17
+10/04/17
+x
+Grandchildren's Trust
+DC
+BAXTER INTERNATIONAL INC CMN
+x
+09/08/17
+10/04/17
+x
+RA '94 Trust
+SP
+PERKINELMER INC CMN
+x
+09/11/17
+10/04/17
+x
+SP
+VERSUM MATERIALS, INC. CMN
+x
+09/11/17
+10/04/17
+x
+SP
+MERCK & CO., INC. CMN
+x
+09/11/17
+10/04/17
+x
+Grandchildren's Trust
+DC
+MERCK & CO., INC. CMN
+x
+09/11/17
+10/04/17
+x
+RA '94 Trust
+SP
+MERCK & CO., INC. CMN
+x
+09/12/17
+10/04/17
+x
+SP
+PERKINELMER INC CMN
+x
+09/12/17
+10/04/17
+x
+SP
+FIRST DATA CORPORATION CMN CLASS A
+x
+09/14/17
+10/04/17
+x
+SP
+PERKINELMER INC CMN
+x
+09/14/17
+10/04/17
+x
+SP
+HANESBRANDS INC. CMN
+x
+09/14/17
+10/04/17
+x
+Grandchildren's Trust
+DC
+PERKINELMER INC CMN
+x
+09/14/17
+10/04/17
+x
+RA '94 Trust
+SP
+ENTEGRIS, INC. CMN
+x
+09/15/17
+10/04/17
+x
+SP
+FIRST DATA CORPORATION CMN CLASS A
+x
+09/15/17
+10/04/17
+x
+RA Dec of Trust
+SP
+THE CITY OF NEW YORK GO 5.0000% 08/01/24 FA
+x
+09/15/17
+10/04/17
+x
+RA '94 Trust
+SP
+ENTEGRIS, INC. CMN
+x
+09/18/17
+10/04/17
+x
+RA '95 Trust
+SP
+PUT/XSP
+@ 245 EXP 11/03/2017
+x
+09/21/17
+10/04/17
+x
+RA '94 Trust
+SP
+MERCK & CO., INC. CMN
+x
+09/21/17
+10/04/17
+x
+Grandchildren's Trust
+DC
+MERCK & CO., INC. CMN
+x
+09/21/17
+10/04/17
+x
+RA '94 Trust
+SP
+APACHE CORP. CMN
+x
+09/22/17
+10/04/17
+x
+SP
+KINDER MORGAN INC CMN CLASS P
+x
+09/22/17
+10/04/17
+x
+SP
+PUBLIC STORAGE CMN
+x
+09/22/17
+10/04/17
+x
+SP
+BAKER HUGHES A GE CO CMN
+x
+09/22/17
+10/04/17
+x
+SP
+ALTRIA GROUP, INC. CMN
+x
+09/22/17
+10/04/17
+x
+SP
+INVESCO LTD. CMN
+x
+09/22/17
+10/04/17
+x
+SP
+FRANKLIN RESOURCES INC CMN
+x
+09/22/17
+10/04/17
+x
+SP
+KIMBERLY CLARK CORP CMN
+x
+09/22/17
+10/04/17
+x
+SP
+HORMEL FOODS CORP CMN
+x
+09/22/17
+10/04/17
+x
+SP
+THE KRAFT HEINZ CO CMN
+x
+09/22/17
+10/04/17
+x
+SP
+O'REILLY AUTOMOTIVE INC CMN
+x
+09/22/17
+10/04/17
+x
+SP
+EXXON MOBIL CORPORATION CMN
+x
+09/22/17
+10/04/17
+x
+SP
+CONAGRA BRANDS INC CMN
+x
+09/22/17
+10/04/17
+x
+SP
+THE WILLIAMS COMPANIES, INC. CMN
+x
+09/22/17
+10/04/17
+x
+SP
+GENERAL MILLS INC CMN
+x
+09/22/17
+10/04/17
+x
+SP
+UNION PACIFIC CORP. CMN
+x
+09/22/17
+10/04/17
+x
+SP
+ALLERGAN PLC CMN
+x
+09/22/17
+10/04/17
+x
+SP
+CIGNA CORPORATION CMN
+x
+09/22/17
+10/04/17
+x
+SP
+AT&T INC CMN
+x
+09/22/17
+10/04/17
+x
+Key:
+RA-Ritu Ahuja
+
+--- PAGE 03 ---
+Name: Rohit Khanna  Page 3 of 6
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction In a Spouse or Dependent Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001 - $15,001 - $50,001 - $100,001 - $250,001 - $500,001 - $1,000,001 - $5,000,001 - $25,000,001 - Over
+$15,000 $50,000 $100,000 $250,000 $500,000 $1,000,000 $5,000,000 $25,000,000 $50,000,000 $50,000,000 $1,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+SP QUALCOMM INC CMN
+x
+09/22/17
+10/04/17
+x
+SP MEDTRONIC PUBLIC LIMITED COMPA CMN
+x
+09/22/17
+10/04/17
+x
+SP SIMON PROPERTY GROUP INC CMN
+x
+09/22/17
+10/04/17
+x
+SP ANTHEM, INC. CMN
+x
+09/22/17
+10/04/17
+x
+SP BANK OF AMERICA CORP CMN
+x
+09/22/17
+10/04/17
+x
+SP GENERAL ELECTRIC CO CMN
+x
+09/22/17
+10/04/17
+x
+SP AMERICAN INTL. GROUP, INC. CMN
+x
+09/22/17
+10/04/17
+x
+SP WALGREENS BOOTS ALLIANCE, INC. CMN
+x
+09/22/17
+10/04/17
+x
+SP MONDELEZ INTERNATIONAL, INC. CMN
+x
+09/22/17
+10/04/17
+x
+SP PFIZER INC. CMN
+x
+09/22/17
+10/04/17
+x
+SP ZIMMER BIOMET HOLDINGS INC.
+x
+09/22/17
+10/04/17
+x
+SP WALT DISNEY COMPANY (THE) CMN
+x
+09/22/17
+10/04/17
+x
+SP HCA HEALTHCARE, INC. CMN
+x
+09/22/17
+10/04/17
+x
+SP J.M. SMUCKER CO. CMN
+x
+09/22/17
+10/04/17
+x
+SP BAXTER INTERNATIONAL INC CMN
+x
+09/22/17
+10/04/17
+x
+SP BAXTER INTERNATIONAL INC CMN
+x
+09/22/17
+10/04/17
+x
+SP CAESARS ENTERTAINMENT CORP CMN
+x
+09/22/17
+10/04/17
+x
+SP MERCK & CO., INC. CMN
+x
+09/22/17
+10/04/17
+x
+Grandchild's Trust
+DC BAXTER INTERNATIONAL INC CMN
+x
+09/22/17
+10/04/17
+x
+RA '95 Trust
+SP TWENTY-FIRST CENTURY FOX, INC. CMN CLASS B
+x
+09/25/17
+10/04/17
+x
+SP GENERAL ELECTRIC CO CMN
+x
+09/25/17
+10/04/17
+x
+SP QUALCOMM INC CMN
+x
+09/25/17
+10/04/17
+x
+SP PPG INDUSTRIES, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP GENERAL DYNAMICS CORP. CMN
+x
+09/25/17
+10/04/17
+x
+SP SCANA CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP ALPHABET INC. CMN CLASS A
+x
+09/25/17
+10/04/17
+x
+SP EXPRESS SCRIPTS HOLDINGS CMN
+x
+09/25/17
+10/04/17
+x
+SP INTERPUBLIC GROUP COS CMN
+x
+09/25/17
+10/04/17
+x
+SP HALLIBURTON COMPANY CMN
+x
+09/25/17
+10/04/17
+x
+SP CONAGRA BRANDS INC CMN
+x
+09/25/17
+10/04/17
+x
+SP REGENCY CTRS CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP VIACOM INC CMN CLASS B
+x
+09/25/17
+10/04/17
+x
+SP COLGATE-PALMOLIVE CO CMN
+x
+09/25/17
+10/04/17
+x
+SP THE SOUTHERN CO. CMN
+x
+09/25/17
+10/04/17
+x
+SP SCHLUMBERGER LTD CMN
+x
+09/25/17
+10/04/17
+x
+SP GENERAL MILLS INC CMN
+x
+09/25/17
+10/04/17
+x
+SP AVALONBAY COMMUNITIES INC CMN
+x
+09/25/17
+10/04/17
+x
+SP ALLERGAN PLC CMN
+x
+09/25/17
+10/04/17
+x
+SP ANADARKO PETROLEUM CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP JOHNSON CONTROLS INTERNATIONAL CMN
+x
+09/25/17
+10/04/17
+x
+SP HCA HEALTHCARE, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP MCCORMICK & CO NON VTG SHRS CMN
+x
+09/25/17
+10/04/17
+x
+SP COMCAST CORPORATION CMN CLASS A VOTING
+x
+09/25/17
+10/04/17
+x
+SP CARDINAL HEALTH INC CMN
+x
+09/25/17
+10/04/17
+x
+SP VERIZON COMMUNICATIONS INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP ULTA BEAUTY INC CMN
+x
+09/25/17
+10/04/17
+x
+SP THE KRAFT HEINZ CO CMN
+x
+09/25/17
+10/04/17
+x
+SP PHILIP MORRIS INTL INC CMN
+x
+09/25/17
+10/04/17
+x
+SP MEDTRONIC PUBLIC LIMITED COMPA CMN
+x
+09/25/17
+10/04/17
+x
+SP BANK OF AMERICA CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP JOHNSON & JOHNSON CMN
+x
+09/25/17
+10/04/17
+x
+SP ORACLE CORPORATION CMN
+x
+09/25/17
+10/04/17
+x
+SP WALGREENS BOOTS ALLIANCE, INC. CMN
+x
+09/25/17
+10/04/17
+x
+Key:
+RA-Ritu Ahuja
+
+--- PAGE 04 ---
+Name: Rohit Khanna Page 4 of 6
+Key:
+RA-Ritu Ahuja
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction in a Spouse or Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+$1,001- $15,000
+$15,001- $50,000
+$50,001- $100,000
+$100,001- $250,000
+$250,001- $500,000
+$500,001- $1,000,000
+$1,000,001- $5,000,000
+$5,000,001- $25,000,000
+Over $25,000,000
+Over $50,000,000
+SP/DC/JT
+Provide full name, not ticker symbol.
+SP
+INTL. BUSINESS MACHINES CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP
+CVS HEALTH CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP
+VENTAS, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+NIKE CLASS-B CMN CLASS B
+x
+09/25/17
+10/04/17
+x
+SP
+MYLAN NV CMN
+x
+09/25/17
+10/04/17
+x
+SP
+DEVON ENERGY CORPORATION (NEW) CMN
+x
+09/25/17
+10/04/17
+x
+SP
+UNION PACIFIC CORP. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+PUBLIC STORAGE CMN
+x
+09/25/17
+10/04/17
+x
+SP
+THERMO FISHER SCIENTIFIC INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+WESTERN DIGITAL CORPORATION CMN
+x
+09/25/17
+10/04/17
+x
+SP
+THE WILLIAMS COMPANIES, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+BB&T CORPORATION CMN
+x
+09/25/17
+10/04/17
+x
+SP
+OCCIDENTAL PETROLEUM CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP
+EQUIFAX INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+HCP, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+CHUBB LTD CMN
+x
+09/25/17
+10/04/17
+x
+SP
+UNITED TECHNOLOGIES CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP
+PRUDENTIAL FINANCIAL INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+NOBLE ENERGY INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+LIBERTY BROADBAND CORP CMN CLASS A
+x
+09/25/17
+10/04/17
+x
+SP
+3M COMPANY CMN
+x
+09/25/17
+10/04/17
+x
+SP
+KIMBERLY CLARK CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP
+MERCK & CO., INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+ALTRIA GROUP, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+KROGER COMPANY CMN
+x
+09/25/17
+10/04/17
+x
+SP
+NUCOR CORPORATION CMN
+x
+09/25/17
+10/04/17
+x
+SP
+WALT DISNEY COMPANY (THE) CMN
+x
+09/25/17
+10/04/17
+x
+SP
+PRICELINE GROUP INC/THE CMN
+x
+09/25/17
+10/04/17
+x
+SP
+AT&T INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+THE TRAVELERS COMPANIES, INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+BOSTON SCIENTIFIC CORP. COMMON STOCK
+x
+09/25/17
+10/04/17
+x
+SP
+AMERICAN INTL. GROUP, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+CORNING INCORPORATED CMN
+x
+09/25/17
+10/04/17
+x
+SP
+FREEPORT-MCMORAN INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+CAMPBELL SOUP CO CMN
+x
+09/25/17
+10/04/17
+x
+SP
+DENTSPLY SIRONA INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+DISCOVERY COMMUNICATIONS, INC. CMN SERIES A
+x
+09/25/17
+10/04/17
+x
+SP
+GGP INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+BLACKROCK, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+CISCO SYSTEMS, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+DISCOVERY COMMUNICATIONS, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+EXXON MOBIL CORPORATION CMN
+x
+09/25/17
+10/04/17
+x
+SP
+AMAZON.COM INC CMN
+x
+09/25/17
+10/04/17
+x
+SP
+KELLOGG COMPANY CMN
+x
+09/25/17
+10/04/17
+x
+SP
+CSX CORPORATION CMN
+x
+09/25/17
+10/04/17
+x
+SP
+NORTHROP GRUMMAN CORP CMN
+x
+09/25/17
+10/04/17
+x
+SP
+IDEXX LABORATORIES CMN
+x
+09/25/17
+10/04/17
+x
+SP
+THE HOME DEPOT, INC. CMN
+x
+09/25/17
+10/04/17
+x
+SP
+MONDELEZ INTERNATIONAL, INC. CMN
+x
+09/25/17
+10/04/17
+x
+RA '94 Trust
+SP
+VERSUM MATERIALS, INC. CMN
+x
+09/26/17
+10/04/17
+x
+SP
+CAESARS ENTERTAINMENT CORP CMN
+x
+09/26/17
+10/04/17
+x
+SP
+GENERAL MOTORS COMPANY CMN
+x
+09/26/17
+10/04/17
+x
+SP
+MERCK & CO., INC. CMN
+x
+09/26/17
+10/04/17
+x
+Grandchildren's Trust
+
+--- PAGE 05 ---
+Name: Rohit Khanna Page 5 of 6
+Key:
+RA-Ritu Ahuja
+Full Asset Name
+Date of
+Transaction
+Date Notified of
+Transaction
+Type of Transaction
+Amount of Transaction
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+SP/DC/JT
+Provide full name, not ticker symbol.
+$1,001-
+$15,000
+$15,001-
+$50,000
+$50,001-
+$100,000
+$100,001-
+$250,000
+$250,001-
+$500,000
+$500,001-
+$1,000,000
+$1,000,001-
+$5,000,000
+$5,000,001-
+$25,000,000
+$25,000,001-
+$50,000,000
+Over
+$50,000,000
+Over
+$1,000,000
+DC
+MERCK & CO., INC. CMN
+09/26/17
+10/04/17
+x
+DC
+GENERAL MOTORS COMPANY CMN
+09/26/17
+10/04/17
+x
+RA '94 Trust
+SP
+MERCK & CO., INC. CMN
+09/27/17
+10/04/17
+x
+SP
+FIRST DATA CORPORATION CMN CLASS A
+09/27/17
+10/04/17
+x
+SP
+ENTEGRIS, INC. CMN
+09/27/17
+10/04/17
+x
+Grandchildren's Trust
+DC
+FIRST DATA CORPORATION CMN CLASS A
+09/27/17
+10/04/17
+x
+RA '94 Trust
+SP
+ENTEGRIS, INC. CMN
+09/28/17
+10/04/17
+x
+SP
+MERCK & CO., INC. CMN
+09/29/17
+10/04/17
+x
+Grandchildren's Trust
+DC
+MERCK & CO., INC. CMN
+09/29/17
+10/04/17
+x
+
+--- PAGE 06 ---
+Name: Rohit Khanna  Page 6 of 6
+Full Asset Name
+SP/DC/JT
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Transaction
+In a Spouse or
+Dependent
+Child Asset
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,001 - $50,001 - $100,001 - $250,001 - $500,001 - $1,000,001 - $5,000,001 - $25,000,001 - Over
+$15,000 $50,000 $100,000 $250,000 $500,000 $1,000,000 $5,000,000 $25,000,000 $50,000,000 $50,000,000 $1,000,000
+M&R Trust Partnership
+SP PAYPAL HOLDINGS INC COM
+X
+09/20/17
+10/02/17
+X
+SP VISA INC CL A
+X
+09/20/17
+10/02/17
+X
+SP AMAZON COM INC
+X
+09/20/17
+10/02/17
+X
+SP NVIDIA CORPORATION
+X
+09/20/17
+10/02/17
+X
+SP NETFLIX INC
+X
+09/20/17
+10/02/17
+X
+SP ALLERGAN PLC SHS
+X
+09/20/17
+10/02/17
+X
+SP ALPHABET INC
+X
+09/20/17
+10/02/17
+X
+SP CHARLES SCHWAB
+X
+09/21/17
+10/02/17
+X

@@ -1,0 +1,699 @@
+{
+ "snapshot_date": "2026_05_02",
+ "title": "Khanna PTR corpus index - 114 docs cited by OCC complaint",
+ "marker_set": [
+  "OCC_M013",
+  "OCC_M014",
+  "OCC_M015 (PTR-derived; primary anchor is post-cascade canonical lake.house_ptr_transactions_canonical)"
+ ],
+ "body_section": "Counts 1-3 + 6 + 7 (late-filing audit + per-tx claims)",
+ "cohort_definition": "lake.house_ptr_index WHERE last_name=Khanna AND state_district=CA17 AND filing_type=P",
+ "note": "Source PDFs are the canonical primary substrate for every PTR-derived claim in the OCC body. The frozen snapshot at data/occ/ptr_filing_audit_khanna_2026_05_02.json carries the structured per-tx rows derived via Gemini extraction + canonical-view dedup. A reviewer with no lake access can run fetch_source_pdfs.py to re-download every PDF and re-OCR independently.",
+ "n": 114,
+ "rows": [
+  {
+   "doc_id": "9110456",
+   "year": 2017,
+   "filing_date": "2017-02-13",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110456.pdf"
+  },
+  {
+   "doc_id": "9110547",
+   "year": 2017,
+   "filing_date": "2017-03-14",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110547.pdf"
+  },
+  {
+   "doc_id": "9110644",
+   "year": 2017,
+   "filing_date": "2017-04-13",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110644.pdf"
+  },
+  {
+   "doc_id": "9110730",
+   "year": 2017,
+   "filing_date": "2017-05-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9110730.pdf"
+  },
+  {
+   "doc_id": "9111257",
+   "year": 2017,
+   "filing_date": "2017-06-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111257.pdf"
+  },
+  {
+   "doc_id": "9111397",
+   "year": 2017,
+   "filing_date": "2017-07-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111397.pdf"
+  },
+  {
+   "doc_id": "9111583",
+   "year": 2017,
+   "filing_date": "2017-08-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111583.pdf"
+  },
+  {
+   "doc_id": "9111740",
+   "year": 2017,
+   "filing_date": "2017-09-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111740.pdf"
+  },
+  {
+   "doc_id": "9111812",
+   "year": 2017,
+   "filing_date": "2017-09-19",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111812.pdf"
+  },
+  {
+   "doc_id": "9111874",
+   "year": 2017,
+   "filing_date": "2017-10-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111874.pdf"
+  },
+  {
+   "doc_id": "9112020",
+   "year": 2017,
+   "filing_date": "2017-11-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9112020.pdf"
+  },
+  {
+   "doc_id": "9112175",
+   "year": 2017,
+   "filing_date": "2017-12-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9112175.pdf"
+  },
+  {
+   "doc_id": "9112254",
+   "year": 2017,
+   "filing_date": "2018-01-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9112254.pdf"
+  },
+  {
+   "doc_id": "9112444",
+   "year": 2018,
+   "filing_date": "2018-02-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9112444.pdf"
+  },
+  {
+   "doc_id": "9112538",
+   "year": 2018,
+   "filing_date": "2018-03-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9112538.pdf"
+  },
+  {
+   "doc_id": "9112649",
+   "year": 2018,
+   "filing_date": "2018-04-13",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9112649.pdf"
+  },
+  {
+   "doc_id": "9112814",
+   "year": 2018,
+   "filing_date": "2018-05-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9112814.pdf"
+  },
+  {
+   "doc_id": "9113299",
+   "year": 2018,
+   "filing_date": "2018-06-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9113299.pdf"
+  },
+  {
+   "doc_id": "9113509",
+   "year": 2018,
+   "filing_date": "2018-07-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9113509.pdf"
+  },
+  {
+   "doc_id": "9113657",
+   "year": 2018,
+   "filing_date": "2018-08-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9113657.pdf"
+  },
+  {
+   "doc_id": "9113779",
+   "year": 2018,
+   "filing_date": "2018-09-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9113779.pdf"
+  },
+  {
+   "doc_id": "9114060",
+   "year": 2018,
+   "filing_date": "2018-10-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114060.pdf"
+  },
+  {
+   "doc_id": "9114153",
+   "year": 2018,
+   "filing_date": "2018-11-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114153.pdf"
+  },
+  {
+   "doc_id": "9114222",
+   "year": 2018,
+   "filing_date": "2018-12-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114222.pdf"
+  },
+  {
+   "doc_id": "9114288",
+   "year": 2018,
+   "filing_date": "2019-01-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114288.pdf"
+  },
+  {
+   "doc_id": "9114372",
+   "year": 2019,
+   "filing_date": "2019-02-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114372.pdf"
+  },
+  {
+   "doc_id": "9114396",
+   "year": 2019,
+   "filing_date": "2019-02-15",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114396.pdf"
+  },
+  {
+   "doc_id": "9114397",
+   "year": 2018,
+   "filing_date": "2019-02-15",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2018/9114397.pdf"
+  },
+  {
+   "doc_id": "9114457",
+   "year": 2019,
+   "filing_date": "2019-03-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114457.pdf"
+  },
+  {
+   "doc_id": "9114526",
+   "year": 2019,
+   "filing_date": "2019-04-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114526.pdf"
+  },
+  {
+   "doc_id": "9114649",
+   "year": 2019,
+   "filing_date": "2019-05-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9114649.pdf"
+  },
+  {
+   "doc_id": "9115039",
+   "year": 2019,
+   "filing_date": "2019-06-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115039.pdf"
+  },
+  {
+   "doc_id": "9115123",
+   "year": 2019,
+   "filing_date": "2019-07-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115123.pdf"
+  },
+  {
+   "doc_id": "9115234",
+   "year": 2019,
+   "filing_date": "2019-08-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115234.pdf"
+  },
+  {
+   "doc_id": "9115384",
+   "year": 2019,
+   "filing_date": "2019-09-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115384.pdf"
+  },
+  {
+   "doc_id": "9115484",
+   "year": 2019,
+   "filing_date": "2019-10-16",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/9115484.pdf"
+  },
+  {
+   "doc_id": "8216662",
+   "year": 2019,
+   "filing_date": "2019-11-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/8216662.pdf"
+  },
+  {
+   "doc_id": "8216805",
+   "year": 2019,
+   "filing_date": "2019-12-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2019/8216805.pdf"
+  },
+  {
+   "doc_id": "8216879",
+   "year": 2020,
+   "filing_date": "2020-01-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8216879.pdf"
+  },
+  {
+   "doc_id": "8216965",
+   "year": 2020,
+   "filing_date": "2020-02-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8216965.pdf"
+  },
+  {
+   "doc_id": "8217060",
+   "year": 2020,
+   "filing_date": "2020-03-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217060.pdf"
+  },
+  {
+   "doc_id": "8217164",
+   "year": 2020,
+   "filing_date": "2020-04-20",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217164.pdf"
+  },
+  {
+   "doc_id": "8217213",
+   "year": 2020,
+   "filing_date": "2020-05-13",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217213.pdf"
+  },
+  {
+   "doc_id": "8217329",
+   "year": 2020,
+   "filing_date": "2020-06-17",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217329.pdf"
+  },
+  {
+   "doc_id": "8217394",
+   "year": 2020,
+   "filing_date": "2020-07-17",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217394.pdf"
+  },
+  {
+   "doc_id": "8217557",
+   "year": 2020,
+   "filing_date": "2020-08-17",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217557.pdf"
+  },
+  {
+   "doc_id": "8217653",
+   "year": 2020,
+   "filing_date": "2020-09-17",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217653.pdf"
+  },
+  {
+   "doc_id": "8217686",
+   "year": 2020,
+   "filing_date": "2020-10-21",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217686.pdf"
+  },
+  {
+   "doc_id": "8217740",
+   "year": 2020,
+   "filing_date": "2020-11-20",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217740.pdf"
+  },
+  {
+   "doc_id": "8217777",
+   "year": 2020,
+   "filing_date": "2020-12-16",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217777.pdf"
+  },
+  {
+   "doc_id": "8217812",
+   "year": 2020,
+   "filing_date": "2021-01-15",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217812.pdf"
+  },
+  {
+   "doc_id": "8217856",
+   "year": 2021,
+   "filing_date": "2021-02-16",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217856.pdf"
+  },
+  {
+   "doc_id": "8217894",
+   "year": 2021,
+   "filing_date": "2021-03-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217894.pdf"
+  },
+  {
+   "doc_id": "8217938",
+   "year": 2021,
+   "filing_date": "2021-04-16",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8217938.pdf"
+  },
+  {
+   "doc_id": "8218031",
+   "year": 2021,
+   "filing_date": "2021-05-14",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218031.pdf"
+  },
+  {
+   "doc_id": "8218109",
+   "year": 2021,
+   "filing_date": "2021-06-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218109.pdf"
+  },
+  {
+   "doc_id": "8218147",
+   "year": 2021,
+   "filing_date": "2021-07-13",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218147.pdf"
+  },
+  {
+   "doc_id": "8218261",
+   "year": 2021,
+   "filing_date": "2021-08-13",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218261.pdf"
+  },
+  {
+   "doc_id": "8218338",
+   "year": 2021,
+   "filing_date": "2021-09-15",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218338.pdf"
+  },
+  {
+   "doc_id": "8218398",
+   "year": 2021,
+   "filing_date": "2021-10-14",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218398.pdf"
+  },
+  {
+   "doc_id": "8218426",
+   "year": 2021,
+   "filing_date": "2021-11-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218426.pdf"
+  },
+  {
+   "doc_id": "8218490",
+   "year": 2021,
+   "filing_date": "2021-12-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218490.pdf"
+  },
+  {
+   "doc_id": "8218518",
+   "year": 2022,
+   "filing_date": "2022-01-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218518.pdf"
+  },
+  {
+   "doc_id": "8218560",
+   "year": 2022,
+   "filing_date": "2022-02-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218560.pdf"
+  },
+  {
+   "doc_id": "8218597",
+   "year": 2022,
+   "filing_date": "2022-03-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218597.pdf"
+  },
+  {
+   "doc_id": "8218637",
+   "year": 2022,
+   "filing_date": "2022-04-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218637.pdf"
+  },
+  {
+   "doc_id": "8218730",
+   "year": 2022,
+   "filing_date": "2022-05-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218730.pdf"
+  },
+  {
+   "doc_id": "8218940",
+   "year": 2022,
+   "filing_date": "2022-06-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218940.pdf"
+  },
+  {
+   "doc_id": "8219068",
+   "year": 2022,
+   "filing_date": "2022-07-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219068.pdf"
+  },
+  {
+   "doc_id": "8219155",
+   "year": 2022,
+   "filing_date": "2022-08-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219155.pdf"
+  },
+  {
+   "doc_id": "8219207",
+   "year": 2022,
+   "filing_date": "2022-09-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219207.pdf"
+  },
+  {
+   "doc_id": "8219242",
+   "year": 2022,
+   "filing_date": "2022-10-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219242.pdf"
+  },
+  {
+   "doc_id": "8219275",
+   "year": 2022,
+   "filing_date": "2022-11-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219275.pdf"
+  },
+  {
+   "doc_id": "8219288",
+   "year": 2022,
+   "filing_date": "2022-12-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219288.pdf"
+  },
+  {
+   "doc_id": "8219318",
+   "year": 2022,
+   "filing_date": "2023-01-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219318.pdf"
+  },
+  {
+   "doc_id": "8219353",
+   "year": 2023,
+   "filing_date": "2023-02-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219353.pdf"
+  },
+  {
+   "doc_id": "8219417",
+   "year": 2023,
+   "filing_date": "2023-03-03",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219417.pdf"
+  },
+  {
+   "doc_id": "8219444",
+   "year": 2023,
+   "filing_date": "2023-04-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219444.pdf"
+  },
+  {
+   "doc_id": "8219521",
+   "year": 2023,
+   "filing_date": "2023-05-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219521.pdf"
+  },
+  {
+   "doc_id": "8219783",
+   "year": 2023,
+   "filing_date": "2023-06-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219783.pdf"
+  },
+  {
+   "doc_id": "8219826",
+   "year": 2023,
+   "filing_date": "2023-07-11",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219826.pdf"
+  },
+  {
+   "doc_id": "8219876",
+   "year": 2023,
+   "filing_date": "2023-08-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219876.pdf"
+  },
+  {
+   "doc_id": "8219953",
+   "year": 2023,
+   "filing_date": "2023-09-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219953.pdf"
+  },
+  {
+   "doc_id": "8219992",
+   "year": 2023,
+   "filing_date": "2023-10-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8219992.pdf"
+  },
+  {
+   "doc_id": "8220039",
+   "year": 2023,
+   "filing_date": "2023-11-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8220039.pdf"
+  },
+  {
+   "doc_id": "8220067",
+   "year": 2023,
+   "filing_date": "2023-12-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8220067.pdf"
+  },
+  {
+   "doc_id": "8220092",
+   "year": 2023,
+   "filing_date": "2024-01-04",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2023/8220092.pdf"
+  },
+  {
+   "doc_id": "8220127",
+   "year": 2024,
+   "filing_date": "2024-02-05",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220127.pdf"
+  },
+  {
+   "doc_id": "8220173",
+   "year": 2024,
+   "filing_date": "2024-03-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220173.pdf"
+  },
+  {
+   "doc_id": "8220192",
+   "year": 2024,
+   "filing_date": "2024-04-05",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220192.pdf"
+  },
+  {
+   "doc_id": "8220252",
+   "year": 2024,
+   "filing_date": "2024-05-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220252.pdf"
+  },
+  {
+   "doc_id": "8220451",
+   "year": 2024,
+   "filing_date": "2024-06-05",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220451.pdf"
+  },
+  {
+   "doc_id": "8220534",
+   "year": 2024,
+   "filing_date": "2024-07-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220534.pdf"
+  },
+  {
+   "doc_id": "8220570",
+   "year": 2024,
+   "filing_date": "2024-08-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220570.pdf"
+  },
+  {
+   "doc_id": "8220626",
+   "year": 2024,
+   "filing_date": "2024-09-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220626.pdf"
+  },
+  {
+   "doc_id": "8220660",
+   "year": 2024,
+   "filing_date": "2024-10-04",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220660.pdf"
+  },
+  {
+   "doc_id": "8220674",
+   "year": 2024,
+   "filing_date": "2024-11-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220674.pdf"
+  },
+  {
+   "doc_id": "8220691",
+   "year": 2024,
+   "filing_date": "2024-12-05",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220691.pdf"
+  },
+  {
+   "doc_id": "8220711",
+   "year": 2024,
+   "filing_date": "2025-01-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2024/8220711.pdf"
+  },
+  {
+   "doc_id": "8220750",
+   "year": 2025,
+   "filing_date": "2025-02-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220750.pdf"
+  },
+  {
+   "doc_id": "8220783",
+   "year": 2025,
+   "filing_date": "2025-03-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220783.pdf"
+  },
+  {
+   "doc_id": "8220827",
+   "year": 2025,
+   "filing_date": "2025-04-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220827.pdf"
+  },
+  {
+   "doc_id": "8220906",
+   "year": 2025,
+   "filing_date": "2025-05-12",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8220906.pdf"
+  },
+  {
+   "doc_id": "8221124",
+   "year": 2025,
+   "filing_date": "2025-06-10",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221124.pdf"
+  },
+  {
+   "doc_id": "8221176",
+   "year": 2025,
+   "filing_date": "2025-07-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221176.pdf"
+  },
+  {
+   "doc_id": "9115671",
+   "year": 2025,
+   "filing_date": "2025-08-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115671.pdf"
+  },
+  {
+   "doc_id": "9115676",
+   "year": 2025,
+   "filing_date": "2025-09-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115676.pdf"
+  },
+  {
+   "doc_id": "9115679",
+   "year": 2025,
+   "filing_date": "2025-10-03",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/9115679.pdf"
+  },
+  {
+   "doc_id": "8221231",
+   "year": 2025,
+   "filing_date": "2025-11-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221231.pdf"
+  },
+  {
+   "doc_id": "8221264",
+   "year": 2025,
+   "filing_date": "2025-12-08",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221264.pdf"
+  },
+  {
+   "doc_id": "8221285",
+   "year": 2025,
+   "filing_date": "2026-01-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/8221285.pdf"
+  },
+  {
+   "doc_id": "8221322",
+   "year": 2026,
+   "filing_date": "2026-02-06",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221322.pdf"
+  },
+  {
+   "doc_id": "8221358",
+   "year": 2026,
+   "filing_date": "2026-03-09",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/8221358.pdf"
+  },
+  {
+   "doc_id": "9115726",
+   "year": 2026,
+   "filing_date": "2026-04-07",
+   "pdf_url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9115726.pdf"
+  }
+ ]
+}

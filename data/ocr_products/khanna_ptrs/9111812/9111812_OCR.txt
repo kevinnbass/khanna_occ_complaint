@@ -1,0 +1,333 @@
+# Khanna PTR — Gemini per-page OCR transcription
+#   doc_id        : 9111812
+#   year          : 2017
+#   pdf_url       : https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2017/9111812.pdf
+#   total_pages   : 3
+#   engine        : gemini-3.1-flash-lite-preview (per-page)
+#   extractor     : src.gemini_per_page_extract.extract_per_page
+#   produced      : 2026-05-03 09:29:26 UTC
+#   tokens_in     : 6,220
+#   tokens_out    : 4,378
+
+--- PAGE 01 ---
+HAND DELIVERED
+UNITED STATES HOUSE OF REPRESENTATIVES
+Periodic Transaction Report
+LEGISLATIVE RESOURCE CENTER
+17 SEP 19 AM 9:27
+NAME: Rohit Khanna
+Page 1 of 3
+OFFICE TELEPHONE: (202) 225-2631
+U.S. HOUSE OF REPRESENTATIVES
+X Member of the U.S. House of Representatives
+State: CA District: 17
+Officer or Employee
+Employing Office: ____________________
+File an original and 2 copies
+File an original and 1 copy
+Did you purchase any shares that were allocated as a part of an Initial
+Public Offering?
+Please indicate whether this is an initial report or an amended report.
+For amendments, please provide the date of the report you are
+amending.
+X Initial Report
+Amendment
+Yes X No
+If you answered "yes" to this question, please contact the Committee on
+Ethics for further guidance.
+Date of Report Being Amended: ____________
+A $200 penalty shall be assessed against
+anyone who files more than 30 days late.
+(For Official Use Only)
+FULL ASSET NAME
+TYPE OF
+TRANS-
+ACTION
+DATE
+OF
+TRANS-
+ACTION
+DATE
+NOTIFIED
+OF
+TRANS-
+ACTION
+AMOUNT OF TRANSACTION
+SP
+DC
+JT
+Purchase
+Sale
+Exchange
+(MM/DD/YY)
+(MM/DD/YY)
+A
+$1,001-
+$15,000
+B
+$15,001-
+$50,000
+C
+$50,001-
+$100,000
+D
+$100,001-
+$250,000
+E
+$250,001-
+$500,000
+F
+$500,001-
+$1,000,000
+G
+$1,000,001-
+$5,000,000
+H
+$5,000,001-
+$25,000,00
+I
+$25,000,001-
+$50,000,000
+J
+Over
+$50,000,000
+K
+Transaction in a Spouse or
+Dependent Child Asset
+over $1,000,000
+JT
+Example: Mega Corp. Common Stock
+X
+02/05/15
+03/07/15
+X
+Please see the attached
+
+--- PAGE 02 ---
+Name: Rohit Khanna Page 2 of 3
+SP/JT
+Grandchildren Trust
+Full Asset Name
+Provide full name, not ticker symbol.
+Type of Transaction
+Purchase
+Sale
+Exchange
+Date of
+Transaction
+MM/DD/YY
+Date Notified of
+Transaction
+MM/DD/YY
+Amount of Transaction
+A
+$1,001 -
+$15,000
+B
+$15,001 -
+$50,000
+C
+$50,001 -
+$100,000
+D
+$100,001 -
+$250,000
+E
+$250,001 -
+$500,000
+F
+$500,001 -
+$1,000,000
+G
+$1,000,001 -
+$5,000,000
+H
+$5,000,001 -
+$25,000,000
+I
+$25,000,001 -
+$50,000,000
+J
+Over
+$50,000,000
+K
+Transaction
+in a Spouse or
+Dependent
+Child Asset
+$1,000,000
+DC
+CBS CORPORATION CMN CLASS B
+x
+07/31/17
+09/14/17
+x
+DC
+BANK OF AMERICA CORP CMN
+x
+07/31/17
+09/14/17
+x
+DC
+DEVON ENERGY CORPORATION (NEW) CMN
+x
+07/31/17
+09/14/17
+x
+DC
+CORNING INCORPORATED CMN
+x
+07/31/17
+09/14/17
+x
+DC
+USG CORP (NEW) CMN
+x
+07/31/17
+09/14/17
+x
+DC
+FIREEYE, INC. CMN
+x
+07/31/17
+09/14/17
+x
+DC
+VERSUM MATERIALS, INC. CMN
+x
+07/31/17
+09/14/17
+x
+DC
+THE MOSAIC COMPANY CMN
+x
+07/31/17
+09/14/17
+x
+DC
+ENTEGRIS, INC. CMN
+x
+07/31/17
+09/14/17
+x
+DC
+AXALTA COATING SYSTEMS LTD. CMN
+x
+08/03/17
+09/14/17
+x
+DC
+WESTLAKE CHEMICAL CORPORATION CMN
+x
+08/03/17
+09/14/17
+x
+DC
+WAL MART STORES INC CMN
+x
+08/03/17
+09/14/17
+x
+DC
+HANESBRANDS INC. CMN
+x
+08/04/17
+09/14/17
+x
+DC
+WAL MART STORES INC CMN
+x
+08/04/17
+09/14/17
+x
+DC
+WESTLAKE CHEMICAL CORPORATION CMN
+x
+08/08/17
+09/14/17
+x
+DC
+HANESBRANDS INC. CMN
+x
+08/08/17
+09/14/17
+x
+DC
+WAL MART STORES INC CMN
+x
+08/10/17
+09/14/17
+x
+DC
+WESTLAKE CHEMICAL CORPORATION CMN
+x
+08/10/17
+09/14/17
+x
+DC
+WAL MART STORES INC CMN
+x
+08/11/17
+09/14/17
+x
+DC
+PERKINELMER INC CMN
+x
+08/28/17
+09/14/17
+x
+
+--- PAGE 03 ---
+Name: Rohit Khanna  Page 3 of 3
+Full Asset Name
+Type of Transaction
+Date of Transaction
+Date Notified of Transaction
+Amount of Transaction
+Transaction In a Spouse or Dependent Child Asset
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+Provide full name, not ticker symbol.
+Purchase
+Sale
+Exchange
+MM/DD/YY
+MM/DD/YY
+$1,001 - $15,000
+$15,001 - $50,000
+$50,001 - $100,000
+$100,001 - $250,000
+$250,001 - $500,000
+$500,001 - $1,000,000
+$1,000,001 - $5,000,000
+$5,000,001 - $25,000,000
+$25,000,001 - $50,000,000
+Over $50,000,000
+Over $1,000,000
+SP/DC/JT
+Grandchildren Trust (ASK Partners, LLC)
+X
+07/26/17
+09/14/17
+X
+DC
+Transtar/Speedstar Holding Company
+X
+08/14/17
+09/14/17
+X
+DC
+Transtar/Speedstar Holding Company
+X
+08/14/17
+09/14/17
+X
