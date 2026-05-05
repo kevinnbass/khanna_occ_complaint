@@ -443,12 +443,12 @@ Signed this _____ day of __________, 2026.
 
 /s/ Kevin Bass
 ________________________________
-**Kevin Bass**, complainant, *pro se*
+**Kevin Bass**, complainant
 Email: ruokalalokkim@gmail.com
 Mailing address: __________________________________________
 Daytime telephone: ________________________________________
 
-The complainant files *pro se*. No counsel of record.
+No counsel of record.
 
 ---
 
@@ -461,7 +461,7 @@ I hereby certify that on the _____ day of __________, 2026, I caused a true and 
 
 /s/ Kevin Bass
 ________________________________
-Kevin Bass, complainant *pro se*
+Kevin Bass, complainant
 
 ---
 

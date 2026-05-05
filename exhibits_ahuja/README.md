@@ -85,4 +85,4 @@ Exhibit H uses the TY2024 corpus figure and the TY2024 NVIDIA transfer figures d
 
 ---
 
-*Primary-source substrates: IRS 990-PF e-filed XML returns for EIN 34-1685088, tax years 2013 through 2024; ProPublica Nonprofit Explorer mirror of the same filings; IRS Statistics of Income individual-return file. Workpaper prepared pro se.*
+*Primary-source substrates: IRS 990-PF e-filed XML returns for EIN 34-1685088, tax years 2013 through 2024; ProPublica Nonprofit Explorer mirror of the same filings; IRS Statistics of Income individual-return file.*

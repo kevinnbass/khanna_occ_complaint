@@ -160,4 +160,4 @@ Within Count 4, the four-Member cluster functions as context for the second-resp
 
 ---
 
-*Primary-source substrates: House Clerk Periodic Transaction Reports for each of the four Members (drawn from `lake.house_ptr_transactions_canonical`, the amendment-cascade-deduplicated canonical view); House Clerk Financial Disclosure portal Annual PFDs; FEC Schedule A and committee-roster records; Speaker's appointment letters for HLIG roster (118th and 119th Congresses); House and Senate committee rosters for the 115th through 119th Congresses; roll-call records for cited NDAA enactments. Exhibit prepared pro se.*
+*Primary-source substrates: House Clerk Periodic Transaction Reports for each of the four Members (drawn from `lake.house_ptr_transactions_canonical`, the amendment-cascade-deduplicated canonical view); House Clerk Financial Disclosure portal Annual PFDs; FEC Schedule A and committee-roster records; Speaker's appointment letters for HLIG roster (118th and 119th Congresses); House and Senate committee rosters for the 115th through 119th Congresses; roll-call records for cited NDAA enactments.*

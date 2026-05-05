@@ -2,7 +2,7 @@
 
 **To**: Office of General Counsel, Federal Election Commission, 1050 First Street, NE, Washington, DC 20463
 **Re**: Coordinated communications by PROTECT PROGRESS (C00848440), a single-industry Super PAC, in support of Representative Ro Khanna's principal campaign committee Ro For Congress (C00503185), with a parallel inquiry on the same conduct standard as applied to Representative Josh Gottheimer (C00573949)
-**Complainant**: Kevin Bass, *pro se*
+**Complainant**: Kevin Bass
 **Address**: ____________________________________________
 **Submission**: Original sworn-and-notarized complaint plus three (3) paper copies, transmitted to the address above per 11 C.F.R. § 111.4(a)–(c)
 
@@ -799,7 +799,7 @@ Pursuant to 52 U.S.C. § 30109(a)(1), 11 C.F.R. § 111.4, and 28 U.S.C. § 1746,
 Executed this _____ day of ____________________, 2026.
 
 ___________________________________________
-**Kevin Bass**, complainant *pro se*
+**Kevin Bass**, complainant
 
 ## 9. Notarial certificate
 

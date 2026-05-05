@@ -146,4 +146,4 @@ The pair is coordinated at the donor and vote level in a limited, industry-speci
 
 ---
 
-*Primary-source substrates: FEC Schedule A and Schedule B individual-contribution and committee-disbursement data for FEC committees C00503185, C00573949, and C00848440; House Clerk Periodic Transaction Reports for both Members; House Clerk roll-call records for 118th Congress H.R. 4763 and H.J. Res. 109. Exhibit prepared pro se.*
+*Primary-source substrates: FEC Schedule A and Schedule B individual-contribution and committee-disbursement data for FEC committees C00503185, C00573949, and C00848440; House Clerk Periodic Transaction Reports for both Members; House Clerk roll-call records for 118th Congress H.R. 4763 and H.J. Res. 109.*

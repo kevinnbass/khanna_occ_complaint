@@ -68,4 +68,4 @@ Three implications follow for Counts 3 and 7:
 
 ---
 
-*Primary-source substrates: House Clerk Financial Disclosure portal — respondent's 19 Annual and Amendment PFDs tax years 2014 through 2024 (doc IDs enumerated in Section 1). Per-page extraction applied to every PDF. Exhibit prepared pro se.*
+*Primary-source substrates: House Clerk Financial Disclosure portal — respondent's 19 Annual and Amendment PFDs tax years 2014 through 2024 (doc IDs enumerated in Section 1). Per-page extraction applied to every PDF.*

@@ -109,4 +109,4 @@ The Dover / Kent County DE two-portal property-records probe (Section 3) covered
 
 ---
 
-*Underlying primary-source documents: House Clerk Financial Disclosure portal — Khanna Annual PFDs tax years 2014 through 2023 (doc IDs in Section 1 table) — and Kent County DE Levy Court Property Records System plus City of Dover DE parcel database. Exhibit prepared pro se.*
+*Underlying primary-source documents: House Clerk Financial Disclosure portal — Khanna Annual PFDs tax years 2014 through 2023 (doc IDs in Section 1 table) — and Kent County DE Levy Court Property Records System plus City of Dover DE parcel database.*
