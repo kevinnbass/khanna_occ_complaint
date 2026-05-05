@@ -456,8 +456,8 @@ No counsel of record.
 
 I hereby certify that on the _____ day of __________, 2026, I caused a true and correct copy of the foregoing Complaint, together with the complete exhibit package identified in Section VII and the SHA-256 manifest `99_SHA256SUMS.txt`, to be served upon the Office of Congressional Conduct, U.S. House of Representatives, and upon the following parallel-referral offices via the accompanying cover memos:
 
-- **U.S. Department of Justice, Public Integrity Section** (`DOJ_REFERRAL_KHANNA.md`)
-- **House Committee on Ethics** — supporting material held available upon Office-of-Congressional-Conduct referral (`HOUSE_ETHICS_SUBMISSION_KHANNA.md`)
+- **U.S. Department of Justice, Public Integrity Section**
+- **House Committee on Ethics** — supporting material held available upon Office-of-Congressional-Conduct referral
 
 /s/ Kevin Bass
 ________________________________
