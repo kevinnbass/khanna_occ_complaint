@@ -1,7 +1,7 @@
 # OCC Complaint Pre-Flight Report — Khanna
 
 **Filer**: Kevin Bass, *pro se*
-**Package status**: signed draft; not yet physically transmitted to the Office of Congressional Conduct, Federal Election Commission, House Committee on Ethics, or Department of Justice pending the complainant's filing decision.
+**Package status**: signed draft; not yet physically transmitted to the Office of Congressional Conduct, Federal Election Commission, House Committee on Ethics, or Department of Justice.
 **Verdict**: READY TO FILE — DRAFT. The filing package is substantively complete and self-contained. All pre-filing checklist items below either PASS or are documented as deferred to mailing time.
 
 ## Pre-filing checklist

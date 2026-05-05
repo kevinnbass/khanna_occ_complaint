@@ -1,5 +1,5 @@
 ---
-*Drafted pro se by Kevin Bass. Signed draft; not yet physically transmitted to the House Committee on Ethics pending the complainant's filing decision.*
+*Drafted by Kevin Bass. Signed draft; not yet physically transmitted to the House Committee on Ethics.*
 ---
 
 # HOUSE_ETHICS_SUBMISSION_KHANNA — EXHIBIT LIST

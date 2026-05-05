@@ -1,5 +1,5 @@
 ---
-*Drafted pro se by Kevin Bass. Signed draft; not yet physically transmitted to the Office of Congressional Conduct, House Committee on Ethics, or Department of Justice pending the complainant's filing decision.*
+*Drafted by Kevin Bass. Signed draft; not yet physically transmitted to the Office of Congressional Conduct, House Committee on Ethics, or Department of Justice.*
 ---
 
 # OCC_COMPLAINT_KHANNA — EXHIBIT LIST

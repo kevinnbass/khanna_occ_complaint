@@ -1,5 +1,5 @@
 ---
-*Drafted pro se by Kevin Bass. Signed draft; not yet physically transmitted to the Federal Election Commission pending the complainant's filing decision.*
+*Drafted by Kevin Bass. Signed draft; not yet physically transmitted to the Federal Election Commission.*
 ---
 
 # FEC_REFERRAL_PROTECT_PROGRESS — EXHIBIT LIST

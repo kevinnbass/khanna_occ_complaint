@@ -1,5 +1,5 @@
 ---
-*Drafted pro se by Kevin Bass. Last revised 2026-04-23. Signed draft; not yet physically transmitted to the Department of Justice pending the complainant's filing decision. All numerical assertions trace to primary-source records identified in the companion principal complaint and in the referenced exhibit files.*
+*Drafted by Kevin Bass. Last revised 2026-04-23. Signed draft; not yet physically transmitted to the Department of Justice. All numerical assertions trace to primary-source records identified in the companion principal complaint and in the referenced exhibit files.*
 ---
 
 # DEPARTMENT OF JUSTICE REFERRAL MEMORANDUM
@@ -184,6 +184,6 @@ The convergence across three independent regulatory bodies — the Securities an
 
 ---
 
-*End of referral memorandum. Drafted pro se by Kevin Bass.*
+*End of referral memorandum. Drafted by Kevin Bass.*
 
 *Certificate of Service. Addressees: Public Integrity Section, U.S. Department of Justice; with service copies to the Office of Congressional Conduct and the House Committee on Ethics per the companion filings.*

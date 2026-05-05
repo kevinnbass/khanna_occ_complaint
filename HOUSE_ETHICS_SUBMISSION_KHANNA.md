@@ -1,5 +1,5 @@
 ---
-*Drafted pro se by Kevin Bass. Last revised 2026-04-23. Signed draft; not yet physically transmitted to the Committee on Ethics pending the complainant's filing decision. All numerical assertions trace to primary-source records identified in the Companion filings section and in the referenced exhibits.*
+*Drafted by Kevin Bass. Last revised 2026-04-23. Signed draft; not yet physically transmitted to the Committee on Ethics. All numerical assertions trace to primary-source records identified in the Companion filings section and in the referenced exhibits.*
 ---
 
 # MATERIAL AVAILABLE TO THE COMMITTEE ON ETHICS UPON OFFICE-OF-CONGRESSIONAL-CONDUCT REFERRAL
@@ -192,4 +192,4 @@
 
 ---
 
-*End of informational submission. Drafted pro se by Kevin Bass.*
+*End of informational submission. Drafted by Kevin Bass.*

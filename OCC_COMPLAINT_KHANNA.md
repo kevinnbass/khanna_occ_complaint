@@ -1,5 +1,5 @@
 ---
-*Drafted pro se by Kevin Bass. Last revised 2026-04-23. Signed draft; not yet physically transmitted to the Office of Congressional Conduct, Federal Election Commission, or Department of Justice pending the complainant's filing decision. All numerical assertions trace to primary-source records identified in §VII (Exhibit List) and in the Methodology footer.*
+*Drafted by Kevin Bass. Last revised 2026-04-23. Signed draft; not yet physically transmitted to the Office of Congressional Conduct, Federal Election Commission, or Department of Justice. All numerical assertions trace to primary-source records identified in §VII (Exhibit List) and in the Methodology footer.*
 ---
 
 # BEFORE THE OFFICE OF CONGRESSIONAL CONDUCT

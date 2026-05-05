@@ -1,5 +1,5 @@
 ---
-*Drafted pro se by Kevin Bass. Signed draft; not yet physically transmitted to the Department of Justice pending the complainant's filing decision.*
+*Drafted by Kevin Bass. Signed draft; not yet physically transmitted to the Department of Justice.*
 ---
 
 # DOJ_REFERRAL_KHANNA — EXHIBIT LIST
