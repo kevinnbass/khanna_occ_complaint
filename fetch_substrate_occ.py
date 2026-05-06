@@ -333,7 +333,7 @@ def cmd_house_fd(cache: Path):
         "DocID that matches the DocID column in khanna_fd_index_all_years.tsv\n"
         "(filtered to FilingType='P'). Cross-reference Khanna's 9 PTRs cited in\n"
         "the late-filing audit by joining DocID against this TSV.\n\n"
-        "Count 7 (Schedule A spousal-asset disclosure): every Khanna annual PFD\n"
+        "Count 6 (Schedule A spousal-asset disclosure): every Khanna annual PFD\n"
         "(FilingType='O') across TY2014-TY2023 is enumerated in the combined\n"
         "TSV with its filing-date and DocID. Join against this TSV to confirm\n"
         "filing-date ordering for the late-amendment timing claim at OCC §III.7.\n\n"

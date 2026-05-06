@@ -1,6 +1,6 @@
 # EXHIBIT — Revolving-Door Donor Network and LD-203 Compliance
 
-**Count supported.** Count 6 (revolving door), with secondary nexus to Count 5 (lobbying pressure) via the inbound-staffer bill-activity overlap.
+**Count supported.** Count 5 (revolving door).
 
 **Structure.** This exhibit combines the revolving-door donor inventory, the LDA §203 (2 U.S.C. § 1604(d)) semi-annual contribution-filing compliance test on every named donor, the client-employee donor-cluster cross-checks, the outbound-pipeline negative finding, and the chamber-plus-peer baseline scope. It supersedes the earlier split presentation.
 
@@ -159,7 +159,7 @@ Beyond donations, the federal lobbying firms currently employing the five Tier-1
 
 The Nickles Group × Koch × H.R. 7061 combination is the strongest single data point: respondent's ex-Senate-Affairs staffer's pedigree firm lobbying respondent's own oil-windfall-profits tax bill on behalf of Koch Industries. It cross-corroborates Exhibit AA's direct Koch × H.R. 7061 finding on the lobbying-pressure axis.
 
-## 8. Count 6 element coverage
+## 8. Count 5 element coverage
 
 - **Element 22 — Prior covered federal role.** Established for each of the five donors by the `covered_position` field on the respective `lake.lda_revolving_door` record, corroborated by public biography.
 - **Element 23 — Current LDA registration in matter before respondent's committee.** Established by each donor's active LDA registrant status (2017-onward filings) with client portfolios intersecting HASC / Oversight / CAPAC jurisdictions.

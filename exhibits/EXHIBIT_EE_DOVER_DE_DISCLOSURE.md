@@ -83,11 +83,11 @@ The respondent's affirmative-defense burden to rebut the structural asymmetry is
 
 ---
 
-## 5. Relationship to the balance of Count 7
+## 5. Relationship to the balance of Count 6
 
-This exhibit supports the Dover, Delaware rental-property asymmetric-disclosure leg of Count 7 (§ 13104(a)(1)(B) unearned-income disclosure and § 13104(a)(3) real-property interest disclosure). The exhibit is independent of the Ahuja Charitable Foundation spouse-asset-disclosure leg developed at Exhibit H and of the household margin-loan and written-options scaffold developed at Exhibit CC. The three legs are cumulative; each rests on primary-source records and each stands on its own § 13104 predicate.
+This exhibit supports the Dover, Delaware rental-property asymmetric-disclosure leg of Count 6 (§ 13104(a)(1)(B) unearned-income disclosure and § 13104(a)(3) real-property interest disclosure). The exhibit is independent of the Ahuja Charitable Foundation spouse-asset-disclosure leg developed at Exhibit H and of the household margin-loan and written-options scaffold developed at Exhibit CC. The three legs are cumulative; each rests on primary-source records and each stands on its own § 13104 predicate.
 
-The complaint's balance of Count 7 relief — amended-PFD requirement for each year the Committee finds § 13104 disclosure absent; civil penalties under § 13106 at Committee discretion; Committee on Ethics determination of the § 13104(d)(1)(A) spouse-Foundation scope question; 18 U.S.C. § 1346 honest-services consideration contingent on a Committee scope finding — tracks the four-leg structure of Count 7 and is not re-cited here.
+The complaint's balance of Count 6 relief — amended-PFD requirement for each year the Committee finds § 13104 disclosure absent; civil penalties under § 13106 at Committee discretion; Committee on Ethics determination of the § 13104(d)(1)(A) spouse-Foundation scope question; 18 U.S.C. § 1346 honest-services consideration contingent on a Committee scope finding — tracks the four-leg structure of Count 6 and is not re-cited here.
 
 ---
 

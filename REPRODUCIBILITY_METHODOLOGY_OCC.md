@@ -106,7 +106,7 @@ The `lake.house_ptr_transactions_canonical` view collapses every amendment casca
 
 A reviewer reconstructing this view from the source `lake.house_ptr_transactions` table must apply the same key shape and the same MIN(filing_date) attribution. A naive sum-over-raw-rows over-counts late filings by approximately 2,166 chamber-wide (out of ~127K raw House transactions; chamber rate falls from 10.18% raw → 10.14% canonical; per-Member impact varies — Khanna 2.84% raw → 1.74% canonical; Perdue 30.10% raw → 4.75% canonical).
 
-**Where this matters in the Complaint**: Count 1 (every rate / severity / bucket figure); Count 2 (NDAA-window late-filing identity); Count 3 (CMS rulemaking / Palantir / Nvidia trade-window identity); Count 7 (Schedule A asset-versus-PTR cross-validation). The body's authored figures at § II.B and § III.1-§III.3 are post-canonical.
+**Where this matters in the Complaint**: Count 1 (every rate / severity / bucket figure); Count 2 (NDAA-window late-filing identity); Count 3 (CMS rulemaking / Palantir / Nvidia trade-window identity); Count 6 (Schedule A asset-versus-PTR cross-validation). The body's authored figures at § II.B and § III.1-§III.3 are post-canonical.
 
 ### 3.2 Pre-tenure transaction filter
 

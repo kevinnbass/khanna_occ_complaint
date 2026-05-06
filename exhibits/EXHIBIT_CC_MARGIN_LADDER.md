@@ -1,7 +1,7 @@
 # Exhibit CC — Goldman Margin Ladder and Paired-Trust Label Scaffold
 
 **Case**: *In re Representative Rohit "Ro" Khanna (CA-17)*
-**Counts supported**: Count 1 (STOCK Act § 6 severity context); Count 3 (financial-interest conflicts — conflict triangle); Count 7 (§ 13104(f)(3) SMA/QBT/EIF defense foreclosure)
+**Counts supported**: Count 1 (STOCK Act § 6 severity context); Count 3 (financial-interest conflicts — conflict triangle); Count 6 (§ 13104(f)(3) SMA/QBT/EIF defense foreclosure)
 **Subject entities**: Goldman Sachs & Co.; Ritu Ahuja 1994 Trust; Ritu Ahuja 1995 Trust
 
 ---

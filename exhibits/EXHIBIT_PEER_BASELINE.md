@@ -297,8 +297,8 @@ Full enumeration of every board, director, officer, or trustee position disclose
 | **Count 3 — Financial-interest** | M4 composite; M6 NDAA absolute; M8 SP/DC share; M12 liability count | Multiple P85+ anchors |
 | **Count 4 — Dark money** | M10 PROTECT PROGRESS IE 2 of 46 | Operative outlier |
 | **Count 5 — Lobbying** | M11 outside positions (near-median — preempts "over-extended"); M15 Schedule C | Near-median preemption |
-| **Count 6 — Revolving door** | M15 Schedule C; M16 forward arrangements zero | Preemption on forward side; corroboration on continuing-income side |
-| **Count 7 — Ahuja Foundation** | §5 board inventory (Waters + Ahuja trustee + spouse officer); M12 liability count | Household external-interest scale |
+| **Count 5 — Revolving door** | M15 Schedule C; M16 forward arrangements zero | Preemption on forward side; corroboration on continuing-income side |
+| **Count 6 — Ahuja Foundation** | §5 board inventory (Waters + Ahuja trustee + spouse officer); M12 liability count | Household external-interest scale |
 
 ---
 

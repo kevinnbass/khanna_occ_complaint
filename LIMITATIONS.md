@@ -127,7 +127,7 @@ re-run the canonical SQL. Or run the chamber-wide Gemini rebuild
 
 **Affected snapshot:** `data/occ/ahuja_foundation_990pf_2026_05_02.json`
 **Affected body claims:** Ahuja Foundation 990-PF financial summaries
-(Count 7 spousal-asset disclosure framing).
+(Count 6 spousal-asset disclosure framing).
 
 **The canonical IRS publication for e-filed Form 990-PF is XML, not
 PDF.** The bundled snapshot was extracted from the IRS e-file XML

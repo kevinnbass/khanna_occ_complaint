@@ -1,7 +1,7 @@
 # EXHIBIT H — THE AHUJA CHARITABLE FOUNDATION AS A SPOUSE-ASSET DISCLOSURE QUESTION
 
 **Case**: *In re Representative Rohit "Ro" Khanna (CA-17)*
-**Count supported**: Count 7 (Ethics in Government Act 5 U.S.C. § 13104(d)(1)(A) spouse-asset scope; House Rule XXVI)
+**Count supported**: Count 6 (Ethics in Government Act 5 U.S.C. § 13104(d)(1)(A) spouse-asset scope; House Rule XXVI)
 
 ---
 
@@ -73,7 +73,7 @@ The Ethics in Government Act's spouse-disclosure provision, codified at 5 U.S.C.
 - **5 U.S.C. § 13106** — civil penalties for knowing-and-willful failure to file or filing a PFD containing material falsification, at Committee on Ethics discretion.
 - **18 U.S.C. § 1346** (honest-services fraud) — available as a DOJ referral only on a Committee finding that respondent had actual knowledge of the Foundation corpus and the spouse-trustee role and concealed them from PFD disclosure. Not charged standalone in the complaint.
 
-## 5. Relief sought (Count 7, Foundation scope component)
+## 5. Relief sought (Count 6, Foundation scope component)
 
 - Committee on Ethics determination on the § 13104(d)(1)(A) spouse-asset-disclosure scope question for the Foundation corpus, given the trustee-and-contributor governance facts above. The Office of Government Ethics's published Letter Opinion 03-2, while addressed to executive-branch filers and not directly applicable to House Members, is offered as persuasive secondary authority on the foundation-trustee scope question.
 - Committee on Ethics review under House Rule XXVI; amended-PFD requirement for any year the Committee determines disclosure was absent; civil penalties under 5 U.S.C. § 13106 at Committee discretion.

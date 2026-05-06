@@ -2,7 +2,7 @@
 
 **Subject.** The Ahuja Charitable Foundation (EIN 34-1685088), a private family foundation whose spouse-trustee and corpus-composition record is developed operatively at Exhibit H and whose grantees-by-lobbying-overlap record is developed at Exhibit Q.
 
-**Scope of this workpaper.** This directory is a methodology workpaper: four CSV data-lineage files and this narrative reference explaining how the Foundation's IRS Form 990-PF records were parsed from primary-source XML to the figures cited in Exhibit H, Exhibit Q, and Count 7 of the operative complaint. It is not itself a pleading. The CSV files are retained in the filing package for transparency so that any reviewer may independently verify every Exhibit H claim against the Foundation's own e-filed 990-PF returns.
+**Scope of this workpaper.** This directory is a methodology workpaper: four CSV data-lineage files and this narrative reference explaining how the Foundation's IRS Form 990-PF records were parsed from primary-source XML to the figures cited in Exhibit H, Exhibit Q, and Count 6 of the operative complaint. It is not itself a pleading. The CSV files are retained in the filing package for transparency so that any reviewer may independently verify every Exhibit H claim against the Foundation's own e-filed 990-PF returns.
 
 **Primary sources.** IRS 990-PF e-filed XML returns for tax years 2013 through 2024, obtained from the IRS Statistics of Income and from the ProPublica Nonprofit Explorer mirror. The four CSVs are the deduplicated roll-ups of the four Schedule-B-and-Investment-schedule query outputs listed below.
 
@@ -75,7 +75,7 @@ Headline recipients include University Hospitals Health System (Cleveland, Ohio,
 | 2023 | $1,411,200 | 46 |
 | 2024 | $2,078,500 | 35 |
 
-The grantmaking is geographically concentrated in Ohio (aligning with the Ahuja family's Cleveland-area base, where Monte Ahuja served as a Director of University Hospitals Health System through 2019) and in Naples, Florida (aligning with the family's Florida residence). None of the top recipients sit within respondent's CA-17 district. The complaint accordingly does not plead Count 7 on a district-enrichment theory — Exhibit Q develops the grantees-by-lobbying-overlap dimension on which the Count 7 substrate rests — but rather on the § 13104(d)(1)(A) spouse-asset-disclosure scope question addressed to the spouse-trustee relationship and to the corpus composition.
+The grantmaking is geographically concentrated in Ohio (aligning with the Ahuja family's Cleveland-area base, where Monte Ahuja served as a Director of University Hospitals Health System through 2019) and in Naples, Florida (aligning with the family's Florida residence). None of the top recipients sit within respondent's CA-17 district. The complaint accordingly does not plead Count 6 on a district-enrichment theory — Exhibit Q develops the grantees-by-lobbying-overlap dimension on which the Count 6 substrate rests — but rather on the § 13104(d)(1)(A) spouse-asset-disclosure scope question addressed to the spouse-trustee relationship and to the corpus composition.
 
 ---
 

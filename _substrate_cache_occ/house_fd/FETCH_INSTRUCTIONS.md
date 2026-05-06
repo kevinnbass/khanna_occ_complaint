@@ -29,7 +29,7 @@ DocID that matches the DocID column in khanna_fd_index_all_years.tsv
 (filtered to FilingType='P'). Cross-reference Khanna's 9 PTRs cited in
 the late-filing audit by joining DocID against this TSV.
 
-Count 7 (Schedule A spousal-asset disclosure): every Khanna annual PFD
+Count 6 (Schedule A spousal-asset disclosure): every Khanna annual PFD
 (FilingType='O') across TY2014-TY2023 is enumerated in the combined
 TSV with its filing-date and DocID. Join against this TSV to confirm
 filing-date ordering for the late-amendment timing claim at OCC §III.7.

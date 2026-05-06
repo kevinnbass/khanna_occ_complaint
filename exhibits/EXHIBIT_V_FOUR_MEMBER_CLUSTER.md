@@ -10,7 +10,7 @@ Four House Members active in the 117th through 119th Congresses comprise the clu
 
 | Member | Bioguide | Party / District | Structural finding |
 |---|---|---|---|
-| Ro Khanna | K000389 | D / CA-17 | Subject of this complaint: seven theories pleaded as ready on Counts 1 through 7 |
+| Ro Khanna | K000389 | D / CA-17 | Subject of this complaint: six theories pleaded as ready on Counts 1 through 6 |
 | Josh Gottheimer | G000583 | D / NJ-5 | Second-respondent coordination framing on Count 4: shared crypto-industry donor cluster; PROTECT PROGRESS dual-recipient; 11 C.F.R. § 109.21(d)(4) common-vendor coordination indicia via Global Strategy Group |
 | Michael McCaul | M001157 | R / TX-10 | Chair of the House Foreign Affairs Committee (118th Congress); prior Chair of the House Committee on Homeland Security (113th–115th Congresses); household General Electric purchase nine days before FY2023 National Defense Authorization Act enactment and twenty days before swearing-in as HSFA Chair |
 | Austin Scott | S001189 | R / GA-8 | House Armed Services Committee member continuously since 2013; spouse-owner General Electric purchase nine days before FY2021 NDAA enactment; batched eight-defense-prime spouse-sell disclosure 241 to 313 days past the STOCK Act deadline |

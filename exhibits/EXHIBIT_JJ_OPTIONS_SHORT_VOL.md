@@ -1,7 +1,7 @@
 # Exhibit JJ — Systematic XSP Short-Volatility Program (Spouse Account)
 
 **Case**: *In re Representative Rohit "Ro" Khanna (CA-17)*
-**Counts supported**: Count 3 (financial-interest conflicts — independent confirmation that the household's options activity is not broker-discretionary); Count 7 (§ 13104(f)(3) SMA/QBT/EIF defense foreclosure)
+**Counts supported**: Count 3 (financial-interest conflicts — independent confirmation that the household's options activity is not broker-discretionary); Count 6 (§ 13104(f)(3) SMA/QBT/EIF defense foreclosure)
 **Subject accounts**: SP owner (spouse Ritu Ahuja Khanna) options activity, 2017–2026
 
 ---

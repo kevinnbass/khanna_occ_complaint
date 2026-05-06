@@ -398,7 +398,7 @@ ANCHORS = [
     # ---- pfd_schedule_d_load (C.VERIFIER:pfd_schedule_d_load; Goldman SP) ----
     {
         "marker": "OCC_M028",
-        "section": "Count 3 + Count 7 (Goldman margin scaffold)",
+        "section": "Count 3 + Count 6 (Goldman margin scaffold)",
         "claim": "Goldman Sachs spouse-owned margin scaffold TY2017-TY2019 "
                  "(continuous facility; TY2017 single-line $1M+ load-bearing)",
         "kind": "pfd_schedule_d_load",
@@ -3388,7 +3388,7 @@ def _diff_pfd_schedule_d_via_rebuild(snap_path: Path, base: Path) -> list[dict]:
                 f"tax_years_present={rebuilt_inv.get('tax_years_present')} / "
                 f"ty2017_has_1m_plus_line="
                 f"{rebuilt_inv.get('ty2017_has_1m_plus_line')} "
-                f"(Count 3 paragraph 34d + Count 7 paragraph 64b body anchor)"
+                f"(Count 3 paragraph 34d + Count 6 paragraph 64b body anchor)"
             ),
         })
 

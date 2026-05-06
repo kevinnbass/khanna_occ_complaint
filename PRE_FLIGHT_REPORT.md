@@ -8,7 +8,7 @@
 
 | # | Check | Result |
 |---:|---|---|
-| 1 | All seven pleaded theories READY_TO_PLEAD, element coverage 100% on every theory | PASS |
+| 1 | All six pleaded theories READY_TO_PLEAD, element coverage 100% on every theory | PASS |
 | 2 | No open defense at severity 8 or higher; no defense marked fatal | PASS |
 | 3 | Every open defense at severity 7 or higher has an anticipated-response paragraph in OCC_COMPLAINT §VI | PASS |
 | 4 | Chamber-baseline disclosure present on every Count that invokes a comparative statistic | PASS (Counts 1, 2, 3, 4, 6) |
@@ -39,7 +39,7 @@
 ```
 ro_khanna_political_dossier/
 ├─ OCC_FILING_PACKAGE_V2/
-│  ├─ OCC_COMPLAINT_KHANNA.md               — primary complaint, seven Counts, anticipated responses, verification
+│  ├─ OCC_COMPLAINT_KHANNA.md               — primary complaint, six Counts, anticipated responses, verification
 │  ├─ OCC_EXHIBIT_LIST.md                   — exhibit catalog (Letter × Title × File × Predicate keywords × Counts)
 │  ├─ DOJ_REFERRAL_KHANNA.md                — criminal-referral cover memo
 │  ├─ HOUSE_ETHICS_SUBMISSION_KHANNA.md     — material available to the Committee on Ethics upon Office of Congressional Conduct referral

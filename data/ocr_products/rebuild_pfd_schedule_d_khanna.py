@@ -53,7 +53,7 @@ from typing import Any
 # TY2017 $1M+ Goldman SP single-line is the post-swearing-in margin-scaffold
 # anchor that is mechanically incompatible with the passive-SMA / QBT / EIF
 # affirmative defense under 5 U.S.C. § 13104(f)(3) — see Count 3 paragraph
-# 34d + Count 7 paragraph 64b in OCC_COMPLAINT_KHANNA.md.
+# 34d + Count 6 paragraph 64b in OCC_COMPLAINT_KHANNA.md.
 EXPECTED_INVARIANTS = {
     "n_rows_total": 13,
     "tax_years_present": ["2016", "2017", "2018", "2019"],
@@ -90,7 +90,7 @@ def derive_by_year(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
         bucket["sum_amount_max"] += float(amt_max)
         # has_1m_plus_line: any line whose amount_max upper bracket reaches
         # $1,000,000 — captures the strict TY2017 "$1,000,001-$5,000,000"
-        # anchor (Count 3 paragraph 34d + Count 7 paragraph 64b body
+        # anchor (Count 3 paragraph 34d + Count 6 paragraph 64b body
         # invariant) plus the broader "Over $1,000,000" / "$500,001-
         # $1,000,000" bracket lines that close at the $1M cap. Snapshot's
         # encoding heuristic, preserved here for BIT-EXACT match.

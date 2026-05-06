@@ -1,7 +1,7 @@
 # EXHIBIT Q — AHUJA FOUNDATION GRANTEES AND THEIR FEDERAL LOBBYING FOOTPRINT
 
 **Case**: *In re Representative Rohit "Ro" Khanna (CA-17)*
-**Count supported**: Count 7 (Ethics in Government Act 5 U.S.C. § 13104(d)(1)(A); House Rule XXVI); corroborates Count 3 (HHS / CMS jurisdictional nexus)
+**Count supported**: Count 6 (Ethics in Government Act 5 U.S.C. § 13104(d)(1)(A); House Rule XXVI); corroborates Count 3 (HHS / CMS jurisdictional nexus)
 
 ---
 
@@ -85,7 +85,7 @@ The chain connects as follows:
 3. **Six of those eleven grantees file federal lobbying disclosures at sustained quarterly cadence**, predominantly on Health Issues, Medicare / Medicaid, and Budget / Appropriations — issues within respondent's Oversight and Budget Committee jurisdictions.
 4. The respondent's household therefore has a second-degree institutional interest in legislative outcomes the grantee organizations lobby for: CMS reimbursement policy that benefits academic medical centers can affect the operating posture of the institutions that the Foundation's multi-million-dollar grant flow supports.
 
-This exhibit does **not** allege a quid pro quo. It documents a structural conflict-of-interest surface that is relevant to the § 13104(d)(1)(A) spouse-asset disclosure question carried by Count 7 and to the jurisdictional-nexus element of Count 3 (household trading in sectors subject to respondent's committees of jurisdiction).
+This exhibit does **not** allege a quid pro quo. It documents a structural conflict-of-interest surface that is relevant to the § 13104(d)(1)(A) spouse-asset disclosure question carried by Count 6 and to the jurisdictional-nexus element of Count 3 (household trading in sectors subject to respondent's committees of jurisdiction).
 
 ## 6. What this exhibit does not claim
 
@@ -97,7 +97,7 @@ The following evidence is not developed in this exhibit and is not required for 
 
 Each of those three lines of evidence, if developed in a subsequent review, would promote the present structural finding into a documented quid-pro-quo predicate. The exhibit records the structural finding now; it queues the per-filing review for the appropriate committee or agency.
 
-This exhibit makes no claim under 26 U.S.C. § 4945 standing alone. The Internal Revenue Code's taxable-expenditure framework for private foundations turns on whether the foundation's own funds were expended for non-charitable lobbying or attempts to influence legislation, not on whether the foundation's grantees independently lobby Congress. The structural finding above is a record of grantee-side lobbying activity for purposes of the Ethics in Government Act § 13104(d)(1)(A) spouse-asset-and-position disclosure question (Count 7) and the jurisdictional-nexus element of Count 3; it is not a § 4945 attribution claim by the complainant. The narrower question whether any specific Foundation expenditure could implicate § 4941 (self-dealing) or § 4945(d)(1) (grants to organizations that themselves lobby, where the foundation has not satisfied the expenditure-responsibility safe harbor) is preserved as the question for Internal Revenue Service Tax Exempt Organization investigation, not pleaded here as a finding.
+This exhibit makes no claim under 26 U.S.C. § 4945 standing alone. The Internal Revenue Code's taxable-expenditure framework for private foundations turns on whether the foundation's own funds were expended for non-charitable lobbying or attempts to influence legislation, not on whether the foundation's grantees independently lobby Congress. The structural finding above is a record of grantee-side lobbying activity for purposes of the Ethics in Government Act § 13104(d)(1)(A) spouse-asset-and-position disclosure question (Count 6) and the jurisdictional-nexus element of Count 3; it is not a § 4945 attribution claim by the complainant. The narrower question whether any specific Foundation expenditure could implicate § 4941 (self-dealing) or § 4945(d)(1) (grants to organizations that themselves lobby, where the foundation has not satisfied the expenditure-responsibility safe harbor) is preserved as the question for Internal Revenue Service Tax Exempt Organization investigation, not pleaded here as a finding.
 
 ## 7. Primary-source references
 
